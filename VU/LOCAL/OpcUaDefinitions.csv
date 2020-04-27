@@ -1,0 +1,95 @@
+﻿#####################################################################################################################
+#
+#		This file defines how each iFIX tag type is represented in the OPC UA server, including
+#		the representation of its 'Value' data variable.
+#
+#
+#	TagType			- iFIX tag type name
+#
+#	DisplayName		- The name displayed for the tag type when browsing the OPC UA server
+#
+#	VariableType	- The OPC UA variable type of the 'Value' child for tags of this type.  Valid values:
+#							- AnalogValue (numeric value)
+#							- TwoStateDiscreteValue (boolean value)
+#							- TextOrNoValue (string value, or no 'current value' for this tag type)
+#							- MultiStateDiscreteValue (used for MDI tag type)
+#
+#	Datatype		- The datatype of the 'Value' child for tags of this type, RESTRICTED BY VARIABLETYPE.
+#					  Valid values:
+#							- Float ('AnalogValue' VariableType only)
+#							- Double ('AnalogValue' VariableType only)
+#							- String ('TextOrNoValue' VariableType only)
+#							- Boolean ('TwoStateDiscreteValue' VariableType only)
+#							- Byte ('MultiStateDiscreteValue' VariableType only)
+#
+#	Rank			- Indicates whether the tag type's 'Value' child represents a single value or array of values.
+#					  Valid values:
+#							- Scalar (single value)
+#							- OneDimensionArray (Used for 'register' tag types)
+#
+#	Dimension		- Only used for 'OneDimensionArray' Rank tag types.  Indicates the maximum possible number
+#					  of elements in the tag type's 'Value' array.
+#
+#	AccessLevel		- Specifies the Read/Write access to be applied to the tag type's 'Value' child.  This access
+#					  level is enforced by the OPC UA server, and does not necessarily represent the actual level 
+#					  of access to the underlying tag's current value in iFIX.  iFIX determines the actual level
+#					  of access to a tag's value.  Valid values:
+#							- NoAccess (read and write not allowed or not possible, such as for a tag
+#										type which does not have a F_CV/E_CV/A_CV field)
+#							- ReadOnly
+#							- WriteOnly
+#							- ReadWrite
+#
+#####################################################################################################################
+
+
+#TagTypeDefinitionHeader, TypeName, DisplayName, VariableType, Datatype, Rank, Dimension, AccessLevel
+TagTypeDefinition, AA, Analog Alarm, AnalogValue, Double, Scalar, 0, ReadWrite 
+TagTypeDefinition, AI, Analog Input, AnalogValue, Double, Scalar, 0, ReadWrite 
+TagTypeDefinition, AIS, Scaled Analog Input, AnalogValue, Double, Scalar, 0, ReadWrite 
+TagTypeDefinition, AO,  Analog Output, AnalogValue, Double, Scalar, 0, ReadWrite 
+TagTypeDefinition, AR,  Analog Register, AnalogValue, Double, OneDimensionArray, 1024, ReadWrite 
+TagTypeDefinition, AR2, Analog Register 2, AnalogValue, Double, OneDimensionArray, 1024, ReadWrite 
+TagTypeDefinition, BB,  On-Off Control, TextOrNoValue, String, Scalar, 0, ReadOnly 
+TagTypeDefinition, BL,  Boolean, TwoStateDiscreteValue, Boolean, Scalar, 0, ReadOnly 
+TagTypeDefinition, BPL, Linearization, AnalogValue, Float, Scalar, 0, ReadOnly 
+TagTypeDefinition, CA,  Calculation, AnalogValue, Double, Scalar, 0, ReadOnly 
+TagTypeDefinition, CTR, Counter, TextOrNoValue, String, Scalar, 0, ReadOnly 
+TagTypeDefinition, D16, 16-Bit Digital Status, AnalogValue, Float, Scalar, 0, ReadOnly 
+TagTypeDefinition, DA,  Digital Alarm, TwoStateDiscreteValue, Boolean, Scalar, 0, ReadWrite 
+TagTypeDefinition, DC,  Device Control, TextOrNoValue, String, Scalar, 0, ReadOnly 
+TagTypeDefinition, DI,  Digital Input, TwoStateDiscreteValue, Boolean, Scalar, 0, ReadWrite 
+TagTypeDefinition, DO,  Digital Output, TwoStateDiscreteValue, Boolean, Scalar, 0, ReadWrite 
+TagTypeDefinition, DR,  Digital Register, TwoStateDiscreteValue, Boolean, OneDimensionArray, 1024, ReadWrite 
+TagTypeDefinition, DR2, Digital Register 2, TwoStateDiscreteValue, Boolean, OneDimensionArray, 1024, ReadWrite 
+TagTypeDefinition, DT,  Dead Time, AnalogValue, Double, Scalar, 0, ReadOnly 
+TagTypeDefinition, ETR, Extended Trend Block, AnalogValue, Float, Scalar, 0, ReadOnly 
+TagTypeDefinition, EV,  Event Action, TextOrNoValue, Boolean, Scalar, 0, NoAccess 
+TagTypeDefinition, FN,  Fanout, TextOrNoValue, Boolean, Scalar, 0, NoAccess 
+TagTypeDefinition, GAB, Group Alarm Block, TextOrNoValue, Boolean, Scalar, 0, NoAccess 
+TagTypeDefinition, GEN, Signal Generator, AnalogValue, Double, Scalar, 0, ReadOnly 
+TagTypeDefinition, HS,  Histogram, TextOrNoValue, Boolean, Scalar, 0, NoAccess 
+TagTypeDefinition, ITM, Interval Timer-Totalizer, TextOrNoValue, String, Scalar, 0, ReadOnly 
+TagTypeDefinition, LL,  Lead Lag, AnalogValue, Double, Scalar, 0, ReadOnly 
+TagTypeDefinition, MDI, Multistate Digital Input, MultiStateDiscreteValue, Byte, Scalar, 0, ReadOnly 
+TagTypeDefinition, MDO, Momentary Output, TwoStateDiscreteValue, Boolean, Scalar, 0, ReadOnly 
+TagTypeDefinition, ODO, Pulse Digital Output, AnalogValue, Float, Scalar, 0, ReadOnly 
+TagTypeDefinition, PA,  Pareto, TextOrNoValue, Boolean, Scalar, 0, NoAccess 
+TagTypeDefinition, PAR, Persistent Array, AnalogValue, Float, Scalar, 0, ReadWrite 
+TagTypeDefinition, PG,  Program Block, TextOrNoValue, String, Scalar, 0, ReadOnly 
+TagTypeDefinition, PI2, Improved PID, AnalogValue, Float, Scalar, 0, ReadOnly 
+TagTypeDefinition, PID, PID, AnalogValue, Double, Scalar, 0, ReadOnly 
+TagTypeDefinition, RB,  Ratio Bias, AnalogValue, Double, Scalar, 0, ReadOnly 
+TagTypeDefinition, RM,  Ramp, AnalogValue, Double, Scalar, 0, ReadOnly 
+TagTypeDefinition, SC,  Statistical Control, AnalogValue, Double, Scalar, 0, ReadOnly 
+TagTypeDefinition, SD,  Statistical Data, AnalogValue, Double, Scalar, 0, ReadOnly 
+TagTypeDefinition, SQD, SQL Data, TextOrNoValue, Boolean, Scalar, 0, NoAccess 
+TagTypeDefinition, SQT, SQL Trigger, AnalogValue, Double, Scalar, 0, ReadOnly 
+TagTypeDefinition, SS,  Signal Select, AnalogValue, Double, Scalar, 0, ReadOnly 
+TagTypeDefinition, TDS, Time-Date Stamp, TextOrNoValue, String, Scalar, 0, ReadOnly 
+TagTypeDefinition, TM,  Timer, AnalogValue, Double, Scalar, 0, ReadOnly 
+TagTypeDefinition, TR,  Trend, AnalogValue, Double, Scalar, 0, ReadOnly 
+TagTypeDefinition, TT,  Totalizer, AnalogValue, Double, Scalar, 0, ReadOnly 
+TagTypeDefinition, TX,  Text, TextOrNoValue, String, Scalar, 0, ReadWrite 
+TagTypeDefinition, TXR, Text Register, TextOrNoValue, String, Scalar, 0, ReadWrite 
+TagTypeDefinition, TXT, Text Lookup, TextOrNoValue, String, Scalar, 0, ReadOnly

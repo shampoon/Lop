@@ -1,0 +1,25 @@
+;The first line of the NewToolbars section is the Version number of the current build
+;subsequent lines list the new toolbar names and their owner application separated by a comma
+;Toolbars in this section will be imported and shown. This is intended to highlight new functionality.
+;The StandardToolbars section lists the standard toolbars that exist in the product with their owner
+;separated by a comma. All toolbars that should be automatically imported but not automatically
+;shown should be listed here
+[NewToolbars]
+Version=5.8
+Toolbar#1=OemSolutionsPackToolbar,Workspace
+[StandardToolbars]
+Toolbar#1=Фигуры,Picture
+Toolbar#2=Эксперты,Picture
+Toolbar#3=Инструменты,Picture
+Toolbar#4=Правка,Picture
+Toolbar#5=НаборИнструментов,Picture
+Toolbar#6=VisiconXToolbar,Picture
+Toolbar#7=ГруппыДиаграммToolbar,Picture
+Toolbar#8=СтандартнаяToolbar,Workspace
+Toolbar#9=ПриложенияToolbar,Workspace
+Toolbar#10=Утилиты,Workspace
+Toolbar#11=ПереводToolbar,Picture
+Toolbar#12=ПанельИнструментовCAD,Picture
+Toolbar#13=ПанельИнструментовДинамо,Workspace
+Toolbar#14=ProficyHistorian,Workspace
+

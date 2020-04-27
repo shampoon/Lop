@@ -1,0 +1,10 @@
+Tag Name,Address,Data Type,Respect Data Type,Client Access,Scan Rate,Scaling,Raw Low,Raw High,Scaled Low,Scaled High,Scaled Data Type,Clamp Low,Clamp High,Eng Units,Description,Negate Value
+"APP_MISMATCH","400135.5",Boolean,1,RO,300,,,,,,,,,,"ПО основного и резервного контроллеров отличаются",
+"BATTERY_MISSING","400135.7",Boolean,1,RO,300,,,,,,,,,,"Батарея контроллера отключена или неисправна",
+"HSBY_LINK_ERROR","400135.4",Boolean,1,RO,300,,,,,,,,,,"Связь с парным контроллером отсутствует",
+"MEMORY_PROTECTION_OFF","400135.6",Boolean,1,RO,300,,,,,,,,,,"Защита памяти контроллера отключена",
+"NUMBER","400135.3",Boolean,1,RO,300,,,,,,,,,,"Номер ПЛК (А/B)",
+"RUN","400135.8",Boolean,1,RO,300,,,,,,,,,,"ПЛК в состояние Run",
+"RUN_OFFLINE","400135.0",Boolean,1,RO,300,,,,,,,,,,"ПЛК в состояние Offline",
+"RUN_PRIMARY","400135.1",Boolean,1,RO,300,,,,,,,,,,"ПЛК в состояние Основной",
+"RUN_STANDBY","400135.2",Boolean,1,RO,300,,,,,,,,,,"ПЛК в состояние Горячий Резерв",

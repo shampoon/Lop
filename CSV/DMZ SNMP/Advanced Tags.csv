@@ -1,0 +1,8 @@
+;
+; LinkTag
+;
+Record Type,Name,Description,Enabled,Input Tag,Output Tag,Dead Value,Link Mode,Link Rate,Trigger Tag,Comparison,Value,Trigger Type,Trigger Scan Rate
+"Link Tag","State.refclockStatus","Используемое число спутников","1","SNMP.State.refclockStatus","Diag.SNMP.State.refclockStatus","","On Data Change of Input Tag","1000","","Trigger Tag == Value","0","Always","1000"
+"Link Tag","State.refclockMaxStatus","Количество спутников","1","SNMP.State.refclockMaxStatus","Diag.SNMP.State.refclockMaxStatus","","On Data Change of Input Tag","1000","","Trigger Tag == Value","0","Always","1000"
+"Link Tag","State.refclockSubstate","Статус NTP сервера","1","SNMP.State.refclockSubstate","Diag.SNMP.State.refclockSubstate","","On Data Change of Input Tag","1000","","Trigger Tag == Value","0","Always","1000"
+"Link Tag","State.refclockGpsPos","Координаты GPS","1","SNMP.State.refclockGpsPos","Diag.SNMP.State.refclockGpsPos","","On Data Change of Input Tag","1000","","Trigger Tag == Value","0","Always","1000"

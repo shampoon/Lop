@@ -1,0 +1,22 @@
+! Intellution FindReplace Registration definition file ,,,,,,,,,,,,,,,,,,,
+!,,,,,,,,,,,,,,,,,,,
+! SYNTAX: VALUE, VALUE_TYPE, VALUE
+!,,,,,,,,,,,,,,,,,,,
+FindList, REG_MULTI_SZ, 
+ReplaceList, REG_MULTI_SZ, 
+MatchCase, REG_SZ, FALSE
+WholeWordOnly, REG_SZ, FALSE
+DataSourceOnly, REG_SZ, FALSE
+IncludeScripts, REG_SZ, FALSE
+ActivePage, REG_SZ, Find
+Width, REG_SZ, 476
+FindHeight, REG_SZ, 425
+ReplaceHeight, REG_SZ, 465
+AdvancedHeight, REG_SZ, 185
+FindObjectWidth, REG_SZ, 115
+FindPropertyWidth, REG_SZ, 90
+FindPropertyValueWidth, REG_SZ, 110
+ReplaceObjectWidth, REG_SZ, 115
+ReplacePropertyWidth, REG_SZ, 90
+ReplacePropertyValueWidth, REG_SZ, 110
+ReplaceReplaceValueWithWidth, REG_SZ, 110

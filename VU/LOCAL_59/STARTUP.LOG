@@ -1,0 +1,17 @@
+Executing task: UPDATESCU.EXE
+Executing task: NNTABLE.EXE
+Executing task: AADBACK.EXE
+Loading module: Q2ALARM.DLL
+Module loaded: Q2ALARM.DLL
+Executing task: SYSALERTQMGR.EXE
+Executing task: ALMSUM.EXE
+Loading module: UDBA.DLL
+Module loaded: UDBA.DLL
+Executing task: WORKSPACE.EXE
+Executing task: FIXBACKGROUNDSERVER.EXE
+iFIX Demo System Running!
+Shutdown attempt in progress...
+Closing FIXBACKGROUNDSERVER.EXE
+Closing ALMSUM.EXE
+Closing SYSALERTQMGR.EXE
+Closing NNTABLE.EXE

@@ -1,0 +1,12 @@
+MNS.SOU.Pump1.VS.ObjNum,1,UInt4,9
+MNS.SOU.Pump1.VS.ObjNum,101,String,"1"
+MNS.SOU.Pump1.VS.ObjNum,3,UInt4,192
+MNS.SOU.Pump1.VS.Channels,1,UInt4,9
+MNS.SOU.Pump1.VS.Channels,101,String,"DG.USO2_1.A3.M1:25:26, DG.USO2_1.A1.M6:1, DG.USO2_1.A3.M2:12:11"
+MNS.SOU.Pump1.VS.Channels,3,UInt4,192
+MNS.SOU.Pump2.VS.ObjNum,1,UInt4,9
+MNS.SOU.Pump2.VS.ObjNum,101,String,"2"
+MNS.SOU.Pump2.VS.ObjNum,3,UInt4,192
+MNS.SOU.Pump2.VS.Channels,1,UInt4,9
+MNS.SOU.Pump2.VS.Channels,101,String,"DG.USO2_1.A4.M1:21:22, DG.USO2_1.A1.M6:2, DG.USO2_1.A4.M2:9:8"
+MNS.SOU.Pump2.VS.Channels,3,UInt4,192

@@ -1,0 +1,68 @@
+MNS.MNA11.NA.AdditionalState,1,UInt4,9
+MNS.MNA11.NA.AdditionalState,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(1096) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.MNA11.NA.AdditionalState,101,String,"Дополнительное состояние агрегата"
+MNS.MNA12.NA.AdditionalState,1,UInt4,9
+MNS.MNA12.NA.AdditionalState,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(1097) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.MNA12.NA.AdditionalState,101,String,"Дополнительное состояние агрегата"
+MNS.MNA13.NA.AdditionalState,1,UInt4,9
+MNS.MNA13.NA.AdditionalState,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(1098) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.MNA13.NA.AdditionalState,101,String,"Дополнительное состояние агрегата"
+MNS.MNA14.NA.AdditionalState,1,UInt4,9
+MNS.MNA14.NA.AdditionalState,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(1099) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.MNA14.NA.AdditionalState,101,String,"Дополнительное состояние агрегата"
+MNS.Msl.NM1.VS.AdditionalState,1,UInt4,9
+MNS.Msl.NM1.VS.AdditionalState,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(1031) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.Msl.NM1.VS.AdditionalState,101,String,"Дополнительное состояние агрегата"
+MNS.Msl.NM2.VS.AdditionalState,1,UInt4,9
+MNS.Msl.NM2.VS.AdditionalState,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(1032) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.Msl.NM2.VS.AdditionalState,101,String,"Дополнительное состояние агрегата"
+MNS.Msl.AVO1.VS.AdditionalState,1,UInt4,9
+MNS.Msl.AVO1.VS.AdditionalState,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(1033) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.Msl.AVO1.VS.AdditionalState,101,String,"Дополнительное состояние агрегата"
+MNS.Msl.AVO2.VS.AdditionalState,1,UInt4,9
+MNS.Msl.AVO2.VS.AdditionalState,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(1034) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.Msl.AVO2.VS.AdditionalState,101,String,"Дополнительное состояние агрегата"
+MNS.Msl.AVO3.VS.AdditionalState,1,UInt4,9
+MNS.Msl.AVO3.VS.AdditionalState,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(1035) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.Msl.AVO3.VS.AdditionalState,101,String,"Дополнительное состояние агрегата"
+MNS.Msl.Vent.VS.AdditionalState,1,UInt4,9
+MNS.Msl.Vent.VS.AdditionalState,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(1036) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.Msl.Vent.VS.AdditionalState,101,String,"Дополнительное состояние агрегата"
+MNS.Vent.P1.VS.AdditionalState,1,UInt4,9
+MNS.Vent.P1.VS.AdditionalState,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(1039) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.Vent.P1.VS.AdditionalState,101,String,"Дополнительное состояние агрегата"
+MNS.Vent.P2.VS.AdditionalState,1,UInt4,9
+MNS.Vent.P2.VS.AdditionalState,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(1040) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.Vent.P2.VS.AdditionalState,101,String,"Дополнительное состояние агрегата"
+MNS.Vent.V1.VS.AdditionalState,1,UInt4,9
+MNS.Vent.V1.VS.AdditionalState,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(1037) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.Vent.V1.VS.AdditionalState,101,String,"Дополнительное состояние агрегата"
+MNS.Vent.V2.VS.AdditionalState,1,UInt4,9
+MNS.Vent.V2.VS.AdditionalState,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(1038) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.Vent.V2.VS.AdditionalState,101,String,"Дополнительное состояние агрегата"
+MNS.CNS.Pump1.VS.AdditionalState,1,UInt4,9
+MNS.CNS.Pump1.VS.AdditionalState,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(1044) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.CNS.Pump1.VS.AdditionalState,101,String,"Дополнительное состояние агрегата"
+MNS.CNS.Pump2.VS.AdditionalState,1,UInt4,9
+MNS.CNS.Pump2.VS.AdditionalState,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(1045) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.CNS.Pump2.VS.AdditionalState,101,String,"Дополнительное состояние агрегата"
+MNS.Catchoil.Pump.VS.AdditionalState,1,UInt4,9
+MNS.Catchoil.Pump.VS.AdditionalState,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(1046) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.Catchoil.Pump.VS.AdditionalState,101,String,"Дополнительное состояние агрегата"
+MNS.Catchoil.Vent.VS.AdditionalState,1,UInt4,9
+MNS.Catchoil.Vent.VS.AdditionalState,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(1047) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.Catchoil.Vent.VS.AdditionalState,101,String,"Дополнительное состояние агрегата"
+MNS.KRD.Vent.VS.AdditionalState,1,UInt4,9
+MNS.KRD.Vent.VS.AdditionalState,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(1041) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.KRD.Vent.VS.AdditionalState,101,String,"Дополнительное состояние агрегата"
+MNS.MNA11.Ten.VS.AdditionalState,1,UInt4,9
+MNS.MNA11.Ten.VS.AdditionalState,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(1042) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.MNA11.Ten.VS.AdditionalState,101,String,"Дополнительное состояние агрегата"
+MNS.MNA12.Ten.VS.AdditionalState,1,UInt4,9
+MNS.MNA12.Ten.VS.AdditionalState,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(1043) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.MNA12.Ten.VS.AdditionalState,101,String,"Дополнительное состояние агрегата"
+MNS.MNA13.Ten.VS.AdditionalState,1,UInt4,9
+MNS.MNA13.Ten.VS.AdditionalState,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(1048) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.MNA13.Ten.VS.AdditionalState,101,String,"Дополнительное состояние агрегата"
+MNS.MNA14.Ten.VS.AdditionalState,1,UInt4,9
+MNS.MNA14.Ten.VS.AdditionalState,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(1049) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}" 

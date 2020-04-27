@@ -1,0 +1,357 @@
+MNS.KTPR.F,1, UInt4, 5
+MNS.KTPR.F,6,Float,1000
+MNS.KTPR.F,101,String,"Есть параметр защиты"
+MNS.KTPR.F,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6797) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(0) Category=()}"
+MNS.KTPR.M,1, UInt4, 5
+MNS.KTPR.M,6,Float,1000
+MNS.KTPR.M,101,String,"Есть маска"
+MNS.KTPR.M,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6797) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(1) Category=()}"
+MNS.KTPR.P,1, UInt4, 5
+MNS.KTPR.P,6,Float,1000
+MNS.KTPR.P,101,String,"Есть защита"
+MNS.KTPR.P,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6797) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(2) Category=()}"
+MNS.KTPR.ObjName,1, UInt4, 9
+MNS.KTPR.ObjName,101,String,"Карта общестанционных защит"
+MNS.KTPR.ObjName,3,UInt4,192
+MNS.KTPR.F.F1,1, UInt4, 5
+MNS.KTPR.F.F1,6,Float,1000
+MNS.KTPR.F.F1,101,String,"Аварийное отключение ССН кнопкой 'СТОП' т.1. Есть параметр защиты"
+MNS.KTPR.F.F1,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6808) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(0) Category=()}"
+MNS.KTPR.ObjName,1, UInt4, 9
+MNS.KTPR.ObjName,101,String,"Карта общестанционных защит"
+MNS.KTPR.ObjName,3,UInt4,192
+MNS.KTPR.M.Mask1,1, UInt4, 5
+MNS.KTPR.M.Mask1,6,Float,1000
+MNS.KTPR.M.Mask1,101,String,"Аварийное отключение ССН кнопкой 'СТОП' т.1. Маска"
+MNS.KTPR.M.Mask1,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(7491) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(0) Category=()}"
+MNS.KTPR.ObjName,1, UInt4, 9
+MNS.KTPR.ObjName,101,String,"Карта общестанционных защит"
+MNS.KTPR.ObjName,3,UInt4,192
+MNS.KTPR.P.P1,1, UInt4, 5
+MNS.KTPR.P.P1,6,Float,1000
+MNS.KTPR.P.P1,101,String,"Аварийное отключение ССН кнопкой 'СТОП' т.1"
+MNS.KTPR.P.P1,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6802) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(0) Category=()}"
+MNS.KTPR.F.F2,1, UInt4, 5
+MNS.KTPR.F.F2,6,Float,1000
+MNS.KTPR.F.F2,101,String,"Аварийное отключение ССН кнопкой 'СТОП' т.2. Есть параметр защиты"
+MNS.KTPR.F.F2,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6808) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(1) Category=()}"
+MNS.KTPR.M.Mask2,1, UInt4, 5
+MNS.KTPR.M.Mask2,6,Float,1000
+MNS.KTPR.M.Mask2,101,String,"Аварийное отключение ССН кнопкой 'СТОП' т.2. Маска"
+MNS.KTPR.M.Mask2,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(7491) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(1) Category=()}"
+MNS.KTPR.P.P2,1, UInt4, 5
+MNS.KTPR.P.P2,6,Float,1000
+MNS.KTPR.P.P2,101,String,"Аварийное отключение ССН кнопкой 'СТОП' т.2"
+MNS.KTPR.P.P2,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6802) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(1) Category=()}"
+MNS.KTPR.F.F3,1, UInt4, 5
+MNS.KTPR.F.F3,6,Float,1000
+MNS.KTPR.F.F3,101,String,"Аварийное отключение ССН кнопкой 'СТОП' т.3. Есть параметр защиты"
+MNS.KTPR.F.F3,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6808) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(2) Category=()}"
+MNS.KTPR.M.Mask3,1, UInt4, 5
+MNS.KTPR.M.Mask3,6,Float,1000
+MNS.KTPR.M.Mask3,101,String,"Аварийное отключение ССН кнопкой 'СТОП' т.3. Маска"
+MNS.KTPR.M.Mask3,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(7491) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(2) Category=()}"
+MNS.KTPR.P.P3,1, UInt4, 5
+MNS.KTPR.P.P3,6,Float,1000
+MNS.KTPR.P.P3,101,String,"Аварийное отключение ССН кнопкой 'СТОП' т.3"
+MNS.KTPR.P.P3,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6802) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(2) Category=()}"
+MNS.KTPR.F.F4,1, UInt4, 5
+MNS.KTPR.F.F4,6,Float,1000
+MNS.KTPR.F.F4,101,String,"Аварийное отключение ССН кнопкой 'СТОП' т.4. Есть параметр защиты"
+MNS.KTPR.F.F4,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6808) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(3) Category=()}"
+MNS.KTPR.M.Mask4,1, UInt4, 5
+MNS.KTPR.M.Mask4,6,Float,1000
+MNS.KTPR.M.Mask4,101,String,"Аварийное отключение ССН кнопкой 'СТОП' т.4. Маска"
+MNS.KTPR.M.Mask4,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(7491) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(3) Category=()}"
+MNS.KTPR.P.P4,1, UInt4, 5
+MNS.KTPR.P.P4,6,Float,1000
+MNS.KTPR.P.P4,101,String,"Аварийное отключение ССН кнопкой 'СТОП' т.4"
+MNS.KTPR.P.P4,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6802) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(3) Category=()}"
+MNS.KTPR.F.F5,1, UInt4, 5
+MNS.KTPR.F.F5,6,Float,1000
+MNS.KTPR.F.F5,101,String,"Аварийное отключение ССН кнопкой 'СТОП' с БРУ. Есть параметр защиты"
+MNS.KTPR.F.F5,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6808) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(4) Category=()}"
+MNS.KTPR.M.Mask5,1, UInt4, 5
+MNS.KTPR.M.Mask5,6,Float,1000
+MNS.KTPR.M.Mask5,101,String,"Аварийное отключение ССН кнопкой 'СТОП' с БРУ. Маска"
+MNS.KTPR.M.Mask5,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(7491) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(4) Category=()}"
+MNS.KTPR.P.P5,1, UInt4, 5
+MNS.KTPR.P.P5,6,Float,1000
+MNS.KTPR.P.P5,101,String,"Аварийное отключение ССН кнопкой 'СТОП' с БРУ"
+MNS.KTPR.P.P5,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6802) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(4) Category=()}"
+MNS.KTPR.F.F6,1, UInt4, 5
+MNS.KTPR.F.F6,6,Float,1000
+MNS.KTPR.F.F6,101,String,"Аварийное отключение ССН кнопкой 'СТОП' с АРМ оператора. Есть параметр защиты"
+MNS.KTPR.F.F6,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6808) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(5) Category=()}"
+MNS.KTPR.M.Mask6,1, UInt4, 5
+MNS.KTPR.M.Mask6,6,Float,1000
+MNS.KTPR.M.Mask6,101,String,"Аварийное отключение ССН кнопкой 'СТОП' с АРМ оператора. Маска"
+MNS.KTPR.M.Mask6,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(7491) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(5) Category=()}"
+MNS.KTPR.P.P6,1, UInt4, 5
+MNS.KTPR.P.P6,6,Float,1000
+MNS.KTPR.P.P6,101,String,"Аварийное отключение ССН кнопкой 'СТОП' с АРМ оператора"
+MNS.KTPR.P.P6,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6802) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(5) Category=()}"
+MNS.KTPR.F.F7,1, UInt4, 5
+MNS.KTPR.F.F7,6,Float,1000
+MNS.KTPR.F.F7,101,String,"Аварийный максимальный уровень в емкости для сбора утечек нефти и дренажа (024.1). Есть параметр защиты"
+MNS.KTPR.F.F7,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6808) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(6) Category=()}"
+MNS.KTPR.M.Mask7,1, UInt4, 5
+MNS.KTPR.M.Mask7,6,Float,1000
+MNS.KTPR.M.Mask7,101,String,"Аварийный максимальный уровень в емкости для сбора утечек нефти и дренажа (024.1). Маска"
+MNS.KTPR.M.Mask7,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(7491) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(6) Category=()}"
+MNS.KTPR.P.P7,1, UInt4, 5
+MNS.KTPR.P.P7,6,Float,1000
+MNS.KTPR.P.P7,101,String,"Аварийный максимальный уровень в емкости для сбора утечек нефти и дренажа (024.1)"
+MNS.KTPR.P.P7,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6802) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(6) Category=()}"
+MNS.KTPR.F.F8,1, UInt4, 5
+MNS.KTPR.F.F8,6,Float,1000
+MNS.KTPR.F.F8,101,String,"Аварийный максимальный уровень в емкости для сбора утечек нефти и дренажа (024.2). Есть параметр защиты"
+MNS.KTPR.F.F8,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6808) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(7) Category=()}"
+MNS.KTPR.M.Mask8,1, UInt4, 5
+MNS.KTPR.M.Mask8,6,Float,1000
+MNS.KTPR.M.Mask8,101,String,"Аварийный максимальный уровень в емкости для сбора утечек нефти и дренажа (024.2). Маска"
+MNS.KTPR.M.Mask8,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(7491) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(7) Category=()}"
+MNS.KTPR.P.P8,1, UInt4, 5
+MNS.KTPR.P.P8,6,Float,1000
+MNS.KTPR.P.P8,101,String,"Аварийный максимальный уровень в емкости для сбора утечек нефти и дренажа (024.2)"
+MNS.KTPR.P.P8,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6802) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(7) Category=()}"
+MNS.KTPR.F.F9,1, UInt4, 5
+MNS.KTPR.F.F9,6,Float,1000
+MNS.KTPR.F.F9,101,String,"Предельный максимальный перепад давления на узле регулирования расхода №1 (008.1). Есть параметр защиты"
+MNS.KTPR.F.F9,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6808) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(8) Category=()}"
+MNS.KTPR.M.Mask9,1, UInt4, 5
+MNS.KTPR.M.Mask9,6,Float,1000
+MNS.KTPR.M.Mask9,101,String,"Предельный максимальный перепад давления на узле регулирования расхода №1 (008.1). Маска"
+MNS.KTPR.M.Mask9,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(7491) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(8) Category=()}"
+MNS.KTPR.P.P9,1, UInt4, 5
+MNS.KTPR.P.P9,6,Float,1000
+MNS.KTPR.P.P9,101,String,"Предельный максимальный перепад давления на узле регулирования расхода №1 (008.1)"
+MNS.KTPR.P.P9,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6802) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(8) Category=()}"
+MNS.KTPR.F.F10,1, UInt4, 5
+MNS.KTPR.F.F10,6,Float,1000
+MNS.KTPR.F.F10,101,String,"Предельный максимальный перепад давления на узле регулирования расхода №2 (008.2). Есть параметр защиты"
+MNS.KTPR.F.F10,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6808) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(9) Category=()}"
+MNS.KTPR.M.Mask10,1, UInt4, 5
+MNS.KTPR.M.Mask10,6,Float,1000
+MNS.KTPR.M.Mask10,101,String,"Предельный максимальный перепад давления на узле регулирования расхода №2 (008.2). Маска"
+MNS.KTPR.M.Mask10,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(7491) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(9) Category=()}"
+MNS.KTPR.P.P10,1, UInt4, 5
+MNS.KTPR.P.P10,6,Float,1000
+MNS.KTPR.P.P10,101,String,"Предельный максимальный перепад давления на узле регулирования расхода №2 (008.2)"
+MNS.KTPR.P.P10,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6802) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(9) Category=()}"
+MNS.KTPR.F.F11,1, UInt4, 5
+MNS.KTPR.F.F11,6,Float,1000
+MNS.KTPR.F.F11,101,String,"Предельный максимальный перепад давления на регуляторе расхода №036.5. Есть параметр защиты"
+MNS.KTPR.F.F11,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6808) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(10) Category=()}"
+MNS.KTPR.M.Mask11,1, UInt4, 5
+MNS.KTPR.M.Mask11,6,Float,1000
+MNS.KTPR.M.Mask11,101,String,"Предельный максимальный перепад давления на регуляторе расхода №036.5. Маска"
+MNS.KTPR.M.Mask11,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(7491) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(10) Category=()}"
+MNS.KTPR.P.P11,1, UInt4, 5
+MNS.KTPR.P.P11,6,Float,1000
+MNS.KTPR.P.P11,101,String,"Предельный максимальный перепад давления на регуляторе расхода №036.5"
+MNS.KTPR.P.P11,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6802) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(10) Category=()}"
+MNS.KTPR.F.F12,1, UInt4, 5
+MNS.KTPR.F.F12,6,Float,1000
+MNS.KTPR.F.F12,101,String,"Отсутствие связи КЦ МПСА ССН с любым УСО, обеспечивающим безопасную эксплуатацию оборудования ССН. Есть параметр защиты"
+MNS.KTPR.F.F12,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6808) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(11) Category=()}"
+MNS.KTPR.M.Mask12,1, UInt4, 5
+MNS.KTPR.M.Mask12,6,Float,1000
+MNS.KTPR.M.Mask12,101,String,"Отсутствие связи КЦ МПСА ССН с любым УСО, обеспечивающим безопасную эксплуатацию оборудования ССН. Маска"
+MNS.KTPR.M.Mask12,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(7491) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(11) Category=()}"
+MNS.KTPR.P.P12,1, UInt4, 5
+MNS.KTPR.P.P12,6,Float,1000
+MNS.KTPR.P.P12,101,String,"Отсутствие связи КЦ МПСА ССН с любым УСО, обеспечивающим безопасную эксплуатацию оборудования ССН"
+MNS.KTPR.P.P12,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6802) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(11) Category=()}"
+MNS.KTPR.F.F13,1, UInt4, 5
+MNS.KTPR.F.F13,6,Float,1000
+MNS.KTPR.F.F13,101,String,"Остановка основного и резервного КЦ МПСА ССН. Есть параметр защиты"
+MNS.KTPR.F.F13,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6808) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(12) Category=()}"
+MNS.KTPR.M.Mask13,1, UInt4, 5
+MNS.KTPR.M.Mask13,6,Float,1000
+MNS.KTPR.M.Mask13,101,String,"Остановка основного и резервного КЦ МПСА ССН. Маска"
+MNS.KTPR.M.Mask13,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(7491) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(12) Category=()}"
+MNS.KTPR.P.P13,1, UInt4, 5
+MNS.KTPR.P.P13,6,Float,1000
+MNS.KTPR.P.P13,101,String,"Остановка основного и резервного КЦ МПСА ССН"
+MNS.KTPR.P.P13,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6802) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(12) Category=()}"
+MNS.KTPR.F.F14,1, UInt4, 5
+MNS.KTPR.F.F14,6,Float,1000
+MNS.KTPR.F.F14,101,String,"Пожар в насосном зале основной насосной МН «Куйбышев – Унеча – Молзырь-1» (прием из МПСА ПТ). Есть параметр защиты"
+MNS.KTPR.F.F14,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6808) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(13) Category=()}"
+MNS.KTPR.M.Mask14,1, UInt4, 5
+MNS.KTPR.M.Mask14,6,Float,1000
+MNS.KTPR.M.Mask14,101,String,"Пожар в насосном зале основной насосной МН «Куйбышев – Унеча – Молзырь-1» (прием из МПСА ПТ). Маска"
+MNS.KTPR.M.Mask14,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(7491) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(13) Category=()}"
+MNS.KTPR.P.P14,1, UInt4, 5
+MNS.KTPR.P.P14,6,Float,1000
+MNS.KTPR.P.P14,101,String,"Пожар в насосном зале основной насосной МН «Куйбышев – Унеча – Молзырь-1» (прием из МПСА ПТ)"
+MNS.KTPR.P.P14,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6802) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(13) Category=()}"
+MNS.KTPR.F.F15,1, UInt4, 5
+MNS.KTPR.F.F15,6,Float,1000
+MNS.KTPR.F.F15,101,String,"Пожар на площадке ПНС МН «Куйбышев – Унеча – Молзырь-1» (прием из МПСА ПТ). Есть параметр защиты"
+MNS.KTPR.F.F15,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6808) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(14) Category=()}"
+MNS.KTPR.M.Mask15,1, UInt4, 5
+MNS.KTPR.M.Mask15,6,Float,1000
+MNS.KTPR.M.Mask15,101,String,"Пожар на площадке ПНС МН «Куйбышев – Унеча – Молзырь-1» (прием из МПСА ПТ). Маска"
+MNS.KTPR.M.Mask15,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(7491) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(14) Category=()}"
+MNS.KTPR.P.P15,1, UInt4, 5
+MNS.KTPR.P.P15,6,Float,1000
+MNS.KTPR.P.P15,101,String,"Пожар на площадке ПНС МН «Куйбышев – Унеча – Молзырь-1» (прием из МПСА ПТ)"
+MNS.KTPR.P.P15,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6802) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(14) Category=()}"
+MNS.KTPR.F.F16,1, UInt4, 5
+MNS.KTPR.F.F16,6,Float,1000
+MNS.KTPR.F.F16,101,String,"Пожар в РП (прием из МПСА ПТ). Есть параметр защиты"
+MNS.KTPR.F.F16,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6808) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(15) Category=()}"
+MNS.KTPR.M.Mask16,1, UInt4, 5
+MNS.KTPR.M.Mask16,6,Float,1000
+MNS.KTPR.M.Mask16,101,String,"Пожар в РП (прием из МПСА ПТ). Маска"
+MNS.KTPR.M.Mask16,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(7491) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(15) Category=()}"
+MNS.KTPR.P.P16,1, UInt4, 5
+MNS.KTPR.P.P16,6,Float,1000
+MNS.KTPR.P.P16,101,String,"Пожар в РП (прием из МПСА ПТ)"
+MNS.KTPR.P.P16,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6802) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(15) Category=()}"
+MNS.KTPR.F.F17,1, UInt4, 5
+MNS.KTPR.F.F17,6,Float,1000
+MNS.KTPR.F.F17,101,String,"Пожар в помещении ЧРП ССН (прием из МПСА ПТ). Есть параметр защиты"
+MNS.KTPR.F.F17,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6809) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(0) Category=()}"
+MNS.KTPR.M.Mask17,1, UInt4, 5
+MNS.KTPR.M.Mask17,6,Float,1000
+MNS.KTPR.M.Mask17,101,String,"Пожар в помещении ЧРП ССН (прием из МПСА ПТ). Маска"
+MNS.KTPR.M.Mask17,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(7492) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(0) Category=()}"
+MNS.KTPR.P.P17,1, UInt4, 5
+MNS.KTPR.P.P17,6,Float,1000
+MNS.KTPR.P.P17,101,String,"Пожар в помещении ЧРП ССН (прием из МПСА ПТ)"
+MNS.KTPR.P.P17,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6803) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(0) Category=()}"
+MNS.KTPR.F.F18,1, UInt4, 5
+MNS.KTPR.F.F18,6,Float,1000
+MNS.KTPR.F.F18,101,String,"Пожар на площадке ССН (прием из МПСА ПТ). Есть параметр защиты"
+MNS.KTPR.F.F18,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6809) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(1) Category=()}"
+MNS.KTPR.M.Mask18,1, UInt4, 5
+MNS.KTPR.M.Mask18,6,Float,1000
+MNS.KTPR.M.Mask18,101,String,"Пожар на площадке ССН (прием из МПСА ПТ). Маска"
+MNS.KTPR.M.Mask18,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(7492) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(1) Category=()}"
+MNS.KTPR.P.P18,1, UInt4, 5
+MNS.KTPR.P.P18,6,Float,1000
+MNS.KTPR.P.P18,101,String,"Пожар на площадке ССН (прием из МПСА ПТ)"
+MNS.KTPR.P.P18,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6803) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(1) Category=()}"
+MNS.KTPR.F.F19,1, UInt4, 5
+MNS.KTPR.F.F19,6,Float,1000
+MNS.KTPR.F.F19,101,String,"Пожар в насосном зале насосной «Лопатино-КНПЗ» (прием из МПСА ПТ). Есть параметр защиты"
+MNS.KTPR.F.F19,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6809) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(2) Category=()}"
+MNS.KTPR.M.Mask19,1, UInt4, 5
+MNS.KTPR.M.Mask19,6,Float,1000
+MNS.KTPR.M.Mask19,101,String,"Пожар в насосном зале насосной «Лопатино-КНПЗ» (прием из МПСА ПТ). Маска"
+MNS.KTPR.M.Mask19,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(7492) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(2) Category=()}"
+MNS.KTPR.P.P19,1, UInt4, 5
+MNS.KTPR.P.P19,6,Float,1000
+MNS.KTPR.P.P19,101,String,"Пожар в насосном зале насосной «Лопатино-КНПЗ» (прием из МПСА ПТ)"
+MNS.KTPR.P.P19,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6803) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(2) Category=()}"
+MNS.KTPR.F.F20,1, UInt4, 5
+MNS.KTPR.F.F20,6,Float,1000
+MNS.KTPR.F.F20,101,String,"Пожар в щитовой КИП (ССН) (прием из МПСА ПТ). Есть параметр защиты"
+MNS.KTPR.F.F20,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6809) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(3) Category=()}"
+MNS.KTPR.M.Mask20,1, UInt4, 5
+MNS.KTPR.M.Mask20,6,Float,1000
+MNS.KTPR.M.Mask20,101,String,"Пожар в щитовой КИП (ССН) (прием из МПСА ПТ). Маска"
+MNS.KTPR.M.Mask20,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(7492) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(3) Category=()}"
+MNS.KTPR.P.P20,1, UInt4, 5
+MNS.KTPR.P.P20,6,Float,1000
+MNS.KTPR.P.P20,101,String,"Пожар в щитовой КИП (ССН) (прием из МПСА ПТ)"
+MNS.KTPR.P.P20,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6803) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(3) Category=()}"
+MNS.KTPR.F.F21,1, UInt4, 5
+MNS.KTPR.F.F21,6,Float,1000
+MNS.KTPR.F.F21,101,String,"Аварийная загазованность в насосном зале основной насосной МН «Куйбышев - Унеча - Мозырь-1». Есть параметр защиты"
+MNS.KTPR.F.F21,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6809) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(4) Category=()}"
+MNS.KTPR.M.Mask21,1, UInt4, 5
+MNS.KTPR.M.Mask21,6,Float,1000
+MNS.KTPR.M.Mask21,101,String,"Аварийная загазованность в насосном зале основной насосной МН «Куйбышев - Унеча - Мозырь-1». Маска"
+MNS.KTPR.M.Mask21,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(7492) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(4) Category=()}"
+MNS.KTPR.P.P21,1, UInt4, 5
+MNS.KTPR.P.P21,6,Float,1000
+MNS.KTPR.P.P21,101,String,"Аварийная загазованность в насосном зале основной насосной МН «Куйбышев - Унеча - Мозырь-1»"
+MNS.KTPR.P.P21,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6803) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(4) Category=()}"
+MNS.KTPR.F.F22,1, UInt4, 5
+MNS.KTPR.F.F22,6,Float,1000
+MNS.KTPR.F.F22,101,String,"Аварийный максимальный уровень в емкости откачек утечек и дренажа при основной насосной МН «Куйбышев - Унеча - Мозырь-1». Есть параметр защиты"
+MNS.KTPR.F.F22,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6809) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(5) Category=()}"
+MNS.KTPR.M.Mask22,1, UInt4, 5
+MNS.KTPR.M.Mask22,6,Float,1000
+MNS.KTPR.M.Mask22,101,String,"Аварийный максимальный уровень в емкости откачек утечек и дренажа при основной насосной МН «Куйбышев - Унеча - Мозырь-1». Маска"
+MNS.KTPR.M.Mask22,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(7492) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(5) Category=()}"
+MNS.KTPR.P.P22,1, UInt4, 5
+MNS.KTPR.P.P22,6,Float,1000
+MNS.KTPR.P.P22,101,String,"Аварийный максимальный уровень в емкости откачек утечек и дренажа при основной насосной МН «Куйбышев - Унеча - Мозырь-1»"
+MNS.KTPR.P.P22,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6803) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(5) Category=()}"
+MNS.KTPR.F.F23,1, UInt4, 5
+MNS.KTPR.F.F23,6,Float,1000
+MNS.KTPR.F.F23,101,String,"Аварийная загазованность в маслосистеме основной насосной МН «Куйбышев - Унеча - Мозырь-1». Есть параметр защиты"
+MNS.KTPR.F.F23,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6809) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(6) Category=()}"
+MNS.KTPR.M.Mask23,1, UInt4, 5
+MNS.KTPR.M.Mask23,6,Float,1000
+MNS.KTPR.M.Mask23,101,String,"Аварийная загазованность в маслосистеме основной насосной МН «Куйбышев - Унеча - Мозырь-1». Маска"
+MNS.KTPR.M.Mask23,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(7492) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(6) Category=()}"
+MNS.KTPR.P.P23,1, UInt4, 5
+MNS.KTPR.P.P23,6,Float,1000
+MNS.KTPR.P.P23,101,String,"Аварийная загазованность в маслосистеме основной насосной МН «Куйбышев - Унеча - Мозырь-1»"
+MNS.KTPR.P.P23,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6803) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(6) Category=()}"
+MNS.KTPR.F.F24,1, UInt4, 5
+MNS.KTPR.F.F24,6,Float,1000
+MNS.KTPR.F.F24,101,String,"Аварийный максимальный уровень в емкости откачек утечек и дренажа при ПНС МН «Куйбышев - Унеча - Мозырь-1». Есть параметр защиты"
+MNS.KTPR.F.F24,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6809) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(7) Category=()}"
+MNS.KTPR.M.Mask24,1, UInt4, 5
+MNS.KTPR.M.Mask24,6,Float,1000
+MNS.KTPR.M.Mask24,101,String,"Аварийный максимальный уровень в емкости откачек утечек и дренажа при ПНС МН «Куйбышев - Унеча - Мозырь-1». Маска"
+MNS.KTPR.M.Mask24,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(7492) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(7) Category=()}"
+MNS.KTPR.P.P24,1, UInt4, 5
+MNS.KTPR.P.P24,6,Float,1000
+MNS.KTPR.P.P24,101,String,"Аварийный максимальный уровень в емкости откачек утечек и дренажа при ПНС МН «Куйбышев - Унеча - Мозырь-1»"
+MNS.KTPR.P.P24,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6803) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(7) Category=()}"
+MNS.KTPR.F.F25,1, UInt4, 5
+MNS.KTPR.F.F25,6,Float,1000
+MNS.KTPR.F.F25,101,String,"Аварийная загазованность в насосном зале насосной МН «Лопатино-КНПЗ». Есть параметр защиты"
+MNS.KTPR.F.F25,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6809) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(8) Category=()}"
+MNS.KTPR.M.Mask25,1, UInt4, 5
+MNS.KTPR.M.Mask25,6,Float,1000
+MNS.KTPR.M.Mask25,101,String,"Аварийная загазованность в насосном зале насосной МН «Лопатино-КНПЗ». Маска"
+MNS.KTPR.M.Mask25,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(7492) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(8) Category=()}"
+MNS.KTPR.P.P25,1, UInt4, 5
+MNS.KTPR.P.P25,6,Float,1000
+MNS.KTPR.P.P25,101,String,"Аварийная загазованность в насосном зале насосной МН «Лопатино-КНПЗ»"
+MNS.KTPR.P.P25,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6803) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(8) Category=()}"
+MNS.KTPR.F.F26,1, UInt4, 5
+MNS.KTPR.F.F26,6,Float,1000
+MNS.KTPR.F.F26,101,String,"Аварийный максимальный уровень в емкости откачек утечек и дренажа при насосной МН «Лопатино-КНПЗ». Есть параметр защиты"
+MNS.KTPR.F.F26,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6809) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(9) Category=()}"
+MNS.KTPR.M.Mask26,1, UInt4, 5
+MNS.KTPR.M.Mask26,6,Float,1000
+MNS.KTPR.M.Mask26,101,String,"Аварийный максимальный уровень в емкости откачек утечек и дренажа при насосной МН «Лопатино-КНПЗ». Маска"
+MNS.KTPR.M.Mask26,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(7492) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(9) Category=()}"
+MNS.KTPR.P.P26,1, UInt4, 5
+MNS.KTPR.P.P26,6,Float,1000
+MNS.KTPR.P.P26,101,String,"Аварийный максимальный уровень в емкости откачек утечек и дренажа при насосной МН «Лопатино-КНПЗ»"
+MNS.KTPR.P.P26,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6803) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(9) Category=()}"
+MNS.KTPR.F.F27,1, UInt4, 5
+MNS.KTPR.F.F27,6,Float,1000
+MNS.KTPR.F.F27,101,String,"Аварийная загазованность в маслосистеме насосной МН «Лопатино-КНПЗ». Есть параметр защиты"
+MNS.KTPR.F.F27,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6809) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(10) Category=()}"
+MNS.KTPR.M.Mask27,1, UInt4, 5
+MNS.KTPR.M.Mask27,6,Float,1000
+MNS.KTPR.M.Mask27,101,String,"Аварийная загазованность в маслосистеме насосной МН «Лопатино-КНПЗ». Маска"
+MNS.KTPR.M.Mask27,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(7492) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(10) Category=()}"
+MNS.KTPR.P.P27,1, UInt4, 5
+MNS.KTPR.P.P27,6,Float,1000
+MNS.KTPR.P.P27,101,String,"Аварийная загазованность в маслосистеме насосной МН «Лопатино-КНПЗ»"
+MNS.KTPR.P.P27,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6803) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(10) Category=()}"
+MNS.KTPR.F.F28,1, UInt4, 5
+MNS.KTPR.F.F28,6,Float,1000
+MNS.KTPR.F.F28,101,String,"Нижний допустимый уровень в резервуарах РП. Есть параметр защиты"
+MNS.KTPR.F.F28,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6809) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(11) Category=()}"
+MNS.KTPR.M.Mask28,1, UInt4, 5
+MNS.KTPR.M.Mask28,6,Float,1000
+MNS.KTPR.M.Mask28,101,String,"Нижний допустимый уровень в резервуарах РП. Маска"
+MNS.KTPR.M.Mask28,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(7492) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(11) Category=()}"
+MNS.KTPR.P.P28,1, UInt4, 5
+MNS.KTPR.P.P28,6,Float,1000
+MNS.KTPR.P.P28,101,String,"Нижний допустимый уровень в резервуарах РП"
+MNS.KTPR.P.P28,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6803) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(11) Category=()}"

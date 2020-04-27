@@ -1,0 +1,504 @@
+MNS.MNA11.NA.ObjNum,1,UInt4,9
+MNS.MNA11.NA.ObjNum,101,String,"1"
+MNS.MNA11.NA.ObjNum,3,UInt4,192
+MNS.MNA11.NA.Narab.Pusk,1,UInt4,7
+MNS.MNA11.NA.Narab.Pusk,101,String,"МНА №11. Время работы с момента запуска"
+MNS.MNA11.NA.Narab.Pusk,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(7200) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.MNA11.NA.Narab.PredPusk,1,UInt4,7
+MNS.MNA11.NA.Narab.PredPusk,101,String,"МНА №11. Время работы в предыдущем запуске"
+MNS.MNA11.NA.Narab.PredPusk,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(7202) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.MNA11.NA.Narab.BeforeRes,1,UInt4,7
+MNS.MNA11.NA.Narab.BeforeRes,101,String,"МНА №11. Время до перехода на резерв"
+MNS.MNA11.NA.Narab.BeforeRes,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(7204) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.MNA11.NA.Narab.BeforeReP,1,UInt4,7
+MNS.MNA11.NA.Narab.BeforeReP,101,String,"МНА №11. Время до кап. ремонта"
+MNS.MNA11.NA.Narab.BeforeReP,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(7206) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.MNA11.NA.Narab.AfterTO,1,UInt4,7
+MNS.MNA11.NA.Narab.AfterTO,101,String,"МНА №11. Время работы после ТО"
+MNS.MNA11.NA.Narab.AfterTO,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(7208) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.MNA11.NA.Narab.AfterTR,1,UInt4,7
+MNS.MNA11.NA.Narab.AfterTR,101,String,"МНА №11. Время работы после ТР"
+MNS.MNA11.NA.Narab.AfterTR,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(7210) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.MNA11.NA.Narab.AfterSR,1,UInt4,7
+MNS.MNA11.NA.Narab.AfterSR,101,String,"МНА №11. Время работы после СР"
+MNS.MNA11.NA.Narab.AfterSR,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(7212) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.MNA11.NA.Narab.Nenom,1,UInt4,7
+MNS.MNA11.NA.Narab.Nenom,101,String,"МНА №11. Время работы в неноминальном режиме"
+MNS.MNA11.NA.Narab.Nenom,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(7214) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.MNA11.NA.Narab.CountPusk,1,UInt4,9
+MNS.MNA11.NA.Narab.CountPusk,101,String,"МНА №11. Количество пусков"
+MNS.MNA11.NA.Narab.CountPusk,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(7393) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.MNA11.NA.Narab.CountOtkaz,1,UInt4,9
+MNS.MNA11.NA.Narab.CountOtkaz,101,String,"МНА №11. Количество отказов"
+MNS.MNA11.NA.Narab.CountOtkaz,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(7394) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.MNA11.NA.Ust.doReserva,1,UInt4,7
+MNS.MNA11.NA.Ust.doReserva,101,String,"МНА №11. Уставка времени работы до перехода на резерв"
+MNS.MNA11.NA.Ust.doReserva,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(10706) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.MNA11.NA.Ust.doKapRem,1,UInt4,7
+MNS.MNA11.NA.Ust.doKapRem,101,String,"МНА №11. Уставка времени работы после кап. ремонта"
+MNS.MNA11.NA.Ust.doKapRem,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(10708) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.MNA11.NA.Ust.AfterTO,1,UInt4,7
+MNS.MNA11.NA.Ust.AfterTO,101,String,"МНА №11. Уставка времени работы после ТО"
+MNS.MNA11.NA.Ust.AfterTO,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(10710) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.MNA11.NA.Ust.AfterTR,1,UInt4,7
+MNS.MNA11.NA.Ust.AfterTR,101,String,"МНА №11. Уставка времени работы после ТР"
+MNS.MNA11.NA.Ust.AfterTR,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(10712) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.MNA11.NA.Ust.AfterSR,1,UInt4,7
+MNS.MNA11.NA.Ust.AfterSR,101,String,"МНА №11. Уставка времени работы после СР"
+MNS.MNA11.NA.Ust.AfterSR,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(10714) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.MNA11.NA.Ust.Nenom,1,UInt4,7
+MNS.MNA11.NA.Ust.Nenom,101,String,"МНА №11. Уставка времени работы вне рабочего интервала подач"
+MNS.MNA11.NA.Ust.Nenom,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(10716) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.MNA11.KTPRA.Page1.F,1,UInt4,5
+MNS.MNA11.KTPRA.Page1.F,101,String,"Состояние групп защит. Группа 1 - имеется сработка источника"
+MNS.MNA11.KTPRA.Page1.F,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(1501) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(0) Category=()}"
+MNS.MNA11.KTPRA.Page1.P,1,UInt4,5
+MNS.MNA11.KTPRA.Page1.P,101,String,"Состояние групп защит. Группа 1 - имеется сработка защиты"
+MNS.MNA11.KTPRA.Page1.P,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(1501) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(1) Category=()}"
+MNS.MNA11.KTPRA.Page1.M,1,UInt4,5
+MNS.MNA11.KTPRA.Page1.M,101,String,"Состояние групп защит. Группа 1 - имеется замаскированная защита"
+MNS.MNA11.KTPRA.Page1.M,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(1501) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(2) Category=()}"
+MNS.MNA11.KTPRA.Page2.F,1,UInt4,5
+MNS.MNA11.KTPRA.Page2.F,101,String,"Состояние групп защит. Группа 2 - имеется сработка источника"
+MNS.MNA11.KTPRA.Page2.F,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(1501) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(8) Category=()}"
+MNS.MNA11.KTPRA.Page2.P,1,UInt4,5
+MNS.MNA11.KTPRA.Page2.P,101,String,"Состояние групп защит. Группа 2 - имеется сработка защиты"
+MNS.MNA11.KTPRA.Page2.P,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(1501) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(9) Category=()}"
+MNS.MNA11.KTPRA.Page2.M,1,UInt4,5
+MNS.MNA11.KTPRA.Page2.M,101,String,"Состояние групп защит. Группа 2 - имеется замаскированная защита"
+MNS.MNA11.KTPRA.Page2.M,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(1501) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(10) Category=()}"
+MNS.MNA11.KTPRA.Page3.F,1,UInt4,5
+MNS.MNA11.KTPRA.Page3.F,101,String,"Состояние групп защит. Группа 3 - имеется сработка источника"
+MNS.MNA11.KTPRA.Page3.F,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(1502) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(0) Category=()}"
+MNS.MNA11.KTPRA.Page3.P,1,UInt4,5
+MNS.MNA11.KTPRA.Page3.P,101,String,"Состояние групп защит. Группа 3 - имеется сработка защиты"
+MNS.MNA11.KTPRA.Page3.P,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(1502) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(1) Category=()}"
+MNS.MNA11.KTPRA.Page3.M,1,UInt4,5
+MNS.MNA11.KTPRA.Page3.M,101,String,"Состояние групп защит. Группа 3 - имеется замаскированная защита"
+MNS.MNA11.KTPRA.Page3.M,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(1502) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(2) Category=()}"
+MNS.MNA11.KTPRA.Page4.F,1,UInt4,5
+MNS.MNA11.KTPRA.Page4.F,101,String,"Состояние групп защит. Группа 4 - имеется сработка источника"
+MNS.MNA11.KTPRA.Page4.F,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(1502) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(8) Category=()}"
+MNS.MNA11.KTPRA.Page4.P,1,UInt4,5
+MNS.MNA11.KTPRA.Page4.P,101,String,"Состояние групп защит. Группа 4 - имеется сработка защиты"
+MNS.MNA11.KTPRA.Page4.P,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(1502) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(9) Category=()}"
+MNS.MNA11.KTPRA.Page4.M,1,UInt4,5
+MNS.MNA11.KTPRA.Page4.M,101,String,"Состояние групп защит. Группа 4 - имеется замаскированная защита"
+MNS.MNA11.KTPRA.Page4.M,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(1502) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(10) Category=()}"
+MNS.MNA11.KTPRA.Page5.F,1,UInt4,5
+MNS.MNA11.KTPRA.Page5.F,101,String,"Состояние групп защит. Группа 5 - имеется сработка источника"
+MNS.MNA11.KTPRA.Page5.F,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(1503) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(0) Category=()}"
+MNS.MNA11.KTPRA.Page5.P,1,UInt4,5
+MNS.MNA11.KTPRA.Page5.P,101,String,"Состояние групп защит. Группа 5 - имеется сработка защиты"
+MNS.MNA11.KTPRA.Page5.P,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(1503) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(1) Category=()}"
+MNS.MNA11.KTPRA.Page5.M,1,UInt4,5
+MNS.MNA11.KTPRA.Page5.M,101,String,"Состояние групп защит. Группа 5 - имеется замаскированная защита"
+MNS.MNA11.KTPRA.Page5.M,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(1503) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(2) Category=()}"
+MNS.MNA11.KTPRA.Page6.F,1,UInt4,5
+MNS.MNA11.KTPRA.Page6.F,101,String,"Состояние групп защит. Группа 6 - имеется сработка источника"
+MNS.MNA11.KTPRA.Page6.F,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(1503) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(8) Category=()}"
+MNS.MNA11.KTPRA.Page6.P,1,UInt4,5
+MNS.MNA11.KTPRA.Page6.P,101,String,"Состояние групп защит. Группа 6 - имеется сработка защиты"
+MNS.MNA11.KTPRA.Page6.P,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(1503) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(9) Category=()}"
+MNS.MNA11.KTPRA.Page6.M,1,UInt4,5
+MNS.MNA11.KTPRA.Page6.M,101,String,"Состояние групп защит. Группа 6 - имеется замаскированная защита"
+MNS.MNA11.KTPRA.Page6.M,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(1503) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(10) Category=()}"
+MNS.MNA11.KTPRA.Page7.F,1,UInt4,5
+MNS.MNA11.KTPRA.Page7.F,101,String,"Состояние групп защит. Группа 7 - имеется сработка источника"
+MNS.MNA11.KTPRA.Page7.F,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(1504) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(0) Category=()}"
+MNS.MNA11.KTPRA.Page7.P,1,UInt4,5
+MNS.MNA11.KTPRA.Page7.P,101,String,"Состояние групп защит. Группа 7 - имеется сработка защиты"
+MNS.MNA11.KTPRA.Page7.P,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(1504) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(1) Category=()}"
+MNS.MNA11.KTPRA.Page7.M,1,UInt4,5
+MNS.MNA11.KTPRA.Page7.M,101,String,"Состояние групп защит. Группа 7 - имеется замаскированная защита"
+MNS.MNA11.KTPRA.Page7.M,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(1504) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(2) Category=()}"
+MNS.MNA11.KTPRA.Page8.F,1,UInt4,5
+MNS.MNA11.KTPRA.Page8.F,101,String,"Состояние групп защит. Группа 8 - имеется сработка источника"
+MNS.MNA11.KTPRA.Page8.F,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(1504) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(8) Category=()}"
+MNS.MNA11.KTPRA.Page8.P,1,UInt4,5
+MNS.MNA11.KTPRA.Page8.P,101,String,"Состояние групп защит. Группа 8 - имеется сработка защиты"
+MNS.MNA11.KTPRA.Page8.P,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(1504) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(9) Category=()}"
+MNS.MNA11.KTPRA.Page8.M,1,UInt4,5
+MNS.MNA11.KTPRA.Page8.M,101,String,"Состояние групп защит. Группа 8 - имеется замаскированная защита"
+MNS.MNA11.KTPRA.Page8.M,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(1504) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(10) Category=()}"
+MNS.MNA11.NA.LimPuskRemain,1,UInt4,9
+MNS.MNA11.NA.LimPuskRemain,101,String,"Оставшееся время ограничение пуска"
+MNS.MNA11.NA.LimPuskRemain,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(1331) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.MNA12.NA.ObjNum,1,UInt4,9
+MNS.MNA12.NA.ObjNum,101,String,"2"
+MNS.MNA12.NA.ObjNum,3,UInt4,192
+MNS.MNA12.NA.Narab.Pusk,1,UInt4,7
+MNS.MNA12.NA.Narab.Pusk,101,String,"МНА №12. Время работы с момента запуска"
+MNS.MNA12.NA.Narab.Pusk,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(7216) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.MNA12.NA.Narab.PredPusk,1,UInt4,7
+MNS.MNA12.NA.Narab.PredPusk,101,String,"МНА №12. Время работы в предыдущем запуске"
+MNS.MNA12.NA.Narab.PredPusk,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(7218) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.MNA12.NA.Narab.BeforeRes,1,UInt4,7
+MNS.MNA12.NA.Narab.BeforeRes,101,String,"МНА №12. Время до перехода на резерв"
+MNS.MNA12.NA.Narab.BeforeRes,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(7220) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.MNA12.NA.Narab.BeforeReP,1,UInt4,7
+MNS.MNA12.NA.Narab.BeforeReP,101,String,"МНА №12. Время до кап. ремонта"
+MNS.MNA12.NA.Narab.BeforeReP,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(7222) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.MNA12.NA.Narab.AfterTO,1,UInt4,7
+MNS.MNA12.NA.Narab.AfterTO,101,String,"МНА №12. Время работы после ТО"
+MNS.MNA12.NA.Narab.AfterTO,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(7224) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.MNA12.NA.Narab.AfterTR,1,UInt4,7
+MNS.MNA12.NA.Narab.AfterTR,101,String,"МНА №12. Время работы после ТР"
+MNS.MNA12.NA.Narab.AfterTR,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(7226) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.MNA12.NA.Narab.AfterSR,1,UInt4,7
+MNS.MNA12.NA.Narab.AfterSR,101,String,"МНА №12. Время работы после СР"
+MNS.MNA12.NA.Narab.AfterSR,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(7228) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.MNA12.NA.Narab.Nenom,1,UInt4,7
+MNS.MNA12.NA.Narab.Nenom,101,String,"МНА №12. Время работы в неноминальном режиме"
+MNS.MNA12.NA.Narab.Nenom,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(7230) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.MNA12.NA.Narab.CountPusk,1,UInt4,9
+MNS.MNA12.NA.Narab.CountPusk,101,String,"МНА №12. Количество пусков"
+MNS.MNA12.NA.Narab.CountPusk,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(7395) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.MNA12.NA.Narab.CountOtkaz,1,UInt4,9
+MNS.MNA12.NA.Narab.CountOtkaz,101,String,"МНА №12. Количество отказов"
+MNS.MNA12.NA.Narab.CountOtkaz,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(7396) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.MNA12.NA.Ust.doReserva,1,UInt4,7
+MNS.MNA12.NA.Ust.doReserva,101,String,"МНА №12. Уставка времени работы до перехода на резерв"
+MNS.MNA12.NA.Ust.doReserva,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(10718) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.MNA12.NA.Ust.doKapRem,1,UInt4,7
+MNS.MNA12.NA.Ust.doKapRem,101,String,"МНА №12. Уставка времени работы после кап. ремонта"
+MNS.MNA12.NA.Ust.doKapRem,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(10720) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.MNA12.NA.Ust.AfterTO,1,UInt4,7
+MNS.MNA12.NA.Ust.AfterTO,101,String,"МНА №12. Уставка времени работы после ТО"
+MNS.MNA12.NA.Ust.AfterTO,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(10722) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.MNA12.NA.Ust.AfterTR,1,UInt4,7
+MNS.MNA12.NA.Ust.AfterTR,101,String,"МНА №12. Уставка времени работы после ТР"
+MNS.MNA12.NA.Ust.AfterTR,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(10724) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.MNA12.NA.Ust.AfterSR,1,UInt4,7
+MNS.MNA12.NA.Ust.AfterSR,101,String,"МНА №12. Уставка времени работы после СР"
+MNS.MNA12.NA.Ust.AfterSR,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(10726) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.MNA12.NA.Ust.Nenom,1,UInt4,7
+MNS.MNA12.NA.Ust.Nenom,101,String,"МНА №12. Уставка времени работы вне рабочего интервала подач"
+MNS.MNA12.NA.Ust.Nenom,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(10728) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.MNA12.KTPRA.Page1.F,1,UInt4,5
+MNS.MNA12.KTPRA.Page1.F,101,String,"Состояние групп защит. Группа 1 - имеется сработка источника"
+MNS.MNA12.KTPRA.Page1.F,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(1505) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(0) Category=()}"
+MNS.MNA12.KTPRA.Page1.P,1,UInt4,5
+MNS.MNA12.KTPRA.Page1.P,101,String,"Состояние групп защит. Группа 1 - имеется сработка защиты"
+MNS.MNA12.KTPRA.Page1.P,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(1505) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(1) Category=()}"
+MNS.MNA12.KTPRA.Page1.M,1,UInt4,5
+MNS.MNA12.KTPRA.Page1.M,101,String,"Состояние групп защит. Группа 1 - имеется замаскированная защита"
+MNS.MNA12.KTPRA.Page1.M,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(1505) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(2) Category=()}"
+MNS.MNA12.KTPRA.Page2.F,1,UInt4,5
+MNS.MNA12.KTPRA.Page2.F,101,String,"Состояние групп защит. Группа 2 - имеется сработка источника"
+MNS.MNA12.KTPRA.Page2.F,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(1505) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(8) Category=()}"
+MNS.MNA12.KTPRA.Page2.P,1,UInt4,5
+MNS.MNA12.KTPRA.Page2.P,101,String,"Состояние групп защит. Группа 2 - имеется сработка защиты"
+MNS.MNA12.KTPRA.Page2.P,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(1505) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(9) Category=()}"
+MNS.MNA12.KTPRA.Page2.M,1,UInt4,5
+MNS.MNA12.KTPRA.Page2.M,101,String,"Состояние групп защит. Группа 2 - имеется замаскированная защита"
+MNS.MNA12.KTPRA.Page2.M,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(1505) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(10) Category=()}"
+MNS.MNA12.KTPRA.Page3.F,1,UInt4,5
+MNS.MNA12.KTPRA.Page3.F,101,String,"Состояние групп защит. Группа 3 - имеется сработка источника"
+MNS.MNA12.KTPRA.Page3.F,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(1506) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(0) Category=()}"
+MNS.MNA12.KTPRA.Page3.P,1,UInt4,5
+MNS.MNA12.KTPRA.Page3.P,101,String,"Состояние групп защит. Группа 3 - имеется сработка защиты"
+MNS.MNA12.KTPRA.Page3.P,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(1506) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(1) Category=()}"
+MNS.MNA12.KTPRA.Page3.M,1,UInt4,5
+MNS.MNA12.KTPRA.Page3.M,101,String,"Состояние групп защит. Группа 3 - имеется замаскированная защита"
+MNS.MNA12.KTPRA.Page3.M,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(1506) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(2) Category=()}"
+MNS.MNA12.KTPRA.Page4.F,1,UInt4,5
+MNS.MNA12.KTPRA.Page4.F,101,String,"Состояние групп защит. Группа 4 - имеется сработка источника"
+MNS.MNA12.KTPRA.Page4.F,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(1506) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(8) Category=()}"
+MNS.MNA12.KTPRA.Page4.P,1,UInt4,5
+MNS.MNA12.KTPRA.Page4.P,101,String,"Состояние групп защит. Группа 4 - имеется сработка защиты"
+MNS.MNA12.KTPRA.Page4.P,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(1506) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(9) Category=()}"
+MNS.MNA12.KTPRA.Page4.M,1,UInt4,5
+MNS.MNA12.KTPRA.Page4.M,101,String,"Состояние групп защит. Группа 4 - имеется замаскированная защита"
+MNS.MNA12.KTPRA.Page4.M,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(1506) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(10) Category=()}"
+MNS.MNA12.KTPRA.Page5.F,1,UInt4,5
+MNS.MNA12.KTPRA.Page5.F,101,String,"Состояние групп защит. Группа 5 - имеется сработка источника"
+MNS.MNA12.KTPRA.Page5.F,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(1507) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(0) Category=()}"
+MNS.MNA12.KTPRA.Page5.P,1,UInt4,5
+MNS.MNA12.KTPRA.Page5.P,101,String,"Состояние групп защит. Группа 5 - имеется сработка защиты"
+MNS.MNA12.KTPRA.Page5.P,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(1507) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(1) Category=()}"
+MNS.MNA12.KTPRA.Page5.M,1,UInt4,5
+MNS.MNA12.KTPRA.Page5.M,101,String,"Состояние групп защит. Группа 5 - имеется замаскированная защита"
+MNS.MNA12.KTPRA.Page5.M,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(1507) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(2) Category=()}"
+MNS.MNA12.KTPRA.Page6.F,1,UInt4,5
+MNS.MNA12.KTPRA.Page6.F,101,String,"Состояние групп защит. Группа 6 - имеется сработка источника"
+MNS.MNA12.KTPRA.Page6.F,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(1507) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(8) Category=()}"
+MNS.MNA12.KTPRA.Page6.P,1,UInt4,5
+MNS.MNA12.KTPRA.Page6.P,101,String,"Состояние групп защит. Группа 6 - имеется сработка защиты"
+MNS.MNA12.KTPRA.Page6.P,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(1507) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(9) Category=()}"
+MNS.MNA12.KTPRA.Page6.M,1,UInt4,5
+MNS.MNA12.KTPRA.Page6.M,101,String,"Состояние групп защит. Группа 6 - имеется замаскированная защита"
+MNS.MNA12.KTPRA.Page6.M,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(1507) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(10) Category=()}"
+MNS.MNA12.KTPRA.Page7.F,1,UInt4,5
+MNS.MNA12.KTPRA.Page7.F,101,String,"Состояние групп защит. Группа 7 - имеется сработка источника"
+MNS.MNA12.KTPRA.Page7.F,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(1508) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(0) Category=()}"
+MNS.MNA12.KTPRA.Page7.P,1,UInt4,5
+MNS.MNA12.KTPRA.Page7.P,101,String,"Состояние групп защит. Группа 7 - имеется сработка защиты"
+MNS.MNA12.KTPRA.Page7.P,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(1508) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(1) Category=()}"
+MNS.MNA12.KTPRA.Page7.M,1,UInt4,5
+MNS.MNA12.KTPRA.Page7.M,101,String,"Состояние групп защит. Группа 7 - имеется замаскированная защита"
+MNS.MNA12.KTPRA.Page7.M,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(1508) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(2) Category=()}"
+MNS.MNA12.KTPRA.Page8.F,1,UInt4,5
+MNS.MNA12.KTPRA.Page8.F,101,String,"Состояние групп защит. Группа 8 - имеется сработка источника"
+MNS.MNA12.KTPRA.Page8.F,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(1508) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(8) Category=()}"
+MNS.MNA12.KTPRA.Page8.P,1,UInt4,5
+MNS.MNA12.KTPRA.Page8.P,101,String,"Состояние групп защит. Группа 8 - имеется сработка защиты"
+MNS.MNA12.KTPRA.Page8.P,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(1508) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(9) Category=()}"
+MNS.MNA12.KTPRA.Page8.M,1,UInt4,5
+MNS.MNA12.KTPRA.Page8.M,101,String,"Состояние групп защит. Группа 8 - имеется замаскированная защита"
+MNS.MNA12.KTPRA.Page8.M,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(1508) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(10) Category=()}"
+MNS.MNA12.NA.LimPuskRemain,1,UInt4,9
+MNS.MNA12.NA.LimPuskRemain,101,String,"Оставшееся время ограничение пуска"
+MNS.MNA12.NA.LimPuskRemain,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(1332) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.MNA13.NA.ObjNum,1,UInt4,9
+MNS.MNA13.NA.ObjNum,101,String,"3"
+MNS.MNA13.NA.ObjNum,3,UInt4,192
+MNS.MNA13.NA.Narab.Pusk,1,UInt4,7
+MNS.MNA13.NA.Narab.Pusk,101,String,"МНА №13. Время работы с момента запуска"
+MNS.MNA13.NA.Narab.Pusk,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(7232) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.MNA13.NA.Narab.PredPusk,1,UInt4,7
+MNS.MNA13.NA.Narab.PredPusk,101,String,"МНА №13. Время работы в предыдущем запуске"
+MNS.MNA13.NA.Narab.PredPusk,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(7234) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.MNA13.NA.Narab.BeforeRes,1,UInt4,7
+MNS.MNA13.NA.Narab.BeforeRes,101,String,"МНА №13. Время до перехода на резерв"
+MNS.MNA13.NA.Narab.BeforeRes,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(7236) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.MNA13.NA.Narab.BeforeReP,1,UInt4,7
+MNS.MNA13.NA.Narab.BeforeReP,101,String,"МНА №13. Время до кап. ремонта"
+MNS.MNA13.NA.Narab.BeforeReP,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(7238) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.MNA13.NA.Narab.AfterTO,1,UInt4,7
+MNS.MNA13.NA.Narab.AfterTO,101,String,"МНА №13. Время работы после ТО"
+MNS.MNA13.NA.Narab.AfterTO,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(7240) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.MNA13.NA.Narab.AfterTR,1,UInt4,7
+MNS.MNA13.NA.Narab.AfterTR,101,String,"МНА №13. Время работы после ТР"
+MNS.MNA13.NA.Narab.AfterTR,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(7242) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.MNA13.NA.Narab.AfterSR,1,UInt4,7
+MNS.MNA13.NA.Narab.AfterSR,101,String,"МНА №13. Время работы после СР"
+MNS.MNA13.NA.Narab.AfterSR,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(7244) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.MNA13.NA.Narab.Nenom,1,UInt4,7
+MNS.MNA13.NA.Narab.Nenom,101,String,"МНА №13. Время работы в неноминальном режиме"
+MNS.MNA13.NA.Narab.Nenom,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(7246) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.MNA13.NA.Narab.CountPusk,1,UInt4,9
+MNS.MNA13.NA.Narab.CountPusk,101,String,"МНА №13. Количество пусков"
+MNS.MNA13.NA.Narab.CountPusk,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(7397) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.MNA13.NA.Narab.CountOtkaz,1,UInt4,9
+MNS.MNA13.NA.Narab.CountOtkaz,101,String,"МНА №13. Количество отказов"
+MNS.MNA13.NA.Narab.CountOtkaz,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(7398) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.MNA13.NA.Ust.doReserva,1,UInt4,7
+MNS.MNA13.NA.Ust.doReserva,101,String,"МНА №13. Уставка времени работы до перехода на резерв"
+MNS.MNA13.NA.Ust.doReserva,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(10730) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.MNA13.NA.Ust.doKapRem,1,UInt4,7
+MNS.MNA13.NA.Ust.doKapRem,101,String,"МНА №13. Уставка времени работы после кап. ремонта"
+MNS.MNA13.NA.Ust.doKapRem,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(10732) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.MNA13.NA.Ust.AfterTO,1,UInt4,7
+MNS.MNA13.NA.Ust.AfterTO,101,String,"МНА №13. Уставка времени работы после ТО"
+MNS.MNA13.NA.Ust.AfterTO,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(10734) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.MNA13.NA.Ust.AfterTR,1,UInt4,7
+MNS.MNA13.NA.Ust.AfterTR,101,String,"МНА №13. Уставка времени работы после ТР"
+MNS.MNA13.NA.Ust.AfterTR,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(10736) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.MNA13.NA.Ust.AfterSR,1,UInt4,7
+MNS.MNA13.NA.Ust.AfterSR,101,String,"МНА №13. Уставка времени работы после СР"
+MNS.MNA13.NA.Ust.AfterSR,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(10738) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.MNA13.NA.Ust.Nenom,1,UInt4,7
+MNS.MNA13.NA.Ust.Nenom,101,String,"МНА №13. Уставка времени работы вне рабочего интервала подач"
+MNS.MNA13.NA.Ust.Nenom,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(10740) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.MNA13.KTPRA.Page1.F,1,UInt4,5
+MNS.MNA13.KTPRA.Page1.F,101,String,"Состояние групп защит. Группа 1 - имеется сработка источника"
+MNS.MNA13.KTPRA.Page1.F,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(1509) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(0) Category=()}"
+MNS.MNA13.KTPRA.Page1.P,1,UInt4,5
+MNS.MNA13.KTPRA.Page1.P,101,String,"Состояние групп защит. Группа 1 - имеется сработка защиты"
+MNS.MNA13.KTPRA.Page1.P,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(1509) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(1) Category=()}"
+MNS.MNA13.KTPRA.Page1.M,1,UInt4,5
+MNS.MNA13.KTPRA.Page1.M,101,String,"Состояние групп защит. Группа 1 - имеется замаскированная защита"
+MNS.MNA13.KTPRA.Page1.M,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(1509) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(2) Category=()}"
+MNS.MNA13.KTPRA.Page2.F,1,UInt4,5
+MNS.MNA13.KTPRA.Page2.F,101,String,"Состояние групп защит. Группа 2 - имеется сработка источника"
+MNS.MNA13.KTPRA.Page2.F,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(1509) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(8) Category=()}"
+MNS.MNA13.KTPRA.Page2.P,1,UInt4,5
+MNS.MNA13.KTPRA.Page2.P,101,String,"Состояние групп защит. Группа 2 - имеется сработка защиты"
+MNS.MNA13.KTPRA.Page2.P,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(1509) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(9) Category=()}"
+MNS.MNA13.KTPRA.Page2.M,1,UInt4,5
+MNS.MNA13.KTPRA.Page2.M,101,String,"Состояние групп защит. Группа 2 - имеется замаскированная защита"
+MNS.MNA13.KTPRA.Page2.M,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(1509) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(10) Category=()}"
+MNS.MNA13.KTPRA.Page3.F,1,UInt4,5
+MNS.MNA13.KTPRA.Page3.F,101,String,"Состояние групп защит. Группа 3 - имеется сработка источника"
+MNS.MNA13.KTPRA.Page3.F,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(1510) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(0) Category=()}"
+MNS.MNA13.KTPRA.Page3.P,1,UInt4,5
+MNS.MNA13.KTPRA.Page3.P,101,String,"Состояние групп защит. Группа 3 - имеется сработка защиты"
+MNS.MNA13.KTPRA.Page3.P,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(1510) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(1) Category=()}"
+MNS.MNA13.KTPRA.Page3.M,1,UInt4,5
+MNS.MNA13.KTPRA.Page3.M,101,String,"Состояние групп защит. Группа 3 - имеется замаскированная защита"
+MNS.MNA13.KTPRA.Page3.M,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(1510) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(2) Category=()}"
+MNS.MNA13.KTPRA.Page4.F,1,UInt4,5
+MNS.MNA13.KTPRA.Page4.F,101,String,"Состояние групп защит. Группа 4 - имеется сработка источника"
+MNS.MNA13.KTPRA.Page4.F,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(1510) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(8) Category=()}"
+MNS.MNA13.KTPRA.Page4.P,1,UInt4,5
+MNS.MNA13.KTPRA.Page4.P,101,String,"Состояние групп защит. Группа 4 - имеется сработка защиты"
+MNS.MNA13.KTPRA.Page4.P,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(1510) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(9) Category=()}"
+MNS.MNA13.KTPRA.Page4.M,1,UInt4,5
+MNS.MNA13.KTPRA.Page4.M,101,String,"Состояние групп защит. Группа 4 - имеется замаскированная защита"
+MNS.MNA13.KTPRA.Page4.M,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(1510) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(10) Category=()}"
+MNS.MNA13.KTPRA.Page5.F,1,UInt4,5
+MNS.MNA13.KTPRA.Page5.F,101,String,"Состояние групп защит. Группа 5 - имеется сработка источника"
+MNS.MNA13.KTPRA.Page5.F,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(1511) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(0) Category=()}"
+MNS.MNA13.KTPRA.Page5.P,1,UInt4,5
+MNS.MNA13.KTPRA.Page5.P,101,String,"Состояние групп защит. Группа 5 - имеется сработка защиты"
+MNS.MNA13.KTPRA.Page5.P,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(1511) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(1) Category=()}"
+MNS.MNA13.KTPRA.Page5.M,1,UInt4,5
+MNS.MNA13.KTPRA.Page5.M,101,String,"Состояние групп защит. Группа 5 - имеется замаскированная защита"
+MNS.MNA13.KTPRA.Page5.M,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(1511) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(2) Category=()}"
+MNS.MNA13.KTPRA.Page6.F,1,UInt4,5
+MNS.MNA13.KTPRA.Page6.F,101,String,"Состояние групп защит. Группа 6 - имеется сработка источника"
+MNS.MNA13.KTPRA.Page6.F,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(1511) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(8) Category=()}"
+MNS.MNA13.KTPRA.Page6.P,1,UInt4,5
+MNS.MNA13.KTPRA.Page6.P,101,String,"Состояние групп защит. Группа 6 - имеется сработка защиты"
+MNS.MNA13.KTPRA.Page6.P,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(1511) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(9) Category=()}"
+MNS.MNA13.KTPRA.Page6.M,1,UInt4,5
+MNS.MNA13.KTPRA.Page6.M,101,String,"Состояние групп защит. Группа 6 - имеется замаскированная защита"
+MNS.MNA13.KTPRA.Page6.M,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(1511) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(10) Category=()}"
+MNS.MNA13.KTPRA.Page7.F,1,UInt4,5
+MNS.MNA13.KTPRA.Page7.F,101,String,"Состояние групп защит. Группа 7 - имеется сработка источника"
+MNS.MNA13.KTPRA.Page7.F,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(1512) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(0) Category=()}"
+MNS.MNA13.KTPRA.Page7.P,1,UInt4,5
+MNS.MNA13.KTPRA.Page7.P,101,String,"Состояние групп защит. Группа 7 - имеется сработка защиты"
+MNS.MNA13.KTPRA.Page7.P,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(1512) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(1) Category=()}"
+MNS.MNA13.KTPRA.Page7.M,1,UInt4,5
+MNS.MNA13.KTPRA.Page7.M,101,String,"Состояние групп защит. Группа 7 - имеется замаскированная защита"
+MNS.MNA13.KTPRA.Page7.M,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(1512) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(2) Category=()}"
+MNS.MNA13.KTPRA.Page8.F,1,UInt4,5
+MNS.MNA13.KTPRA.Page8.F,101,String,"Состояние групп защит. Группа 8 - имеется сработка источника"
+MNS.MNA13.KTPRA.Page8.F,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(1512) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(8) Category=()}"
+MNS.MNA13.KTPRA.Page8.P,1,UInt4,5
+MNS.MNA13.KTPRA.Page8.P,101,String,"Состояние групп защит. Группа 8 - имеется сработка защиты"
+MNS.MNA13.KTPRA.Page8.P,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(1512) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(9) Category=()}"
+MNS.MNA13.KTPRA.Page8.M,1,UInt4,5
+MNS.MNA13.KTPRA.Page8.M,101,String,"Состояние групп защит. Группа 8 - имеется замаскированная защита"
+MNS.MNA13.KTPRA.Page8.M,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(1512) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(10) Category=()}"
+MNS.MNA13.NA.LimPuskRemain,1,UInt4,9
+MNS.MNA13.NA.LimPuskRemain,101,String,"Оставшееся время ограничение пуска"
+MNS.MNA13.NA.LimPuskRemain,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(1333) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.MNA14.NA.ObjNum,1,UInt4,9
+MNS.MNA14.NA.ObjNum,101,String,"4"
+MNS.MNA14.NA.ObjNum,3,UInt4,192
+MNS.MNA14.NA.Narab.Pusk,1,UInt4,7
+MNS.MNA14.NA.Narab.Pusk,101,String,"МНА №14. Время работы с момента запуска"
+MNS.MNA14.NA.Narab.Pusk,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(7248) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.MNA14.NA.Narab.PredPusk,1,UInt4,7
+MNS.MNA14.NA.Narab.PredPusk,101,String,"МНА №14. Время работы в предыдущем запуске"
+MNS.MNA14.NA.Narab.PredPusk,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(7250) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.MNA14.NA.Narab.BeforeRes,1,UInt4,7
+MNS.MNA14.NA.Narab.BeforeRes,101,String,"МНА №14. Время до перехода на резерв"
+MNS.MNA14.NA.Narab.BeforeRes,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(7252) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.MNA14.NA.Narab.BeforeReP,1,UInt4,7
+MNS.MNA14.NA.Narab.BeforeReP,101,String,"МНА №14. Время до кап. ремонта"
+MNS.MNA14.NA.Narab.BeforeReP,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(7254) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.MNA14.NA.Narab.AfterTO,1,UInt4,7
+MNS.MNA14.NA.Narab.AfterTO,101,String,"МНА №14. Время работы после ТО"
+MNS.MNA14.NA.Narab.AfterTO,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(7256) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.MNA14.NA.Narab.AfterTR,1,UInt4,7
+MNS.MNA14.NA.Narab.AfterTR,101,String,"МНА №14. Время работы после ТР"
+MNS.MNA14.NA.Narab.AfterTR,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(7258) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.MNA14.NA.Narab.AfterSR,1,UInt4,7
+MNS.MNA14.NA.Narab.AfterSR,101,String,"МНА №14. Время работы после СР"
+MNS.MNA14.NA.Narab.AfterSR,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(7260) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.MNA14.NA.Narab.Nenom,1,UInt4,7
+MNS.MNA14.NA.Narab.Nenom,101,String,"МНА №14. Время работы в неноминальном режиме"
+MNS.MNA14.NA.Narab.Nenom,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(7262) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.MNA14.NA.Narab.CountPusk,1,UInt4,9
+MNS.MNA14.NA.Narab.CountPusk,101,String,"МНА №14. Количество пусков"
+MNS.MNA14.NA.Narab.CountPusk,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(7399) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.MNA14.NA.Narab.CountOtkaz,1,UInt4,9
+MNS.MNA14.NA.Narab.CountOtkaz,101,String,"МНА №14. Количество отказов"
+MNS.MNA14.NA.Narab.CountOtkaz,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(7400) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.MNA14.NA.Ust.doReserva,1,UInt4,7
+MNS.MNA14.NA.Ust.doReserva,101,String,"МНА №14. Уставка времени работы до перехода на резерв"
+MNS.MNA14.NA.Ust.doReserva,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(10742) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.MNA14.NA.Ust.doKapRem,1,UInt4,7
+MNS.MNA14.NA.Ust.doKapRem,101,String,"МНА №14. Уставка времени работы после кап. ремонта"
+MNS.MNA14.NA.Ust.doKapRem,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(10744) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.MNA14.NA.Ust.AfterTO,1,UInt4,7
+MNS.MNA14.NA.Ust.AfterTO,101,String,"МНА №14. Уставка времени работы после ТО"
+MNS.MNA14.NA.Ust.AfterTO,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(10746) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.MNA14.NA.Ust.AfterTR,1,UInt4,7
+MNS.MNA14.NA.Ust.AfterTR,101,String,"МНА №14. Уставка времени работы после ТР"
+MNS.MNA14.NA.Ust.AfterTR,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(10748) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.MNA14.NA.Ust.AfterSR,1,UInt4,7
+MNS.MNA14.NA.Ust.AfterSR,101,String,"МНА №14. Уставка времени работы после СР"
+MNS.MNA14.NA.Ust.AfterSR,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(10750) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.MNA14.NA.Ust.Nenom,1,UInt4,7
+MNS.MNA14.NA.Ust.Nenom,101,String,"МНА №14. Уставка времени работы вне рабочего интервала подач"
+MNS.MNA14.NA.Ust.Nenom,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(10752) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.MNA14.KTPRA.Page1.F,1,UInt4,5
+MNS.MNA14.KTPRA.Page1.F,101,String,"Состояние групп защит. Группа 1 - имеется сработка источника"
+MNS.MNA14.KTPRA.Page1.F,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(1513) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(0) Category=()}"
+MNS.MNA14.KTPRA.Page1.P,1,UInt4,5
+MNS.MNA14.KTPRA.Page1.P,101,String,"Состояние групп защит. Группа 1 - имеется сработка защиты"
+MNS.MNA14.KTPRA.Page1.P,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(1513) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(1) Category=()}"
+MNS.MNA14.KTPRA.Page1.M,1,UInt4,5
+MNS.MNA14.KTPRA.Page1.M,101,String,"Состояние групп защит. Группа 1 - имеется замаскированная защита"
+MNS.MNA14.KTPRA.Page1.M,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(1513) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(2) Category=()}"
+MNS.MNA14.KTPRA.Page2.F,1,UInt4,5
+MNS.MNA14.KTPRA.Page2.F,101,String,"Состояние групп защит. Группа 2 - имеется сработка источника"
+MNS.MNA14.KTPRA.Page2.F,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(1513) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(8) Category=()}"
+MNS.MNA14.KTPRA.Page2.P,1,UInt4,5
+MNS.MNA14.KTPRA.Page2.P,101,String,"Состояние групп защит. Группа 2 - имеется сработка защиты"
+MNS.MNA14.KTPRA.Page2.P,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(1513) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(9) Category=()}"
+MNS.MNA14.KTPRA.Page2.M,1,UInt4,5
+MNS.MNA14.KTPRA.Page2.M,101,String,"Состояние групп защит. Группа 2 - имеется замаскированная защита"
+MNS.MNA14.KTPRA.Page2.M,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(1513) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(10) Category=()}"
+MNS.MNA14.KTPRA.Page3.F,1,UInt4,5
+MNS.MNA14.KTPRA.Page3.F,101,String,"Состояние групп защит. Группа 3 - имеется сработка источника"
+MNS.MNA14.KTPRA.Page3.F,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(1514) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(0) Category=()}"
+MNS.MNA14.KTPRA.Page3.P,1,UInt4,5
+MNS.MNA14.KTPRA.Page3.P,101,String,"Состояние групп защит. Группа 3 - имеется сработка защиты"
+MNS.MNA14.KTPRA.Page3.P,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(1514) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(1) Category=()}"
+MNS.MNA14.KTPRA.Page3.M,1,UInt4,5
+MNS.MNA14.KTPRA.Page3.M,101,String,"Состояние групп защит. Группа 3 - имеется замаскированная защита"
+MNS.MNA14.KTPRA.Page3.M,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(1514) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(2) Category=()}"
+MNS.MNA14.KTPRA.Page4.F,1,UInt4,5
+MNS.MNA14.KTPRA.Page4.F,101,String,"Состояние групп защит. Группа 4 - имеется сработка источника"
+MNS.MNA14.KTPRA.Page4.F,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(1514) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(8) Category=()}"
+MNS.MNA14.KTPRA.Page4.P,1,UInt4,5
+MNS.MNA14.KTPRA.Page4.P,101,String,"Состояние групп защит. Группа 4 - имеется сработка защиты"
+MNS.MNA14.KTPRA.Page4.P,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(1514) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(9) Category=()}"
+MNS.MNA14.KTPRA.Page4.M,1,UInt4,5
+MNS.MNA14.KTPRA.Page4.M,101,String,"Состояние групп защит. Группа 4 - имеется замаскированная защита"
+MNS.MNA14.KTPRA.Page4.M,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(1514) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(10) Category=()}"
+MNS.MNA14.KTPRA.Page5.F,1,UInt4,5
+MNS.MNA14.KTPRA.Page5.F,101,String,"Состояние групп защит. Группа 5 - имеется сработка источника"
+MNS.MNA14.KTPRA.Page5.F,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(1515) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(0) Category=()}"
+MNS.MNA14.KTPRA.Page5.P,1,UInt4,5
+MNS.MNA14.KTPRA.Page5.P,101,String,"Состояние групп защит. Группа 5 - имеется сработка защиты"
+MNS.MNA14.KTPRA.Page5.P,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(1515) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(1) Category=()}"
+MNS.MNA14.KTPRA.Page5.M,1,UInt4,5
+MNS.MNA14.KTPRA.Page5.M,101,String,"Состояние групп защит. Группа 5 - имеется замаскированная защита"
+MNS.MNA14.KTPRA.Page5.M,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(1515) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(2) Category=()}"
+MNS.MNA14.KTPRA.Page6.F,1,UInt4,5
+MNS.MNA14.KTPRA.Page6.F,101,String,"Состояние групп защит. Группа 6 - имеется сработка источника"
+MNS.MNA14.KTPRA.Page6.F,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(1515) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(8) Category=()}"
+MNS.MNA14.KTPRA.Page6.P,1,UInt4,5
+MNS.MNA14.KTPRA.Page6.P,101,String,"Состояние групп защит. Группа 6 - имеется сработка защиты"
+MNS.MNA14.KTPRA.Page6.P,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(1515) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(9) Category=()}"
+MNS.MNA14.KTPRA.Page6.M,1,UInt4,5
+MNS.MNA14.KTPRA.Page6.M,101,String,"Состояние групп защит. Группа 6 - имеется замаскированная защита"
+MNS.MNA14.KTPRA.Page6.M,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(1515) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(10) Category=()}"
+MNS.MNA14.KTPRA.Page7.F,1,UInt4,5
+MNS.MNA14.KTPRA.Page7.F,101,String,"Состояние групп защит. Группа 7 - имеется сработка источника"
+MNS.MNA14.KTPRA.Page7.F,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(1516) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(0) Category=()}"
+MNS.MNA14.KTPRA.Page7.P,1,UInt4,5
+MNS.MNA14.KTPRA.Page7.P,101,String,"Состояние групп защит. Группа 7 - имеется сработка защиты"
+MNS.MNA14.KTPRA.Page7.P,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(1516) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(1) Category=()}"
+MNS.MNA14.KTPRA.Page7.M,1,UInt4,5
+MNS.MNA14.KTPRA.Page7.M,101,String,"Состояние групп защит. Группа 7 - имеется замаскированная защита"
+MNS.MNA14.KTPRA.Page7.M,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(1516) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(2) Category=()}"
+MNS.MNA14.KTPRA.Page8.F,1,UInt4,5
+MNS.MNA14.KTPRA.Page8.F,101,String,"Состояние групп защит. Группа 8 - имеется сработка источника"
+MNS.MNA14.KTPRA.Page8.F,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(1516) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(8) Category=()}"
+MNS.MNA14.KTPRA.Page8.P,1,UInt4,5
+MNS.MNA14.KTPRA.Page8.P,101,String,"Состояние групп защит. Группа 8 - имеется сработка защиты"
+MNS.MNA14.KTPRA.Page8.P,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(1516) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(9) Category=()}"
+MNS.MNA14.KTPRA.Page8.M,1,UInt4,5
+MNS.MNA14.KTPRA.Page8.M,101,String,"Состояние групп защит. Группа 8 - имеется замаскированная защита"
+MNS.MNA14.KTPRA.Page8.M,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(1516) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(10) Category=()}"
+MNS.MNA14.NA.LimPuskRemain,1,UInt4,9
+MNS.MNA14.NA.LimPuskRemain,101,String,"Оставшееся время ограничение пуска"
+MNS.MNA14.NA.LimPuskRemain,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(1334) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"

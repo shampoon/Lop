@@ -1,0 +1,6 @@
+MNS.SSN.Zvonok.UTS.ObjNum,1,UInt4,9
+MNS.SSN.Zvonok.UTS.ObjNum,101,String,"1"
+MNS.SSN.Zvonok.UTS.ObjNum,3,UInt4,192
+MNS.SSN.Zvonok.UTS.Channels,1,UInt4,9
+MNS.SSN.Zvonok.UTS.Channels,101,String,"DG.USO2_1.A4.M2:4"
+MNS.SSN.Zvonok.UTS.Channels,3,UInt4,192

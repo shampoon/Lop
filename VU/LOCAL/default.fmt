@@ -1,0 +1,19 @@
+! List of available columns for display.
+! If you add column names, be sure to increase the number of columns.
+! Data items must be enclosed in quotes
+!
+! Number of columns is:
+7
+!
+! column name		field name	column width
+! ====================================================
+!
+"Tag Name"              "A_TAG"         8
+"Type"                  "A_NAME"        2
+"Description"           "A_DESC"        20
+"Scan Time"             "A_SCANT"       5
+"I/O Dev"		"A_IODV"        3
+"I/O Addr"	        "A_IOAD"        7
+"Curr Value"            "A_CV"          8
+!
+! ===== End of List ====

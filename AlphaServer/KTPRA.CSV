@@ -1,0 +1,1644 @@
+MNS.PNA036_1.KTPRA.ObjName,1, UInt4, 9
+MNS.PNA036_1.KTPRA.ObjName,101,String,"Карта агрегатных защит ПНА №036.1"
+MNS.PNA036_1.KTPRA.ObjName,3,UInt4,192
+MNS.PNA036_1.KTPRA.F,1, UInt4, 5
+MNS.PNA036_1.KTPRA.F,6,Float,1000
+MNS.PNA036_1.KTPRA.F,101,String,"Есть параметр защиты"
+MNS.PNA036_1.KTPRA.F,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6798) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(0) Category=()}"
+MNS.PNA036_1.KTPRA.M,1, UInt4, 5
+MNS.PNA036_1.KTPRA.M,6,Float,1000
+MNS.PNA036_1.KTPRA.M,101,String,"Есть маска"
+MNS.PNA036_1.KTPRA.M,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6799) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(0) Category=()}"
+MNS.PNA036_1.KTPRA.P,1, UInt4, 5
+MNS.PNA036_1.KTPRA.P,6,Float,1000
+MNS.PNA036_1.KTPRA.P,101,String,"Есть защита"
+MNS.PNA036_1.KTPRA.P,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6800) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(0) Category=()}"
+MNS.PNA036_1.KTPRA.F.F1,1, UInt4, 5
+MNS.PNA036_1.KTPRA.F.F1,6,Float,1000
+MNS.PNA036_1.KTPRA.F.F1,101,String,"Аварийная максимальная температура нефти на выходе из насоса. Есть параметр защиты"
+MNS.PNA036_1.KTPRA.F.F1,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6822) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(0) Category=()}"
+MNS.PNA036_1.KTPRA.M.Mask1,1, UInt4, 5
+MNS.PNA036_1.KTPRA.M.Mask1,6,Float,1000
+MNS.PNA036_1.KTPRA.M.Mask1,101,String,"Аварийная максимальная температура нефти на выходе из насоса. Маска"
+MNS.PNA036_1.KTPRA.M.Mask1,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(7497) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(0) Category=()}"
+MNS.PNA036_1.KTPRA.P.P1,1, UInt4, 5
+MNS.PNA036_1.KTPRA.P.P1,6,Float,1000
+MNS.PNA036_1.KTPRA.P.P1,101,String,"Аварийная максимальная температура нефти на выходе из насоса"
+MNS.PNA036_1.KTPRA.P.P1,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6814) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(0) Category=()}"
+MNS.PNA036_1.KTPRA.F.F2,1, UInt4, 5
+MNS.PNA036_1.KTPRA.F.F2,6,Float,1000
+MNS.PNA036_1.KTPRA.F.F2,101,String,"Недостоверность измерений температуры корпуса насоса. Есть параметр защиты"
+MNS.PNA036_1.KTPRA.F.F2,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6822) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(1) Category=()}"
+MNS.PNA036_1.KTPRA.M.Mask2,1, UInt4, 5
+MNS.PNA036_1.KTPRA.M.Mask2,6,Float,1000
+MNS.PNA036_1.KTPRA.M.Mask2,101,String,"Недостоверность измерений температуры корпуса насоса. Маска"
+MNS.PNA036_1.KTPRA.M.Mask2,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(7497) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(1) Category=()}"
+MNS.PNA036_1.KTPRA.P.P2,1, UInt4, 5
+MNS.PNA036_1.KTPRA.P.P2,6,Float,1000
+MNS.PNA036_1.KTPRA.P.P2,101,String,"Недостоверность измерений температуры корпуса насоса"
+MNS.PNA036_1.KTPRA.P.P2,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6814) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(1) Category=()}"
+MNS.PNA036_1.KTPRA.F.F3,1, UInt4, 5
+MNS.PNA036_1.KTPRA.F.F3,6,Float,1000
+MNS.PNA036_1.KTPRA.F.F3,101,String,"Аварийная максимальная температура опорно-упорного подшипника насоса (точка 1). Есть параметр защиты"
+MNS.PNA036_1.KTPRA.F.F3,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6822) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(2) Category=()}"
+MNS.PNA036_1.KTPRA.M.Mask3,1, UInt4, 5
+MNS.PNA036_1.KTPRA.M.Mask3,6,Float,1000
+MNS.PNA036_1.KTPRA.M.Mask3,101,String,"Аварийная максимальная температура опорно-упорного подшипника насоса (точка 1). Маска"
+MNS.PNA036_1.KTPRA.M.Mask3,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(7497) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(2) Category=()}"
+MNS.PNA036_1.KTPRA.P.P3,1, UInt4, 5
+MNS.PNA036_1.KTPRA.P.P3,6,Float,1000
+MNS.PNA036_1.KTPRA.P.P3,101,String,"Аварийная максимальная температура опорно-упорного подшипника насоса (точка 1)"
+MNS.PNA036_1.KTPRA.P.P3,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6814) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(2) Category=()}"
+MNS.PNA036_1.KTPRA.F.F4,1, UInt4, 5
+MNS.PNA036_1.KTPRA.F.F4,6,Float,1000
+MNS.PNA036_1.KTPRA.F.F4,101,String,"Аварийная максимальная температура опорно-упорного подшипника насоса (точка 2). Есть параметр защиты"
+MNS.PNA036_1.KTPRA.F.F4,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6822) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(3) Category=()}"
+MNS.PNA036_1.KTPRA.M.Mask4,1, UInt4, 5
+MNS.PNA036_1.KTPRA.M.Mask4,6,Float,1000
+MNS.PNA036_1.KTPRA.M.Mask4,101,String,"Аварийная максимальная температура опорно-упорного подшипника насоса (точка 2). Маска"
+MNS.PNA036_1.KTPRA.M.Mask4,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(7497) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(3) Category=()}"
+MNS.PNA036_1.KTPRA.P.P4,1, UInt4, 5
+MNS.PNA036_1.KTPRA.P.P4,6,Float,1000
+MNS.PNA036_1.KTPRA.P.P4,101,String,"Аварийная максимальная температура опорно-упорного подшипника насоса (точка 2)"
+MNS.PNA036_1.KTPRA.P.P4,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6814) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(3) Category=()}"
+MNS.PNA036_1.KTPRA.F.F5,1, UInt4, 5
+MNS.PNA036_1.KTPRA.F.F5,6,Float,1000
+MNS.PNA036_1.KTPRA.F.F5,101,String,"Аварийная максимальная температура нижнего подшипника ЭД. Есть параметр защиты"
+MNS.PNA036_1.KTPRA.F.F5,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6822) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(4) Category=()}"
+MNS.PNA036_1.KTPRA.M.Mask5,1, UInt4, 5
+MNS.PNA036_1.KTPRA.M.Mask5,6,Float,1000
+MNS.PNA036_1.KTPRA.M.Mask5,101,String,"Аварийная максимальная температура нижнего подшипника ЭД. Маска"
+MNS.PNA036_1.KTPRA.M.Mask5,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(7497) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(4) Category=()}"
+MNS.PNA036_1.KTPRA.P.P5,1, UInt4, 5
+MNS.PNA036_1.KTPRA.P.P5,6,Float,1000
+MNS.PNA036_1.KTPRA.P.P5,101,String,"Аварийная максимальная температура нижнего подшипника ЭД"
+MNS.PNA036_1.KTPRA.P.P5,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6814) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(4) Category=()}"
+MNS.PNA036_1.KTPRA.F.F6,1, UInt4, 5
+MNS.PNA036_1.KTPRA.F.F6,6,Float,1000
+MNS.PNA036_1.KTPRA.F.F6,101,String,"Аварийная максимальная температура верхнего подшипника ЭД (точка 1). Есть параметр защиты"
+MNS.PNA036_1.KTPRA.F.F6,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6822) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(5) Category=()}"
+MNS.PNA036_1.KTPRA.M.Mask6,1, UInt4, 5
+MNS.PNA036_1.KTPRA.M.Mask6,6,Float,1000
+MNS.PNA036_1.KTPRA.M.Mask6,101,String,"Аварийная максимальная температура верхнего подшипника ЭД (точка 1). Маска"
+MNS.PNA036_1.KTPRA.M.Mask6,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(7497) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(5) Category=()}"
+MNS.PNA036_1.KTPRA.P.P6,1, UInt4, 5
+MNS.PNA036_1.KTPRA.P.P6,6,Float,1000
+MNS.PNA036_1.KTPRA.P.P6,101,String,"Аварийная максимальная температура верхнего подшипника ЭД (точка 1)"
+MNS.PNA036_1.KTPRA.P.P6,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6814) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(5) Category=()}"
+MNS.PNA036_1.KTPRA.F.F7,1, UInt4, 5
+MNS.PNA036_1.KTPRA.F.F7,6,Float,1000
+MNS.PNA036_1.KTPRA.F.F7,101,String,"Аварийная максимальная температура верхнего подшипника ЭД (точка 2). Есть параметр защиты"
+MNS.PNA036_1.KTPRA.F.F7,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6822) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(6) Category=()}"
+MNS.PNA036_1.KTPRA.M.Mask7,1, UInt4, 5
+MNS.PNA036_1.KTPRA.M.Mask7,6,Float,1000
+MNS.PNA036_1.KTPRA.M.Mask7,101,String,"Аварийная максимальная температура верхнего подшипника ЭД (точка 2). Маска"
+MNS.PNA036_1.KTPRA.M.Mask7,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(7497) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(6) Category=()}"
+MNS.PNA036_1.KTPRA.P.P7,1, UInt4, 5
+MNS.PNA036_1.KTPRA.P.P7,6,Float,1000
+MNS.PNA036_1.KTPRA.P.P7,101,String,"Аварийная максимальная температура верхнего подшипника ЭД (точка 2)"
+MNS.PNA036_1.KTPRA.P.P7,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6814) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(6) Category=()}"
+MNS.PNA036_1.KTPRA.F.F8,1, UInt4, 5
+MNS.PNA036_1.KTPRA.F.F8,6,Float,1000
+MNS.PNA036_1.KTPRA.F.F8,101,String,"Недостоверность измерений температуры опорно-упорного подшипника насоса (точка 1). Есть параметр защиты"
+MNS.PNA036_1.KTPRA.F.F8,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6822) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(7) Category=()}"
+MNS.PNA036_1.KTPRA.M.Mask8,1, UInt4, 5
+MNS.PNA036_1.KTPRA.M.Mask8,6,Float,1000
+MNS.PNA036_1.KTPRA.M.Mask8,101,String,"Недостоверность измерений температуры опорно-упорного подшипника насоса (точка 1). Маска"
+MNS.PNA036_1.KTPRA.M.Mask8,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(7497) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(7) Category=()}"
+MNS.PNA036_1.KTPRA.P.P8,1, UInt4, 5
+MNS.PNA036_1.KTPRA.P.P8,6,Float,1000
+MNS.PNA036_1.KTPRA.P.P8,101,String,"Недостоверность измерений температуры опорно-упорного подшипника насоса (точка 1)"
+MNS.PNA036_1.KTPRA.P.P8,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6814) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(7) Category=()}"
+MNS.PNA036_1.KTPRA.F.F9,1, UInt4, 5
+MNS.PNA036_1.KTPRA.F.F9,6,Float,1000
+MNS.PNA036_1.KTPRA.F.F9,101,String,"Недостоверность измерений температуры опорно-упорного подшипника насоса (точка 2). Есть параметр защиты"
+MNS.PNA036_1.KTPRA.F.F9,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6822) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(8) Category=()}"
+MNS.PNA036_1.KTPRA.M.Mask9,1, UInt4, 5
+MNS.PNA036_1.KTPRA.M.Mask9,6,Float,1000
+MNS.PNA036_1.KTPRA.M.Mask9,101,String,"Недостоверность измерений температуры опорно-упорного подшипника насоса (точка 2). Маска"
+MNS.PNA036_1.KTPRA.M.Mask9,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(7497) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(8) Category=()}"
+MNS.PNA036_1.KTPRA.P.P9,1, UInt4, 5
+MNS.PNA036_1.KTPRA.P.P9,6,Float,1000
+MNS.PNA036_1.KTPRA.P.P9,101,String,"Недостоверность измерений температуры опорно-упорного подшипника насоса (точка 2)"
+MNS.PNA036_1.KTPRA.P.P9,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6814) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(8) Category=()}"
+MNS.PNA036_1.KTPRA.F.F10,1, UInt4, 5
+MNS.PNA036_1.KTPRA.F.F10,6,Float,1000
+MNS.PNA036_1.KTPRA.F.F10,101,String,"Недостоверность измерений температуры нижнего подшипника ЭД. Есть параметр защиты"
+MNS.PNA036_1.KTPRA.F.F10,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6822) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(9) Category=()}"
+MNS.PNA036_1.KTPRA.M.Mask10,1, UInt4, 5
+MNS.PNA036_1.KTPRA.M.Mask10,6,Float,1000
+MNS.PNA036_1.KTPRA.M.Mask10,101,String,"Недостоверность измерений температуры нижнего подшипника ЭД. Маска"
+MNS.PNA036_1.KTPRA.M.Mask10,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(7497) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(9) Category=()}"
+MNS.PNA036_1.KTPRA.P.P10,1, UInt4, 5
+MNS.PNA036_1.KTPRA.P.P10,6,Float,1000
+MNS.PNA036_1.KTPRA.P.P10,101,String,"Недостоверность измерений температуры нижнего подшипника ЭД"
+MNS.PNA036_1.KTPRA.P.P10,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6814) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(9) Category=()}"
+MNS.PNA036_1.KTPRA.F.F11,1, UInt4, 5
+MNS.PNA036_1.KTPRA.F.F11,6,Float,1000
+MNS.PNA036_1.KTPRA.F.F11,101,String,"Недостоверность измерений температуры верхнего подшипника ЭД (точка 1). Есть параметр защиты"
+MNS.PNA036_1.KTPRA.F.F11,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6822) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(10) Category=()}"
+MNS.PNA036_1.KTPRA.M.Mask11,1, UInt4, 5
+MNS.PNA036_1.KTPRA.M.Mask11,6,Float,1000
+MNS.PNA036_1.KTPRA.M.Mask11,101,String,"Недостоверность измерений температуры верхнего подшипника ЭД (точка 1). Маска"
+MNS.PNA036_1.KTPRA.M.Mask11,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(7497) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(10) Category=()}"
+MNS.PNA036_1.KTPRA.P.P11,1, UInt4, 5
+MNS.PNA036_1.KTPRA.P.P11,6,Float,1000
+MNS.PNA036_1.KTPRA.P.P11,101,String,"Недостоверность измерений температуры верхнего подшипника ЭД (точка 1)"
+MNS.PNA036_1.KTPRA.P.P11,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6814) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(10) Category=()}"
+MNS.PNA036_1.KTPRA.F.F12,1, UInt4, 5
+MNS.PNA036_1.KTPRA.F.F12,6,Float,1000
+MNS.PNA036_1.KTPRA.F.F12,101,String,"Недостоверность измерений температуры верхнего подшипника ЭД (точка 2). Есть параметр защиты"
+MNS.PNA036_1.KTPRA.F.F12,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6822) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(11) Category=()}"
+MNS.PNA036_1.KTPRA.M.Mask12,1, UInt4, 5
+MNS.PNA036_1.KTPRA.M.Mask12,6,Float,1000
+MNS.PNA036_1.KTPRA.M.Mask12,101,String,"Недостоверность измерений температуры верхнего подшипника ЭД (точка 2). Маска"
+MNS.PNA036_1.KTPRA.M.Mask12,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(7497) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(11) Category=()}"
+MNS.PNA036_1.KTPRA.P.P12,1, UInt4, 5
+MNS.PNA036_1.KTPRA.P.P12,6,Float,1000
+MNS.PNA036_1.KTPRA.P.P12,101,String,"Недостоверность измерений температуры верхнего подшипника ЭД (точка 2)"
+MNS.PNA036_1.KTPRA.P.P12,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6814) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(11) Category=()}"
+MNS.PNA036_1.KTPRA.F.F13,1, UInt4, 5
+MNS.PNA036_1.KTPRA.F.F13,6,Float,1000
+MNS.PNA036_1.KTPRA.F.F13,101,String,"Aварийные утечки через торцевое уплотнение насоса. Есть параметр защиты"
+MNS.PNA036_1.KTPRA.F.F13,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6822) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(12) Category=()}"
+MNS.PNA036_1.KTPRA.M.Mask13,1, UInt4, 5
+MNS.PNA036_1.KTPRA.M.Mask13,6,Float,1000
+MNS.PNA036_1.KTPRA.M.Mask13,101,String,"Aварийные утечки через торцевое уплотнение насоса. Маска"
+MNS.PNA036_1.KTPRA.M.Mask13,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(7497) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(12) Category=()}"
+MNS.PNA036_1.KTPRA.P.P13,1, UInt4, 5
+MNS.PNA036_1.KTPRA.P.P13,6,Float,1000
+MNS.PNA036_1.KTPRA.P.P13,101,String,"Aварийные утечки через торцевое уплотнение насоса"
+MNS.PNA036_1.KTPRA.P.P13,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6814) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(12) Category=()}"
+MNS.PNA036_1.KTPRA.F.F14,1, UInt4, 5
+MNS.PNA036_1.KTPRA.F.F14,6,Float,1000
+MNS.PNA036_1.KTPRA.F.F14,101,String,"Аварийная максимальная вибрация опорно-упорного подшипника насоса в нестац. режиме (горизонтальная) . Есть параметр защиты"
+MNS.PNA036_1.KTPRA.F.F14,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6822) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(13) Category=()}"
+MNS.PNA036_1.KTPRA.M.Mask14,1, UInt4, 5
+MNS.PNA036_1.KTPRA.M.Mask14,6,Float,1000
+MNS.PNA036_1.KTPRA.M.Mask14,101,String,"Аварийная максимальная вибрация опорно-упорного подшипника насоса в нестац. режиме (горизонтальная) . Маска"
+MNS.PNA036_1.KTPRA.M.Mask14,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(7497) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(13) Category=()}"
+MNS.PNA036_1.KTPRA.P.P14,1, UInt4, 5
+MNS.PNA036_1.KTPRA.P.P14,6,Float,1000
+MNS.PNA036_1.KTPRA.P.P14,101,String,"Аварийная максимальная вибрация опорно-упорного подшипника насоса в нестац. режиме (горизонтальная) "
+MNS.PNA036_1.KTPRA.P.P14,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6814) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(13) Category=()}"
+MNS.PNA036_1.KTPRA.F.F15,1, UInt4, 5
+MNS.PNA036_1.KTPRA.F.F15,6,Float,1000
+MNS.PNA036_1.KTPRA.F.F15,101,String,"Аварийная максимальная вибрация опорно-упорного подшипника насоса в нестац. режиме (поперечная) . Есть параметр защиты"
+MNS.PNA036_1.KTPRA.F.F15,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6822) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(14) Category=()}"
+MNS.PNA036_1.KTPRA.M.Mask15,1, UInt4, 5
+MNS.PNA036_1.KTPRA.M.Mask15,6,Float,1000
+MNS.PNA036_1.KTPRA.M.Mask15,101,String,"Аварийная максимальная вибрация опорно-упорного подшипника насоса в нестац. режиме (поперечная) . Маска"
+MNS.PNA036_1.KTPRA.M.Mask15,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(7497) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(14) Category=()}"
+MNS.PNA036_1.KTPRA.P.P15,1, UInt4, 5
+MNS.PNA036_1.KTPRA.P.P15,6,Float,1000
+MNS.PNA036_1.KTPRA.P.P15,101,String,"Аварийная максимальная вибрация опорно-упорного подшипника насоса в нестац. режиме (поперечная) "
+MNS.PNA036_1.KTPRA.P.P15,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6814) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(14) Category=()}"
+MNS.PNA036_1.KTPRA.F.F16,1, UInt4, 5
+MNS.PNA036_1.KTPRA.F.F16,6,Float,1000
+MNS.PNA036_1.KTPRA.F.F16,101,String,"Аварийная максимальная вибрация опорно-упорного подшипника насоса в стац. режиме (горизонтальная) . Порог 1. Есть параметр защиты"
+MNS.PNA036_1.KTPRA.F.F16,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6822) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(15) Category=()}"
+MNS.PNA036_1.KTPRA.M.Mask16,1, UInt4, 5
+MNS.PNA036_1.KTPRA.M.Mask16,6,Float,1000
+MNS.PNA036_1.KTPRA.M.Mask16,101,String,"Аварийная максимальная вибрация опорно-упорного подшипника насоса в стац. режиме (горизонтальная) . Порог 1. Маска"
+MNS.PNA036_1.KTPRA.M.Mask16,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(7497) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(15) Category=()}"
+MNS.PNA036_1.KTPRA.P.P16,1, UInt4, 5
+MNS.PNA036_1.KTPRA.P.P16,6,Float,1000
+MNS.PNA036_1.KTPRA.P.P16,101,String,"Аварийная максимальная вибрация опорно-упорного подшипника насоса в стац. режиме (горизонтальная) . Порог 1"
+MNS.PNA036_1.KTPRA.P.P16,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6814) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(15) Category=()}"
+MNS.PNA036_1.KTPRA.F.F17,1, UInt4, 5
+MNS.PNA036_1.KTPRA.F.F17,6,Float,1000
+MNS.PNA036_1.KTPRA.F.F17,101,String,"Аварийная максимальная вибрация опорно-упорного подшипника насоса в стац. режиме (поперечная) . Порог 1. Есть параметр защиты"
+MNS.PNA036_1.KTPRA.F.F17,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6823) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(0) Category=()}"
+MNS.PNA036_1.KTPRA.M.Mask17,1, UInt4, 5
+MNS.PNA036_1.KTPRA.M.Mask17,6,Float,1000
+MNS.PNA036_1.KTPRA.M.Mask17,101,String,"Аварийная максимальная вибрация опорно-упорного подшипника насоса в стац. режиме (поперечная) . Порог 1. Маска"
+MNS.PNA036_1.KTPRA.M.Mask17,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(7498) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(0) Category=()}"
+MNS.PNA036_1.KTPRA.P.P17,1, UInt4, 5
+MNS.PNA036_1.KTPRA.P.P17,6,Float,1000
+MNS.PNA036_1.KTPRA.P.P17,101,String,"Аварийная максимальная вибрация опорно-упорного подшипника насоса в стац. режиме (поперечная) . Порог 1"
+MNS.PNA036_1.KTPRA.P.P17,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6815) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(0) Category=()}"
+MNS.PNA036_1.KTPRA.F.F18,1, UInt4, 5
+MNS.PNA036_1.KTPRA.F.F18,6,Float,1000
+MNS.PNA036_1.KTPRA.F.F18,101,String,"Аварийная максимальная вибрация опорно-упорного подшипника насоса (горизонтальная) . Порог 2. Есть параметр защиты"
+MNS.PNA036_1.KTPRA.F.F18,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6823) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(1) Category=()}"
+MNS.PNA036_1.KTPRA.M.Mask18,1, UInt4, 5
+MNS.PNA036_1.KTPRA.M.Mask18,6,Float,1000
+MNS.PNA036_1.KTPRA.M.Mask18,101,String,"Аварийная максимальная вибрация опорно-упорного подшипника насоса (горизонтальная) . Порог 2. Маска"
+MNS.PNA036_1.KTPRA.M.Mask18,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(7498) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(1) Category=()}"
+MNS.PNA036_1.KTPRA.P.P18,1, UInt4, 5
+MNS.PNA036_1.KTPRA.P.P18,6,Float,1000
+MNS.PNA036_1.KTPRA.P.P18,101,String,"Аварийная максимальная вибрация опорно-упорного подшипника насоса (горизонтальная) . Порог 2"
+MNS.PNA036_1.KTPRA.P.P18,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6815) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(1) Category=()}"
+MNS.PNA036_1.KTPRA.F.F19,1, UInt4, 5
+MNS.PNA036_1.KTPRA.F.F19,6,Float,1000
+MNS.PNA036_1.KTPRA.F.F19,101,String,"Аварийная максимальная вибрация опорно-упорного подшипника насоса (поперечная) . Порог 2. Есть параметр защиты"
+MNS.PNA036_1.KTPRA.F.F19,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6823) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(2) Category=()}"
+MNS.PNA036_1.KTPRA.M.Mask19,1, UInt4, 5
+MNS.PNA036_1.KTPRA.M.Mask19,6,Float,1000
+MNS.PNA036_1.KTPRA.M.Mask19,101,String,"Аварийная максимальная вибрация опорно-упорного подшипника насоса (поперечная) . Порог 2. Маска"
+MNS.PNA036_1.KTPRA.M.Mask19,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(7498) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(2) Category=()}"
+MNS.PNA036_1.KTPRA.P.P19,1, UInt4, 5
+MNS.PNA036_1.KTPRA.P.P19,6,Float,1000
+MNS.PNA036_1.KTPRA.P.P19,101,String,"Аварийная максимальная вибрация опорно-упорного подшипника насоса (поперечная) . Порог 2"
+MNS.PNA036_1.KTPRA.P.P19,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6815) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(2) Category=()}"
+MNS.PNA036_1.KTPRA.F.F20,1, UInt4, 5
+MNS.PNA036_1.KTPRA.F.F20,6,Float,1000
+MNS.PNA036_1.KTPRA.F.F20,101,String,"Недостоверность измерений вибрации в группе преобразователей (насос). Есть параметр защиты"
+MNS.PNA036_1.KTPRA.F.F20,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6823) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(3) Category=()}"
+MNS.PNA036_1.KTPRA.M.Mask20,1, UInt4, 5
+MNS.PNA036_1.KTPRA.M.Mask20,6,Float,1000
+MNS.PNA036_1.KTPRA.M.Mask20,101,String,"Недостоверность измерений вибрации в группе преобразователей (насос). Маска"
+MNS.PNA036_1.KTPRA.M.Mask20,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(7498) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(3) Category=()}"
+MNS.PNA036_1.KTPRA.P.P20,1, UInt4, 5
+MNS.PNA036_1.KTPRA.P.P20,6,Float,1000
+MNS.PNA036_1.KTPRA.P.P20,101,String,"Недостоверность измерений вибрации в группе преобразователей (насос)"
+MNS.PNA036_1.KTPRA.P.P20,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6815) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(3) Category=()}"
+MNS.PNA036_1.KTPRA.F.F21,1, UInt4, 5
+MNS.PNA036_1.KTPRA.F.F21,6,Float,1000
+MNS.PNA036_1.KTPRA.F.F21,101,String,"Аварийное минимальное давление на выходе работающего ПНА . Есть параметр защиты"
+MNS.PNA036_1.KTPRA.F.F21,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6823) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(4) Category=()}"
+MNS.PNA036_1.KTPRA.M.Mask21,1, UInt4, 5
+MNS.PNA036_1.KTPRA.M.Mask21,6,Float,1000
+MNS.PNA036_1.KTPRA.M.Mask21,101,String,"Аварийное минимальное давление на выходе работающего ПНА . Маска"
+MNS.PNA036_1.KTPRA.M.Mask21,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(7498) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(4) Category=()}"
+MNS.PNA036_1.KTPRA.P.P21,1, UInt4, 5
+MNS.PNA036_1.KTPRA.P.P21,6,Float,1000
+MNS.PNA036_1.KTPRA.P.P21,101,String,"Аварийное минимальное давление на выходе работающего ПНА "
+MNS.PNA036_1.KTPRA.P.P21,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6815) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(4) Category=()}"
+MNS.PNA036_1.KTPRA.F.F22,1, UInt4, 5
+MNS.PNA036_1.KTPRA.F.F22,6,Float,1000
+MNS.PNA036_1.KTPRA.F.F22,101,String,"Закрытие агрегатных задвижек работающего агрегата. Есть параметр защиты"
+MNS.PNA036_1.KTPRA.F.F22,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6823) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(5) Category=()}"
+MNS.PNA036_1.KTPRA.M.Mask22,1, UInt4, 5
+MNS.PNA036_1.KTPRA.M.Mask22,6,Float,1000
+MNS.PNA036_1.KTPRA.M.Mask22,101,String,"Закрытие агрегатных задвижек работающего агрегата. Маска"
+MNS.PNA036_1.KTPRA.M.Mask22,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(7498) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(5) Category=()}"
+MNS.PNA036_1.KTPRA.P.P22,1, UInt4, 5
+MNS.PNA036_1.KTPRA.P.P22,6,Float,1000
+MNS.PNA036_1.KTPRA.P.P22,101,String,"Закрытие агрегатных задвижек работающего агрегата"
+MNS.PNA036_1.KTPRA.P.P22,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6815) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(5) Category=()}"
+MNS.PNA036_1.KTPRA.F.F23,1, UInt4, 5
+MNS.PNA036_1.KTPRA.F.F23,6,Float,1000
+MNS.PNA036_1.KTPRA.F.F23,101,String,"Невыполнение программы пуска агрегата ПНА. Есть параметр защиты"
+MNS.PNA036_1.KTPRA.F.F23,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6823) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(6) Category=()}"
+MNS.PNA036_1.KTPRA.M.Mask23,1, UInt4, 5
+MNS.PNA036_1.KTPRA.M.Mask23,6,Float,1000
+MNS.PNA036_1.KTPRA.M.Mask23,101,String,"Невыполнение программы пуска агрегата ПНА. Маска"
+MNS.PNA036_1.KTPRA.M.Mask23,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(7498) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(6) Category=()}"
+MNS.PNA036_1.KTPRA.P.P23,1, UInt4, 5
+MNS.PNA036_1.KTPRA.P.P23,6,Float,1000
+MNS.PNA036_1.KTPRA.P.P23,101,String,"Невыполнение программы пуска агрегата ПНА"
+MNS.PNA036_1.KTPRA.P.P23,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6815) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(6) Category=()}"
+MNS.PNA036_1.KTPRA.F.F24,1, UInt4, 5
+MNS.PNA036_1.KTPRA.F.F24,6,Float,1000
+MNS.PNA036_1.KTPRA.F.F24,101,String,"Невыполнение команды остановки ПНА. Есть параметр защиты"
+MNS.PNA036_1.KTPRA.F.F24,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6823) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(7) Category=()}"
+MNS.PNA036_1.KTPRA.M.Mask24,1, UInt4, 5
+MNS.PNA036_1.KTPRA.M.Mask24,6,Float,1000
+MNS.PNA036_1.KTPRA.M.Mask24,101,String,"Невыполнение команды остановки ПНА. Маска"
+MNS.PNA036_1.KTPRA.M.Mask24,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(7498) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(7) Category=()}"
+MNS.PNA036_1.KTPRA.P.P24,1, UInt4, 5
+MNS.PNA036_1.KTPRA.P.P24,6,Float,1000
+MNS.PNA036_1.KTPRA.P.P24,101,String,"Невыполнение команды остановки ПНА"
+MNS.PNA036_1.KTPRA.P.P24,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6815) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(7) Category=()}"
+MNS.PNA036_1.KTPRA.F.F25,1, UInt4, 5
+MNS.PNA036_1.KTPRA.F.F25,6,Float,1000
+MNS.PNA036_1.KTPRA.F.F25,101,String,"Невыполнение команды отключения НВ ПНА. Есть параметр защиты"
+MNS.PNA036_1.KTPRA.F.F25,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6823) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(8) Category=()}"
+MNS.PNA036_1.KTPRA.M.Mask25,1, UInt4, 5
+MNS.PNA036_1.KTPRA.M.Mask25,6,Float,1000
+MNS.PNA036_1.KTPRA.M.Mask25,101,String,"Невыполнение команды отключения НВ ПНА. Маска"
+MNS.PNA036_1.KTPRA.M.Mask25,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(7498) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(8) Category=()}"
+MNS.PNA036_1.KTPRA.P.P25,1, UInt4, 5
+MNS.PNA036_1.KTPRA.P.P25,6,Float,1000
+MNS.PNA036_1.KTPRA.P.P25,101,String,"Невыполнение команды отключения НВ ПНА"
+MNS.PNA036_1.KTPRA.P.P25,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6815) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(8) Category=()}"
+MNS.PNA036_1.KTPRA.F.F26,1, UInt4, 5
+MNS.PNA036_1.KTPRA.F.F26,6,Float,1000
+MNS.PNA036_1.KTPRA.F.F26,101,String,"Неисправность цепей отключения НВ ПНА (в т.ч. отсутствие питания цепей управления). Есть параметр защиты"
+MNS.PNA036_1.KTPRA.F.F26,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6823) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(9) Category=()}"
+MNS.PNA036_1.KTPRA.M.Mask26,1, UInt4, 5
+MNS.PNA036_1.KTPRA.M.Mask26,6,Float,1000
+MNS.PNA036_1.KTPRA.M.Mask26,101,String,"Неисправность цепей отключения НВ ПНА (в т.ч. отсутствие питания цепей управления). Маска"
+MNS.PNA036_1.KTPRA.M.Mask26,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(7498) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(9) Category=()}"
+MNS.PNA036_1.KTPRA.P.P26,1, UInt4, 5
+MNS.PNA036_1.KTPRA.P.P26,6,Float,1000
+MNS.PNA036_1.KTPRA.P.P26,101,String,"Неисправность цепей отключения НВ ПНА (в т.ч. отсутствие питания цепей управления)"
+MNS.PNA036_1.KTPRA.P.P26,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6815) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(9) Category=()}"
+MNS.PNA036_1.KTPRA.F.F27,1, UInt4, 5
+MNS.PNA036_1.KTPRA.F.F27,6,Float,1000
+MNS.PNA036_1.KTPRA.F.F27,101,String,"Несанкционированное отключение ПНА. Есть параметр защиты"
+MNS.PNA036_1.KTPRA.F.F27,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6823) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(10) Category=()}"
+MNS.PNA036_1.KTPRA.M.Mask27,1, UInt4, 5
+MNS.PNA036_1.KTPRA.M.Mask27,6,Float,1000
+MNS.PNA036_1.KTPRA.M.Mask27,101,String,"Несанкционированное отключение ПНА. Маска"
+MNS.PNA036_1.KTPRA.M.Mask27,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(7498) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(10) Category=()}"
+MNS.PNA036_1.KTPRA.P.P27,1, UInt4, 5
+MNS.PNA036_1.KTPRA.P.P27,6,Float,1000
+MNS.PNA036_1.KTPRA.P.P27,101,String,"Несанкционированное отключение ПНА"
+MNS.PNA036_1.KTPRA.P.P27,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6815) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(10) Category=()}"
+MNS.PNA036_1.KTPRA.F.F28,1, UInt4, 5
+MNS.PNA036_1.KTPRA.F.F28,6,Float,1000
+MNS.PNA036_1.KTPRA.F.F28,101,String,"Несанкционированное включение ПНА. Есть параметр защиты"
+MNS.PNA036_1.KTPRA.F.F28,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6823) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(11) Category=()}"
+MNS.PNA036_1.KTPRA.M.Mask28,1, UInt4, 5
+MNS.PNA036_1.KTPRA.M.Mask28,6,Float,1000
+MNS.PNA036_1.KTPRA.M.Mask28,101,String,"Несанкционированное включение ПНА. Маска"
+MNS.PNA036_1.KTPRA.M.Mask28,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(7498) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(11) Category=()}"
+MNS.PNA036_1.KTPRA.P.P28,1, UInt4, 5
+MNS.PNA036_1.KTPRA.P.P28,6,Float,1000
+MNS.PNA036_1.KTPRA.P.P28,101,String,"Несанкционированное включение ПНА"
+MNS.PNA036_1.KTPRA.P.P28,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6815) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(11) Category=()}"
+MNS.PNA036_1.KTPRA.F.F29,1, UInt4, 5
+MNS.PNA036_1.KTPRA.F.F29,6,Float,1000
+MNS.PNA036_1.KTPRA.F.F29,101,String,"Неисправность цепей контроля ПНА. Есть параметр защиты"
+MNS.PNA036_1.KTPRA.F.F29,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6823) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(12) Category=()}"
+MNS.PNA036_1.KTPRA.M.Mask29,1, UInt4, 5
+MNS.PNA036_1.KTPRA.M.Mask29,6,Float,1000
+MNS.PNA036_1.KTPRA.M.Mask29,101,String,"Неисправность цепей контроля ПНА. Маска"
+MNS.PNA036_1.KTPRA.M.Mask29,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(7498) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(12) Category=()}"
+MNS.PNA036_1.KTPRA.P.P29,1, UInt4, 5
+MNS.PNA036_1.KTPRA.P.P29,6,Float,1000
+MNS.PNA036_1.KTPRA.P.P29,101,String,"Неисправность цепей контроля ПНА"
+MNS.PNA036_1.KTPRA.P.P29,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6815) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(12) Category=()}"
+MNS.PNA036_1.KTPRA.F.F30,1, UInt4, 5
+MNS.PNA036_1.KTPRA.F.F30,6,Float,1000
+MNS.PNA036_1.KTPRA.F.F30,101,String,"Аварийное отключение агрегата ПНА кнопкой Стоп по месту. Есть параметр защиты"
+MNS.PNA036_1.KTPRA.F.F30,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6823) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(13) Category=()}"
+MNS.PNA036_1.KTPRA.M.Mask30,1, UInt4, 5
+MNS.PNA036_1.KTPRA.M.Mask30,6,Float,1000
+MNS.PNA036_1.KTPRA.M.Mask30,101,String,"Аварийное отключение агрегата ПНА кнопкой Стоп по месту. Маска"
+MNS.PNA036_1.KTPRA.M.Mask30,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(7498) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(13) Category=()}"
+MNS.PNA036_1.KTPRA.P.P30,1, UInt4, 5
+MNS.PNA036_1.KTPRA.P.P30,6,Float,1000
+MNS.PNA036_1.KTPRA.P.P30,101,String,"Аварийное отключение агрегата ПНА кнопкой Стоп по месту"
+MNS.PNA036_1.KTPRA.P.P30,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6815) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(13) Category=()}"
+MNS.PNA036_1.KTPRA.F.F31,1, UInt4, 5
+MNS.PNA036_1.KTPRA.F.F31,6,Float,1000
+MNS.PNA036_1.KTPRA.F.F31,101,String,"Аварийное отключение агрегата ПНА кнопкой Стоп с БРУ. Есть параметр защиты"
+MNS.PNA036_1.KTPRA.F.F31,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6823) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(14) Category=()}"
+MNS.PNA036_1.KTPRA.M.Mask31,1, UInt4, 5
+MNS.PNA036_1.KTPRA.M.Mask31,6,Float,1000
+MNS.PNA036_1.KTPRA.M.Mask31,101,String,"Аварийное отключение агрегата ПНА кнопкой Стоп с БРУ. Маска"
+MNS.PNA036_1.KTPRA.M.Mask31,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(7498) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(14) Category=()}"
+MNS.PNA036_1.KTPRA.P.P31,1, UInt4, 5
+MNS.PNA036_1.KTPRA.P.P31,6,Float,1000
+MNS.PNA036_1.KTPRA.P.P31,101,String,"Аварийное отключение агрегата ПНА кнопкой Стоп с БРУ"
+MNS.PNA036_1.KTPRA.P.P31,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6815) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(14) Category=()}"
+MNS.PNA036_1.KTPRA.F.F32,1, UInt4, 5
+MNS.PNA036_1.KTPRA.F.F32,6,Float,1000
+MNS.PNA036_1.KTPRA.F.F32,101,String,"Авария ЧРП. Есть параметр защиты"
+MNS.PNA036_1.KTPRA.F.F32,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6823) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(15) Category=()}"
+MNS.PNA036_1.KTPRA.M.Mask32,1, UInt4, 5
+MNS.PNA036_1.KTPRA.M.Mask32,6,Float,1000
+MNS.PNA036_1.KTPRA.M.Mask32,101,String,"Авария ЧРП. Маска"
+MNS.PNA036_1.KTPRA.M.Mask32,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(7498) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(15) Category=()}"
+MNS.PNA036_1.KTPRA.P.P32,1, UInt4, 5
+MNS.PNA036_1.KTPRA.P.P32,6,Float,1000
+MNS.PNA036_1.KTPRA.P.P32,101,String,"Авария ЧРП"
+MNS.PNA036_1.KTPRA.P.P32,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6815) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(15) Category=()}"
+MNS.PNA036_1.KTPRA.F.F33,1, UInt4, 5
+MNS.PNA036_1.KTPRA.F.F33,6,Float,1000
+MNS.PNA036_1.KTPRA.F.F33,101,String,"Невыполнение ЧРП включенного ПНА команд регулирования. Есть параметр защиты"
+MNS.PNA036_1.KTPRA.F.F33,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6824) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(0) Category=()}"
+MNS.PNA036_1.KTPRA.M.Mask33,1, UInt4, 5
+MNS.PNA036_1.KTPRA.M.Mask33,6,Float,1000
+MNS.PNA036_1.KTPRA.M.Mask33,101,String,"Невыполнение ЧРП включенного ПНА команд регулирования. Маска"
+MNS.PNA036_1.KTPRA.M.Mask33,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(7499) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(0) Category=()}"
+MNS.PNA036_1.KTPRA.P.P33,1, UInt4, 5
+MNS.PNA036_1.KTPRA.P.P33,6,Float,1000
+MNS.PNA036_1.KTPRA.P.P33,101,String,"Невыполнение ЧРП включенного ПНА команд регулирования"
+MNS.PNA036_1.KTPRA.P.P33,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6816) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(0) Category=()}"
+MNS.PNA036_2.KTPRA.ObjName,1, UInt4, 9
+MNS.PNA036_2.KTPRA.ObjName,101,String,"Карта агрегатных защит ПНА №036.2"
+MNS.PNA036_2.KTPRA.ObjName,3,UInt4,192
+MNS.PNA036_2.KTPRA.F,1, UInt4, 5
+MNS.PNA036_2.KTPRA.F,6,Float,1000
+MNS.PNA036_2.KTPRA.F,101,String,"Есть параметр защиты"
+MNS.PNA036_2.KTPRA.F,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6798) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(1) Category=()}"
+MNS.PNA036_2.KTPRA.M,1, UInt4, 5
+MNS.PNA036_2.KTPRA.M,6,Float,1000
+MNS.PNA036_2.KTPRA.M,101,String,"Есть маска"
+MNS.PNA036_2.KTPRA.M,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6799) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(1) Category=()}"
+MNS.PNA036_2.KTPRA.P,1, UInt4, 5
+MNS.PNA036_2.KTPRA.P,6,Float,1000
+MNS.PNA036_2.KTPRA.P,101,String,"Есть защита"
+MNS.PNA036_2.KTPRA.P,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6800) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(1) Category=()}"
+MNS.PNA036_2.KTPRA.F.F1,1, UInt4, 5
+MNS.PNA036_2.KTPRA.F.F1,6,Float,1000
+MNS.PNA036_2.KTPRA.F.F1,101,String,"Аварийная максимальная температура нефти на выходе из насоса. Есть параметр защиты"
+MNS.PNA036_2.KTPRA.F.F1,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6838) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(0) Category=()}"
+MNS.PNA036_2.KTPRA.M.Mask1,1, UInt4, 5
+MNS.PNA036_2.KTPRA.M.Mask1,6,Float,1000
+MNS.PNA036_2.KTPRA.M.Mask1,101,String,"Аварийная максимальная температура нефти на выходе из насоса. Маска"
+MNS.PNA036_2.KTPRA.M.Mask1,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(7505) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(0) Category=()}"
+MNS.PNA036_2.KTPRA.P.P1,1, UInt4, 5
+MNS.PNA036_2.KTPRA.P.P1,6,Float,1000
+MNS.PNA036_2.KTPRA.P.P1,101,String,"Аварийная максимальная температура нефти на выходе из насоса"
+MNS.PNA036_2.KTPRA.P.P1,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6830) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(0) Category=()}"
+MNS.PNA036_2.KTPRA.F.F2,1, UInt4, 5
+MNS.PNA036_2.KTPRA.F.F2,6,Float,1000
+MNS.PNA036_2.KTPRA.F.F2,101,String,"Недостоверность измерений температуры корпуса насоса. Есть параметр защиты"
+MNS.PNA036_2.KTPRA.F.F2,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6838) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(1) Category=()}"
+MNS.PNA036_2.KTPRA.M.Mask2,1, UInt4, 5
+MNS.PNA036_2.KTPRA.M.Mask2,6,Float,1000
+MNS.PNA036_2.KTPRA.M.Mask2,101,String,"Недостоверность измерений температуры корпуса насоса. Маска"
+MNS.PNA036_2.KTPRA.M.Mask2,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(7505) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(1) Category=()}"
+MNS.PNA036_2.KTPRA.P.P2,1, UInt4, 5
+MNS.PNA036_2.KTPRA.P.P2,6,Float,1000
+MNS.PNA036_2.KTPRA.P.P2,101,String,"Недостоверность измерений температуры корпуса насоса"
+MNS.PNA036_2.KTPRA.P.P2,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6830) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(1) Category=()}"
+MNS.PNA036_2.KTPRA.F.F3,1, UInt4, 5
+MNS.PNA036_2.KTPRA.F.F3,6,Float,1000
+MNS.PNA036_2.KTPRA.F.F3,101,String,"Аварийная максимальная температура опорно-упорного подшипника насоса (точка 1). Есть параметр защиты"
+MNS.PNA036_2.KTPRA.F.F3,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6838) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(2) Category=()}"
+MNS.PNA036_2.KTPRA.M.Mask3,1, UInt4, 5
+MNS.PNA036_2.KTPRA.M.Mask3,6,Float,1000
+MNS.PNA036_2.KTPRA.M.Mask3,101,String,"Аварийная максимальная температура опорно-упорного подшипника насоса (точка 1). Маска"
+MNS.PNA036_2.KTPRA.M.Mask3,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(7505) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(2) Category=()}"
+MNS.PNA036_2.KTPRA.P.P3,1, UInt4, 5
+MNS.PNA036_2.KTPRA.P.P3,6,Float,1000
+MNS.PNA036_2.KTPRA.P.P3,101,String,"Аварийная максимальная температура опорно-упорного подшипника насоса (точка 1)"
+MNS.PNA036_2.KTPRA.P.P3,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6830) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(2) Category=()}"
+MNS.PNA036_2.KTPRA.F.F4,1, UInt4, 5
+MNS.PNA036_2.KTPRA.F.F4,6,Float,1000
+MNS.PNA036_2.KTPRA.F.F4,101,String,"Аварийная максимальная температура опорно-упорного подшипника насоса (точка 2). Есть параметр защиты"
+MNS.PNA036_2.KTPRA.F.F4,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6838) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(3) Category=()}"
+MNS.PNA036_2.KTPRA.M.Mask4,1, UInt4, 5
+MNS.PNA036_2.KTPRA.M.Mask4,6,Float,1000
+MNS.PNA036_2.KTPRA.M.Mask4,101,String,"Аварийная максимальная температура опорно-упорного подшипника насоса (точка 2). Маска"
+MNS.PNA036_2.KTPRA.M.Mask4,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(7505) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(3) Category=()}"
+MNS.PNA036_2.KTPRA.P.P4,1, UInt4, 5
+MNS.PNA036_2.KTPRA.P.P4,6,Float,1000
+MNS.PNA036_2.KTPRA.P.P4,101,String,"Аварийная максимальная температура опорно-упорного подшипника насоса (точка 2)"
+MNS.PNA036_2.KTPRA.P.P4,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6830) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(3) Category=()}"
+MNS.PNA036_2.KTPRA.F.F5,1, UInt4, 5
+MNS.PNA036_2.KTPRA.F.F5,6,Float,1000
+MNS.PNA036_2.KTPRA.F.F5,101,String,"Аварийная максимальная температура нижнего подшипника ЭД. Есть параметр защиты"
+MNS.PNA036_2.KTPRA.F.F5,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6838) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(4) Category=()}"
+MNS.PNA036_2.KTPRA.M.Mask5,1, UInt4, 5
+MNS.PNA036_2.KTPRA.M.Mask5,6,Float,1000
+MNS.PNA036_2.KTPRA.M.Mask5,101,String,"Аварийная максимальная температура нижнего подшипника ЭД. Маска"
+MNS.PNA036_2.KTPRA.M.Mask5,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(7505) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(4) Category=()}"
+MNS.PNA036_2.KTPRA.P.P5,1, UInt4, 5
+MNS.PNA036_2.KTPRA.P.P5,6,Float,1000
+MNS.PNA036_2.KTPRA.P.P5,101,String,"Аварийная максимальная температура нижнего подшипника ЭД"
+MNS.PNA036_2.KTPRA.P.P5,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6830) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(4) Category=()}"
+MNS.PNA036_2.KTPRA.F.F6,1, UInt4, 5
+MNS.PNA036_2.KTPRA.F.F6,6,Float,1000
+MNS.PNA036_2.KTPRA.F.F6,101,String,"Аварийная максимальная температура верхнего подшипника ЭД (точка 1). Есть параметр защиты"
+MNS.PNA036_2.KTPRA.F.F6,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6838) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(5) Category=()}"
+MNS.PNA036_2.KTPRA.M.Mask6,1, UInt4, 5
+MNS.PNA036_2.KTPRA.M.Mask6,6,Float,1000
+MNS.PNA036_2.KTPRA.M.Mask6,101,String,"Аварийная максимальная температура верхнего подшипника ЭД (точка 1). Маска"
+MNS.PNA036_2.KTPRA.M.Mask6,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(7505) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(5) Category=()}"
+MNS.PNA036_2.KTPRA.P.P6,1, UInt4, 5
+MNS.PNA036_2.KTPRA.P.P6,6,Float,1000
+MNS.PNA036_2.KTPRA.P.P6,101,String,"Аварийная максимальная температура верхнего подшипника ЭД (точка 1)"
+MNS.PNA036_2.KTPRA.P.P6,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6830) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(5) Category=()}"
+MNS.PNA036_2.KTPRA.F.F7,1, UInt4, 5
+MNS.PNA036_2.KTPRA.F.F7,6,Float,1000
+MNS.PNA036_2.KTPRA.F.F7,101,String,"Аварийная максимальная температура верхнего подшипника ЭД (точка 2). Есть параметр защиты"
+MNS.PNA036_2.KTPRA.F.F7,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6838) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(6) Category=()}"
+MNS.PNA036_2.KTPRA.M.Mask7,1, UInt4, 5
+MNS.PNA036_2.KTPRA.M.Mask7,6,Float,1000
+MNS.PNA036_2.KTPRA.M.Mask7,101,String,"Аварийная максимальная температура верхнего подшипника ЭД (точка 2). Маска"
+MNS.PNA036_2.KTPRA.M.Mask7,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(7505) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(6) Category=()}"
+MNS.PNA036_2.KTPRA.P.P7,1, UInt4, 5
+MNS.PNA036_2.KTPRA.P.P7,6,Float,1000
+MNS.PNA036_2.KTPRA.P.P7,101,String,"Аварийная максимальная температура верхнего подшипника ЭД (точка 2)"
+MNS.PNA036_2.KTPRA.P.P7,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6830) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(6) Category=()}"
+MNS.PNA036_2.KTPRA.F.F8,1, UInt4, 5
+MNS.PNA036_2.KTPRA.F.F8,6,Float,1000
+MNS.PNA036_2.KTPRA.F.F8,101,String,"Недостоверность измерений температуры опорно-упорного подшипника насоса (точка 1). Есть параметр защиты"
+MNS.PNA036_2.KTPRA.F.F8,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6838) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(7) Category=()}"
+MNS.PNA036_2.KTPRA.M.Mask8,1, UInt4, 5
+MNS.PNA036_2.KTPRA.M.Mask8,6,Float,1000
+MNS.PNA036_2.KTPRA.M.Mask8,101,String,"Недостоверность измерений температуры опорно-упорного подшипника насоса (точка 1). Маска"
+MNS.PNA036_2.KTPRA.M.Mask8,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(7505) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(7) Category=()}"
+MNS.PNA036_2.KTPRA.P.P8,1, UInt4, 5
+MNS.PNA036_2.KTPRA.P.P8,6,Float,1000
+MNS.PNA036_2.KTPRA.P.P8,101,String,"Недостоверность измерений температуры опорно-упорного подшипника насоса (точка 1)"
+MNS.PNA036_2.KTPRA.P.P8,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6830) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(7) Category=()}"
+MNS.PNA036_2.KTPRA.F.F9,1, UInt4, 5
+MNS.PNA036_2.KTPRA.F.F9,6,Float,1000
+MNS.PNA036_2.KTPRA.F.F9,101,String,"Недостоверность измерений температуры опорно-упорного подшипника насоса (точка 2). Есть параметр защиты"
+MNS.PNA036_2.KTPRA.F.F9,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6838) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(8) Category=()}"
+MNS.PNA036_2.KTPRA.M.Mask9,1, UInt4, 5
+MNS.PNA036_2.KTPRA.M.Mask9,6,Float,1000
+MNS.PNA036_2.KTPRA.M.Mask9,101,String,"Недостоверность измерений температуры опорно-упорного подшипника насоса (точка 2). Маска"
+MNS.PNA036_2.KTPRA.M.Mask9,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(7505) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(8) Category=()}"
+MNS.PNA036_2.KTPRA.P.P9,1, UInt4, 5
+MNS.PNA036_2.KTPRA.P.P9,6,Float,1000
+MNS.PNA036_2.KTPRA.P.P9,101,String,"Недостоверность измерений температуры опорно-упорного подшипника насоса (точка 2)"
+MNS.PNA036_2.KTPRA.P.P9,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6830) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(8) Category=()}"
+MNS.PNA036_2.KTPRA.F.F10,1, UInt4, 5
+MNS.PNA036_2.KTPRA.F.F10,6,Float,1000
+MNS.PNA036_2.KTPRA.F.F10,101,String,"Недостоверность измерений температуры нижнего подшипника ЭД. Есть параметр защиты"
+MNS.PNA036_2.KTPRA.F.F10,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6838) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(9) Category=()}"
+MNS.PNA036_2.KTPRA.M.Mask10,1, UInt4, 5
+MNS.PNA036_2.KTPRA.M.Mask10,6,Float,1000
+MNS.PNA036_2.KTPRA.M.Mask10,101,String,"Недостоверность измерений температуры нижнего подшипника ЭД. Маска"
+MNS.PNA036_2.KTPRA.M.Mask10,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(7505) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(9) Category=()}"
+MNS.PNA036_2.KTPRA.P.P10,1, UInt4, 5
+MNS.PNA036_2.KTPRA.P.P10,6,Float,1000
+MNS.PNA036_2.KTPRA.P.P10,101,String,"Недостоверность измерений температуры нижнего подшипника ЭД"
+MNS.PNA036_2.KTPRA.P.P10,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6830) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(9) Category=()}"
+MNS.PNA036_2.KTPRA.F.F11,1, UInt4, 5
+MNS.PNA036_2.KTPRA.F.F11,6,Float,1000
+MNS.PNA036_2.KTPRA.F.F11,101,String,"Недостоверность измерений температуры верхнего подшипника ЭД (точка 1). Есть параметр защиты"
+MNS.PNA036_2.KTPRA.F.F11,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6838) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(10) Category=()}"
+MNS.PNA036_2.KTPRA.M.Mask11,1, UInt4, 5
+MNS.PNA036_2.KTPRA.M.Mask11,6,Float,1000
+MNS.PNA036_2.KTPRA.M.Mask11,101,String,"Недостоверность измерений температуры верхнего подшипника ЭД (точка 1). Маска"
+MNS.PNA036_2.KTPRA.M.Mask11,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(7505) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(10) Category=()}"
+MNS.PNA036_2.KTPRA.P.P11,1, UInt4, 5
+MNS.PNA036_2.KTPRA.P.P11,6,Float,1000
+MNS.PNA036_2.KTPRA.P.P11,101,String,"Недостоверность измерений температуры верхнего подшипника ЭД (точка 1)"
+MNS.PNA036_2.KTPRA.P.P11,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6830) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(10) Category=()}"
+MNS.PNA036_2.KTPRA.F.F12,1, UInt4, 5
+MNS.PNA036_2.KTPRA.F.F12,6,Float,1000
+MNS.PNA036_2.KTPRA.F.F12,101,String,"Недостоверность измерений температуры верхнего подшипника ЭД (точка 2). Есть параметр защиты"
+MNS.PNA036_2.KTPRA.F.F12,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6838) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(11) Category=()}"
+MNS.PNA036_2.KTPRA.M.Mask12,1, UInt4, 5
+MNS.PNA036_2.KTPRA.M.Mask12,6,Float,1000
+MNS.PNA036_2.KTPRA.M.Mask12,101,String,"Недостоверность измерений температуры верхнего подшипника ЭД (точка 2). Маска"
+MNS.PNA036_2.KTPRA.M.Mask12,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(7505) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(11) Category=()}"
+MNS.PNA036_2.KTPRA.P.P12,1, UInt4, 5
+MNS.PNA036_2.KTPRA.P.P12,6,Float,1000
+MNS.PNA036_2.KTPRA.P.P12,101,String,"Недостоверность измерений температуры верхнего подшипника ЭД (точка 2)"
+MNS.PNA036_2.KTPRA.P.P12,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6830) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(11) Category=()}"
+MNS.PNA036_2.KTPRA.F.F13,1, UInt4, 5
+MNS.PNA036_2.KTPRA.F.F13,6,Float,1000
+MNS.PNA036_2.KTPRA.F.F13,101,String,"Aварийные утечки через торцевое уплотнение насоса. Есть параметр защиты"
+MNS.PNA036_2.KTPRA.F.F13,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6838) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(12) Category=()}"
+MNS.PNA036_2.KTPRA.M.Mask13,1, UInt4, 5
+MNS.PNA036_2.KTPRA.M.Mask13,6,Float,1000
+MNS.PNA036_2.KTPRA.M.Mask13,101,String,"Aварийные утечки через торцевое уплотнение насоса. Маска"
+MNS.PNA036_2.KTPRA.M.Mask13,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(7505) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(12) Category=()}"
+MNS.PNA036_2.KTPRA.P.P13,1, UInt4, 5
+MNS.PNA036_2.KTPRA.P.P13,6,Float,1000
+MNS.PNA036_2.KTPRA.P.P13,101,String,"Aварийные утечки через торцевое уплотнение насоса"
+MNS.PNA036_2.KTPRA.P.P13,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6830) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(12) Category=()}"
+MNS.PNA036_2.KTPRA.F.F14,1, UInt4, 5
+MNS.PNA036_2.KTPRA.F.F14,6,Float,1000
+MNS.PNA036_2.KTPRA.F.F14,101,String,"Аварийная максимальная вибрация опорно-упорного подшипника насоса в нестац. режиме (горизонтальная) . Есть параметр защиты"
+MNS.PNA036_2.KTPRA.F.F14,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6838) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(13) Category=()}"
+MNS.PNA036_2.KTPRA.M.Mask14,1, UInt4, 5
+MNS.PNA036_2.KTPRA.M.Mask14,6,Float,1000
+MNS.PNA036_2.KTPRA.M.Mask14,101,String,"Аварийная максимальная вибрация опорно-упорного подшипника насоса в нестац. режиме (горизонтальная) . Маска"
+MNS.PNA036_2.KTPRA.M.Mask14,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(7505) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(13) Category=()}"
+MNS.PNA036_2.KTPRA.P.P14,1, UInt4, 5
+MNS.PNA036_2.KTPRA.P.P14,6,Float,1000
+MNS.PNA036_2.KTPRA.P.P14,101,String,"Аварийная максимальная вибрация опорно-упорного подшипника насоса в нестац. режиме (горизонтальная) "
+MNS.PNA036_2.KTPRA.P.P14,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6830) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(13) Category=()}"
+MNS.PNA036_2.KTPRA.F.F15,1, UInt4, 5
+MNS.PNA036_2.KTPRA.F.F15,6,Float,1000
+MNS.PNA036_2.KTPRA.F.F15,101,String,"Аварийная максимальная вибрация опорно-упорного подшипника насоса в нестац. режиме (поперечная) . Есть параметр защиты"
+MNS.PNA036_2.KTPRA.F.F15,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6838) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(14) Category=()}"
+MNS.PNA036_2.KTPRA.M.Mask15,1, UInt4, 5
+MNS.PNA036_2.KTPRA.M.Mask15,6,Float,1000
+MNS.PNA036_2.KTPRA.M.Mask15,101,String,"Аварийная максимальная вибрация опорно-упорного подшипника насоса в нестац. режиме (поперечная) . Маска"
+MNS.PNA036_2.KTPRA.M.Mask15,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(7505) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(14) Category=()}"
+MNS.PNA036_2.KTPRA.P.P15,1, UInt4, 5
+MNS.PNA036_2.KTPRA.P.P15,6,Float,1000
+MNS.PNA036_2.KTPRA.P.P15,101,String,"Аварийная максимальная вибрация опорно-упорного подшипника насоса в нестац. режиме (поперечная) "
+MNS.PNA036_2.KTPRA.P.P15,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6830) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(14) Category=()}"
+MNS.PNA036_2.KTPRA.F.F16,1, UInt4, 5
+MNS.PNA036_2.KTPRA.F.F16,6,Float,1000
+MNS.PNA036_2.KTPRA.F.F16,101,String,"Аварийная максимальная вибрация опорно-упорного подшипника насоса в стац. режиме (горизонтальная) . Порог 1. Есть параметр защиты"
+MNS.PNA036_2.KTPRA.F.F16,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6838) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(15) Category=()}"
+MNS.PNA036_2.KTPRA.M.Mask16,1, UInt4, 5
+MNS.PNA036_2.KTPRA.M.Mask16,6,Float,1000
+MNS.PNA036_2.KTPRA.M.Mask16,101,String,"Аварийная максимальная вибрация опорно-упорного подшипника насоса в стац. режиме (горизонтальная) . Порог 1. Маска"
+MNS.PNA036_2.KTPRA.M.Mask16,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(7505) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(15) Category=()}"
+MNS.PNA036_2.KTPRA.P.P16,1, UInt4, 5
+MNS.PNA036_2.KTPRA.P.P16,6,Float,1000
+MNS.PNA036_2.KTPRA.P.P16,101,String,"Аварийная максимальная вибрация опорно-упорного подшипника насоса в стац. режиме (горизонтальная) . Порог 1"
+MNS.PNA036_2.KTPRA.P.P16,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6830) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(15) Category=()}"
+MNS.PNA036_2.KTPRA.F.F17,1, UInt4, 5
+MNS.PNA036_2.KTPRA.F.F17,6,Float,1000
+MNS.PNA036_2.KTPRA.F.F17,101,String,"Аварийная максимальная вибрация опорно-упорного подшипника насоса в стац. режиме (поперечная) . Порог 1. Есть параметр защиты"
+MNS.PNA036_2.KTPRA.F.F17,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6839) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(0) Category=()}"
+MNS.PNA036_2.KTPRA.M.Mask17,1, UInt4, 5
+MNS.PNA036_2.KTPRA.M.Mask17,6,Float,1000
+MNS.PNA036_2.KTPRA.M.Mask17,101,String,"Аварийная максимальная вибрация опорно-упорного подшипника насоса в стац. режиме (поперечная) . Порог 1. Маска"
+MNS.PNA036_2.KTPRA.M.Mask17,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(7506) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(0) Category=()}"
+MNS.PNA036_2.KTPRA.P.P17,1, UInt4, 5
+MNS.PNA036_2.KTPRA.P.P17,6,Float,1000
+MNS.PNA036_2.KTPRA.P.P17,101,String,"Аварийная максимальная вибрация опорно-упорного подшипника насоса в стац. режиме (поперечная) . Порог 1"
+MNS.PNA036_2.KTPRA.P.P17,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6831) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(0) Category=()}"
+MNS.PNA036_2.KTPRA.F.F18,1, UInt4, 5
+MNS.PNA036_2.KTPRA.F.F18,6,Float,1000
+MNS.PNA036_2.KTPRA.F.F18,101,String,"Аварийная максимальная вибрация опорно-упорного подшипника насоса (горизонтальная) . Порог 2. Есть параметр защиты"
+MNS.PNA036_2.KTPRA.F.F18,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6839) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(1) Category=()}"
+MNS.PNA036_2.KTPRA.M.Mask18,1, UInt4, 5
+MNS.PNA036_2.KTPRA.M.Mask18,6,Float,1000
+MNS.PNA036_2.KTPRA.M.Mask18,101,String,"Аварийная максимальная вибрация опорно-упорного подшипника насоса (горизонтальная) . Порог 2. Маска"
+MNS.PNA036_2.KTPRA.M.Mask18,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(7506) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(1) Category=()}"
+MNS.PNA036_2.KTPRA.P.P18,1, UInt4, 5
+MNS.PNA036_2.KTPRA.P.P18,6,Float,1000
+MNS.PNA036_2.KTPRA.P.P18,101,String,"Аварийная максимальная вибрация опорно-упорного подшипника насоса (горизонтальная) . Порог 2"
+MNS.PNA036_2.KTPRA.P.P18,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6831) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(1) Category=()}"
+MNS.PNA036_2.KTPRA.F.F19,1, UInt4, 5
+MNS.PNA036_2.KTPRA.F.F19,6,Float,1000
+MNS.PNA036_2.KTPRA.F.F19,101,String,"Аварийная максимальная вибрация опорно-упорного подшипника насоса (поперечная) . Порог 2. Есть параметр защиты"
+MNS.PNA036_2.KTPRA.F.F19,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6839) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(2) Category=()}"
+MNS.PNA036_2.KTPRA.M.Mask19,1, UInt4, 5
+MNS.PNA036_2.KTPRA.M.Mask19,6,Float,1000
+MNS.PNA036_2.KTPRA.M.Mask19,101,String,"Аварийная максимальная вибрация опорно-упорного подшипника насоса (поперечная) . Порог 2. Маска"
+MNS.PNA036_2.KTPRA.M.Mask19,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(7506) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(2) Category=()}"
+MNS.PNA036_2.KTPRA.P.P19,1, UInt4, 5
+MNS.PNA036_2.KTPRA.P.P19,6,Float,1000
+MNS.PNA036_2.KTPRA.P.P19,101,String,"Аварийная максимальная вибрация опорно-упорного подшипника насоса (поперечная) . Порог 2"
+MNS.PNA036_2.KTPRA.P.P19,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6831) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(2) Category=()}"
+MNS.PNA036_2.KTPRA.F.F20,1, UInt4, 5
+MNS.PNA036_2.KTPRA.F.F20,6,Float,1000
+MNS.PNA036_2.KTPRA.F.F20,101,String,"Недостоверность измерений вибрации в группе преобразователей (насос). Есть параметр защиты"
+MNS.PNA036_2.KTPRA.F.F20,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6839) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(3) Category=()}"
+MNS.PNA036_2.KTPRA.M.Mask20,1, UInt4, 5
+MNS.PNA036_2.KTPRA.M.Mask20,6,Float,1000
+MNS.PNA036_2.KTPRA.M.Mask20,101,String,"Недостоверность измерений вибрации в группе преобразователей (насос). Маска"
+MNS.PNA036_2.KTPRA.M.Mask20,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(7506) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(3) Category=()}"
+MNS.PNA036_2.KTPRA.P.P20,1, UInt4, 5
+MNS.PNA036_2.KTPRA.P.P20,6,Float,1000
+MNS.PNA036_2.KTPRA.P.P20,101,String,"Недостоверность измерений вибрации в группе преобразователей (насос)"
+MNS.PNA036_2.KTPRA.P.P20,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6831) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(3) Category=()}"
+MNS.PNA036_2.KTPRA.F.F21,1, UInt4, 5
+MNS.PNA036_2.KTPRA.F.F21,6,Float,1000
+MNS.PNA036_2.KTPRA.F.F21,101,String,"Аварийное минимальное давление на выходе работающего ПНА . Есть параметр защиты"
+MNS.PNA036_2.KTPRA.F.F21,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6839) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(4) Category=()}"
+MNS.PNA036_2.KTPRA.M.Mask21,1, UInt4, 5
+MNS.PNA036_2.KTPRA.M.Mask21,6,Float,1000
+MNS.PNA036_2.KTPRA.M.Mask21,101,String,"Аварийное минимальное давление на выходе работающего ПНА . Маска"
+MNS.PNA036_2.KTPRA.M.Mask21,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(7506) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(4) Category=()}"
+MNS.PNA036_2.KTPRA.P.P21,1, UInt4, 5
+MNS.PNA036_2.KTPRA.P.P21,6,Float,1000
+MNS.PNA036_2.KTPRA.P.P21,101,String,"Аварийное минимальное давление на выходе работающего ПНА "
+MNS.PNA036_2.KTPRA.P.P21,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6831) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(4) Category=()}"
+MNS.PNA036_2.KTPRA.F.F22,1, UInt4, 5
+MNS.PNA036_2.KTPRA.F.F22,6,Float,1000
+MNS.PNA036_2.KTPRA.F.F22,101,String,"Закрытие агрегатных задвижек работающего агрегата. Есть параметр защиты"
+MNS.PNA036_2.KTPRA.F.F22,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6839) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(5) Category=()}"
+MNS.PNA036_2.KTPRA.M.Mask22,1, UInt4, 5
+MNS.PNA036_2.KTPRA.M.Mask22,6,Float,1000
+MNS.PNA036_2.KTPRA.M.Mask22,101,String,"Закрытие агрегатных задвижек работающего агрегата. Маска"
+MNS.PNA036_2.KTPRA.M.Mask22,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(7506) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(5) Category=()}"
+MNS.PNA036_2.KTPRA.P.P22,1, UInt4, 5
+MNS.PNA036_2.KTPRA.P.P22,6,Float,1000
+MNS.PNA036_2.KTPRA.P.P22,101,String,"Закрытие агрегатных задвижек работающего агрегата"
+MNS.PNA036_2.KTPRA.P.P22,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6831) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(5) Category=()}"
+MNS.PNA036_2.KTPRA.F.F23,1, UInt4, 5
+MNS.PNA036_2.KTPRA.F.F23,6,Float,1000
+MNS.PNA036_2.KTPRA.F.F23,101,String,"Невыполнение программы пуска агрегата ПНА. Есть параметр защиты"
+MNS.PNA036_2.KTPRA.F.F23,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6839) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(6) Category=()}"
+MNS.PNA036_2.KTPRA.M.Mask23,1, UInt4, 5
+MNS.PNA036_2.KTPRA.M.Mask23,6,Float,1000
+MNS.PNA036_2.KTPRA.M.Mask23,101,String,"Невыполнение программы пуска агрегата ПНА. Маска"
+MNS.PNA036_2.KTPRA.M.Mask23,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(7506) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(6) Category=()}"
+MNS.PNA036_2.KTPRA.P.P23,1, UInt4, 5
+MNS.PNA036_2.KTPRA.P.P23,6,Float,1000
+MNS.PNA036_2.KTPRA.P.P23,101,String,"Невыполнение программы пуска агрегата ПНА"
+MNS.PNA036_2.KTPRA.P.P23,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6831) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(6) Category=()}"
+MNS.PNA036_2.KTPRA.F.F24,1, UInt4, 5
+MNS.PNA036_2.KTPRA.F.F24,6,Float,1000
+MNS.PNA036_2.KTPRA.F.F24,101,String,"Невыполнение команды остановки ПНА. Есть параметр защиты"
+MNS.PNA036_2.KTPRA.F.F24,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6839) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(7) Category=()}"
+MNS.PNA036_2.KTPRA.M.Mask24,1, UInt4, 5
+MNS.PNA036_2.KTPRA.M.Mask24,6,Float,1000
+MNS.PNA036_2.KTPRA.M.Mask24,101,String,"Невыполнение команды остановки ПНА. Маска"
+MNS.PNA036_2.KTPRA.M.Mask24,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(7506) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(7) Category=()}"
+MNS.PNA036_2.KTPRA.P.P24,1, UInt4, 5
+MNS.PNA036_2.KTPRA.P.P24,6,Float,1000
+MNS.PNA036_2.KTPRA.P.P24,101,String,"Невыполнение команды остановки ПНА"
+MNS.PNA036_2.KTPRA.P.P24,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6831) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(7) Category=()}"
+MNS.PNA036_2.KTPRA.F.F25,1, UInt4, 5
+MNS.PNA036_2.KTPRA.F.F25,6,Float,1000
+MNS.PNA036_2.KTPRA.F.F25,101,String,"Невыполнение команды отключения НВ ПНА. Есть параметр защиты"
+MNS.PNA036_2.KTPRA.F.F25,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6839) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(8) Category=()}"
+MNS.PNA036_2.KTPRA.M.Mask25,1, UInt4, 5
+MNS.PNA036_2.KTPRA.M.Mask25,6,Float,1000
+MNS.PNA036_2.KTPRA.M.Mask25,101,String,"Невыполнение команды отключения НВ ПНА. Маска"
+MNS.PNA036_2.KTPRA.M.Mask25,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(7506) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(8) Category=()}"
+MNS.PNA036_2.KTPRA.P.P25,1, UInt4, 5
+MNS.PNA036_2.KTPRA.P.P25,6,Float,1000
+MNS.PNA036_2.KTPRA.P.P25,101,String,"Невыполнение команды отключения НВ ПНА"
+MNS.PNA036_2.KTPRA.P.P25,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6831) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(8) Category=()}"
+MNS.PNA036_2.KTPRA.F.F26,1, UInt4, 5
+MNS.PNA036_2.KTPRA.F.F26,6,Float,1000
+MNS.PNA036_2.KTPRA.F.F26,101,String,"Неисправность цепей отключения НВ ПНА (в т.ч. отсутствие питания цепей управления). Есть параметр защиты"
+MNS.PNA036_2.KTPRA.F.F26,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6839) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(9) Category=()}"
+MNS.PNA036_2.KTPRA.M.Mask26,1, UInt4, 5
+MNS.PNA036_2.KTPRA.M.Mask26,6,Float,1000
+MNS.PNA036_2.KTPRA.M.Mask26,101,String,"Неисправность цепей отключения НВ ПНА (в т.ч. отсутствие питания цепей управления). Маска"
+MNS.PNA036_2.KTPRA.M.Mask26,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(7506) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(9) Category=()}"
+MNS.PNA036_2.KTPRA.P.P26,1, UInt4, 5
+MNS.PNA036_2.KTPRA.P.P26,6,Float,1000
+MNS.PNA036_2.KTPRA.P.P26,101,String,"Неисправность цепей отключения НВ ПНА (в т.ч. отсутствие питания цепей управления)"
+MNS.PNA036_2.KTPRA.P.P26,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6831) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(9) Category=()}"
+MNS.PNA036_2.KTPRA.F.F27,1, UInt4, 5
+MNS.PNA036_2.KTPRA.F.F27,6,Float,1000
+MNS.PNA036_2.KTPRA.F.F27,101,String,"Несанкционированное отключение ПНА. Есть параметр защиты"
+MNS.PNA036_2.KTPRA.F.F27,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6839) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(10) Category=()}"
+MNS.PNA036_2.KTPRA.M.Mask27,1, UInt4, 5
+MNS.PNA036_2.KTPRA.M.Mask27,6,Float,1000
+MNS.PNA036_2.KTPRA.M.Mask27,101,String,"Несанкционированное отключение ПНА. Маска"
+MNS.PNA036_2.KTPRA.M.Mask27,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(7506) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(10) Category=()}"
+MNS.PNA036_2.KTPRA.P.P27,1, UInt4, 5
+MNS.PNA036_2.KTPRA.P.P27,6,Float,1000
+MNS.PNA036_2.KTPRA.P.P27,101,String,"Несанкционированное отключение ПНА"
+MNS.PNA036_2.KTPRA.P.P27,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6831) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(10) Category=()}"
+MNS.PNA036_2.KTPRA.F.F28,1, UInt4, 5
+MNS.PNA036_2.KTPRA.F.F28,6,Float,1000
+MNS.PNA036_2.KTPRA.F.F28,101,String,"Несанкционированное включение ПНА. Есть параметр защиты"
+MNS.PNA036_2.KTPRA.F.F28,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6839) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(11) Category=()}"
+MNS.PNA036_2.KTPRA.M.Mask28,1, UInt4, 5
+MNS.PNA036_2.KTPRA.M.Mask28,6,Float,1000
+MNS.PNA036_2.KTPRA.M.Mask28,101,String,"Несанкционированное включение ПНА. Маска"
+MNS.PNA036_2.KTPRA.M.Mask28,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(7506) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(11) Category=()}"
+MNS.PNA036_2.KTPRA.P.P28,1, UInt4, 5
+MNS.PNA036_2.KTPRA.P.P28,6,Float,1000
+MNS.PNA036_2.KTPRA.P.P28,101,String,"Несанкционированное включение ПНА"
+MNS.PNA036_2.KTPRA.P.P28,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6831) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(11) Category=()}"
+MNS.PNA036_2.KTPRA.F.F29,1, UInt4, 5
+MNS.PNA036_2.KTPRA.F.F29,6,Float,1000
+MNS.PNA036_2.KTPRA.F.F29,101,String,"Неисправность цепей контроля ПНА. Есть параметр защиты"
+MNS.PNA036_2.KTPRA.F.F29,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6839) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(12) Category=()}"
+MNS.PNA036_2.KTPRA.M.Mask29,1, UInt4, 5
+MNS.PNA036_2.KTPRA.M.Mask29,6,Float,1000
+MNS.PNA036_2.KTPRA.M.Mask29,101,String,"Неисправность цепей контроля ПНА. Маска"
+MNS.PNA036_2.KTPRA.M.Mask29,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(7506) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(12) Category=()}"
+MNS.PNA036_2.KTPRA.P.P29,1, UInt4, 5
+MNS.PNA036_2.KTPRA.P.P29,6,Float,1000
+MNS.PNA036_2.KTPRA.P.P29,101,String,"Неисправность цепей контроля ПНА"
+MNS.PNA036_2.KTPRA.P.P29,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6831) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(12) Category=()}"
+MNS.PNA036_2.KTPRA.F.F30,1, UInt4, 5
+MNS.PNA036_2.KTPRA.F.F30,6,Float,1000
+MNS.PNA036_2.KTPRA.F.F30,101,String,"Аварийное отключение агрегата ПНА кнопкой Стоп по месту. Есть параметр защиты"
+MNS.PNA036_2.KTPRA.F.F30,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6839) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(13) Category=()}"
+MNS.PNA036_2.KTPRA.M.Mask30,1, UInt4, 5
+MNS.PNA036_2.KTPRA.M.Mask30,6,Float,1000
+MNS.PNA036_2.KTPRA.M.Mask30,101,String,"Аварийное отключение агрегата ПНА кнопкой Стоп по месту. Маска"
+MNS.PNA036_2.KTPRA.M.Mask30,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(7506) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(13) Category=()}"
+MNS.PNA036_2.KTPRA.P.P30,1, UInt4, 5
+MNS.PNA036_2.KTPRA.P.P30,6,Float,1000
+MNS.PNA036_2.KTPRA.P.P30,101,String,"Аварийное отключение агрегата ПНА кнопкой Стоп по месту"
+MNS.PNA036_2.KTPRA.P.P30,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6831) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(13) Category=()}"
+MNS.PNA036_2.KTPRA.F.F31,1, UInt4, 5
+MNS.PNA036_2.KTPRA.F.F31,6,Float,1000
+MNS.PNA036_2.KTPRA.F.F31,101,String,"Аварийное отключение агрегата ПНА кнопкой Стоп с БРУ. Есть параметр защиты"
+MNS.PNA036_2.KTPRA.F.F31,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6839) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(14) Category=()}"
+MNS.PNA036_2.KTPRA.M.Mask31,1, UInt4, 5
+MNS.PNA036_2.KTPRA.M.Mask31,6,Float,1000
+MNS.PNA036_2.KTPRA.M.Mask31,101,String,"Аварийное отключение агрегата ПНА кнопкой Стоп с БРУ. Маска"
+MNS.PNA036_2.KTPRA.M.Mask31,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(7506) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(14) Category=()}"
+MNS.PNA036_2.KTPRA.P.P31,1, UInt4, 5
+MNS.PNA036_2.KTPRA.P.P31,6,Float,1000
+MNS.PNA036_2.KTPRA.P.P31,101,String,"Аварийное отключение агрегата ПНА кнопкой Стоп с БРУ"
+MNS.PNA036_2.KTPRA.P.P31,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6831) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(14) Category=()}"
+MNS.PNA036_2.KTPRA.F.F32,1, UInt4, 5
+MNS.PNA036_2.KTPRA.F.F32,6,Float,1000
+MNS.PNA036_2.KTPRA.F.F32,101,String,"Авария ЧРП. Есть параметр защиты"
+MNS.PNA036_2.KTPRA.F.F32,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6839) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(15) Category=()}"
+MNS.PNA036_2.KTPRA.M.Mask32,1, UInt4, 5
+MNS.PNA036_2.KTPRA.M.Mask32,6,Float,1000
+MNS.PNA036_2.KTPRA.M.Mask32,101,String,"Авария ЧРП. Маска"
+MNS.PNA036_2.KTPRA.M.Mask32,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(7506) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(15) Category=()}"
+MNS.PNA036_2.KTPRA.P.P32,1, UInt4, 5
+MNS.PNA036_2.KTPRA.P.P32,6,Float,1000
+MNS.PNA036_2.KTPRA.P.P32,101,String,"Авария ЧРП"
+MNS.PNA036_2.KTPRA.P.P32,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6831) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(15) Category=()}"
+MNS.PNA036_2.KTPRA.F.F33,1, UInt4, 5
+MNS.PNA036_2.KTPRA.F.F33,6,Float,1000
+MNS.PNA036_2.KTPRA.F.F33,101,String,"Невыполнение ЧРП включенного ПНА команд регулирования. Есть параметр защиты"
+MNS.PNA036_2.KTPRA.F.F33,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6840) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(0) Category=()}"
+MNS.PNA036_2.KTPRA.M.Mask33,1, UInt4, 5
+MNS.PNA036_2.KTPRA.M.Mask33,6,Float,1000
+MNS.PNA036_2.KTPRA.M.Mask33,101,String,"Невыполнение ЧРП включенного ПНА команд регулирования. Маска"
+MNS.PNA036_2.KTPRA.M.Mask33,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(7507) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(0) Category=()}"
+MNS.PNA036_2.KTPRA.P.P33,1, UInt4, 5
+MNS.PNA036_2.KTPRA.P.P33,6,Float,1000
+MNS.PNA036_2.KTPRA.P.P33,101,String,"Невыполнение ЧРП включенного ПНА команд регулирования"
+MNS.PNA036_2.KTPRA.P.P33,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6832) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(0) Category=()}"
+MNS.PNA036_3.KTPRA.ObjName,1, UInt4, 9
+MNS.PNA036_3.KTPRA.ObjName,101,String,"Карта агрегатных защит ПНА №036.3"
+MNS.PNA036_3.KTPRA.ObjName,3,UInt4,192
+MNS.PNA036_3.KTPRA.F,1, UInt4, 5
+MNS.PNA036_3.KTPRA.F,6,Float,1000
+MNS.PNA036_3.KTPRA.F,101,String,"Есть параметр защиты"
+MNS.PNA036_3.KTPRA.F,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6798) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(2) Category=()}"
+MNS.PNA036_3.KTPRA.M,1, UInt4, 5
+MNS.PNA036_3.KTPRA.M,6,Float,1000
+MNS.PNA036_3.KTPRA.M,101,String,"Есть маска"
+MNS.PNA036_3.KTPRA.M,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6799) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(2) Category=()}"
+MNS.PNA036_3.KTPRA.P,1, UInt4, 5
+MNS.PNA036_3.KTPRA.P,6,Float,1000
+MNS.PNA036_3.KTPRA.P,101,String,"Есть защита"
+MNS.PNA036_3.KTPRA.P,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6800) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(2) Category=()}"
+MNS.PNA036_3.KTPRA.F.F1,1, UInt4, 5
+MNS.PNA036_3.KTPRA.F.F1,6,Float,1000
+MNS.PNA036_3.KTPRA.F.F1,101,String,"Аварийная максимальная температура нефти на выходе из насоса. Есть параметр защиты"
+MNS.PNA036_3.KTPRA.F.F1,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6854) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(0) Category=()}"
+MNS.PNA036_3.KTPRA.M.Mask1,1, UInt4, 5
+MNS.PNA036_3.KTPRA.M.Mask1,6,Float,1000
+MNS.PNA036_3.KTPRA.M.Mask1,101,String,"Аварийная максимальная температура нефти на выходе из насоса. Маска"
+MNS.PNA036_3.KTPRA.M.Mask1,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(7513) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(0) Category=()}"
+MNS.PNA036_3.KTPRA.P.P1,1, UInt4, 5
+MNS.PNA036_3.KTPRA.P.P1,6,Float,1000
+MNS.PNA036_3.KTPRA.P.P1,101,String,"Аварийная максимальная температура нефти на выходе из насоса"
+MNS.PNA036_3.KTPRA.P.P1,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6846) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(0) Category=()}"
+MNS.PNA036_3.KTPRA.F.F2,1, UInt4, 5
+MNS.PNA036_3.KTPRA.F.F2,6,Float,1000
+MNS.PNA036_3.KTPRA.F.F2,101,String,"Недостоверность измерений температуры корпуса насоса. Есть параметр защиты"
+MNS.PNA036_3.KTPRA.F.F2,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6854) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(1) Category=()}"
+MNS.PNA036_3.KTPRA.M.Mask2,1, UInt4, 5
+MNS.PNA036_3.KTPRA.M.Mask2,6,Float,1000
+MNS.PNA036_3.KTPRA.M.Mask2,101,String,"Недостоверность измерений температуры корпуса насоса. Маска"
+MNS.PNA036_3.KTPRA.M.Mask2,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(7513) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(1) Category=()}"
+MNS.PNA036_3.KTPRA.P.P2,1, UInt4, 5
+MNS.PNA036_3.KTPRA.P.P2,6,Float,1000
+MNS.PNA036_3.KTPRA.P.P2,101,String,"Недостоверность измерений температуры корпуса насоса"
+MNS.PNA036_3.KTPRA.P.P2,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6846) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(1) Category=()}"
+MNS.PNA036_3.KTPRA.F.F3,1, UInt4, 5
+MNS.PNA036_3.KTPRA.F.F3,6,Float,1000
+MNS.PNA036_3.KTPRA.F.F3,101,String,"Аварийная максимальная температура опорно-упорного подшипника насоса (точка 1). Есть параметр защиты"
+MNS.PNA036_3.KTPRA.F.F3,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6854) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(2) Category=()}"
+MNS.PNA036_3.KTPRA.M.Mask3,1, UInt4, 5
+MNS.PNA036_3.KTPRA.M.Mask3,6,Float,1000
+MNS.PNA036_3.KTPRA.M.Mask3,101,String,"Аварийная максимальная температура опорно-упорного подшипника насоса (точка 1). Маска"
+MNS.PNA036_3.KTPRA.M.Mask3,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(7513) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(2) Category=()}"
+MNS.PNA036_3.KTPRA.P.P3,1, UInt4, 5
+MNS.PNA036_3.KTPRA.P.P3,6,Float,1000
+MNS.PNA036_3.KTPRA.P.P3,101,String,"Аварийная максимальная температура опорно-упорного подшипника насоса (точка 1)"
+MNS.PNA036_3.KTPRA.P.P3,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6846) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(2) Category=()}"
+MNS.PNA036_3.KTPRA.F.F4,1, UInt4, 5
+MNS.PNA036_3.KTPRA.F.F4,6,Float,1000
+MNS.PNA036_3.KTPRA.F.F4,101,String,"Аварийная максимальная температура опорно-упорного подшипника насоса (точка 2). Есть параметр защиты"
+MNS.PNA036_3.KTPRA.F.F4,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6854) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(3) Category=()}"
+MNS.PNA036_3.KTPRA.M.Mask4,1, UInt4, 5
+MNS.PNA036_3.KTPRA.M.Mask4,6,Float,1000
+MNS.PNA036_3.KTPRA.M.Mask4,101,String,"Аварийная максимальная температура опорно-упорного подшипника насоса (точка 2). Маска"
+MNS.PNA036_3.KTPRA.M.Mask4,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(7513) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(3) Category=()}"
+MNS.PNA036_3.KTPRA.P.P4,1, UInt4, 5
+MNS.PNA036_3.KTPRA.P.P4,6,Float,1000
+MNS.PNA036_3.KTPRA.P.P4,101,String,"Аварийная максимальная температура опорно-упорного подшипника насоса (точка 2)"
+MNS.PNA036_3.KTPRA.P.P4,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6846) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(3) Category=()}"
+MNS.PNA036_3.KTPRA.F.F5,1, UInt4, 5
+MNS.PNA036_3.KTPRA.F.F5,6,Float,1000
+MNS.PNA036_3.KTPRA.F.F5,101,String,"Аварийная максимальная температура нижнего подшипника ЭД. Есть параметр защиты"
+MNS.PNA036_3.KTPRA.F.F5,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6854) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(4) Category=()}"
+MNS.PNA036_3.KTPRA.M.Mask5,1, UInt4, 5
+MNS.PNA036_3.KTPRA.M.Mask5,6,Float,1000
+MNS.PNA036_3.KTPRA.M.Mask5,101,String,"Аварийная максимальная температура нижнего подшипника ЭД. Маска"
+MNS.PNA036_3.KTPRA.M.Mask5,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(7513) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(4) Category=()}"
+MNS.PNA036_3.KTPRA.P.P5,1, UInt4, 5
+MNS.PNA036_3.KTPRA.P.P5,6,Float,1000
+MNS.PNA036_3.KTPRA.P.P5,101,String,"Аварийная максимальная температура нижнего подшипника ЭД"
+MNS.PNA036_3.KTPRA.P.P5,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6846) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(4) Category=()}"
+MNS.PNA036_3.KTPRA.F.F6,1, UInt4, 5
+MNS.PNA036_3.KTPRA.F.F6,6,Float,1000
+MNS.PNA036_3.KTPRA.F.F6,101,String,"Аварийная максимальная температура верхнего подшипника ЭД (точка 1). Есть параметр защиты"
+MNS.PNA036_3.KTPRA.F.F6,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6854) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(5) Category=()}"
+MNS.PNA036_3.KTPRA.M.Mask6,1, UInt4, 5
+MNS.PNA036_3.KTPRA.M.Mask6,6,Float,1000
+MNS.PNA036_3.KTPRA.M.Mask6,101,String,"Аварийная максимальная температура верхнего подшипника ЭД (точка 1). Маска"
+MNS.PNA036_3.KTPRA.M.Mask6,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(7513) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(5) Category=()}"
+MNS.PNA036_3.KTPRA.P.P6,1, UInt4, 5
+MNS.PNA036_3.KTPRA.P.P6,6,Float,1000
+MNS.PNA036_3.KTPRA.P.P6,101,String,"Аварийная максимальная температура верхнего подшипника ЭД (точка 1)"
+MNS.PNA036_3.KTPRA.P.P6,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6846) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(5) Category=()}"
+MNS.PNA036_3.KTPRA.F.F7,1, UInt4, 5
+MNS.PNA036_3.KTPRA.F.F7,6,Float,1000
+MNS.PNA036_3.KTPRA.F.F7,101,String,"Аварийная максимальная температура верхнего подшипника ЭД (точка 2). Есть параметр защиты"
+MNS.PNA036_3.KTPRA.F.F7,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6854) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(6) Category=()}"
+MNS.PNA036_3.KTPRA.M.Mask7,1, UInt4, 5
+MNS.PNA036_3.KTPRA.M.Mask7,6,Float,1000
+MNS.PNA036_3.KTPRA.M.Mask7,101,String,"Аварийная максимальная температура верхнего подшипника ЭД (точка 2). Маска"
+MNS.PNA036_3.KTPRA.M.Mask7,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(7513) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(6) Category=()}"
+MNS.PNA036_3.KTPRA.P.P7,1, UInt4, 5
+MNS.PNA036_3.KTPRA.P.P7,6,Float,1000
+MNS.PNA036_3.KTPRA.P.P7,101,String,"Аварийная максимальная температура верхнего подшипника ЭД (точка 2)"
+MNS.PNA036_3.KTPRA.P.P7,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6846) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(6) Category=()}"
+MNS.PNA036_3.KTPRA.F.F8,1, UInt4, 5
+MNS.PNA036_3.KTPRA.F.F8,6,Float,1000
+MNS.PNA036_3.KTPRA.F.F8,101,String,"Недостоверность измерений температуры опорно-упорного подшипника насоса (точка 1). Есть параметр защиты"
+MNS.PNA036_3.KTPRA.F.F8,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6854) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(7) Category=()}"
+MNS.PNA036_3.KTPRA.M.Mask8,1, UInt4, 5
+MNS.PNA036_3.KTPRA.M.Mask8,6,Float,1000
+MNS.PNA036_3.KTPRA.M.Mask8,101,String,"Недостоверность измерений температуры опорно-упорного подшипника насоса (точка 1). Маска"
+MNS.PNA036_3.KTPRA.M.Mask8,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(7513) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(7) Category=()}"
+MNS.PNA036_3.KTPRA.P.P8,1, UInt4, 5
+MNS.PNA036_3.KTPRA.P.P8,6,Float,1000
+MNS.PNA036_3.KTPRA.P.P8,101,String,"Недостоверность измерений температуры опорно-упорного подшипника насоса (точка 1)"
+MNS.PNA036_3.KTPRA.P.P8,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6846) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(7) Category=()}"
+MNS.PNA036_3.KTPRA.F.F9,1, UInt4, 5
+MNS.PNA036_3.KTPRA.F.F9,6,Float,1000
+MNS.PNA036_3.KTPRA.F.F9,101,String,"Недостоверность измерений температуры опорно-упорного подшипника насоса (точка 2). Есть параметр защиты"
+MNS.PNA036_3.KTPRA.F.F9,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6854) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(8) Category=()}"
+MNS.PNA036_3.KTPRA.M.Mask9,1, UInt4, 5
+MNS.PNA036_3.KTPRA.M.Mask9,6,Float,1000
+MNS.PNA036_3.KTPRA.M.Mask9,101,String,"Недостоверность измерений температуры опорно-упорного подшипника насоса (точка 2). Маска"
+MNS.PNA036_3.KTPRA.M.Mask9,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(7513) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(8) Category=()}"
+MNS.PNA036_3.KTPRA.P.P9,1, UInt4, 5
+MNS.PNA036_3.KTPRA.P.P9,6,Float,1000
+MNS.PNA036_3.KTPRA.P.P9,101,String,"Недостоверность измерений температуры опорно-упорного подшипника насоса (точка 2)"
+MNS.PNA036_3.KTPRA.P.P9,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6846) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(8) Category=()}"
+MNS.PNA036_3.KTPRA.F.F10,1, UInt4, 5
+MNS.PNA036_3.KTPRA.F.F10,6,Float,1000
+MNS.PNA036_3.KTPRA.F.F10,101,String,"Недостоверность измерений температуры нижнего подшипника ЭД. Есть параметр защиты"
+MNS.PNA036_3.KTPRA.F.F10,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6854) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(9) Category=()}"
+MNS.PNA036_3.KTPRA.M.Mask10,1, UInt4, 5
+MNS.PNA036_3.KTPRA.M.Mask10,6,Float,1000
+MNS.PNA036_3.KTPRA.M.Mask10,101,String,"Недостоверность измерений температуры нижнего подшипника ЭД. Маска"
+MNS.PNA036_3.KTPRA.M.Mask10,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(7513) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(9) Category=()}"
+MNS.PNA036_3.KTPRA.P.P10,1, UInt4, 5
+MNS.PNA036_3.KTPRA.P.P10,6,Float,1000
+MNS.PNA036_3.KTPRA.P.P10,101,String,"Недостоверность измерений температуры нижнего подшипника ЭД"
+MNS.PNA036_3.KTPRA.P.P10,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6846) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(9) Category=()}"
+MNS.PNA036_3.KTPRA.F.F11,1, UInt4, 5
+MNS.PNA036_3.KTPRA.F.F11,6,Float,1000
+MNS.PNA036_3.KTPRA.F.F11,101,String,"Недостоверность измерений температуры верхнего подшипника ЭД (точка 1). Есть параметр защиты"
+MNS.PNA036_3.KTPRA.F.F11,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6854) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(10) Category=()}"
+MNS.PNA036_3.KTPRA.M.Mask11,1, UInt4, 5
+MNS.PNA036_3.KTPRA.M.Mask11,6,Float,1000
+MNS.PNA036_3.KTPRA.M.Mask11,101,String,"Недостоверность измерений температуры верхнего подшипника ЭД (точка 1). Маска"
+MNS.PNA036_3.KTPRA.M.Mask11,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(7513) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(10) Category=()}"
+MNS.PNA036_3.KTPRA.P.P11,1, UInt4, 5
+MNS.PNA036_3.KTPRA.P.P11,6,Float,1000
+MNS.PNA036_3.KTPRA.P.P11,101,String,"Недостоверность измерений температуры верхнего подшипника ЭД (точка 1)"
+MNS.PNA036_3.KTPRA.P.P11,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6846) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(10) Category=()}"
+MNS.PNA036_3.KTPRA.F.F12,1, UInt4, 5
+MNS.PNA036_3.KTPRA.F.F12,6,Float,1000
+MNS.PNA036_3.KTPRA.F.F12,101,String,"Недостоверность измерений температуры верхнего подшипника ЭД (точка 2). Есть параметр защиты"
+MNS.PNA036_3.KTPRA.F.F12,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6854) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(11) Category=()}"
+MNS.PNA036_3.KTPRA.M.Mask12,1, UInt4, 5
+MNS.PNA036_3.KTPRA.M.Mask12,6,Float,1000
+MNS.PNA036_3.KTPRA.M.Mask12,101,String,"Недостоверность измерений температуры верхнего подшипника ЭД (точка 2). Маска"
+MNS.PNA036_3.KTPRA.M.Mask12,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(7513) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(11) Category=()}"
+MNS.PNA036_3.KTPRA.P.P12,1, UInt4, 5
+MNS.PNA036_3.KTPRA.P.P12,6,Float,1000
+MNS.PNA036_3.KTPRA.P.P12,101,String,"Недостоверность измерений температуры верхнего подшипника ЭД (точка 2)"
+MNS.PNA036_3.KTPRA.P.P12,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6846) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(11) Category=()}"
+MNS.PNA036_3.KTPRA.F.F13,1, UInt4, 5
+MNS.PNA036_3.KTPRA.F.F13,6,Float,1000
+MNS.PNA036_3.KTPRA.F.F13,101,String,"Aварийные утечки через торцевое уплотнение насоса. Есть параметр защиты"
+MNS.PNA036_3.KTPRA.F.F13,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6854) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(12) Category=()}"
+MNS.PNA036_3.KTPRA.M.Mask13,1, UInt4, 5
+MNS.PNA036_3.KTPRA.M.Mask13,6,Float,1000
+MNS.PNA036_3.KTPRA.M.Mask13,101,String,"Aварийные утечки через торцевое уплотнение насоса. Маска"
+MNS.PNA036_3.KTPRA.M.Mask13,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(7513) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(12) Category=()}"
+MNS.PNA036_3.KTPRA.P.P13,1, UInt4, 5
+MNS.PNA036_3.KTPRA.P.P13,6,Float,1000
+MNS.PNA036_3.KTPRA.P.P13,101,String,"Aварийные утечки через торцевое уплотнение насоса"
+MNS.PNA036_3.KTPRA.P.P13,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6846) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(12) Category=()}"
+MNS.PNA036_3.KTPRA.F.F14,1, UInt4, 5
+MNS.PNA036_3.KTPRA.F.F14,6,Float,1000
+MNS.PNA036_3.KTPRA.F.F14,101,String,"Аварийная максимальная вибрация опорно-упорного подшипника насоса в нестац. режиме (горизонтальная) . Есть параметр защиты"
+MNS.PNA036_3.KTPRA.F.F14,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6854) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(13) Category=()}"
+MNS.PNA036_3.KTPRA.M.Mask14,1, UInt4, 5
+MNS.PNA036_3.KTPRA.M.Mask14,6,Float,1000
+MNS.PNA036_3.KTPRA.M.Mask14,101,String,"Аварийная максимальная вибрация опорно-упорного подшипника насоса в нестац. режиме (горизонтальная) . Маска"
+MNS.PNA036_3.KTPRA.M.Mask14,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(7513) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(13) Category=()}"
+MNS.PNA036_3.KTPRA.P.P14,1, UInt4, 5
+MNS.PNA036_3.KTPRA.P.P14,6,Float,1000
+MNS.PNA036_3.KTPRA.P.P14,101,String,"Аварийная максимальная вибрация опорно-упорного подшипника насоса в нестац. режиме (горизонтальная) "
+MNS.PNA036_3.KTPRA.P.P14,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6846) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(13) Category=()}"
+MNS.PNA036_3.KTPRA.F.F15,1, UInt4, 5
+MNS.PNA036_3.KTPRA.F.F15,6,Float,1000
+MNS.PNA036_3.KTPRA.F.F15,101,String,"Аварийная максимальная вибрация опорно-упорного подшипника насоса в нестац. режиме (поперечная) . Есть параметр защиты"
+MNS.PNA036_3.KTPRA.F.F15,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6854) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(14) Category=()}"
+MNS.PNA036_3.KTPRA.M.Mask15,1, UInt4, 5
+MNS.PNA036_3.KTPRA.M.Mask15,6,Float,1000
+MNS.PNA036_3.KTPRA.M.Mask15,101,String,"Аварийная максимальная вибрация опорно-упорного подшипника насоса в нестац. режиме (поперечная) . Маска"
+MNS.PNA036_3.KTPRA.M.Mask15,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(7513) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(14) Category=()}"
+MNS.PNA036_3.KTPRA.P.P15,1, UInt4, 5
+MNS.PNA036_3.KTPRA.P.P15,6,Float,1000
+MNS.PNA036_3.KTPRA.P.P15,101,String,"Аварийная максимальная вибрация опорно-упорного подшипника насоса в нестац. режиме (поперечная) "
+MNS.PNA036_3.KTPRA.P.P15,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6846) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(14) Category=()}"
+MNS.PNA036_3.KTPRA.F.F16,1, UInt4, 5
+MNS.PNA036_3.KTPRA.F.F16,6,Float,1000
+MNS.PNA036_3.KTPRA.F.F16,101,String,"Аварийная максимальная вибрация опорно-упорного подшипника насоса в стац. режиме (горизонтальная) . Порог 1. Есть параметр защиты"
+MNS.PNA036_3.KTPRA.F.F16,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6854) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(15) Category=()}"
+MNS.PNA036_3.KTPRA.M.Mask16,1, UInt4, 5
+MNS.PNA036_3.KTPRA.M.Mask16,6,Float,1000
+MNS.PNA036_3.KTPRA.M.Mask16,101,String,"Аварийная максимальная вибрация опорно-упорного подшипника насоса в стац. режиме (горизонтальная) . Порог 1. Маска"
+MNS.PNA036_3.KTPRA.M.Mask16,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(7513) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(15) Category=()}"
+MNS.PNA036_3.KTPRA.P.P16,1, UInt4, 5
+MNS.PNA036_3.KTPRA.P.P16,6,Float,1000
+MNS.PNA036_3.KTPRA.P.P16,101,String,"Аварийная максимальная вибрация опорно-упорного подшипника насоса в стац. режиме (горизонтальная) . Порог 1"
+MNS.PNA036_3.KTPRA.P.P16,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6846) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(15) Category=()}"
+MNS.PNA036_3.KTPRA.F.F17,1, UInt4, 5
+MNS.PNA036_3.KTPRA.F.F17,6,Float,1000
+MNS.PNA036_3.KTPRA.F.F17,101,String,"Аварийная максимальная вибрация опорно-упорного подшипника насоса в стац. режиме (поперечная) . Порог 1. Есть параметр защиты"
+MNS.PNA036_3.KTPRA.F.F17,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6855) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(0) Category=()}"
+MNS.PNA036_3.KTPRA.M.Mask17,1, UInt4, 5
+MNS.PNA036_3.KTPRA.M.Mask17,6,Float,1000
+MNS.PNA036_3.KTPRA.M.Mask17,101,String,"Аварийная максимальная вибрация опорно-упорного подшипника насоса в стац. режиме (поперечная) . Порог 1. Маска"
+MNS.PNA036_3.KTPRA.M.Mask17,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(7514) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(0) Category=()}"
+MNS.PNA036_3.KTPRA.P.P17,1, UInt4, 5
+MNS.PNA036_3.KTPRA.P.P17,6,Float,1000
+MNS.PNA036_3.KTPRA.P.P17,101,String,"Аварийная максимальная вибрация опорно-упорного подшипника насоса в стац. режиме (поперечная) . Порог 1"
+MNS.PNA036_3.KTPRA.P.P17,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6847) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(0) Category=()}"
+MNS.PNA036_3.KTPRA.F.F18,1, UInt4, 5
+MNS.PNA036_3.KTPRA.F.F18,6,Float,1000
+MNS.PNA036_3.KTPRA.F.F18,101,String,"Аварийная максимальная вибрация опорно-упорного подшипника насоса (горизонтальная) . Порог 2. Есть параметр защиты"
+MNS.PNA036_3.KTPRA.F.F18,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6855) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(1) Category=()}"
+MNS.PNA036_3.KTPRA.M.Mask18,1, UInt4, 5
+MNS.PNA036_3.KTPRA.M.Mask18,6,Float,1000
+MNS.PNA036_3.KTPRA.M.Mask18,101,String,"Аварийная максимальная вибрация опорно-упорного подшипника насоса (горизонтальная) . Порог 2. Маска"
+MNS.PNA036_3.KTPRA.M.Mask18,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(7514) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(1) Category=()}"
+MNS.PNA036_3.KTPRA.P.P18,1, UInt4, 5
+MNS.PNA036_3.KTPRA.P.P18,6,Float,1000
+MNS.PNA036_3.KTPRA.P.P18,101,String,"Аварийная максимальная вибрация опорно-упорного подшипника насоса (горизонтальная) . Порог 2"
+MNS.PNA036_3.KTPRA.P.P18,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6847) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(1) Category=()}"
+MNS.PNA036_3.KTPRA.F.F19,1, UInt4, 5
+MNS.PNA036_3.KTPRA.F.F19,6,Float,1000
+MNS.PNA036_3.KTPRA.F.F19,101,String,"Аварийная максимальная вибрация опорно-упорного подшипника насоса (поперечная) . Порог 2. Есть параметр защиты"
+MNS.PNA036_3.KTPRA.F.F19,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6855) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(2) Category=()}"
+MNS.PNA036_3.KTPRA.M.Mask19,1, UInt4, 5
+MNS.PNA036_3.KTPRA.M.Mask19,6,Float,1000
+MNS.PNA036_3.KTPRA.M.Mask19,101,String,"Аварийная максимальная вибрация опорно-упорного подшипника насоса (поперечная) . Порог 2. Маска"
+MNS.PNA036_3.KTPRA.M.Mask19,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(7514) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(2) Category=()}"
+MNS.PNA036_3.KTPRA.P.P19,1, UInt4, 5
+MNS.PNA036_3.KTPRA.P.P19,6,Float,1000
+MNS.PNA036_3.KTPRA.P.P19,101,String,"Аварийная максимальная вибрация опорно-упорного подшипника насоса (поперечная) . Порог 2"
+MNS.PNA036_3.KTPRA.P.P19,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6847) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(2) Category=()}"
+MNS.PNA036_3.KTPRA.F.F20,1, UInt4, 5
+MNS.PNA036_3.KTPRA.F.F20,6,Float,1000
+MNS.PNA036_3.KTPRA.F.F20,101,String,"Недостоверность измерений вибрации в группе преобразователей (насос). Есть параметр защиты"
+MNS.PNA036_3.KTPRA.F.F20,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6855) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(3) Category=()}"
+MNS.PNA036_3.KTPRA.M.Mask20,1, UInt4, 5
+MNS.PNA036_3.KTPRA.M.Mask20,6,Float,1000
+MNS.PNA036_3.KTPRA.M.Mask20,101,String,"Недостоверность измерений вибрации в группе преобразователей (насос). Маска"
+MNS.PNA036_3.KTPRA.M.Mask20,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(7514) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(3) Category=()}"
+MNS.PNA036_3.KTPRA.P.P20,1, UInt4, 5
+MNS.PNA036_3.KTPRA.P.P20,6,Float,1000
+MNS.PNA036_3.KTPRA.P.P20,101,String,"Недостоверность измерений вибрации в группе преобразователей (насос)"
+MNS.PNA036_3.KTPRA.P.P20,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6847) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(3) Category=()}"
+MNS.PNA036_3.KTPRA.F.F21,1, UInt4, 5
+MNS.PNA036_3.KTPRA.F.F21,6,Float,1000
+MNS.PNA036_3.KTPRA.F.F21,101,String,"Аварийное минимальное давление на выходе работающего ПНА . Есть параметр защиты"
+MNS.PNA036_3.KTPRA.F.F21,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6855) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(4) Category=()}"
+MNS.PNA036_3.KTPRA.M.Mask21,1, UInt4, 5
+MNS.PNA036_3.KTPRA.M.Mask21,6,Float,1000
+MNS.PNA036_3.KTPRA.M.Mask21,101,String,"Аварийное минимальное давление на выходе работающего ПНА . Маска"
+MNS.PNA036_3.KTPRA.M.Mask21,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(7514) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(4) Category=()}"
+MNS.PNA036_3.KTPRA.P.P21,1, UInt4, 5
+MNS.PNA036_3.KTPRA.P.P21,6,Float,1000
+MNS.PNA036_3.KTPRA.P.P21,101,String,"Аварийное минимальное давление на выходе работающего ПНА "
+MNS.PNA036_3.KTPRA.P.P21,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6847) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(4) Category=()}"
+MNS.PNA036_3.KTPRA.F.F22,1, UInt4, 5
+MNS.PNA036_3.KTPRA.F.F22,6,Float,1000
+MNS.PNA036_3.KTPRA.F.F22,101,String,"Закрытие агрегатных задвижек работающего агрегата. Есть параметр защиты"
+MNS.PNA036_3.KTPRA.F.F22,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6855) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(5) Category=()}"
+MNS.PNA036_3.KTPRA.M.Mask22,1, UInt4, 5
+MNS.PNA036_3.KTPRA.M.Mask22,6,Float,1000
+MNS.PNA036_3.KTPRA.M.Mask22,101,String,"Закрытие агрегатных задвижек работающего агрегата. Маска"
+MNS.PNA036_3.KTPRA.M.Mask22,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(7514) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(5) Category=()}"
+MNS.PNA036_3.KTPRA.P.P22,1, UInt4, 5
+MNS.PNA036_3.KTPRA.P.P22,6,Float,1000
+MNS.PNA036_3.KTPRA.P.P22,101,String,"Закрытие агрегатных задвижек работающего агрегата"
+MNS.PNA036_3.KTPRA.P.P22,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6847) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(5) Category=()}"
+MNS.PNA036_3.KTPRA.F.F23,1, UInt4, 5
+MNS.PNA036_3.KTPRA.F.F23,6,Float,1000
+MNS.PNA036_3.KTPRA.F.F23,101,String,"Невыполнение программы пуска агрегата ПНА. Есть параметр защиты"
+MNS.PNA036_3.KTPRA.F.F23,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6855) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(6) Category=()}"
+MNS.PNA036_3.KTPRA.M.Mask23,1, UInt4, 5
+MNS.PNA036_3.KTPRA.M.Mask23,6,Float,1000
+MNS.PNA036_3.KTPRA.M.Mask23,101,String,"Невыполнение программы пуска агрегата ПНА. Маска"
+MNS.PNA036_3.KTPRA.M.Mask23,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(7514) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(6) Category=()}"
+MNS.PNA036_3.KTPRA.P.P23,1, UInt4, 5
+MNS.PNA036_3.KTPRA.P.P23,6,Float,1000
+MNS.PNA036_3.KTPRA.P.P23,101,String,"Невыполнение программы пуска агрегата ПНА"
+MNS.PNA036_3.KTPRA.P.P23,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6847) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(6) Category=()}"
+MNS.PNA036_3.KTPRA.F.F24,1, UInt4, 5
+MNS.PNA036_3.KTPRA.F.F24,6,Float,1000
+MNS.PNA036_3.KTPRA.F.F24,101,String,"Невыполнение команды остановки ПНА. Есть параметр защиты"
+MNS.PNA036_3.KTPRA.F.F24,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6855) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(7) Category=()}"
+MNS.PNA036_3.KTPRA.M.Mask24,1, UInt4, 5
+MNS.PNA036_3.KTPRA.M.Mask24,6,Float,1000
+MNS.PNA036_3.KTPRA.M.Mask24,101,String,"Невыполнение команды остановки ПНА. Маска"
+MNS.PNA036_3.KTPRA.M.Mask24,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(7514) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(7) Category=()}"
+MNS.PNA036_3.KTPRA.P.P24,1, UInt4, 5
+MNS.PNA036_3.KTPRA.P.P24,6,Float,1000
+MNS.PNA036_3.KTPRA.P.P24,101,String,"Невыполнение команды остановки ПНА"
+MNS.PNA036_3.KTPRA.P.P24,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6847) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(7) Category=()}"
+MNS.PNA036_3.KTPRA.F.F25,1, UInt4, 5
+MNS.PNA036_3.KTPRA.F.F25,6,Float,1000
+MNS.PNA036_3.KTPRA.F.F25,101,String,"Невыполнение команды отключения НВ ПНА. Есть параметр защиты"
+MNS.PNA036_3.KTPRA.F.F25,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6855) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(8) Category=()}"
+MNS.PNA036_3.KTPRA.M.Mask25,1, UInt4, 5
+MNS.PNA036_3.KTPRA.M.Mask25,6,Float,1000
+MNS.PNA036_3.KTPRA.M.Mask25,101,String,"Невыполнение команды отключения НВ ПНА. Маска"
+MNS.PNA036_3.KTPRA.M.Mask25,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(7514) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(8) Category=()}"
+MNS.PNA036_3.KTPRA.P.P25,1, UInt4, 5
+MNS.PNA036_3.KTPRA.P.P25,6,Float,1000
+MNS.PNA036_3.KTPRA.P.P25,101,String,"Невыполнение команды отключения НВ ПНА"
+MNS.PNA036_3.KTPRA.P.P25,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6847) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(8) Category=()}"
+MNS.PNA036_3.KTPRA.F.F26,1, UInt4, 5
+MNS.PNA036_3.KTPRA.F.F26,6,Float,1000
+MNS.PNA036_3.KTPRA.F.F26,101,String,"Неисправность цепей отключения НВ ПНА (в т.ч. отсутствие питания цепей управления). Есть параметр защиты"
+MNS.PNA036_3.KTPRA.F.F26,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6855) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(9) Category=()}"
+MNS.PNA036_3.KTPRA.M.Mask26,1, UInt4, 5
+MNS.PNA036_3.KTPRA.M.Mask26,6,Float,1000
+MNS.PNA036_3.KTPRA.M.Mask26,101,String,"Неисправность цепей отключения НВ ПНА (в т.ч. отсутствие питания цепей управления). Маска"
+MNS.PNA036_3.KTPRA.M.Mask26,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(7514) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(9) Category=()}"
+MNS.PNA036_3.KTPRA.P.P26,1, UInt4, 5
+MNS.PNA036_3.KTPRA.P.P26,6,Float,1000
+MNS.PNA036_3.KTPRA.P.P26,101,String,"Неисправность цепей отключения НВ ПНА (в т.ч. отсутствие питания цепей управления)"
+MNS.PNA036_3.KTPRA.P.P26,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6847) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(9) Category=()}"
+MNS.PNA036_3.KTPRA.F.F27,1, UInt4, 5
+MNS.PNA036_3.KTPRA.F.F27,6,Float,1000
+MNS.PNA036_3.KTPRA.F.F27,101,String,"Несанкционированное отключение ПНА. Есть параметр защиты"
+MNS.PNA036_3.KTPRA.F.F27,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6855) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(10) Category=()}"
+MNS.PNA036_3.KTPRA.M.Mask27,1, UInt4, 5
+MNS.PNA036_3.KTPRA.M.Mask27,6,Float,1000
+MNS.PNA036_3.KTPRA.M.Mask27,101,String,"Несанкционированное отключение ПНА. Маска"
+MNS.PNA036_3.KTPRA.M.Mask27,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(7514) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(10) Category=()}"
+MNS.PNA036_3.KTPRA.P.P27,1, UInt4, 5
+MNS.PNA036_3.KTPRA.P.P27,6,Float,1000
+MNS.PNA036_3.KTPRA.P.P27,101,String,"Несанкционированное отключение ПНА"
+MNS.PNA036_3.KTPRA.P.P27,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6847) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(10) Category=()}"
+MNS.PNA036_3.KTPRA.F.F28,1, UInt4, 5
+MNS.PNA036_3.KTPRA.F.F28,6,Float,1000
+MNS.PNA036_3.KTPRA.F.F28,101,String,"Несанкционированное включение ПНА. Есть параметр защиты"
+MNS.PNA036_3.KTPRA.F.F28,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6855) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(11) Category=()}"
+MNS.PNA036_3.KTPRA.M.Mask28,1, UInt4, 5
+MNS.PNA036_3.KTPRA.M.Mask28,6,Float,1000
+MNS.PNA036_3.KTPRA.M.Mask28,101,String,"Несанкционированное включение ПНА. Маска"
+MNS.PNA036_3.KTPRA.M.Mask28,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(7514) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(11) Category=()}"
+MNS.PNA036_3.KTPRA.P.P28,1, UInt4, 5
+MNS.PNA036_3.KTPRA.P.P28,6,Float,1000
+MNS.PNA036_3.KTPRA.P.P28,101,String,"Несанкционированное включение ПНА"
+MNS.PNA036_3.KTPRA.P.P28,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6847) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(11) Category=()}"
+MNS.PNA036_3.KTPRA.F.F29,1, UInt4, 5
+MNS.PNA036_3.KTPRA.F.F29,6,Float,1000
+MNS.PNA036_3.KTPRA.F.F29,101,String,"Неисправность цепей контроля ПНА. Есть параметр защиты"
+MNS.PNA036_3.KTPRA.F.F29,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6855) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(12) Category=()}"
+MNS.PNA036_3.KTPRA.M.Mask29,1, UInt4, 5
+MNS.PNA036_3.KTPRA.M.Mask29,6,Float,1000
+MNS.PNA036_3.KTPRA.M.Mask29,101,String,"Неисправность цепей контроля ПНА. Маска"
+MNS.PNA036_3.KTPRA.M.Mask29,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(7514) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(12) Category=()}"
+MNS.PNA036_3.KTPRA.P.P29,1, UInt4, 5
+MNS.PNA036_3.KTPRA.P.P29,6,Float,1000
+MNS.PNA036_3.KTPRA.P.P29,101,String,"Неисправность цепей контроля ПНА"
+MNS.PNA036_3.KTPRA.P.P29,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6847) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(12) Category=()}"
+MNS.PNA036_3.KTPRA.F.F30,1, UInt4, 5
+MNS.PNA036_3.KTPRA.F.F30,6,Float,1000
+MNS.PNA036_3.KTPRA.F.F30,101,String,"Аварийное отключение агрегата ПНА кнопкой Стоп по месту. Есть параметр защиты"
+MNS.PNA036_3.KTPRA.F.F30,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6855) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(13) Category=()}"
+MNS.PNA036_3.KTPRA.M.Mask30,1, UInt4, 5
+MNS.PNA036_3.KTPRA.M.Mask30,6,Float,1000
+MNS.PNA036_3.KTPRA.M.Mask30,101,String,"Аварийное отключение агрегата ПНА кнопкой Стоп по месту. Маска"
+MNS.PNA036_3.KTPRA.M.Mask30,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(7514) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(13) Category=()}"
+MNS.PNA036_3.KTPRA.P.P30,1, UInt4, 5
+MNS.PNA036_3.KTPRA.P.P30,6,Float,1000
+MNS.PNA036_3.KTPRA.P.P30,101,String,"Аварийное отключение агрегата ПНА кнопкой Стоп по месту"
+MNS.PNA036_3.KTPRA.P.P30,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6847) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(13) Category=()}"
+MNS.PNA036_3.KTPRA.F.F31,1, UInt4, 5
+MNS.PNA036_3.KTPRA.F.F31,6,Float,1000
+MNS.PNA036_3.KTPRA.F.F31,101,String,"Аварийное отключение агрегата ПНА кнопкой Стоп с БРУ. Есть параметр защиты"
+MNS.PNA036_3.KTPRA.F.F31,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6855) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(14) Category=()}"
+MNS.PNA036_3.KTPRA.M.Mask31,1, UInt4, 5
+MNS.PNA036_3.KTPRA.M.Mask31,6,Float,1000
+MNS.PNA036_3.KTPRA.M.Mask31,101,String,"Аварийное отключение агрегата ПНА кнопкой Стоп с БРУ. Маска"
+MNS.PNA036_3.KTPRA.M.Mask31,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(7514) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(14) Category=()}"
+MNS.PNA036_3.KTPRA.P.P31,1, UInt4, 5
+MNS.PNA036_3.KTPRA.P.P31,6,Float,1000
+MNS.PNA036_3.KTPRA.P.P31,101,String,"Аварийное отключение агрегата ПНА кнопкой Стоп с БРУ"
+MNS.PNA036_3.KTPRA.P.P31,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6847) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(14) Category=()}"
+MNS.PNA036_3.KTPRA.F.F32,1, UInt4, 5
+MNS.PNA036_3.KTPRA.F.F32,6,Float,1000
+MNS.PNA036_3.KTPRA.F.F32,101,String,"Авария ЧРП. Есть параметр защиты"
+MNS.PNA036_3.KTPRA.F.F32,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6855) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(15) Category=()}"
+MNS.PNA036_3.KTPRA.M.Mask32,1, UInt4, 5
+MNS.PNA036_3.KTPRA.M.Mask32,6,Float,1000
+MNS.PNA036_3.KTPRA.M.Mask32,101,String,"Авария ЧРП. Маска"
+MNS.PNA036_3.KTPRA.M.Mask32,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(7514) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(15) Category=()}"
+MNS.PNA036_3.KTPRA.P.P32,1, UInt4, 5
+MNS.PNA036_3.KTPRA.P.P32,6,Float,1000
+MNS.PNA036_3.KTPRA.P.P32,101,String,"Авария ЧРП"
+MNS.PNA036_3.KTPRA.P.P32,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6847) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(15) Category=()}"
+MNS.PNA036_3.KTPRA.F.F33,1, UInt4, 5
+MNS.PNA036_3.KTPRA.F.F33,6,Float,1000
+MNS.PNA036_3.KTPRA.F.F33,101,String,"Невыполнение ЧРП включенного ПНА команд регулирования. Есть параметр защиты"
+MNS.PNA036_3.KTPRA.F.F33,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6856) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(0) Category=()}"
+MNS.PNA036_3.KTPRA.M.Mask33,1, UInt4, 5
+MNS.PNA036_3.KTPRA.M.Mask33,6,Float,1000
+MNS.PNA036_3.KTPRA.M.Mask33,101,String,"Невыполнение ЧРП включенного ПНА команд регулирования. Маска"
+MNS.PNA036_3.KTPRA.M.Mask33,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(7515) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(0) Category=()}"
+MNS.PNA036_3.KTPRA.P.P33,1, UInt4, 5
+MNS.PNA036_3.KTPRA.P.P33,6,Float,1000
+MNS.PNA036_3.KTPRA.P.P33,101,String,"Невыполнение ЧРП включенного ПНА команд регулирования"
+MNS.PNA036_3.KTPRA.P.P33,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6848) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(0) Category=()}"
+MNS.PNA036_4.KTPRA.ObjName,1, UInt4, 9
+MNS.PNA036_4.KTPRA.ObjName,101,String,"Карта агрегатных защит ПНА №036.4"
+MNS.PNA036_4.KTPRA.ObjName,3,UInt4,192
+MNS.PNA036_4.KTPRA.F,1, UInt4, 5
+MNS.PNA036_4.KTPRA.F,6,Float,1000
+MNS.PNA036_4.KTPRA.F,101,String,"Есть параметр защиты"
+MNS.PNA036_4.KTPRA.F,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6798) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(3) Category=()}"
+MNS.PNA036_4.KTPRA.M,1, UInt4, 5
+MNS.PNA036_4.KTPRA.M,6,Float,1000
+MNS.PNA036_4.KTPRA.M,101,String,"Есть маска"
+MNS.PNA036_4.KTPRA.M,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6799) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(3) Category=()}"
+MNS.PNA036_4.KTPRA.P,1, UInt4, 5
+MNS.PNA036_4.KTPRA.P,6,Float,1000
+MNS.PNA036_4.KTPRA.P,101,String,"Есть защита"
+MNS.PNA036_4.KTPRA.P,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6800) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(3) Category=()}"
+MNS.PNA036_4.KTPRA.F.F1,1, UInt4, 5
+MNS.PNA036_4.KTPRA.F.F1,6,Float,1000
+MNS.PNA036_4.KTPRA.F.F1,101,String,"Аварийная максимальная температура нефти на выходе из насоса. Есть параметр защиты"
+MNS.PNA036_4.KTPRA.F.F1,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6870) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(0) Category=()}"
+MNS.PNA036_4.KTPRA.M.Mask1,1, UInt4, 5
+MNS.PNA036_4.KTPRA.M.Mask1,6,Float,1000
+MNS.PNA036_4.KTPRA.M.Mask1,101,String,"Аварийная максимальная температура нефти на выходе из насоса. Маска"
+MNS.PNA036_4.KTPRA.M.Mask1,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(7521) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(0) Category=()}"
+MNS.PNA036_4.KTPRA.P.P1,1, UInt4, 5
+MNS.PNA036_4.KTPRA.P.P1,6,Float,1000
+MNS.PNA036_4.KTPRA.P.P1,101,String,"Аварийная максимальная температура нефти на выходе из насоса"
+MNS.PNA036_4.KTPRA.P.P1,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6862) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(0) Category=()}"
+MNS.PNA036_4.KTPRA.F.F2,1, UInt4, 5
+MNS.PNA036_4.KTPRA.F.F2,6,Float,1000
+MNS.PNA036_4.KTPRA.F.F2,101,String,"Недостоверность измерений температуры корпуса насоса. Есть параметр защиты"
+MNS.PNA036_4.KTPRA.F.F2,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6870) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(1) Category=()}"
+MNS.PNA036_4.KTPRA.M.Mask2,1, UInt4, 5
+MNS.PNA036_4.KTPRA.M.Mask2,6,Float,1000
+MNS.PNA036_4.KTPRA.M.Mask2,101,String,"Недостоверность измерений температуры корпуса насоса. Маска"
+MNS.PNA036_4.KTPRA.M.Mask2,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(7521) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(1) Category=()}"
+MNS.PNA036_4.KTPRA.P.P2,1, UInt4, 5
+MNS.PNA036_4.KTPRA.P.P2,6,Float,1000
+MNS.PNA036_4.KTPRA.P.P2,101,String,"Недостоверность измерений температуры корпуса насоса"
+MNS.PNA036_4.KTPRA.P.P2,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6862) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(1) Category=()}"
+MNS.PNA036_4.KTPRA.F.F3,1, UInt4, 5
+MNS.PNA036_4.KTPRA.F.F3,6,Float,1000
+MNS.PNA036_4.KTPRA.F.F3,101,String,"Аварийная максимальная температура опорно-упорного подшипника насоса (точка 1). Есть параметр защиты"
+MNS.PNA036_4.KTPRA.F.F3,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6870) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(2) Category=()}"
+MNS.PNA036_4.KTPRA.M.Mask3,1, UInt4, 5
+MNS.PNA036_4.KTPRA.M.Mask3,6,Float,1000
+MNS.PNA036_4.KTPRA.M.Mask3,101,String,"Аварийная максимальная температура опорно-упорного подшипника насоса (точка 1). Маска"
+MNS.PNA036_4.KTPRA.M.Mask3,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(7521) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(2) Category=()}"
+MNS.PNA036_4.KTPRA.P.P3,1, UInt4, 5
+MNS.PNA036_4.KTPRA.P.P3,6,Float,1000
+MNS.PNA036_4.KTPRA.P.P3,101,String,"Аварийная максимальная температура опорно-упорного подшипника насоса (точка 1)"
+MNS.PNA036_4.KTPRA.P.P3,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6862) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(2) Category=()}"
+MNS.PNA036_4.KTPRA.F.F4,1, UInt4, 5
+MNS.PNA036_4.KTPRA.F.F4,6,Float,1000
+MNS.PNA036_4.KTPRA.F.F4,101,String,"Аварийная максимальная температура опорно-упорного подшипника насоса (точка 2). Есть параметр защиты"
+MNS.PNA036_4.KTPRA.F.F4,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6870) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(3) Category=()}"
+MNS.PNA036_4.KTPRA.M.Mask4,1, UInt4, 5
+MNS.PNA036_4.KTPRA.M.Mask4,6,Float,1000
+MNS.PNA036_4.KTPRA.M.Mask4,101,String,"Аварийная максимальная температура опорно-упорного подшипника насоса (точка 2). Маска"
+MNS.PNA036_4.KTPRA.M.Mask4,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(7521) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(3) Category=()}"
+MNS.PNA036_4.KTPRA.P.P4,1, UInt4, 5
+MNS.PNA036_4.KTPRA.P.P4,6,Float,1000
+MNS.PNA036_4.KTPRA.P.P4,101,String,"Аварийная максимальная температура опорно-упорного подшипника насоса (точка 2)"
+MNS.PNA036_4.KTPRA.P.P4,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6862) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(3) Category=()}"
+MNS.PNA036_4.KTPRA.F.F5,1, UInt4, 5
+MNS.PNA036_4.KTPRA.F.F5,6,Float,1000
+MNS.PNA036_4.KTPRA.F.F5,101,String,"Аварийная максимальная температура нижнего подшипника ЭД. Есть параметр защиты"
+MNS.PNA036_4.KTPRA.F.F5,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6870) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(4) Category=()}"
+MNS.PNA036_4.KTPRA.M.Mask5,1, UInt4, 5
+MNS.PNA036_4.KTPRA.M.Mask5,6,Float,1000
+MNS.PNA036_4.KTPRA.M.Mask5,101,String,"Аварийная максимальная температура нижнего подшипника ЭД. Маска"
+MNS.PNA036_4.KTPRA.M.Mask5,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(7521) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(4) Category=()}"
+MNS.PNA036_4.KTPRA.P.P5,1, UInt4, 5
+MNS.PNA036_4.KTPRA.P.P5,6,Float,1000
+MNS.PNA036_4.KTPRA.P.P5,101,String,"Аварийная максимальная температура нижнего подшипника ЭД"
+MNS.PNA036_4.KTPRA.P.P5,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6862) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(4) Category=()}"
+MNS.PNA036_4.KTPRA.F.F6,1, UInt4, 5
+MNS.PNA036_4.KTPRA.F.F6,6,Float,1000
+MNS.PNA036_4.KTPRA.F.F6,101,String,"Аварийная максимальная температура верхнего подшипника ЭД (точка 1). Есть параметр защиты"
+MNS.PNA036_4.KTPRA.F.F6,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6870) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(5) Category=()}"
+MNS.PNA036_4.KTPRA.M.Mask6,1, UInt4, 5
+MNS.PNA036_4.KTPRA.M.Mask6,6,Float,1000
+MNS.PNA036_4.KTPRA.M.Mask6,101,String,"Аварийная максимальная температура верхнего подшипника ЭД (точка 1). Маска"
+MNS.PNA036_4.KTPRA.M.Mask6,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(7521) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(5) Category=()}"
+MNS.PNA036_4.KTPRA.P.P6,1, UInt4, 5
+MNS.PNA036_4.KTPRA.P.P6,6,Float,1000
+MNS.PNA036_4.KTPRA.P.P6,101,String,"Аварийная максимальная температура верхнего подшипника ЭД (точка 1)"
+MNS.PNA036_4.KTPRA.P.P6,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6862) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(5) Category=()}"
+MNS.PNA036_4.KTPRA.F.F7,1, UInt4, 5
+MNS.PNA036_4.KTPRA.F.F7,6,Float,1000
+MNS.PNA036_4.KTPRA.F.F7,101,String,"Аварийная максимальная температура верхнего подшипника ЭД (точка 2). Есть параметр защиты"
+MNS.PNA036_4.KTPRA.F.F7,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6870) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(6) Category=()}"
+MNS.PNA036_4.KTPRA.M.Mask7,1, UInt4, 5
+MNS.PNA036_4.KTPRA.M.Mask7,6,Float,1000
+MNS.PNA036_4.KTPRA.M.Mask7,101,String,"Аварийная максимальная температура верхнего подшипника ЭД (точка 2). Маска"
+MNS.PNA036_4.KTPRA.M.Mask7,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(7521) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(6) Category=()}"
+MNS.PNA036_4.KTPRA.P.P7,1, UInt4, 5
+MNS.PNA036_4.KTPRA.P.P7,6,Float,1000
+MNS.PNA036_4.KTPRA.P.P7,101,String,"Аварийная максимальная температура верхнего подшипника ЭД (точка 2)"
+MNS.PNA036_4.KTPRA.P.P7,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6862) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(6) Category=()}"
+MNS.PNA036_4.KTPRA.F.F8,1, UInt4, 5
+MNS.PNA036_4.KTPRA.F.F8,6,Float,1000
+MNS.PNA036_4.KTPRA.F.F8,101,String,"Недостоверность измерений температуры опорно-упорного подшипника насоса (точка 1). Есть параметр защиты"
+MNS.PNA036_4.KTPRA.F.F8,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6870) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(7) Category=()}"
+MNS.PNA036_4.KTPRA.M.Mask8,1, UInt4, 5
+MNS.PNA036_4.KTPRA.M.Mask8,6,Float,1000
+MNS.PNA036_4.KTPRA.M.Mask8,101,String,"Недостоверность измерений температуры опорно-упорного подшипника насоса (точка 1). Маска"
+MNS.PNA036_4.KTPRA.M.Mask8,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(7521) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(7) Category=()}"
+MNS.PNA036_4.KTPRA.P.P8,1, UInt4, 5
+MNS.PNA036_4.KTPRA.P.P8,6,Float,1000
+MNS.PNA036_4.KTPRA.P.P8,101,String,"Недостоверность измерений температуры опорно-упорного подшипника насоса (точка 1)"
+MNS.PNA036_4.KTPRA.P.P8,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6862) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(7) Category=()}"
+MNS.PNA036_4.KTPRA.F.F9,1, UInt4, 5
+MNS.PNA036_4.KTPRA.F.F9,6,Float,1000
+MNS.PNA036_4.KTPRA.F.F9,101,String,"Недостоверность измерений температуры опорно-упорного подшипника насоса (точка 2). Есть параметр защиты"
+MNS.PNA036_4.KTPRA.F.F9,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6870) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(8) Category=()}"
+MNS.PNA036_4.KTPRA.M.Mask9,1, UInt4, 5
+MNS.PNA036_4.KTPRA.M.Mask9,6,Float,1000
+MNS.PNA036_4.KTPRA.M.Mask9,101,String,"Недостоверность измерений температуры опорно-упорного подшипника насоса (точка 2). Маска"
+MNS.PNA036_4.KTPRA.M.Mask9,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(7521) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(8) Category=()}"
+MNS.PNA036_4.KTPRA.P.P9,1, UInt4, 5
+MNS.PNA036_4.KTPRA.P.P9,6,Float,1000
+MNS.PNA036_4.KTPRA.P.P9,101,String,"Недостоверность измерений температуры опорно-упорного подшипника насоса (точка 2)"
+MNS.PNA036_4.KTPRA.P.P9,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6862) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(8) Category=()}"
+MNS.PNA036_4.KTPRA.F.F10,1, UInt4, 5
+MNS.PNA036_4.KTPRA.F.F10,6,Float,1000
+MNS.PNA036_4.KTPRA.F.F10,101,String,"Недостоверность измерений температуры нижнего подшипника ЭД. Есть параметр защиты"
+MNS.PNA036_4.KTPRA.F.F10,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6870) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(9) Category=()}"
+MNS.PNA036_4.KTPRA.M.Mask10,1, UInt4, 5
+MNS.PNA036_4.KTPRA.M.Mask10,6,Float,1000
+MNS.PNA036_4.KTPRA.M.Mask10,101,String,"Недостоверность измерений температуры нижнего подшипника ЭД. Маска"
+MNS.PNA036_4.KTPRA.M.Mask10,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(7521) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(9) Category=()}"
+MNS.PNA036_4.KTPRA.P.P10,1, UInt4, 5
+MNS.PNA036_4.KTPRA.P.P10,6,Float,1000
+MNS.PNA036_4.KTPRA.P.P10,101,String,"Недостоверность измерений температуры нижнего подшипника ЭД"
+MNS.PNA036_4.KTPRA.P.P10,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6862) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(9) Category=()}"
+MNS.PNA036_4.KTPRA.F.F11,1, UInt4, 5
+MNS.PNA036_4.KTPRA.F.F11,6,Float,1000
+MNS.PNA036_4.KTPRA.F.F11,101,String,"Недостоверность измерений температуры верхнего подшипника ЭД (точка 1). Есть параметр защиты"
+MNS.PNA036_4.KTPRA.F.F11,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6870) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(10) Category=()}"
+MNS.PNA036_4.KTPRA.M.Mask11,1, UInt4, 5
+MNS.PNA036_4.KTPRA.M.Mask11,6,Float,1000
+MNS.PNA036_4.KTPRA.M.Mask11,101,String,"Недостоверность измерений температуры верхнего подшипника ЭД (точка 1). Маска"
+MNS.PNA036_4.KTPRA.M.Mask11,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(7521) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(10) Category=()}"
+MNS.PNA036_4.KTPRA.P.P11,1, UInt4, 5
+MNS.PNA036_4.KTPRA.P.P11,6,Float,1000
+MNS.PNA036_4.KTPRA.P.P11,101,String,"Недостоверность измерений температуры верхнего подшипника ЭД (точка 1)"
+MNS.PNA036_4.KTPRA.P.P11,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6862) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(10) Category=()}"
+MNS.PNA036_4.KTPRA.F.F12,1, UInt4, 5
+MNS.PNA036_4.KTPRA.F.F12,6,Float,1000
+MNS.PNA036_4.KTPRA.F.F12,101,String,"Недостоверность измерений температуры верхнего подшипника ЭД (точка 2). Есть параметр защиты"
+MNS.PNA036_4.KTPRA.F.F12,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6870) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(11) Category=()}"
+MNS.PNA036_4.KTPRA.M.Mask12,1, UInt4, 5
+MNS.PNA036_4.KTPRA.M.Mask12,6,Float,1000
+MNS.PNA036_4.KTPRA.M.Mask12,101,String,"Недостоверность измерений температуры верхнего подшипника ЭД (точка 2). Маска"
+MNS.PNA036_4.KTPRA.M.Mask12,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(7521) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(11) Category=()}"
+MNS.PNA036_4.KTPRA.P.P12,1, UInt4, 5
+MNS.PNA036_4.KTPRA.P.P12,6,Float,1000
+MNS.PNA036_4.KTPRA.P.P12,101,String,"Недостоверность измерений температуры верхнего подшипника ЭД (точка 2)"
+MNS.PNA036_4.KTPRA.P.P12,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6862) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(11) Category=()}"
+MNS.PNA036_4.KTPRA.F.F13,1, UInt4, 5
+MNS.PNA036_4.KTPRA.F.F13,6,Float,1000
+MNS.PNA036_4.KTPRA.F.F13,101,String,"Aварийные утечки через торцевое уплотнение насоса. Есть параметр защиты"
+MNS.PNA036_4.KTPRA.F.F13,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6870) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(12) Category=()}"
+MNS.PNA036_4.KTPRA.M.Mask13,1, UInt4, 5
+MNS.PNA036_4.KTPRA.M.Mask13,6,Float,1000
+MNS.PNA036_4.KTPRA.M.Mask13,101,String,"Aварийные утечки через торцевое уплотнение насоса. Маска"
+MNS.PNA036_4.KTPRA.M.Mask13,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(7521) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(12) Category=()}"
+MNS.PNA036_4.KTPRA.P.P13,1, UInt4, 5
+MNS.PNA036_4.KTPRA.P.P13,6,Float,1000
+MNS.PNA036_4.KTPRA.P.P13,101,String,"Aварийные утечки через торцевое уплотнение насоса"
+MNS.PNA036_4.KTPRA.P.P13,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6862) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(12) Category=()}"
+MNS.PNA036_4.KTPRA.F.F14,1, UInt4, 5
+MNS.PNA036_4.KTPRA.F.F14,6,Float,1000
+MNS.PNA036_4.KTPRA.F.F14,101,String,"Аварийная максимальная вибрация опорно-упорного подшипника насоса в нестац. режиме (горизонтальная) . Есть параметр защиты"
+MNS.PNA036_4.KTPRA.F.F14,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6870) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(13) Category=()}"
+MNS.PNA036_4.KTPRA.M.Mask14,1, UInt4, 5
+MNS.PNA036_4.KTPRA.M.Mask14,6,Float,1000
+MNS.PNA036_4.KTPRA.M.Mask14,101,String,"Аварийная максимальная вибрация опорно-упорного подшипника насоса в нестац. режиме (горизонтальная) . Маска"
+MNS.PNA036_4.KTPRA.M.Mask14,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(7521) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(13) Category=()}"
+MNS.PNA036_4.KTPRA.P.P14,1, UInt4, 5
+MNS.PNA036_4.KTPRA.P.P14,6,Float,1000
+MNS.PNA036_4.KTPRA.P.P14,101,String,"Аварийная максимальная вибрация опорно-упорного подшипника насоса в нестац. режиме (горизонтальная) "
+MNS.PNA036_4.KTPRA.P.P14,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6862) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(13) Category=()}"
+MNS.PNA036_4.KTPRA.F.F15,1, UInt4, 5
+MNS.PNA036_4.KTPRA.F.F15,6,Float,1000
+MNS.PNA036_4.KTPRA.F.F15,101,String,"Аварийная максимальная вибрация опорно-упорного подшипника насоса в нестац. режиме (поперечная) . Есть параметр защиты"
+MNS.PNA036_4.KTPRA.F.F15,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6870) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(14) Category=()}"
+MNS.PNA036_4.KTPRA.M.Mask15,1, UInt4, 5
+MNS.PNA036_4.KTPRA.M.Mask15,6,Float,1000
+MNS.PNA036_4.KTPRA.M.Mask15,101,String,"Аварийная максимальная вибрация опорно-упорного подшипника насоса в нестац. режиме (поперечная) . Маска"
+MNS.PNA036_4.KTPRA.M.Mask15,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(7521) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(14) Category=()}"
+MNS.PNA036_4.KTPRA.P.P15,1, UInt4, 5
+MNS.PNA036_4.KTPRA.P.P15,6,Float,1000
+MNS.PNA036_4.KTPRA.P.P15,101,String,"Аварийная максимальная вибрация опорно-упорного подшипника насоса в нестац. режиме (поперечная) "
+MNS.PNA036_4.KTPRA.P.P15,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6862) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(14) Category=()}"
+MNS.PNA036_4.KTPRA.F.F16,1, UInt4, 5
+MNS.PNA036_4.KTPRA.F.F16,6,Float,1000
+MNS.PNA036_4.KTPRA.F.F16,101,String,"Аварийная максимальная вибрация опорно-упорного подшипника насоса в стац. режиме (горизонтальная) . Порог 1. Есть параметр защиты"
+MNS.PNA036_4.KTPRA.F.F16,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6870) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(15) Category=()}"
+MNS.PNA036_4.KTPRA.M.Mask16,1, UInt4, 5
+MNS.PNA036_4.KTPRA.M.Mask16,6,Float,1000
+MNS.PNA036_4.KTPRA.M.Mask16,101,String,"Аварийная максимальная вибрация опорно-упорного подшипника насоса в стац. режиме (горизонтальная) . Порог 1. Маска"
+MNS.PNA036_4.KTPRA.M.Mask16,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(7521) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(15) Category=()}"
+MNS.PNA036_4.KTPRA.P.P16,1, UInt4, 5
+MNS.PNA036_4.KTPRA.P.P16,6,Float,1000
+MNS.PNA036_4.KTPRA.P.P16,101,String,"Аварийная максимальная вибрация опорно-упорного подшипника насоса в стац. режиме (горизонтальная) . Порог 1"
+MNS.PNA036_4.KTPRA.P.P16,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6862) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(15) Category=()}"
+MNS.PNA036_4.KTPRA.F.F17,1, UInt4, 5
+MNS.PNA036_4.KTPRA.F.F17,6,Float,1000
+MNS.PNA036_4.KTPRA.F.F17,101,String,"Аварийная максимальная вибрация опорно-упорного подшипника насоса в стац. режиме (поперечная) . Порог 1. Есть параметр защиты"
+MNS.PNA036_4.KTPRA.F.F17,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6871) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(0) Category=()}"
+MNS.PNA036_4.KTPRA.M.Mask17,1, UInt4, 5
+MNS.PNA036_4.KTPRA.M.Mask17,6,Float,1000
+MNS.PNA036_4.KTPRA.M.Mask17,101,String,"Аварийная максимальная вибрация опорно-упорного подшипника насоса в стац. режиме (поперечная) . Порог 1. Маска"
+MNS.PNA036_4.KTPRA.M.Mask17,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(7522) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(0) Category=()}"
+MNS.PNA036_4.KTPRA.P.P17,1, UInt4, 5
+MNS.PNA036_4.KTPRA.P.P17,6,Float,1000
+MNS.PNA036_4.KTPRA.P.P17,101,String,"Аварийная максимальная вибрация опорно-упорного подшипника насоса в стац. режиме (поперечная) . Порог 1"
+MNS.PNA036_4.KTPRA.P.P17,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6863) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(0) Category=()}"
+MNS.PNA036_4.KTPRA.F.F18,1, UInt4, 5
+MNS.PNA036_4.KTPRA.F.F18,6,Float,1000
+MNS.PNA036_4.KTPRA.F.F18,101,String,"Аварийная максимальная вибрация опорно-упорного подшипника насоса (горизонтальная) . Порог 2. Есть параметр защиты"
+MNS.PNA036_4.KTPRA.F.F18,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6871) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(1) Category=()}"
+MNS.PNA036_4.KTPRA.M.Mask18,1, UInt4, 5
+MNS.PNA036_4.KTPRA.M.Mask18,6,Float,1000
+MNS.PNA036_4.KTPRA.M.Mask18,101,String,"Аварийная максимальная вибрация опорно-упорного подшипника насоса (горизонтальная) . Порог 2. Маска"
+MNS.PNA036_4.KTPRA.M.Mask18,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(7522) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(1) Category=()}"
+MNS.PNA036_4.KTPRA.P.P18,1, UInt4, 5
+MNS.PNA036_4.KTPRA.P.P18,6,Float,1000
+MNS.PNA036_4.KTPRA.P.P18,101,String,"Аварийная максимальная вибрация опорно-упорного подшипника насоса (горизонтальная) . Порог 2"
+MNS.PNA036_4.KTPRA.P.P18,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6863) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(1) Category=()}"
+MNS.PNA036_4.KTPRA.F.F19,1, UInt4, 5
+MNS.PNA036_4.KTPRA.F.F19,6,Float,1000
+MNS.PNA036_4.KTPRA.F.F19,101,String,"Аварийная максимальная вибрация опорно-упорного подшипника насоса (поперечная) . Порог 2. Есть параметр защиты"
+MNS.PNA036_4.KTPRA.F.F19,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6871) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(2) Category=()}"
+MNS.PNA036_4.KTPRA.M.Mask19,1, UInt4, 5
+MNS.PNA036_4.KTPRA.M.Mask19,6,Float,1000
+MNS.PNA036_4.KTPRA.M.Mask19,101,String,"Аварийная максимальная вибрация опорно-упорного подшипника насоса (поперечная) . Порог 2. Маска"
+MNS.PNA036_4.KTPRA.M.Mask19,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(7522) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(2) Category=()}"
+MNS.PNA036_4.KTPRA.P.P19,1, UInt4, 5
+MNS.PNA036_4.KTPRA.P.P19,6,Float,1000
+MNS.PNA036_4.KTPRA.P.P19,101,String,"Аварийная максимальная вибрация опорно-упорного подшипника насоса (поперечная) . Порог 2"
+MNS.PNA036_4.KTPRA.P.P19,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6863) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(2) Category=()}"
+MNS.PNA036_4.KTPRA.F.F20,1, UInt4, 5
+MNS.PNA036_4.KTPRA.F.F20,6,Float,1000
+MNS.PNA036_4.KTPRA.F.F20,101,String,"Недостоверность измерений вибрации в группе преобразователей (насос). Есть параметр защиты"
+MNS.PNA036_4.KTPRA.F.F20,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6871) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(3) Category=()}"
+MNS.PNA036_4.KTPRA.M.Mask20,1, UInt4, 5
+MNS.PNA036_4.KTPRA.M.Mask20,6,Float,1000
+MNS.PNA036_4.KTPRA.M.Mask20,101,String,"Недостоверность измерений вибрации в группе преобразователей (насос). Маска"
+MNS.PNA036_4.KTPRA.M.Mask20,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(7522) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(3) Category=()}"
+MNS.PNA036_4.KTPRA.P.P20,1, UInt4, 5
+MNS.PNA036_4.KTPRA.P.P20,6,Float,1000
+MNS.PNA036_4.KTPRA.P.P20,101,String,"Недостоверность измерений вибрации в группе преобразователей (насос)"
+MNS.PNA036_4.KTPRA.P.P20,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6863) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(3) Category=()}"
+MNS.PNA036_4.KTPRA.F.F21,1, UInt4, 5
+MNS.PNA036_4.KTPRA.F.F21,6,Float,1000
+MNS.PNA036_4.KTPRA.F.F21,101,String,"Аварийное минимальное давление на выходе работающего ПНА . Есть параметр защиты"
+MNS.PNA036_4.KTPRA.F.F21,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6871) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(4) Category=()}"
+MNS.PNA036_4.KTPRA.M.Mask21,1, UInt4, 5
+MNS.PNA036_4.KTPRA.M.Mask21,6,Float,1000
+MNS.PNA036_4.KTPRA.M.Mask21,101,String,"Аварийное минимальное давление на выходе работающего ПНА . Маска"
+MNS.PNA036_4.KTPRA.M.Mask21,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(7522) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(4) Category=()}"
+MNS.PNA036_4.KTPRA.P.P21,1, UInt4, 5
+MNS.PNA036_4.KTPRA.P.P21,6,Float,1000
+MNS.PNA036_4.KTPRA.P.P21,101,String,"Аварийное минимальное давление на выходе работающего ПНА "
+MNS.PNA036_4.KTPRA.P.P21,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6863) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(4) Category=()}"
+MNS.PNA036_4.KTPRA.F.F22,1, UInt4, 5
+MNS.PNA036_4.KTPRA.F.F22,6,Float,1000
+MNS.PNA036_4.KTPRA.F.F22,101,String,"Закрытие агрегатных задвижек работающего агрегата. Есть параметр защиты"
+MNS.PNA036_4.KTPRA.F.F22,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6871) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(5) Category=()}"
+MNS.PNA036_4.KTPRA.M.Mask22,1, UInt4, 5
+MNS.PNA036_4.KTPRA.M.Mask22,6,Float,1000
+MNS.PNA036_4.KTPRA.M.Mask22,101,String,"Закрытие агрегатных задвижек работающего агрегата. Маска"
+MNS.PNA036_4.KTPRA.M.Mask22,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(7522) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(5) Category=()}"
+MNS.PNA036_4.KTPRA.P.P22,1, UInt4, 5
+MNS.PNA036_4.KTPRA.P.P22,6,Float,1000
+MNS.PNA036_4.KTPRA.P.P22,101,String,"Закрытие агрегатных задвижек работающего агрегата"
+MNS.PNA036_4.KTPRA.P.P22,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6863) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(5) Category=()}"
+MNS.PNA036_4.KTPRA.F.F23,1, UInt4, 5
+MNS.PNA036_4.KTPRA.F.F23,6,Float,1000
+MNS.PNA036_4.KTPRA.F.F23,101,String,"Невыполнение программы пуска агрегата ПНА. Есть параметр защиты"
+MNS.PNA036_4.KTPRA.F.F23,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6871) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(6) Category=()}"
+MNS.PNA036_4.KTPRA.M.Mask23,1, UInt4, 5
+MNS.PNA036_4.KTPRA.M.Mask23,6,Float,1000
+MNS.PNA036_4.KTPRA.M.Mask23,101,String,"Невыполнение программы пуска агрегата ПНА. Маска"
+MNS.PNA036_4.KTPRA.M.Mask23,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(7522) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(6) Category=()}"
+MNS.PNA036_4.KTPRA.P.P23,1, UInt4, 5
+MNS.PNA036_4.KTPRA.P.P23,6,Float,1000
+MNS.PNA036_4.KTPRA.P.P23,101,String,"Невыполнение программы пуска агрегата ПНА"
+MNS.PNA036_4.KTPRA.P.P23,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6863) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(6) Category=()}"
+MNS.PNA036_4.KTPRA.F.F24,1, UInt4, 5
+MNS.PNA036_4.KTPRA.F.F24,6,Float,1000
+MNS.PNA036_4.KTPRA.F.F24,101,String,"Невыполнение команды остановки ПНА. Есть параметр защиты"
+MNS.PNA036_4.KTPRA.F.F24,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6871) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(7) Category=()}"
+MNS.PNA036_4.KTPRA.M.Mask24,1, UInt4, 5
+MNS.PNA036_4.KTPRA.M.Mask24,6,Float,1000
+MNS.PNA036_4.KTPRA.M.Mask24,101,String,"Невыполнение команды остановки ПНА. Маска"
+MNS.PNA036_4.KTPRA.M.Mask24,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(7522) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(7) Category=()}"
+MNS.PNA036_4.KTPRA.P.P24,1, UInt4, 5
+MNS.PNA036_4.KTPRA.P.P24,6,Float,1000
+MNS.PNA036_4.KTPRA.P.P24,101,String,"Невыполнение команды остановки ПНА"
+MNS.PNA036_4.KTPRA.P.P24,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6863) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(7) Category=()}"
+MNS.PNA036_4.KTPRA.F.F25,1, UInt4, 5
+MNS.PNA036_4.KTPRA.F.F25,6,Float,1000
+MNS.PNA036_4.KTPRA.F.F25,101,String,"Невыполнение команды отключения НВ ПНА. Есть параметр защиты"
+MNS.PNA036_4.KTPRA.F.F25,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6871) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(8) Category=()}"
+MNS.PNA036_4.KTPRA.M.Mask25,1, UInt4, 5
+MNS.PNA036_4.KTPRA.M.Mask25,6,Float,1000
+MNS.PNA036_4.KTPRA.M.Mask25,101,String,"Невыполнение команды отключения НВ ПНА. Маска"
+MNS.PNA036_4.KTPRA.M.Mask25,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(7522) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(8) Category=()}"
+MNS.PNA036_4.KTPRA.P.P25,1, UInt4, 5
+MNS.PNA036_4.KTPRA.P.P25,6,Float,1000
+MNS.PNA036_4.KTPRA.P.P25,101,String,"Невыполнение команды отключения НВ ПНА"
+MNS.PNA036_4.KTPRA.P.P25,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6863) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(8) Category=()}"
+MNS.PNA036_4.KTPRA.F.F26,1, UInt4, 5
+MNS.PNA036_4.KTPRA.F.F26,6,Float,1000
+MNS.PNA036_4.KTPRA.F.F26,101,String,"Неисправность цепей отключения НВ ПНА (в т.ч. отсутствие питания цепей управления). Есть параметр защиты"
+MNS.PNA036_4.KTPRA.F.F26,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6871) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(9) Category=()}"
+MNS.PNA036_4.KTPRA.M.Mask26,1, UInt4, 5
+MNS.PNA036_4.KTPRA.M.Mask26,6,Float,1000
+MNS.PNA036_4.KTPRA.M.Mask26,101,String,"Неисправность цепей отключения НВ ПНА (в т.ч. отсутствие питания цепей управления). Маска"
+MNS.PNA036_4.KTPRA.M.Mask26,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(7522) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(9) Category=()}"
+MNS.PNA036_4.KTPRA.P.P26,1, UInt4, 5
+MNS.PNA036_4.KTPRA.P.P26,6,Float,1000
+MNS.PNA036_4.KTPRA.P.P26,101,String,"Неисправность цепей отключения НВ ПНА (в т.ч. отсутствие питания цепей управления)"
+MNS.PNA036_4.KTPRA.P.P26,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6863) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(9) Category=()}"
+MNS.PNA036_4.KTPRA.F.F27,1, UInt4, 5
+MNS.PNA036_4.KTPRA.F.F27,6,Float,1000
+MNS.PNA036_4.KTPRA.F.F27,101,String,"Несанкционированное отключение ПНА. Есть параметр защиты"
+MNS.PNA036_4.KTPRA.F.F27,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6871) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(10) Category=()}"
+MNS.PNA036_4.KTPRA.M.Mask27,1, UInt4, 5
+MNS.PNA036_4.KTPRA.M.Mask27,6,Float,1000
+MNS.PNA036_4.KTPRA.M.Mask27,101,String,"Несанкционированное отключение ПНА. Маска"
+MNS.PNA036_4.KTPRA.M.Mask27,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(7522) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(10) Category=()}"
+MNS.PNA036_4.KTPRA.P.P27,1, UInt4, 5
+MNS.PNA036_4.KTPRA.P.P27,6,Float,1000
+MNS.PNA036_4.KTPRA.P.P27,101,String,"Несанкционированное отключение ПНА"
+MNS.PNA036_4.KTPRA.P.P27,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6863) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(10) Category=()}"
+MNS.PNA036_4.KTPRA.F.F28,1, UInt4, 5
+MNS.PNA036_4.KTPRA.F.F28,6,Float,1000
+MNS.PNA036_4.KTPRA.F.F28,101,String,"Несанкционированное включение ПНА. Есть параметр защиты"
+MNS.PNA036_4.KTPRA.F.F28,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6871) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(11) Category=()}"
+MNS.PNA036_4.KTPRA.M.Mask28,1, UInt4, 5
+MNS.PNA036_4.KTPRA.M.Mask28,6,Float,1000
+MNS.PNA036_4.KTPRA.M.Mask28,101,String,"Несанкционированное включение ПНА. Маска"
+MNS.PNA036_4.KTPRA.M.Mask28,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(7522) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(11) Category=()}"
+MNS.PNA036_4.KTPRA.P.P28,1, UInt4, 5
+MNS.PNA036_4.KTPRA.P.P28,6,Float,1000
+MNS.PNA036_4.KTPRA.P.P28,101,String,"Несанкционированное включение ПНА"
+MNS.PNA036_4.KTPRA.P.P28,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6863) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(11) Category=()}"
+MNS.PNA036_4.KTPRA.F.F29,1, UInt4, 5
+MNS.PNA036_4.KTPRA.F.F29,6,Float,1000
+MNS.PNA036_4.KTPRA.F.F29,101,String,"Неисправность цепей контроля ПНА. Есть параметр защиты"
+MNS.PNA036_4.KTPRA.F.F29,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6871) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(12) Category=()}"
+MNS.PNA036_4.KTPRA.M.Mask29,1, UInt4, 5
+MNS.PNA036_4.KTPRA.M.Mask29,6,Float,1000
+MNS.PNA036_4.KTPRA.M.Mask29,101,String,"Неисправность цепей контроля ПНА. Маска"
+MNS.PNA036_4.KTPRA.M.Mask29,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(7522) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(12) Category=()}"
+MNS.PNA036_4.KTPRA.P.P29,1, UInt4, 5
+MNS.PNA036_4.KTPRA.P.P29,6,Float,1000
+MNS.PNA036_4.KTPRA.P.P29,101,String,"Неисправность цепей контроля ПНА"
+MNS.PNA036_4.KTPRA.P.P29,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6863) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(12) Category=()}"
+MNS.PNA036_4.KTPRA.F.F30,1, UInt4, 5
+MNS.PNA036_4.KTPRA.F.F30,6,Float,1000
+MNS.PNA036_4.KTPRA.F.F30,101,String,"Аварийное отключение агрегата ПНА кнопкой Стоп по месту. Есть параметр защиты"
+MNS.PNA036_4.KTPRA.F.F30,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6871) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(13) Category=()}"
+MNS.PNA036_4.KTPRA.M.Mask30,1, UInt4, 5
+MNS.PNA036_4.KTPRA.M.Mask30,6,Float,1000
+MNS.PNA036_4.KTPRA.M.Mask30,101,String,"Аварийное отключение агрегата ПНА кнопкой Стоп по месту. Маска"
+MNS.PNA036_4.KTPRA.M.Mask30,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(7522) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(13) Category=()}"
+MNS.PNA036_4.KTPRA.P.P30,1, UInt4, 5
+MNS.PNA036_4.KTPRA.P.P30,6,Float,1000
+MNS.PNA036_4.KTPRA.P.P30,101,String,"Аварийное отключение агрегата ПНА кнопкой Стоп по месту"
+MNS.PNA036_4.KTPRA.P.P30,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6863) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(13) Category=()}"
+MNS.PNA036_4.KTPRA.F.F31,1, UInt4, 5
+MNS.PNA036_4.KTPRA.F.F31,6,Float,1000
+MNS.PNA036_4.KTPRA.F.F31,101,String,"Аварийное отключение агрегата ПНА кнопкой Стоп с БРУ. Есть параметр защиты"
+MNS.PNA036_4.KTPRA.F.F31,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6871) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(14) Category=()}"
+MNS.PNA036_4.KTPRA.M.Mask31,1, UInt4, 5
+MNS.PNA036_4.KTPRA.M.Mask31,6,Float,1000
+MNS.PNA036_4.KTPRA.M.Mask31,101,String,"Аварийное отключение агрегата ПНА кнопкой Стоп с БРУ. Маска"
+MNS.PNA036_4.KTPRA.M.Mask31,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(7522) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(14) Category=()}"
+MNS.PNA036_4.KTPRA.P.P31,1, UInt4, 5
+MNS.PNA036_4.KTPRA.P.P31,6,Float,1000
+MNS.PNA036_4.KTPRA.P.P31,101,String,"Аварийное отключение агрегата ПНА кнопкой Стоп с БРУ"
+MNS.PNA036_4.KTPRA.P.P31,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6863) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(14) Category=()}"
+MNS.PNA036_4.KTPRA.F.F32,1, UInt4, 5
+MNS.PNA036_4.KTPRA.F.F32,6,Float,1000
+MNS.PNA036_4.KTPRA.F.F32,101,String,"Авария ЧРП. Есть параметр защиты"
+MNS.PNA036_4.KTPRA.F.F32,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6871) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(15) Category=()}"
+MNS.PNA036_4.KTPRA.M.Mask32,1, UInt4, 5
+MNS.PNA036_4.KTPRA.M.Mask32,6,Float,1000
+MNS.PNA036_4.KTPRA.M.Mask32,101,String,"Авария ЧРП. Маска"
+MNS.PNA036_4.KTPRA.M.Mask32,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(7522) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(15) Category=()}"
+MNS.PNA036_4.KTPRA.P.P32,1, UInt4, 5
+MNS.PNA036_4.KTPRA.P.P32,6,Float,1000
+MNS.PNA036_4.KTPRA.P.P32,101,String,"Авария ЧРП"
+MNS.PNA036_4.KTPRA.P.P32,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6863) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(15) Category=()}"
+MNS.PNA036_4.KTPRA.F.F33,1, UInt4, 5
+MNS.PNA036_4.KTPRA.F.F33,6,Float,1000
+MNS.PNA036_4.KTPRA.F.F33,101,String,"Невыполнение ЧРП включенного ПНА команд регулирования. Есть параметр защиты"
+MNS.PNA036_4.KTPRA.F.F33,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6872) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(0) Category=()}"
+MNS.PNA036_4.KTPRA.M.Mask33,1, UInt4, 5
+MNS.PNA036_4.KTPRA.M.Mask33,6,Float,1000
+MNS.PNA036_4.KTPRA.M.Mask33,101,String,"Невыполнение ЧРП включенного ПНА команд регулирования. Маска"
+MNS.PNA036_4.KTPRA.M.Mask33,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(7523) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(0) Category=()}"
+MNS.PNA036_4.KTPRA.P.P33,1, UInt4, 5
+MNS.PNA036_4.KTPRA.P.P33,6,Float,1000
+MNS.PNA036_4.KTPRA.P.P33,101,String,"Невыполнение ЧРП включенного ПНА команд регулирования"
+MNS.PNA036_4.KTPRA.P.P33,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6864) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(0) Category=()}"

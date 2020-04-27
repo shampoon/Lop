@@ -1,0 +1,1100 @@
+MNS.PNA036_1.Zdv036_1_1.ZDV.ObjNum,1,UInt4,9
+MNS.PNA036_1.Zdv036_1_1.ZDV.ObjNum,101,String,"1"
+MNS.PNA036_1.Zdv036_1_1.ZDV.ObjNum,3,UInt4,192
+MNS.PNA036_1.Zdv036_1_1.ZDV.Pos,1,UInt4,9
+MNS.PNA036_1.Zdv036_1_1.ZDV.Pos,101,String,"Положение задвижки"
+MNS.PNA036_1.Zdv036_1_1.ZDV.Pos,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(7665) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.PNA036_1.Zdv036_1_1.ZDV.Pos,5100,Double,0
+MNS.PNA036_1.Zdv036_1_1.ZDV.Pos,5102,Double,1000
+MNS.PNA036_1.Zdv036_1_1.ZDV.Pos,5103,Double,0
+MNS.PNA036_1.Zdv036_1_1.ZDV.Pos,5105,Double,100
+MNS.PNA036_1.Zdv036_1_1.ZDV.Pos,100,String,%
+MNS.PNA036_1.Zdv036_1_1.ZDV.Channels,1,UInt4,9
+MNS.PNA036_1.Zdv036_1_1.ZDV.Channels,101,String,"DG.USO2_2.A1.M1:14:15:12:13:16:17, DG.USO2_2.A1.M2:6:7:8:9, DG.USO2_1.A1.M7:16"
+MNS.PNA036_1.Zdv036_1_1.ZDV.Channels,3,UInt4,192
+MNS.PNA036_1.Zdv036_1_1.ZDV.Ust.Set2,1,UInt4,9
+MNS.PNA036_1.Zdv036_1_1.ZDV.Ust.Set2,101,String,"Время хода вала задвижки"
+MNS.PNA036_1.Zdv036_1_1.ZDV.Ust.Set2,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(9938) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+WR_MNS.PNA036_1.Zdv036_1_1.ZDV.Ust.Set2,1,UInt4,9
+WR_MNS.PNA036_1.Zdv036_1_1.ZDV.Ust.Set2,101,String,"Время хода вала задвижки"
+WR_MNS.PNA036_1.Zdv036_1_1.ZDV.Ust.Set2,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(9938) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TR2) Signed=(True) Category=()}"
+MNS.PNA036_1.Zdv036_1_1.ZDV.RSDiag1,1,UInt4,9
+MNS.PNA036_1.Zdv036_1_1.ZDV.RSDiag1,101,String,"Диагностический регистр по интерфейсу (регистр 1)"
+MNS.PNA036_1.Zdv036_1_1.ZDV.RSDiag1,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(38600) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+WR_MNS.PNA036_1.Zdv036_1_1.ZDV.RSDiag1,1,UInt4,9
+WR_MNS.PNA036_1.Zdv036_1_1.ZDV.RSDiag1,101,String,"Диагностический регистр по интерфейсу (регистр 1)"
+WR_MNS.PNA036_1.Zdv036_1_1.ZDV.RSDiag1,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(38600) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TR2) Signed=(True) Category=()}"
+MNS.PNA036_1.Zdv036_1_1.ZDV.RSDiag2,1,UInt4,9
+MNS.PNA036_1.Zdv036_1_1.ZDV.RSDiag2,101,String,"Диагностический регистр по интерфейсу (регистр 2)"
+MNS.PNA036_1.Zdv036_1_1.ZDV.RSDiag2,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(38601) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+WR_MNS.PNA036_1.Zdv036_1_1.ZDV.RSDiag2,1,UInt4,9
+WR_MNS.PNA036_1.Zdv036_1_1.ZDV.RSDiag2,101,String,"Диагностический регистр по интерфейсу (регистр 2)"
+WR_MNS.PNA036_1.Zdv036_1_1.ZDV.RSDiag2,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(38601) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TR2) Signed=(True) Category=()}"
+MNS.PNA036_1.Zdv036_1_1.ZDV.Torque,1,UInt4,9
+MNS.PNA036_1.Zdv036_1_1.ZDV.Torque,101,String,"Текущий момент"
+MNS.PNA036_1.Zdv036_1_1.ZDV.Torque,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6393) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+WR_MNS.PNA036_1.Zdv036_1_1.ZDV.Torque,1,UInt4,9
+WR_MNS.PNA036_1.Zdv036_1_1.ZDV.Torque,101,String,"Текущий момент"
+WR_MNS.PNA036_1.Zdv036_1_1.ZDV.Torque,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6393) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TR2) Signed=(True) Category=()}"
+MNS.PNA036_1.Zdv036_1_1.ZDV.Voltage,1,UInt4,9
+MNS.PNA036_1.Zdv036_1_1.ZDV.Voltage,101,String,"Напряжение питания"
+MNS.PNA036_1.Zdv036_1_1.ZDV.Voltage,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6394) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+WR_MNS.PNA036_1.Zdv036_1_1.ZDV.Voltage,1,UInt4,9
+WR_MNS.PNA036_1.Zdv036_1_1.ZDV.Voltage,101,String,"Напряжение питания"
+WR_MNS.PNA036_1.Zdv036_1_1.ZDV.Voltage,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6394) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TR2) Signed=(True) Category=()}"
+MNS.PNA036_1.Zdv036_1_2.ZDV.ObjNum,1,UInt4,9
+MNS.PNA036_1.Zdv036_1_2.ZDV.ObjNum,101,String,"2"
+MNS.PNA036_1.Zdv036_1_2.ZDV.ObjNum,3,UInt4,192
+MNS.PNA036_1.Zdv036_1_2.ZDV.Pos,1,UInt4,9
+MNS.PNA036_1.Zdv036_1_2.ZDV.Pos,101,String,"Положение задвижки"
+MNS.PNA036_1.Zdv036_1_2.ZDV.Pos,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(7666) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.PNA036_1.Zdv036_1_2.ZDV.Pos,5100,Double,0
+MNS.PNA036_1.Zdv036_1_2.ZDV.Pos,5102,Double,1000
+MNS.PNA036_1.Zdv036_1_2.ZDV.Pos,5103,Double,0
+MNS.PNA036_1.Zdv036_1_2.ZDV.Pos,5105,Double,100
+MNS.PNA036_1.Zdv036_1_2.ZDV.Pos,100,String,%
+MNS.PNA036_1.Zdv036_1_2.ZDV.Channels,1,UInt4,9
+MNS.PNA036_1.Zdv036_1_2.ZDV.Channels,101,String,"DG.USO2_2.A1.M1:20:21:18:19:22:23, DG.USO2_2.A1.M2:10:11:12:13, DG.USO2_2.A1.M7:16"
+MNS.PNA036_1.Zdv036_1_2.ZDV.Channels,3,UInt4,192
+MNS.PNA036_1.Zdv036_1_2.ZDV.Ust.Set2,1,UInt4,9
+MNS.PNA036_1.Zdv036_1_2.ZDV.Ust.Set2,101,String,"Время хода вала задвижки"
+MNS.PNA036_1.Zdv036_1_2.ZDV.Ust.Set2,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(9941) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+WR_MNS.PNA036_1.Zdv036_1_2.ZDV.Ust.Set2,1,UInt4,9
+WR_MNS.PNA036_1.Zdv036_1_2.ZDV.Ust.Set2,101,String,"Время хода вала задвижки"
+WR_MNS.PNA036_1.Zdv036_1_2.ZDV.Ust.Set2,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(9941) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TR2) Signed=(True) Category=()}"
+MNS.PNA036_1.Zdv036_1_2.ZDV.RSDiag1,1,UInt4,9
+MNS.PNA036_1.Zdv036_1_2.ZDV.RSDiag1,101,String,"Диагностический регистр по интерфейсу (регистр 1)"
+MNS.PNA036_1.Zdv036_1_2.ZDV.RSDiag1,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(38602) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+WR_MNS.PNA036_1.Zdv036_1_2.ZDV.RSDiag1,1,UInt4,9
+WR_MNS.PNA036_1.Zdv036_1_2.ZDV.RSDiag1,101,String,"Диагностический регистр по интерфейсу (регистр 1)"
+WR_MNS.PNA036_1.Zdv036_1_2.ZDV.RSDiag1,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(38602) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TR2) Signed=(True) Category=()}"
+MNS.PNA036_1.Zdv036_1_2.ZDV.RSDiag2,1,UInt4,9
+MNS.PNA036_1.Zdv036_1_2.ZDV.RSDiag2,101,String,"Диагностический регистр по интерфейсу (регистр 2)"
+MNS.PNA036_1.Zdv036_1_2.ZDV.RSDiag2,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(38603) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+WR_MNS.PNA036_1.Zdv036_1_2.ZDV.RSDiag2,1,UInt4,9
+WR_MNS.PNA036_1.Zdv036_1_2.ZDV.RSDiag2,101,String,"Диагностический регистр по интерфейсу (регистр 2)"
+WR_MNS.PNA036_1.Zdv036_1_2.ZDV.RSDiag2,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(38603) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TR2) Signed=(True) Category=()}"
+MNS.PNA036_1.Zdv036_1_2.ZDV.Torque,1,UInt4,9
+MNS.PNA036_1.Zdv036_1_2.ZDV.Torque,101,String,"Текущий момент"
+MNS.PNA036_1.Zdv036_1_2.ZDV.Torque,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6395) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+WR_MNS.PNA036_1.Zdv036_1_2.ZDV.Torque,1,UInt4,9
+WR_MNS.PNA036_1.Zdv036_1_2.ZDV.Torque,101,String,"Текущий момент"
+WR_MNS.PNA036_1.Zdv036_1_2.ZDV.Torque,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6395) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TR2) Signed=(True) Category=()}"
+MNS.PNA036_1.Zdv036_1_2.ZDV.Voltage,1,UInt4,9
+MNS.PNA036_1.Zdv036_1_2.ZDV.Voltage,101,String,"Напряжение питания"
+MNS.PNA036_1.Zdv036_1_2.ZDV.Voltage,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6396) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+WR_MNS.PNA036_1.Zdv036_1_2.ZDV.Voltage,1,UInt4,9
+WR_MNS.PNA036_1.Zdv036_1_2.ZDV.Voltage,101,String,"Напряжение питания"
+WR_MNS.PNA036_1.Zdv036_1_2.ZDV.Voltage,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6396) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TR2) Signed=(True) Category=()}"
+MNS.PNA036_2.Zdv036_2_1.ZDV.ObjNum,1,UInt4,9
+MNS.PNA036_2.Zdv036_2_1.ZDV.ObjNum,101,String,"3"
+MNS.PNA036_2.Zdv036_2_1.ZDV.ObjNum,3,UInt4,192
+MNS.PNA036_2.Zdv036_2_1.ZDV.Pos,1,UInt4,9
+MNS.PNA036_2.Zdv036_2_1.ZDV.Pos,101,String,"Положение задвижки"
+MNS.PNA036_2.Zdv036_2_1.ZDV.Pos,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(7667) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.PNA036_2.Zdv036_2_1.ZDV.Pos,5100,Double,0
+MNS.PNA036_2.Zdv036_2_1.ZDV.Pos,5102,Double,1000
+MNS.PNA036_2.Zdv036_2_1.ZDV.Pos,5103,Double,0
+MNS.PNA036_2.Zdv036_2_1.ZDV.Pos,5105,Double,100
+MNS.PNA036_2.Zdv036_2_1.ZDV.Pos,100,String,%
+MNS.PNA036_2.Zdv036_2_1.ZDV.Channels,1,UInt4,9
+MNS.PNA036_2.Zdv036_2_1.ZDV.Channels,101,String,"DG.USO2_3.A1.M1:14:15:12:13:16:17, DG.USO2_3.A1.M2:6:7:8:9, DG.USO2_3.A1.M7:16"
+MNS.PNA036_2.Zdv036_2_1.ZDV.Channels,3,UInt4,192
+MNS.PNA036_2.Zdv036_2_1.ZDV.Ust.Set2,1,UInt4,9
+MNS.PNA036_2.Zdv036_2_1.ZDV.Ust.Set2,101,String,"Время хода вала задвижки"
+MNS.PNA036_2.Zdv036_2_1.ZDV.Ust.Set2,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(9944) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+WR_MNS.PNA036_2.Zdv036_2_1.ZDV.Ust.Set2,1,UInt4,9
+WR_MNS.PNA036_2.Zdv036_2_1.ZDV.Ust.Set2,101,String,"Время хода вала задвижки"
+WR_MNS.PNA036_2.Zdv036_2_1.ZDV.Ust.Set2,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(9944) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TR2) Signed=(True) Category=()}"
+MNS.PNA036_2.Zdv036_2_1.ZDV.RSDiag1,1,UInt4,9
+MNS.PNA036_2.Zdv036_2_1.ZDV.RSDiag1,101,String,"Диагностический регистр по интерфейсу (регистр 1)"
+MNS.PNA036_2.Zdv036_2_1.ZDV.RSDiag1,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(38604) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+WR_MNS.PNA036_2.Zdv036_2_1.ZDV.RSDiag1,1,UInt4,9
+WR_MNS.PNA036_2.Zdv036_2_1.ZDV.RSDiag1,101,String,"Диагностический регистр по интерфейсу (регистр 1)"
+WR_MNS.PNA036_2.Zdv036_2_1.ZDV.RSDiag1,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(38604) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TR2) Signed=(True) Category=()}"
+MNS.PNA036_2.Zdv036_2_1.ZDV.RSDiag2,1,UInt4,9
+MNS.PNA036_2.Zdv036_2_1.ZDV.RSDiag2,101,String,"Диагностический регистр по интерфейсу (регистр 2)"
+MNS.PNA036_2.Zdv036_2_1.ZDV.RSDiag2,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(38605) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+WR_MNS.PNA036_2.Zdv036_2_1.ZDV.RSDiag2,1,UInt4,9
+WR_MNS.PNA036_2.Zdv036_2_1.ZDV.RSDiag2,101,String,"Диагностический регистр по интерфейсу (регистр 2)"
+WR_MNS.PNA036_2.Zdv036_2_1.ZDV.RSDiag2,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(38605) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TR2) Signed=(True) Category=()}"
+MNS.PNA036_2.Zdv036_2_1.ZDV.Torque,1,UInt4,9
+MNS.PNA036_2.Zdv036_2_1.ZDV.Torque,101,String,"Текущий момент"
+MNS.PNA036_2.Zdv036_2_1.ZDV.Torque,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6397) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+WR_MNS.PNA036_2.Zdv036_2_1.ZDV.Torque,1,UInt4,9
+WR_MNS.PNA036_2.Zdv036_2_1.ZDV.Torque,101,String,"Текущий момент"
+WR_MNS.PNA036_2.Zdv036_2_1.ZDV.Torque,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6397) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TR2) Signed=(True) Category=()}"
+MNS.PNA036_2.Zdv036_2_1.ZDV.Voltage,1,UInt4,9
+MNS.PNA036_2.Zdv036_2_1.ZDV.Voltage,101,String,"Напряжение питания"
+MNS.PNA036_2.Zdv036_2_1.ZDV.Voltage,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6398) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+WR_MNS.PNA036_2.Zdv036_2_1.ZDV.Voltage,1,UInt4,9
+WR_MNS.PNA036_2.Zdv036_2_1.ZDV.Voltage,101,String,"Напряжение питания"
+WR_MNS.PNA036_2.Zdv036_2_1.ZDV.Voltage,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6398) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TR2) Signed=(True) Category=()}"
+MNS.PNA036_2.Zdv036_2_2.ZDV.ObjNum,1,UInt4,9
+MNS.PNA036_2.Zdv036_2_2.ZDV.ObjNum,101,String,"4"
+MNS.PNA036_2.Zdv036_2_2.ZDV.ObjNum,3,UInt4,192
+MNS.PNA036_2.Zdv036_2_2.ZDV.Pos,1,UInt4,9
+MNS.PNA036_2.Zdv036_2_2.ZDV.Pos,101,String,"Положение задвижки"
+MNS.PNA036_2.Zdv036_2_2.ZDV.Pos,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(7668) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.PNA036_2.Zdv036_2_2.ZDV.Pos,5100,Double,0
+MNS.PNA036_2.Zdv036_2_2.ZDV.Pos,5102,Double,1000
+MNS.PNA036_2.Zdv036_2_2.ZDV.Pos,5103,Double,0
+MNS.PNA036_2.Zdv036_2_2.ZDV.Pos,5105,Double,100
+MNS.PNA036_2.Zdv036_2_2.ZDV.Pos,100,String,%
+MNS.PNA036_2.Zdv036_2_2.ZDV.Channels,1,UInt4,9
+MNS.PNA036_2.Zdv036_2_2.ZDV.Channels,101,String,"DG.USO2_3.A1.M1:20:21:18:19:22:23, DG.USO2_3.A1.M2:10:11:12:13, DG.USO2_3.A1.M7:16"
+MNS.PNA036_2.Zdv036_2_2.ZDV.Channels,3,UInt4,192
+MNS.PNA036_2.Zdv036_2_2.ZDV.Ust.Set2,1,UInt4,9
+MNS.PNA036_2.Zdv036_2_2.ZDV.Ust.Set2,101,String,"Время хода вала задвижки"
+MNS.PNA036_2.Zdv036_2_2.ZDV.Ust.Set2,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(9947) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+WR_MNS.PNA036_2.Zdv036_2_2.ZDV.Ust.Set2,1,UInt4,9
+WR_MNS.PNA036_2.Zdv036_2_2.ZDV.Ust.Set2,101,String,"Время хода вала задвижки"
+WR_MNS.PNA036_2.Zdv036_2_2.ZDV.Ust.Set2,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(9947) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TR2) Signed=(True) Category=()}"
+MNS.PNA036_2.Zdv036_2_2.ZDV.RSDiag1,1,UInt4,9
+MNS.PNA036_2.Zdv036_2_2.ZDV.RSDiag1,101,String,"Диагностический регистр по интерфейсу (регистр 1)"
+MNS.PNA036_2.Zdv036_2_2.ZDV.RSDiag1,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(38606) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+WR_MNS.PNA036_2.Zdv036_2_2.ZDV.RSDiag1,1,UInt4,9
+WR_MNS.PNA036_2.Zdv036_2_2.ZDV.RSDiag1,101,String,"Диагностический регистр по интерфейсу (регистр 1)"
+WR_MNS.PNA036_2.Zdv036_2_2.ZDV.RSDiag1,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(38606) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TR2) Signed=(True) Category=()}"
+MNS.PNA036_2.Zdv036_2_2.ZDV.RSDiag2,1,UInt4,9
+MNS.PNA036_2.Zdv036_2_2.ZDV.RSDiag2,101,String,"Диагностический регистр по интерфейсу (регистр 2)"
+MNS.PNA036_2.Zdv036_2_2.ZDV.RSDiag2,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(38607) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+WR_MNS.PNA036_2.Zdv036_2_2.ZDV.RSDiag2,1,UInt4,9
+WR_MNS.PNA036_2.Zdv036_2_2.ZDV.RSDiag2,101,String,"Диагностический регистр по интерфейсу (регистр 2)"
+WR_MNS.PNA036_2.Zdv036_2_2.ZDV.RSDiag2,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(38607) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TR2) Signed=(True) Category=()}"
+MNS.PNA036_2.Zdv036_2_2.ZDV.Torque,1,UInt4,9
+MNS.PNA036_2.Zdv036_2_2.ZDV.Torque,101,String,"Текущий момент"
+MNS.PNA036_2.Zdv036_2_2.ZDV.Torque,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6399) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+WR_MNS.PNA036_2.Zdv036_2_2.ZDV.Torque,1,UInt4,9
+WR_MNS.PNA036_2.Zdv036_2_2.ZDV.Torque,101,String,"Текущий момент"
+WR_MNS.PNA036_2.Zdv036_2_2.ZDV.Torque,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6399) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TR2) Signed=(True) Category=()}"
+MNS.PNA036_2.Zdv036_2_2.ZDV.Voltage,1,UInt4,9
+MNS.PNA036_2.Zdv036_2_2.ZDV.Voltage,101,String,"Напряжение питания"
+MNS.PNA036_2.Zdv036_2_2.ZDV.Voltage,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6400) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+WR_MNS.PNA036_2.Zdv036_2_2.ZDV.Voltage,1,UInt4,9
+WR_MNS.PNA036_2.Zdv036_2_2.ZDV.Voltage,101,String,"Напряжение питания"
+WR_MNS.PNA036_2.Zdv036_2_2.ZDV.Voltage,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6400) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TR2) Signed=(True) Category=()}"
+MNS.PNA036_3.Zdv036_3_1.ZDV.ObjNum,1,UInt4,9
+MNS.PNA036_3.Zdv036_3_1.ZDV.ObjNum,101,String,"5"
+MNS.PNA036_3.Zdv036_3_1.ZDV.ObjNum,3,UInt4,192
+MNS.PNA036_3.Zdv036_3_1.ZDV.Pos,1,UInt4,9
+MNS.PNA036_3.Zdv036_3_1.ZDV.Pos,101,String,"Положение задвижки"
+MNS.PNA036_3.Zdv036_3_1.ZDV.Pos,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(7669) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.PNA036_3.Zdv036_3_1.ZDV.Pos,5100,Double,0
+MNS.PNA036_3.Zdv036_3_1.ZDV.Pos,5102,Double,1000
+MNS.PNA036_3.Zdv036_3_1.ZDV.Pos,5103,Double,0
+MNS.PNA036_3.Zdv036_3_1.ZDV.Pos,5105,Double,100
+MNS.PNA036_3.Zdv036_3_1.ZDV.Pos,100,String,%
+MNS.PNA036_3.Zdv036_3_1.ZDV.Channels,1,UInt4,9
+MNS.PNA036_3.Zdv036_3_1.ZDV.Channels,101,String,"DG.USO2_2.A2.M1:17:18:15:16:19:20, DG.USO2_2.A2.M2:8:9:10:11, DG.USO2_2.A2.M7:16"
+MNS.PNA036_3.Zdv036_3_1.ZDV.Channels,3,UInt4,192
+MNS.PNA036_3.Zdv036_3_1.ZDV.Ust.Set2,1,UInt4,9
+MNS.PNA036_3.Zdv036_3_1.ZDV.Ust.Set2,101,String,"Время хода вала задвижки"
+MNS.PNA036_3.Zdv036_3_1.ZDV.Ust.Set2,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(9950) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+WR_MNS.PNA036_3.Zdv036_3_1.ZDV.Ust.Set2,1,UInt4,9
+WR_MNS.PNA036_3.Zdv036_3_1.ZDV.Ust.Set2,101,String,"Время хода вала задвижки"
+WR_MNS.PNA036_3.Zdv036_3_1.ZDV.Ust.Set2,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(9950) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TR2) Signed=(True) Category=()}"
+MNS.PNA036_3.Zdv036_3_1.ZDV.RSDiag1,1,UInt4,9
+MNS.PNA036_3.Zdv036_3_1.ZDV.RSDiag1,101,String,"Диагностический регистр по интерфейсу (регистр 1)"
+MNS.PNA036_3.Zdv036_3_1.ZDV.RSDiag1,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(38608) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+WR_MNS.PNA036_3.Zdv036_3_1.ZDV.RSDiag1,1,UInt4,9
+WR_MNS.PNA036_3.Zdv036_3_1.ZDV.RSDiag1,101,String,"Диагностический регистр по интерфейсу (регистр 1)"
+WR_MNS.PNA036_3.Zdv036_3_1.ZDV.RSDiag1,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(38608) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TR2) Signed=(True) Category=()}"
+MNS.PNA036_3.Zdv036_3_1.ZDV.RSDiag2,1,UInt4,9
+MNS.PNA036_3.Zdv036_3_1.ZDV.RSDiag2,101,String,"Диагностический регистр по интерфейсу (регистр 2)"
+MNS.PNA036_3.Zdv036_3_1.ZDV.RSDiag2,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(38609) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+WR_MNS.PNA036_3.Zdv036_3_1.ZDV.RSDiag2,1,UInt4,9
+WR_MNS.PNA036_3.Zdv036_3_1.ZDV.RSDiag2,101,String,"Диагностический регистр по интерфейсу (регистр 2)"
+WR_MNS.PNA036_3.Zdv036_3_1.ZDV.RSDiag2,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(38609) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TR2) Signed=(True) Category=()}"
+MNS.PNA036_3.Zdv036_3_1.ZDV.Torque,1,UInt4,9
+MNS.PNA036_3.Zdv036_3_1.ZDV.Torque,101,String,"Текущий момент"
+MNS.PNA036_3.Zdv036_3_1.ZDV.Torque,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6401) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+WR_MNS.PNA036_3.Zdv036_3_1.ZDV.Torque,1,UInt4,9
+WR_MNS.PNA036_3.Zdv036_3_1.ZDV.Torque,101,String,"Текущий момент"
+WR_MNS.PNA036_3.Zdv036_3_1.ZDV.Torque,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6401) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TR2) Signed=(True) Category=()}"
+MNS.PNA036_3.Zdv036_3_1.ZDV.Voltage,1,UInt4,9
+MNS.PNA036_3.Zdv036_3_1.ZDV.Voltage,101,String,"Напряжение питания"
+MNS.PNA036_3.Zdv036_3_1.ZDV.Voltage,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6402) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+WR_MNS.PNA036_3.Zdv036_3_1.ZDV.Voltage,1,UInt4,9
+WR_MNS.PNA036_3.Zdv036_3_1.ZDV.Voltage,101,String,"Напряжение питания"
+WR_MNS.PNA036_3.Zdv036_3_1.ZDV.Voltage,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6402) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TR2) Signed=(True) Category=()}"
+MNS.PNA036_3.Zdv036_3_2.ZDV.ObjNum,1,UInt4,9
+MNS.PNA036_3.Zdv036_3_2.ZDV.ObjNum,101,String,"6"
+MNS.PNA036_3.Zdv036_3_2.ZDV.ObjNum,3,UInt4,192
+MNS.PNA036_3.Zdv036_3_2.ZDV.Pos,1,UInt4,9
+MNS.PNA036_3.Zdv036_3_2.ZDV.Pos,101,String,"Положение задвижки"
+MNS.PNA036_3.Zdv036_3_2.ZDV.Pos,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(7670) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.PNA036_3.Zdv036_3_2.ZDV.Pos,5100,Double,0
+MNS.PNA036_3.Zdv036_3_2.ZDV.Pos,5102,Double,1000
+MNS.PNA036_3.Zdv036_3_2.ZDV.Pos,5103,Double,0
+MNS.PNA036_3.Zdv036_3_2.ZDV.Pos,5105,Double,100
+MNS.PNA036_3.Zdv036_3_2.ZDV.Pos,100,String,%
+MNS.PNA036_3.Zdv036_3_2.ZDV.Channels,1,UInt4,9
+MNS.PNA036_3.Zdv036_3_2.ZDV.Channels,101,String,"DG.USO2_2.A2.M1:23:24:21:22:25:26, DG.USO2_2.A2.M2:12:13:14:15, DG.USO2_2.A2.M7:16"
+MNS.PNA036_3.Zdv036_3_2.ZDV.Channels,3,UInt4,192
+MNS.PNA036_3.Zdv036_3_2.ZDV.Ust.Set2,1,UInt4,9
+MNS.PNA036_3.Zdv036_3_2.ZDV.Ust.Set2,101,String,"Время хода вала задвижки"
+MNS.PNA036_3.Zdv036_3_2.ZDV.Ust.Set2,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(9953) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+WR_MNS.PNA036_3.Zdv036_3_2.ZDV.Ust.Set2,1,UInt4,9
+WR_MNS.PNA036_3.Zdv036_3_2.ZDV.Ust.Set2,101,String,"Время хода вала задвижки"
+WR_MNS.PNA036_3.Zdv036_3_2.ZDV.Ust.Set2,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(9953) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TR2) Signed=(True) Category=()}"
+MNS.PNA036_3.Zdv036_3_2.ZDV.RSDiag1,1,UInt4,9
+MNS.PNA036_3.Zdv036_3_2.ZDV.RSDiag1,101,String,"Диагностический регистр по интерфейсу (регистр 1)"
+MNS.PNA036_3.Zdv036_3_2.ZDV.RSDiag1,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(38610) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+WR_MNS.PNA036_3.Zdv036_3_2.ZDV.RSDiag1,1,UInt4,9
+WR_MNS.PNA036_3.Zdv036_3_2.ZDV.RSDiag1,101,String,"Диагностический регистр по интерфейсу (регистр 1)"
+WR_MNS.PNA036_3.Zdv036_3_2.ZDV.RSDiag1,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(38610) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TR2) Signed=(True) Category=()}"
+MNS.PNA036_3.Zdv036_3_2.ZDV.RSDiag2,1,UInt4,9
+MNS.PNA036_3.Zdv036_3_2.ZDV.RSDiag2,101,String,"Диагностический регистр по интерфейсу (регистр 2)"
+MNS.PNA036_3.Zdv036_3_2.ZDV.RSDiag2,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(38611) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+WR_MNS.PNA036_3.Zdv036_3_2.ZDV.RSDiag2,1,UInt4,9
+WR_MNS.PNA036_3.Zdv036_3_2.ZDV.RSDiag2,101,String,"Диагностический регистр по интерфейсу (регистр 2)"
+WR_MNS.PNA036_3.Zdv036_3_2.ZDV.RSDiag2,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(38611) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TR2) Signed=(True) Category=()}"
+MNS.PNA036_3.Zdv036_3_2.ZDV.Torque,1,UInt4,9
+MNS.PNA036_3.Zdv036_3_2.ZDV.Torque,101,String,"Текущий момент"
+MNS.PNA036_3.Zdv036_3_2.ZDV.Torque,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6403) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+WR_MNS.PNA036_3.Zdv036_3_2.ZDV.Torque,1,UInt4,9
+WR_MNS.PNA036_3.Zdv036_3_2.ZDV.Torque,101,String,"Текущий момент"
+WR_MNS.PNA036_3.Zdv036_3_2.ZDV.Torque,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6403) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TR2) Signed=(True) Category=()}"
+MNS.PNA036_3.Zdv036_3_2.ZDV.Voltage,1,UInt4,9
+MNS.PNA036_3.Zdv036_3_2.ZDV.Voltage,101,String,"Напряжение питания"
+MNS.PNA036_3.Zdv036_3_2.ZDV.Voltage,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6404) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+WR_MNS.PNA036_3.Zdv036_3_2.ZDV.Voltage,1,UInt4,9
+WR_MNS.PNA036_3.Zdv036_3_2.ZDV.Voltage,101,String,"Напряжение питания"
+WR_MNS.PNA036_3.Zdv036_3_2.ZDV.Voltage,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6404) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TR2) Signed=(True) Category=()}"
+MNS.PNA036_4.Zdv036_4_1.ZDV.ObjNum,1,UInt4,9
+MNS.PNA036_4.Zdv036_4_1.ZDV.ObjNum,101,String,"7"
+MNS.PNA036_4.Zdv036_4_1.ZDV.ObjNum,3,UInt4,192
+MNS.PNA036_4.Zdv036_4_1.ZDV.Pos,1,UInt4,9
+MNS.PNA036_4.Zdv036_4_1.ZDV.Pos,101,String,"Положение задвижки"
+MNS.PNA036_4.Zdv036_4_1.ZDV.Pos,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(7671) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.PNA036_4.Zdv036_4_1.ZDV.Pos,5100,Double,0
+MNS.PNA036_4.Zdv036_4_1.ZDV.Pos,5102,Double,1000
+MNS.PNA036_4.Zdv036_4_1.ZDV.Pos,5103,Double,0
+MNS.PNA036_4.Zdv036_4_1.ZDV.Pos,5105,Double,100
+MNS.PNA036_4.Zdv036_4_1.ZDV.Pos,100,String,%
+MNS.PNA036_4.Zdv036_4_1.ZDV.Channels,1,UInt4,9
+MNS.PNA036_4.Zdv036_4_1.ZDV.Channels,101,String,"DG.USO2_3.A2.M1:17:18:15:16:19:20, DG.USO2_3.A2.M2:8:9:10:11, DG.USO2_3.A2.M7:16"
+MNS.PNA036_4.Zdv036_4_1.ZDV.Channels,3,UInt4,192
+MNS.PNA036_4.Zdv036_4_1.ZDV.Ust.Set2,1,UInt4,9
+MNS.PNA036_4.Zdv036_4_1.ZDV.Ust.Set2,101,String,"Время хода вала задвижки"
+MNS.PNA036_4.Zdv036_4_1.ZDV.Ust.Set2,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(9956) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+WR_MNS.PNA036_4.Zdv036_4_1.ZDV.Ust.Set2,1,UInt4,9
+WR_MNS.PNA036_4.Zdv036_4_1.ZDV.Ust.Set2,101,String,"Время хода вала задвижки"
+WR_MNS.PNA036_4.Zdv036_4_1.ZDV.Ust.Set2,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(9956) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TR2) Signed=(True) Category=()}"
+MNS.PNA036_4.Zdv036_4_1.ZDV.RSDiag1,1,UInt4,9
+MNS.PNA036_4.Zdv036_4_1.ZDV.RSDiag1,101,String,"Диагностический регистр по интерфейсу (регистр 1)"
+MNS.PNA036_4.Zdv036_4_1.ZDV.RSDiag1,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(38612) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+WR_MNS.PNA036_4.Zdv036_4_1.ZDV.RSDiag1,1,UInt4,9
+WR_MNS.PNA036_4.Zdv036_4_1.ZDV.RSDiag1,101,String,"Диагностический регистр по интерфейсу (регистр 1)"
+WR_MNS.PNA036_4.Zdv036_4_1.ZDV.RSDiag1,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(38612) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TR2) Signed=(True) Category=()}"
+MNS.PNA036_4.Zdv036_4_1.ZDV.RSDiag2,1,UInt4,9
+MNS.PNA036_4.Zdv036_4_1.ZDV.RSDiag2,101,String,"Диагностический регистр по интерфейсу (регистр 2)"
+MNS.PNA036_4.Zdv036_4_1.ZDV.RSDiag2,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(38613) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+WR_MNS.PNA036_4.Zdv036_4_1.ZDV.RSDiag2,1,UInt4,9
+WR_MNS.PNA036_4.Zdv036_4_1.ZDV.RSDiag2,101,String,"Диагностический регистр по интерфейсу (регистр 2)"
+WR_MNS.PNA036_4.Zdv036_4_1.ZDV.RSDiag2,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(38613) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TR2) Signed=(True) Category=()}"
+MNS.PNA036_4.Zdv036_4_1.ZDV.Torque,1,UInt4,9
+MNS.PNA036_4.Zdv036_4_1.ZDV.Torque,101,String,"Текущий момент"
+MNS.PNA036_4.Zdv036_4_1.ZDV.Torque,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6405) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+WR_MNS.PNA036_4.Zdv036_4_1.ZDV.Torque,1,UInt4,9
+WR_MNS.PNA036_4.Zdv036_4_1.ZDV.Torque,101,String,"Текущий момент"
+WR_MNS.PNA036_4.Zdv036_4_1.ZDV.Torque,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6405) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TR2) Signed=(True) Category=()}"
+MNS.PNA036_4.Zdv036_4_1.ZDV.Voltage,1,UInt4,9
+MNS.PNA036_4.Zdv036_4_1.ZDV.Voltage,101,String,"Напряжение питания"
+MNS.PNA036_4.Zdv036_4_1.ZDV.Voltage,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6406) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+WR_MNS.PNA036_4.Zdv036_4_1.ZDV.Voltage,1,UInt4,9
+WR_MNS.PNA036_4.Zdv036_4_1.ZDV.Voltage,101,String,"Напряжение питания"
+WR_MNS.PNA036_4.Zdv036_4_1.ZDV.Voltage,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6406) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TR2) Signed=(True) Category=()}"
+MNS.PNA036_4.Zdv036_4_2.ZDV.ObjNum,1,UInt4,9
+MNS.PNA036_4.Zdv036_4_2.ZDV.ObjNum,101,String,"8"
+MNS.PNA036_4.Zdv036_4_2.ZDV.ObjNum,3,UInt4,192
+MNS.PNA036_4.Zdv036_4_2.ZDV.Pos,1,UInt4,9
+MNS.PNA036_4.Zdv036_4_2.ZDV.Pos,101,String,"Положение задвижки"
+MNS.PNA036_4.Zdv036_4_2.ZDV.Pos,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(7672) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.PNA036_4.Zdv036_4_2.ZDV.Pos,5100,Double,0
+MNS.PNA036_4.Zdv036_4_2.ZDV.Pos,5102,Double,1000
+MNS.PNA036_4.Zdv036_4_2.ZDV.Pos,5103,Double,0
+MNS.PNA036_4.Zdv036_4_2.ZDV.Pos,5105,Double,100
+MNS.PNA036_4.Zdv036_4_2.ZDV.Pos,100,String,%
+MNS.PNA036_4.Zdv036_4_2.ZDV.Channels,1,UInt4,9
+MNS.PNA036_4.Zdv036_4_2.ZDV.Channels,101,String,"DG.USO2_3.A2.M1:23:24:21:22:25:26, DG.USO2_3.A2.M2:12:13:14:15, DG.USO2_3.A2.M7:16"
+MNS.PNA036_4.Zdv036_4_2.ZDV.Channels,3,UInt4,192
+MNS.PNA036_4.Zdv036_4_2.ZDV.Ust.Set2,1,UInt4,9
+MNS.PNA036_4.Zdv036_4_2.ZDV.Ust.Set2,101,String,"Время хода вала задвижки"
+MNS.PNA036_4.Zdv036_4_2.ZDV.Ust.Set2,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(9959) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+WR_MNS.PNA036_4.Zdv036_4_2.ZDV.Ust.Set2,1,UInt4,9
+WR_MNS.PNA036_4.Zdv036_4_2.ZDV.Ust.Set2,101,String,"Время хода вала задвижки"
+WR_MNS.PNA036_4.Zdv036_4_2.ZDV.Ust.Set2,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(9959) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TR2) Signed=(True) Category=()}"
+MNS.PNA036_4.Zdv036_4_2.ZDV.RSDiag1,1,UInt4,9
+MNS.PNA036_4.Zdv036_4_2.ZDV.RSDiag1,101,String,"Диагностический регистр по интерфейсу (регистр 1)"
+MNS.PNA036_4.Zdv036_4_2.ZDV.RSDiag1,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(38614) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+WR_MNS.PNA036_4.Zdv036_4_2.ZDV.RSDiag1,1,UInt4,9
+WR_MNS.PNA036_4.Zdv036_4_2.ZDV.RSDiag1,101,String,"Диагностический регистр по интерфейсу (регистр 1)"
+WR_MNS.PNA036_4.Zdv036_4_2.ZDV.RSDiag1,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(38614) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TR2) Signed=(True) Category=()}"
+MNS.PNA036_4.Zdv036_4_2.ZDV.RSDiag2,1,UInt4,9
+MNS.PNA036_4.Zdv036_4_2.ZDV.RSDiag2,101,String,"Диагностический регистр по интерфейсу (регистр 2)"
+MNS.PNA036_4.Zdv036_4_2.ZDV.RSDiag2,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(38615) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+WR_MNS.PNA036_4.Zdv036_4_2.ZDV.RSDiag2,1,UInt4,9
+WR_MNS.PNA036_4.Zdv036_4_2.ZDV.RSDiag2,101,String,"Диагностический регистр по интерфейсу (регистр 2)"
+WR_MNS.PNA036_4.Zdv036_4_2.ZDV.RSDiag2,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(38615) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TR2) Signed=(True) Category=()}"
+MNS.PNA036_4.Zdv036_4_2.ZDV.Torque,1,UInt4,9
+MNS.PNA036_4.Zdv036_4_2.ZDV.Torque,101,String,"Текущий момент"
+MNS.PNA036_4.Zdv036_4_2.ZDV.Torque,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6407) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+WR_MNS.PNA036_4.Zdv036_4_2.ZDV.Torque,1,UInt4,9
+WR_MNS.PNA036_4.Zdv036_4_2.ZDV.Torque,101,String,"Текущий момент"
+WR_MNS.PNA036_4.Zdv036_4_2.ZDV.Torque,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6407) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TR2) Signed=(True) Category=()}"
+MNS.PNA036_4.Zdv036_4_2.ZDV.Voltage,1,UInt4,9
+MNS.PNA036_4.Zdv036_4_2.ZDV.Voltage,101,String,"Напряжение питания"
+MNS.PNA036_4.Zdv036_4_2.ZDV.Voltage,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6408) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+WR_MNS.PNA036_4.Zdv036_4_2.ZDV.Voltage,1,UInt4,9
+WR_MNS.PNA036_4.Zdv036_4_2.ZDV.Voltage,101,String,"Напряжение питания"
+WR_MNS.PNA036_4.Zdv036_4_2.ZDV.Voltage,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6408) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TR2) Signed=(True) Category=()}"
+MNS.SSN.Zdv007_1_1.ZDV.ObjNum,1,UInt4,9
+MNS.SSN.Zdv007_1_1.ZDV.ObjNum,101,String,"9"
+MNS.SSN.Zdv007_1_1.ZDV.ObjNum,3,UInt4,192
+MNS.SSN.Zdv007_1_1.ZDV.Pos,1,UInt4,9
+MNS.SSN.Zdv007_1_1.ZDV.Pos,101,String,"Положение задвижки"
+MNS.SSN.Zdv007_1_1.ZDV.Pos,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(7673) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.SSN.Zdv007_1_1.ZDV.Pos,5100,Double,0
+MNS.SSN.Zdv007_1_1.ZDV.Pos,5102,Double,1000
+MNS.SSN.Zdv007_1_1.ZDV.Pos,5103,Double,0
+MNS.SSN.Zdv007_1_1.ZDV.Pos,5105,Double,100
+MNS.SSN.Zdv007_1_1.ZDV.Pos,100,String,%
+MNS.SSN.Zdv007_1_1.ZDV.Channels,1,UInt4,9
+MNS.SSN.Zdv007_1_1.ZDV.Channels,101,String,"DG.USO2_1.A1.M2:25:26:23:24:27:28, DG.USO2_1.A1.M3:9:10, DG.USO2_1.A1.M4:19:20:21, DG.USO2_1.A1.M7:16"
+MNS.SSN.Zdv007_1_1.ZDV.Channels,3,UInt4,192
+MNS.SSN.Zdv007_1_1.ZDV.Ust.Set2,1,UInt4,9
+MNS.SSN.Zdv007_1_1.ZDV.Ust.Set2,101,String,"Время хода вала задвижки"
+MNS.SSN.Zdv007_1_1.ZDV.Ust.Set2,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(9962) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+WR_MNS.SSN.Zdv007_1_1.ZDV.Ust.Set2,1,UInt4,9
+WR_MNS.SSN.Zdv007_1_1.ZDV.Ust.Set2,101,String,"Время хода вала задвижки"
+WR_MNS.SSN.Zdv007_1_1.ZDV.Ust.Set2,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(9962) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TR2) Signed=(True) Category=()}"
+MNS.SSN.Zdv007_1_1.ZDV.RSDiag1,1,UInt4,9
+MNS.SSN.Zdv007_1_1.ZDV.RSDiag1,101,String,"Диагностический регистр по интерфейсу (регистр 1)"
+MNS.SSN.Zdv007_1_1.ZDV.RSDiag1,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(38616) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+WR_MNS.SSN.Zdv007_1_1.ZDV.RSDiag1,1,UInt4,9
+WR_MNS.SSN.Zdv007_1_1.ZDV.RSDiag1,101,String,"Диагностический регистр по интерфейсу (регистр 1)"
+WR_MNS.SSN.Zdv007_1_1.ZDV.RSDiag1,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(38616) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TR2) Signed=(True) Category=()}"
+MNS.SSN.Zdv007_1_1.ZDV.RSDiag2,1,UInt4,9
+MNS.SSN.Zdv007_1_1.ZDV.RSDiag2,101,String,"Диагностический регистр по интерфейсу (регистр 2)"
+MNS.SSN.Zdv007_1_1.ZDV.RSDiag2,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(38617) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+WR_MNS.SSN.Zdv007_1_1.ZDV.RSDiag2,1,UInt4,9
+WR_MNS.SSN.Zdv007_1_1.ZDV.RSDiag2,101,String,"Диагностический регистр по интерфейсу (регистр 2)"
+WR_MNS.SSN.Zdv007_1_1.ZDV.RSDiag2,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(38617) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TR2) Signed=(True) Category=()}"
+MNS.SSN.Zdv007_1_1.ZDV.Torque,1,UInt4,9
+MNS.SSN.Zdv007_1_1.ZDV.Torque,101,String,"Текущий момент"
+MNS.SSN.Zdv007_1_1.ZDV.Torque,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6409) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+WR_MNS.SSN.Zdv007_1_1.ZDV.Torque,1,UInt4,9
+WR_MNS.SSN.Zdv007_1_1.ZDV.Torque,101,String,"Текущий момент"
+WR_MNS.SSN.Zdv007_1_1.ZDV.Torque,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6409) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TR2) Signed=(True) Category=()}"
+MNS.SSN.Zdv007_1_1.ZDV.Voltage,1,UInt4,9
+MNS.SSN.Zdv007_1_1.ZDV.Voltage,101,String,"Напряжение питания"
+MNS.SSN.Zdv007_1_1.ZDV.Voltage,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6410) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+WR_MNS.SSN.Zdv007_1_1.ZDV.Voltage,1,UInt4,9
+WR_MNS.SSN.Zdv007_1_1.ZDV.Voltage,101,String,"Напряжение питания"
+WR_MNS.SSN.Zdv007_1_1.ZDV.Voltage,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6410) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TR2) Signed=(True) Category=()}"
+MNS.SSN.Zdv007_1_2.ZDV.ObjNum,1,UInt4,9
+MNS.SSN.Zdv007_1_2.ZDV.ObjNum,101,String,"10"
+MNS.SSN.Zdv007_1_2.ZDV.ObjNum,3,UInt4,192
+MNS.SSN.Zdv007_1_2.ZDV.Pos,1,UInt4,9
+MNS.SSN.Zdv007_1_2.ZDV.Pos,101,String,"Положение задвижки"
+MNS.SSN.Zdv007_1_2.ZDV.Pos,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(7674) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.SSN.Zdv007_1_2.ZDV.Pos,5100,Double,0
+MNS.SSN.Zdv007_1_2.ZDV.Pos,5102,Double,1000
+MNS.SSN.Zdv007_1_2.ZDV.Pos,5103,Double,0
+MNS.SSN.Zdv007_1_2.ZDV.Pos,5105,Double,100
+MNS.SSN.Zdv007_1_2.ZDV.Pos,100,String,%
+MNS.SSN.Zdv007_1_2.ZDV.Channels,1,UInt4,9
+MNS.SSN.Zdv007_1_2.ZDV.Channels,101,String,"DG.USO2_1.A2.M2:29:30:27:28:31, DG.USO2_1.A2.M3:0:19:20, DG.USO2_1.A2.M4:19:20:21, DG.USO2_1.A1.M7:16"
+MNS.SSN.Zdv007_1_2.ZDV.Channels,3,UInt4,192
+MNS.SSN.Zdv007_1_2.ZDV.Ust.Set2,1,UInt4,9
+MNS.SSN.Zdv007_1_2.ZDV.Ust.Set2,101,String,"Время хода вала задвижки"
+MNS.SSN.Zdv007_1_2.ZDV.Ust.Set2,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(9965) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+WR_MNS.SSN.Zdv007_1_2.ZDV.Ust.Set2,1,UInt4,9
+WR_MNS.SSN.Zdv007_1_2.ZDV.Ust.Set2,101,String,"Время хода вала задвижки"
+WR_MNS.SSN.Zdv007_1_2.ZDV.Ust.Set2,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(9965) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TR2) Signed=(True) Category=()}"
+MNS.SSN.Zdv007_1_2.ZDV.RSDiag1,1,UInt4,9
+MNS.SSN.Zdv007_1_2.ZDV.RSDiag1,101,String,"Диагностический регистр по интерфейсу (регистр 1)"
+MNS.SSN.Zdv007_1_2.ZDV.RSDiag1,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(38618) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+WR_MNS.SSN.Zdv007_1_2.ZDV.RSDiag1,1,UInt4,9
+WR_MNS.SSN.Zdv007_1_2.ZDV.RSDiag1,101,String,"Диагностический регистр по интерфейсу (регистр 1)"
+WR_MNS.SSN.Zdv007_1_2.ZDV.RSDiag1,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(38618) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TR2) Signed=(True) Category=()}"
+MNS.SSN.Zdv007_1_2.ZDV.RSDiag2,1,UInt4,9
+MNS.SSN.Zdv007_1_2.ZDV.RSDiag2,101,String,"Диагностический регистр по интерфейсу (регистр 2)"
+MNS.SSN.Zdv007_1_2.ZDV.RSDiag2,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(38619) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+WR_MNS.SSN.Zdv007_1_2.ZDV.RSDiag2,1,UInt4,9
+WR_MNS.SSN.Zdv007_1_2.ZDV.RSDiag2,101,String,"Диагностический регистр по интерфейсу (регистр 2)"
+WR_MNS.SSN.Zdv007_1_2.ZDV.RSDiag2,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(38619) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TR2) Signed=(True) Category=()}"
+MNS.SSN.Zdv007_1_2.ZDV.Torque,1,UInt4,9
+MNS.SSN.Zdv007_1_2.ZDV.Torque,101,String,"Текущий момент"
+MNS.SSN.Zdv007_1_2.ZDV.Torque,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6411) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+WR_MNS.SSN.Zdv007_1_2.ZDV.Torque,1,UInt4,9
+WR_MNS.SSN.Zdv007_1_2.ZDV.Torque,101,String,"Текущий момент"
+WR_MNS.SSN.Zdv007_1_2.ZDV.Torque,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6411) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TR2) Signed=(True) Category=()}"
+MNS.SSN.Zdv007_1_2.ZDV.Voltage,1,UInt4,9
+MNS.SSN.Zdv007_1_2.ZDV.Voltage,101,String,"Напряжение питания"
+MNS.SSN.Zdv007_1_2.ZDV.Voltage,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6412) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+WR_MNS.SSN.Zdv007_1_2.ZDV.Voltage,1,UInt4,9
+WR_MNS.SSN.Zdv007_1_2.ZDV.Voltage,101,String,"Напряжение питания"
+WR_MNS.SSN.Zdv007_1_2.ZDV.Voltage,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6412) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TR2) Signed=(True) Category=()}"
+MNS.SSN.Zdv007_2_1.ZDV.ObjNum,1,UInt4,9
+MNS.SSN.Zdv007_2_1.ZDV.ObjNum,101,String,"11"
+MNS.SSN.Zdv007_2_1.ZDV.ObjNum,3,UInt4,192
+MNS.SSN.Zdv007_2_1.ZDV.Pos,1,UInt4,9
+MNS.SSN.Zdv007_2_1.ZDV.Pos,101,String,"Положение задвижки"
+MNS.SSN.Zdv007_2_1.ZDV.Pos,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(7675) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.SSN.Zdv007_2_1.ZDV.Pos,5100,Double,0
+MNS.SSN.Zdv007_2_1.ZDV.Pos,5102,Double,1000
+MNS.SSN.Zdv007_2_1.ZDV.Pos,5103,Double,0
+MNS.SSN.Zdv007_2_1.ZDV.Pos,5105,Double,100
+MNS.SSN.Zdv007_2_1.ZDV.Pos,100,String,%
+MNS.SSN.Zdv007_2_1.ZDV.Channels,1,UInt4,9
+MNS.SSN.Zdv007_2_1.ZDV.Channels,101,String,"DG.USO2_1.A1.M1:27:28:25:26:29:30, DG.USO2_1.A1.M4:4:5:6, DG.USO2_1.A2.M7:16"
+MNS.SSN.Zdv007_2_1.ZDV.Channels,3,UInt4,192
+MNS.SSN.Zdv007_2_1.ZDV.Ust.Set2,1,UInt4,9
+MNS.SSN.Zdv007_2_1.ZDV.Ust.Set2,101,String,"Время хода вала задвижки"
+MNS.SSN.Zdv007_2_1.ZDV.Ust.Set2,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(9968) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+WR_MNS.SSN.Zdv007_2_1.ZDV.Ust.Set2,1,UInt4,9
+WR_MNS.SSN.Zdv007_2_1.ZDV.Ust.Set2,101,String,"Время хода вала задвижки"
+WR_MNS.SSN.Zdv007_2_1.ZDV.Ust.Set2,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(9968) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TR2) Signed=(True) Category=()}"
+MNS.SSN.Zdv007_2_1.ZDV.RSDiag1,1,UInt4,9
+MNS.SSN.Zdv007_2_1.ZDV.RSDiag1,101,String,"Диагностический регистр по интерфейсу (регистр 1)"
+MNS.SSN.Zdv007_2_1.ZDV.RSDiag1,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(38620) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+WR_MNS.SSN.Zdv007_2_1.ZDV.RSDiag1,1,UInt4,9
+WR_MNS.SSN.Zdv007_2_1.ZDV.RSDiag1,101,String,"Диагностический регистр по интерфейсу (регистр 1)"
+WR_MNS.SSN.Zdv007_2_1.ZDV.RSDiag1,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(38620) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TR2) Signed=(True) Category=()}"
+MNS.SSN.Zdv007_2_1.ZDV.RSDiag2,1,UInt4,9
+MNS.SSN.Zdv007_2_1.ZDV.RSDiag2,101,String,"Диагностический регистр по интерфейсу (регистр 2)"
+MNS.SSN.Zdv007_2_1.ZDV.RSDiag2,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(38621) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+WR_MNS.SSN.Zdv007_2_1.ZDV.RSDiag2,1,UInt4,9
+WR_MNS.SSN.Zdv007_2_1.ZDV.RSDiag2,101,String,"Диагностический регистр по интерфейсу (регистр 2)"
+WR_MNS.SSN.Zdv007_2_1.ZDV.RSDiag2,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(38621) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TR2) Signed=(True) Category=()}"
+MNS.SSN.Zdv007_2_1.ZDV.Torque,1,UInt4,9
+MNS.SSN.Zdv007_2_1.ZDV.Torque,101,String,"Текущий момент"
+MNS.SSN.Zdv007_2_1.ZDV.Torque,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6413) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+WR_MNS.SSN.Zdv007_2_1.ZDV.Torque,1,UInt4,9
+WR_MNS.SSN.Zdv007_2_1.ZDV.Torque,101,String,"Текущий момент"
+WR_MNS.SSN.Zdv007_2_1.ZDV.Torque,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6413) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TR2) Signed=(True) Category=()}"
+MNS.SSN.Zdv007_2_1.ZDV.Voltage,1,UInt4,9
+MNS.SSN.Zdv007_2_1.ZDV.Voltage,101,String,"Напряжение питания"
+MNS.SSN.Zdv007_2_1.ZDV.Voltage,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6414) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+WR_MNS.SSN.Zdv007_2_1.ZDV.Voltage,1,UInt4,9
+WR_MNS.SSN.Zdv007_2_1.ZDV.Voltage,101,String,"Напряжение питания"
+WR_MNS.SSN.Zdv007_2_1.ZDV.Voltage,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6414) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TR2) Signed=(True) Category=()}"
+MNS.SSN.Zdv007_2_2.ZDV.ObjNum,1,UInt4,9
+MNS.SSN.Zdv007_2_2.ZDV.ObjNum,101,String,"12"
+MNS.SSN.Zdv007_2_2.ZDV.ObjNum,3,UInt4,192
+MNS.SSN.Zdv007_2_2.ZDV.Pos,1,UInt4,9
+MNS.SSN.Zdv007_2_2.ZDV.Pos,101,String,"Положение задвижки"
+MNS.SSN.Zdv007_2_2.ZDV.Pos,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(7676) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.SSN.Zdv007_2_2.ZDV.Pos,5100,Double,0
+MNS.SSN.Zdv007_2_2.ZDV.Pos,5102,Double,1000
+MNS.SSN.Zdv007_2_2.ZDV.Pos,5103,Double,0
+MNS.SSN.Zdv007_2_2.ZDV.Pos,5105,Double,100
+MNS.SSN.Zdv007_2_2.ZDV.Pos,100,String,%
+MNS.SSN.Zdv007_2_2.ZDV.Channels,1,UInt4,9
+MNS.SSN.Zdv007_2_2.ZDV.Channels,101,String,"DG.USO2_1.A2.M1:31:29:30, DG.USO2_1.A2.M2:0:1:2, DG.USO2_1.A2.M4:4:5:6, DG.USO2_1.A2.M7:16"
+MNS.SSN.Zdv007_2_2.ZDV.Channels,3,UInt4,192
+MNS.SSN.Zdv007_2_2.ZDV.Ust.Set2,1,UInt4,9
+MNS.SSN.Zdv007_2_2.ZDV.Ust.Set2,101,String,"Время хода вала задвижки"
+MNS.SSN.Zdv007_2_2.ZDV.Ust.Set2,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(9971) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+WR_MNS.SSN.Zdv007_2_2.ZDV.Ust.Set2,1,UInt4,9
+WR_MNS.SSN.Zdv007_2_2.ZDV.Ust.Set2,101,String,"Время хода вала задвижки"
+WR_MNS.SSN.Zdv007_2_2.ZDV.Ust.Set2,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(9971) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TR2) Signed=(True) Category=()}"
+MNS.SSN.Zdv007_2_2.ZDV.RSDiag1,1,UInt4,9
+MNS.SSN.Zdv007_2_2.ZDV.RSDiag1,101,String,"Диагностический регистр по интерфейсу (регистр 1)"
+MNS.SSN.Zdv007_2_2.ZDV.RSDiag1,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(38622) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+WR_MNS.SSN.Zdv007_2_2.ZDV.RSDiag1,1,UInt4,9
+WR_MNS.SSN.Zdv007_2_2.ZDV.RSDiag1,101,String,"Диагностический регистр по интерфейсу (регистр 1)"
+WR_MNS.SSN.Zdv007_2_2.ZDV.RSDiag1,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(38622) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TR2) Signed=(True) Category=()}"
+MNS.SSN.Zdv007_2_2.ZDV.RSDiag2,1,UInt4,9
+MNS.SSN.Zdv007_2_2.ZDV.RSDiag2,101,String,"Диагностический регистр по интерфейсу (регистр 2)"
+MNS.SSN.Zdv007_2_2.ZDV.RSDiag2,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(38623) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+WR_MNS.SSN.Zdv007_2_2.ZDV.RSDiag2,1,UInt4,9
+WR_MNS.SSN.Zdv007_2_2.ZDV.RSDiag2,101,String,"Диагностический регистр по интерфейсу (регистр 2)"
+WR_MNS.SSN.Zdv007_2_2.ZDV.RSDiag2,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(38623) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TR2) Signed=(True) Category=()}"
+MNS.SSN.Zdv007_2_2.ZDV.Torque,1,UInt4,9
+MNS.SSN.Zdv007_2_2.ZDV.Torque,101,String,"Текущий момент"
+MNS.SSN.Zdv007_2_2.ZDV.Torque,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6415) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+WR_MNS.SSN.Zdv007_2_2.ZDV.Torque,1,UInt4,9
+WR_MNS.SSN.Zdv007_2_2.ZDV.Torque,101,String,"Текущий момент"
+WR_MNS.SSN.Zdv007_2_2.ZDV.Torque,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6415) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TR2) Signed=(True) Category=()}"
+MNS.SSN.Zdv007_2_2.ZDV.Voltage,1,UInt4,9
+MNS.SSN.Zdv007_2_2.ZDV.Voltage,101,String,"Напряжение питания"
+MNS.SSN.Zdv007_2_2.ZDV.Voltage,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6416) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+WR_MNS.SSN.Zdv007_2_2.ZDV.Voltage,1,UInt4,9
+WR_MNS.SSN.Zdv007_2_2.ZDV.Voltage,101,String,"Напряжение питания"
+WR_MNS.SSN.Zdv007_2_2.ZDV.Voltage,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6416) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TR2) Signed=(True) Category=()}"
+MNS.SSN.Zdv007_3_1.ZDV.ObjNum,1,UInt4,9
+MNS.SSN.Zdv007_3_1.ZDV.ObjNum,101,String,"13"
+MNS.SSN.Zdv007_3_1.ZDV.ObjNum,3,UInt4,192
+MNS.SSN.Zdv007_3_1.ZDV.Pos,1,UInt4,9
+MNS.SSN.Zdv007_3_1.ZDV.Pos,101,String,"Положение задвижки"
+MNS.SSN.Zdv007_3_1.ZDV.Pos,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(7677) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.SSN.Zdv007_3_1.ZDV.Pos,5100,Double,0
+MNS.SSN.Zdv007_3_1.ZDV.Pos,5102,Double,1000
+MNS.SSN.Zdv007_3_1.ZDV.Pos,5103,Double,0
+MNS.SSN.Zdv007_3_1.ZDV.Pos,5105,Double,100
+MNS.SSN.Zdv007_3_1.ZDV.Pos,100,String,%
+MNS.SSN.Zdv007_3_1.ZDV.Channels,1,UInt4,9
+MNS.SSN.Zdv007_3_1.ZDV.Channels,101,String,"DG.USO2_1.A3.M1:21:22:19:20:23:24, DG.USO2_1.A3.M2:8:9:10, DG.USO2_1.A4.M4:0"
+MNS.SSN.Zdv007_3_1.ZDV.Channels,3,UInt4,192
+MNS.SSN.Zdv007_3_1.ZDV.Ust.Set2,1,UInt4,9
+MNS.SSN.Zdv007_3_1.ZDV.Ust.Set2,101,String,"Время хода вала задвижки"
+MNS.SSN.Zdv007_3_1.ZDV.Ust.Set2,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(9974) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+WR_MNS.SSN.Zdv007_3_1.ZDV.Ust.Set2,1,UInt4,9
+WR_MNS.SSN.Zdv007_3_1.ZDV.Ust.Set2,101,String,"Время хода вала задвижки"
+WR_MNS.SSN.Zdv007_3_1.ZDV.Ust.Set2,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(9974) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TR2) Signed=(True) Category=()}"
+MNS.SSN.Zdv007_3_1.ZDV.RSDiag1,1,UInt4,9
+MNS.SSN.Zdv007_3_1.ZDV.RSDiag1,101,String,"Диагностический регистр по интерфейсу (регистр 1)"
+MNS.SSN.Zdv007_3_1.ZDV.RSDiag1,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(38624) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+WR_MNS.SSN.Zdv007_3_1.ZDV.RSDiag1,1,UInt4,9
+WR_MNS.SSN.Zdv007_3_1.ZDV.RSDiag1,101,String,"Диагностический регистр по интерфейсу (регистр 1)"
+WR_MNS.SSN.Zdv007_3_1.ZDV.RSDiag1,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(38624) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TR2) Signed=(True) Category=()}"
+MNS.SSN.Zdv007_3_1.ZDV.RSDiag2,1,UInt4,9
+MNS.SSN.Zdv007_3_1.ZDV.RSDiag2,101,String,"Диагностический регистр по интерфейсу (регистр 2)"
+MNS.SSN.Zdv007_3_1.ZDV.RSDiag2,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(38625) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+WR_MNS.SSN.Zdv007_3_1.ZDV.RSDiag2,1,UInt4,9
+WR_MNS.SSN.Zdv007_3_1.ZDV.RSDiag2,101,String,"Диагностический регистр по интерфейсу (регистр 2)"
+WR_MNS.SSN.Zdv007_3_1.ZDV.RSDiag2,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(38625) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TR2) Signed=(True) Category=()}"
+MNS.SSN.Zdv007_3_1.ZDV.Torque,1,UInt4,9
+MNS.SSN.Zdv007_3_1.ZDV.Torque,101,String,"Текущий момент"
+MNS.SSN.Zdv007_3_1.ZDV.Torque,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6417) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+WR_MNS.SSN.Zdv007_3_1.ZDV.Torque,1,UInt4,9
+WR_MNS.SSN.Zdv007_3_1.ZDV.Torque,101,String,"Текущий момент"
+WR_MNS.SSN.Zdv007_3_1.ZDV.Torque,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6417) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TR2) Signed=(True) Category=()}"
+MNS.SSN.Zdv007_3_1.ZDV.Voltage,1,UInt4,9
+MNS.SSN.Zdv007_3_1.ZDV.Voltage,101,String,"Напряжение питания"
+MNS.SSN.Zdv007_3_1.ZDV.Voltage,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6418) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+WR_MNS.SSN.Zdv007_3_1.ZDV.Voltage,1,UInt4,9
+WR_MNS.SSN.Zdv007_3_1.ZDV.Voltage,101,String,"Напряжение питания"
+WR_MNS.SSN.Zdv007_3_1.ZDV.Voltage,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6418) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TR2) Signed=(True) Category=()}"
+MNS.SSN.Zdv036_5_1.ZDV.ObjNum,1,UInt4,9
+MNS.SSN.Zdv036_5_1.ZDV.ObjNum,101,String,"14"
+MNS.SSN.Zdv036_5_1.ZDV.ObjNum,3,UInt4,192
+MNS.SSN.Zdv036_5_1.ZDV.Pos,1,UInt4,9
+MNS.SSN.Zdv036_5_1.ZDV.Pos,101,String,"Положение задвижки"
+MNS.SSN.Zdv036_5_1.ZDV.Pos,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(7678) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.SSN.Zdv036_5_1.ZDV.Pos,5100,Double,0
+MNS.SSN.Zdv036_5_1.ZDV.Pos,5102,Double,1000
+MNS.SSN.Zdv036_5_1.ZDV.Pos,5103,Double,0
+MNS.SSN.Zdv036_5_1.ZDV.Pos,5105,Double,100
+MNS.SSN.Zdv036_5_1.ZDV.Pos,100,String,%
+MNS.SSN.Zdv036_5_1.ZDV.Channels,1,UInt4,9
+MNS.SSN.Zdv036_5_1.ZDV.Channels,101,String,"DG.USO2_1.A1.M2:13:14:11:12:15:16, DG.USO2_1.A1.M4:13:14:15, DG.USO2_1.A1.M8:0"
+MNS.SSN.Zdv036_5_1.ZDV.Channels,3,UInt4,192
+MNS.SSN.Zdv036_5_1.ZDV.Ust.Set2,1,UInt4,9
+MNS.SSN.Zdv036_5_1.ZDV.Ust.Set2,101,String,"Время хода вала задвижки"
+MNS.SSN.Zdv036_5_1.ZDV.Ust.Set2,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(9977) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+WR_MNS.SSN.Zdv036_5_1.ZDV.Ust.Set2,1,UInt4,9
+WR_MNS.SSN.Zdv036_5_1.ZDV.Ust.Set2,101,String,"Время хода вала задвижки"
+WR_MNS.SSN.Zdv036_5_1.ZDV.Ust.Set2,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(9977) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TR2) Signed=(True) Category=()}"
+MNS.SSN.Zdv036_5_1.ZDV.RSDiag1,1,UInt4,9
+MNS.SSN.Zdv036_5_1.ZDV.RSDiag1,101,String,"Диагностический регистр по интерфейсу (регистр 1)"
+MNS.SSN.Zdv036_5_1.ZDV.RSDiag1,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(38626) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+WR_MNS.SSN.Zdv036_5_1.ZDV.RSDiag1,1,UInt4,9
+WR_MNS.SSN.Zdv036_5_1.ZDV.RSDiag1,101,String,"Диагностический регистр по интерфейсу (регистр 1)"
+WR_MNS.SSN.Zdv036_5_1.ZDV.RSDiag1,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(38626) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TR2) Signed=(True) Category=()}"
+MNS.SSN.Zdv036_5_1.ZDV.RSDiag2,1,UInt4,9
+MNS.SSN.Zdv036_5_1.ZDV.RSDiag2,101,String,"Диагностический регистр по интерфейсу (регистр 2)"
+MNS.SSN.Zdv036_5_1.ZDV.RSDiag2,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(38627) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+WR_MNS.SSN.Zdv036_5_1.ZDV.RSDiag2,1,UInt4,9
+WR_MNS.SSN.Zdv036_5_1.ZDV.RSDiag2,101,String,"Диагностический регистр по интерфейсу (регистр 2)"
+WR_MNS.SSN.Zdv036_5_1.ZDV.RSDiag2,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(38627) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TR2) Signed=(True) Category=()}"
+MNS.SSN.Zdv036_5_1.ZDV.Torque,1,UInt4,9
+MNS.SSN.Zdv036_5_1.ZDV.Torque,101,String,"Текущий момент"
+MNS.SSN.Zdv036_5_1.ZDV.Torque,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6419) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+WR_MNS.SSN.Zdv036_5_1.ZDV.Torque,1,UInt4,9
+WR_MNS.SSN.Zdv036_5_1.ZDV.Torque,101,String,"Текущий момент"
+WR_MNS.SSN.Zdv036_5_1.ZDV.Torque,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6419) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TR2) Signed=(True) Category=()}"
+MNS.SSN.Zdv036_5_1.ZDV.Voltage,1,UInt4,9
+MNS.SSN.Zdv036_5_1.ZDV.Voltage,101,String,"Напряжение питания"
+MNS.SSN.Zdv036_5_1.ZDV.Voltage,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6420) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+WR_MNS.SSN.Zdv036_5_1.ZDV.Voltage,1,UInt4,9
+WR_MNS.SSN.Zdv036_5_1.ZDV.Voltage,101,String,"Напряжение питания"
+WR_MNS.SSN.Zdv036_5_1.ZDV.Voltage,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6420) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TR2) Signed=(True) Category=()}"
+MNS.SSN.Zdv036_5_2.ZDV.ObjNum,1,UInt4,9
+MNS.SSN.Zdv036_5_2.ZDV.ObjNum,101,String,"15"
+MNS.SSN.Zdv036_5_2.ZDV.ObjNum,3,UInt4,192
+MNS.SSN.Zdv036_5_2.ZDV.Pos,1,UInt4,9
+MNS.SSN.Zdv036_5_2.ZDV.Pos,101,String,"Положение задвижки"
+MNS.SSN.Zdv036_5_2.ZDV.Pos,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(7679) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.SSN.Zdv036_5_2.ZDV.Pos,5100,Double,0
+MNS.SSN.Zdv036_5_2.ZDV.Pos,5102,Double,1000
+MNS.SSN.Zdv036_5_2.ZDV.Pos,5103,Double,0
+MNS.SSN.Zdv036_5_2.ZDV.Pos,5105,Double,100
+MNS.SSN.Zdv036_5_2.ZDV.Pos,100,String,%
+MNS.SSN.Zdv036_5_2.ZDV.Channels,1,UInt4,9
+MNS.SSN.Zdv036_5_2.ZDV.Channels,101,String,"DG.USO2_1.A2.M2:17:18:15:16:19:20, DG.USO2_1.A2.M4:13:14:15, DG.USO2_1.A1.M8:0"
+MNS.SSN.Zdv036_5_2.ZDV.Channels,3,UInt4,192
+MNS.SSN.Zdv036_5_2.ZDV.Ust.Set2,1,UInt4,9
+MNS.SSN.Zdv036_5_2.ZDV.Ust.Set2,101,String,"Время хода вала задвижки"
+MNS.SSN.Zdv036_5_2.ZDV.Ust.Set2,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(9980) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+WR_MNS.SSN.Zdv036_5_2.ZDV.Ust.Set2,1,UInt4,9
+WR_MNS.SSN.Zdv036_5_2.ZDV.Ust.Set2,101,String,"Время хода вала задвижки"
+WR_MNS.SSN.Zdv036_5_2.ZDV.Ust.Set2,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(9980) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TR2) Signed=(True) Category=()}"
+MNS.SSN.Zdv036_5_2.ZDV.RSDiag1,1,UInt4,9
+MNS.SSN.Zdv036_5_2.ZDV.RSDiag1,101,String,"Диагностический регистр по интерфейсу (регистр 1)"
+MNS.SSN.Zdv036_5_2.ZDV.RSDiag1,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(38628) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+WR_MNS.SSN.Zdv036_5_2.ZDV.RSDiag1,1,UInt4,9
+WR_MNS.SSN.Zdv036_5_2.ZDV.RSDiag1,101,String,"Диагностический регистр по интерфейсу (регистр 1)"
+WR_MNS.SSN.Zdv036_5_2.ZDV.RSDiag1,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(38628) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TR2) Signed=(True) Category=()}"
+MNS.SSN.Zdv036_5_2.ZDV.RSDiag2,1,UInt4,9
+MNS.SSN.Zdv036_5_2.ZDV.RSDiag2,101,String,"Диагностический регистр по интерфейсу (регистр 2)"
+MNS.SSN.Zdv036_5_2.ZDV.RSDiag2,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(38629) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+WR_MNS.SSN.Zdv036_5_2.ZDV.RSDiag2,1,UInt4,9
+WR_MNS.SSN.Zdv036_5_2.ZDV.RSDiag2,101,String,"Диагностический регистр по интерфейсу (регистр 2)"
+WR_MNS.SSN.Zdv036_5_2.ZDV.RSDiag2,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(38629) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TR2) Signed=(True) Category=()}"
+MNS.SSN.Zdv036_5_2.ZDV.Torque,1,UInt4,9
+MNS.SSN.Zdv036_5_2.ZDV.Torque,101,String,"Текущий момент"
+MNS.SSN.Zdv036_5_2.ZDV.Torque,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6421) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+WR_MNS.SSN.Zdv036_5_2.ZDV.Torque,1,UInt4,9
+WR_MNS.SSN.Zdv036_5_2.ZDV.Torque,101,String,"Текущий момент"
+WR_MNS.SSN.Zdv036_5_2.ZDV.Torque,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6421) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TR2) Signed=(True) Category=()}"
+MNS.SSN.Zdv036_5_2.ZDV.Voltage,1,UInt4,9
+MNS.SSN.Zdv036_5_2.ZDV.Voltage,101,String,"Напряжение питания"
+MNS.SSN.Zdv036_5_2.ZDV.Voltage,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6422) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+WR_MNS.SSN.Zdv036_5_2.ZDV.Voltage,1,UInt4,9
+WR_MNS.SSN.Zdv036_5_2.ZDV.Voltage,101,String,"Напряжение питания"
+WR_MNS.SSN.Zdv036_5_2.ZDV.Voltage,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6422) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TR2) Signed=(True) Category=()}"
+MNS.SAR1.Zdv008_1_1_1.ZDV.ObjNum,1,UInt4,9
+MNS.SAR1.Zdv008_1_1_1.ZDV.ObjNum,101,String,"16"
+MNS.SAR1.Zdv008_1_1_1.ZDV.ObjNum,3,UInt4,192
+MNS.SAR1.Zdv008_1_1_1.ZDV.Pos,1,UInt4,9
+MNS.SAR1.Zdv008_1_1_1.ZDV.Pos,101,String,"Положение задвижки"
+MNS.SAR1.Zdv008_1_1_1.ZDV.Pos,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(7680) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.SAR1.Zdv008_1_1_1.ZDV.Pos,5100,Double,0
+MNS.SAR1.Zdv008_1_1_1.ZDV.Pos,5102,Double,1000
+MNS.SAR1.Zdv008_1_1_1.ZDV.Pos,5103,Double,0
+MNS.SAR1.Zdv008_1_1_1.ZDV.Pos,5105,Double,100
+MNS.SAR1.Zdv008_1_1_1.ZDV.Pos,100,String,%
+MNS.SAR1.Zdv008_1_1_1.ZDV.Channels,1,UInt4,9
+MNS.SAR1.Zdv008_1_1_1.ZDV.Channels,101,String,"DG.USO2_1.A1.M2:1:2:0:3:4, DG.USO2_1.A1.M1:31, DG.USO2_1.A1.M4:7:8:9, DG.USO2_1.A3.M6:16"
+MNS.SAR1.Zdv008_1_1_1.ZDV.Channels,3,UInt4,192
+MNS.SAR1.Zdv008_1_1_1.ZDV.Ust.Set2,1,UInt4,9
+MNS.SAR1.Zdv008_1_1_1.ZDV.Ust.Set2,101,String,"Время хода вала задвижки"
+MNS.SAR1.Zdv008_1_1_1.ZDV.Ust.Set2,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(9983) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+WR_MNS.SAR1.Zdv008_1_1_1.ZDV.Ust.Set2,1,UInt4,9
+WR_MNS.SAR1.Zdv008_1_1_1.ZDV.Ust.Set2,101,String,"Время хода вала задвижки"
+WR_MNS.SAR1.Zdv008_1_1_1.ZDV.Ust.Set2,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(9983) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TR2) Signed=(True) Category=()}"
+MNS.SAR1.Zdv008_1_1_1.ZDV.RSDiag1,1,UInt4,9
+MNS.SAR1.Zdv008_1_1_1.ZDV.RSDiag1,101,String,"Диагностический регистр по интерфейсу (регистр 1)"
+MNS.SAR1.Zdv008_1_1_1.ZDV.RSDiag1,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(38630) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+WR_MNS.SAR1.Zdv008_1_1_1.ZDV.RSDiag1,1,UInt4,9
+WR_MNS.SAR1.Zdv008_1_1_1.ZDV.RSDiag1,101,String,"Диагностический регистр по интерфейсу (регистр 1)"
+WR_MNS.SAR1.Zdv008_1_1_1.ZDV.RSDiag1,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(38630) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TR2) Signed=(True) Category=()}"
+MNS.SAR1.Zdv008_1_1_1.ZDV.RSDiag2,1,UInt4,9
+MNS.SAR1.Zdv008_1_1_1.ZDV.RSDiag2,101,String,"Диагностический регистр по интерфейсу (регистр 2)"
+MNS.SAR1.Zdv008_1_1_1.ZDV.RSDiag2,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(38631) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+WR_MNS.SAR1.Zdv008_1_1_1.ZDV.RSDiag2,1,UInt4,9
+WR_MNS.SAR1.Zdv008_1_1_1.ZDV.RSDiag2,101,String,"Диагностический регистр по интерфейсу (регистр 2)"
+WR_MNS.SAR1.Zdv008_1_1_1.ZDV.RSDiag2,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(38631) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TR2) Signed=(True) Category=()}"
+MNS.SAR1.Zdv008_1_1_1.ZDV.Torque,1,UInt4,9
+MNS.SAR1.Zdv008_1_1_1.ZDV.Torque,101,String,"Текущий момент"
+MNS.SAR1.Zdv008_1_1_1.ZDV.Torque,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6423) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+WR_MNS.SAR1.Zdv008_1_1_1.ZDV.Torque,1,UInt4,9
+WR_MNS.SAR1.Zdv008_1_1_1.ZDV.Torque,101,String,"Текущий момент"
+WR_MNS.SAR1.Zdv008_1_1_1.ZDV.Torque,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6423) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TR2) Signed=(True) Category=()}"
+MNS.SAR1.Zdv008_1_1_1.ZDV.Voltage,1,UInt4,9
+MNS.SAR1.Zdv008_1_1_1.ZDV.Voltage,101,String,"Напряжение питания"
+MNS.SAR1.Zdv008_1_1_1.ZDV.Voltage,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6424) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+WR_MNS.SAR1.Zdv008_1_1_1.ZDV.Voltage,1,UInt4,9
+WR_MNS.SAR1.Zdv008_1_1_1.ZDV.Voltage,101,String,"Напряжение питания"
+WR_MNS.SAR1.Zdv008_1_1_1.ZDV.Voltage,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6424) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TR2) Signed=(True) Category=()}"
+MNS.SAR1.Zdv008_1_1_2.ZDV.ObjNum,1,UInt4,9
+MNS.SAR1.Zdv008_1_1_2.ZDV.ObjNum,101,String,"17"
+MNS.SAR1.Zdv008_1_1_2.ZDV.ObjNum,3,UInt4,192
+MNS.SAR1.Zdv008_1_1_2.ZDV.Pos,1,UInt4,9
+MNS.SAR1.Zdv008_1_1_2.ZDV.Pos,101,String,"Положение задвижки"
+MNS.SAR1.Zdv008_1_1_2.ZDV.Pos,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(7681) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.SAR1.Zdv008_1_1_2.ZDV.Pos,5100,Double,0
+MNS.SAR1.Zdv008_1_1_2.ZDV.Pos,5102,Double,1000
+MNS.SAR1.Zdv008_1_1_2.ZDV.Pos,5103,Double,0
+MNS.SAR1.Zdv008_1_1_2.ZDV.Pos,5105,Double,100
+MNS.SAR1.Zdv008_1_1_2.ZDV.Pos,100,String,%
+MNS.SAR1.Zdv008_1_1_2.ZDV.Channels,1,UInt4,9
+MNS.SAR1.Zdv008_1_1_2.ZDV.Channels,101,String,"DG.USO2_1.A1.M2:31:29:30, DG.USO2_1.A1.M3:0:1:2:11:12, DG.USO2_1.A1.M4:22:23:24, DG.USO2_1.A3.M6:16"
+MNS.SAR1.Zdv008_1_1_2.ZDV.Channels,3,UInt4,192
+MNS.SAR1.Zdv008_1_1_2.ZDV.Ust.Set2,1,UInt4,9
+MNS.SAR1.Zdv008_1_1_2.ZDV.Ust.Set2,101,String,"Время хода вала задвижки"
+MNS.SAR1.Zdv008_1_1_2.ZDV.Ust.Set2,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(9986) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+WR_MNS.SAR1.Zdv008_1_1_2.ZDV.Ust.Set2,1,UInt4,9
+WR_MNS.SAR1.Zdv008_1_1_2.ZDV.Ust.Set2,101,String,"Время хода вала задвижки"
+WR_MNS.SAR1.Zdv008_1_1_2.ZDV.Ust.Set2,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(9986) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TR2) Signed=(True) Category=()}"
+MNS.SAR1.Zdv008_1_1_2.ZDV.RSDiag1,1,UInt4,9
+MNS.SAR1.Zdv008_1_1_2.ZDV.RSDiag1,101,String,"Диагностический регистр по интерфейсу (регистр 1)"
+MNS.SAR1.Zdv008_1_1_2.ZDV.RSDiag1,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(38632) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+WR_MNS.SAR1.Zdv008_1_1_2.ZDV.RSDiag1,1,UInt4,9
+WR_MNS.SAR1.Zdv008_1_1_2.ZDV.RSDiag1,101,String,"Диагностический регистр по интерфейсу (регистр 1)"
+WR_MNS.SAR1.Zdv008_1_1_2.ZDV.RSDiag1,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(38632) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TR2) Signed=(True) Category=()}"
+MNS.SAR1.Zdv008_1_1_2.ZDV.RSDiag2,1,UInt4,9
+MNS.SAR1.Zdv008_1_1_2.ZDV.RSDiag2,101,String,"Диагностический регистр по интерфейсу (регистр 2)"
+MNS.SAR1.Zdv008_1_1_2.ZDV.RSDiag2,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(38633) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+WR_MNS.SAR1.Zdv008_1_1_2.ZDV.RSDiag2,1,UInt4,9
+WR_MNS.SAR1.Zdv008_1_1_2.ZDV.RSDiag2,101,String,"Диагностический регистр по интерфейсу (регистр 2)"
+WR_MNS.SAR1.Zdv008_1_1_2.ZDV.RSDiag2,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(38633) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TR2) Signed=(True) Category=()}"
+MNS.SAR1.Zdv008_1_1_2.ZDV.Torque,1,UInt4,9
+MNS.SAR1.Zdv008_1_1_2.ZDV.Torque,101,String,"Текущий момент"
+MNS.SAR1.Zdv008_1_1_2.ZDV.Torque,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6425) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+WR_MNS.SAR1.Zdv008_1_1_2.ZDV.Torque,1,UInt4,9
+WR_MNS.SAR1.Zdv008_1_1_2.ZDV.Torque,101,String,"Текущий момент"
+WR_MNS.SAR1.Zdv008_1_1_2.ZDV.Torque,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6425) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TR2) Signed=(True) Category=()}"
+MNS.SAR1.Zdv008_1_1_2.ZDV.Voltage,1,UInt4,9
+MNS.SAR1.Zdv008_1_1_2.ZDV.Voltage,101,String,"Напряжение питания"
+MNS.SAR1.Zdv008_1_1_2.ZDV.Voltage,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6426) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+WR_MNS.SAR1.Zdv008_1_1_2.ZDV.Voltage,1,UInt4,9
+WR_MNS.SAR1.Zdv008_1_1_2.ZDV.Voltage,101,String,"Напряжение питания"
+WR_MNS.SAR1.Zdv008_1_1_2.ZDV.Voltage,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6426) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TR2) Signed=(True) Category=()}"
+MNS.SAR1.Zdv008_1_2_1.ZDV.ObjNum,1,UInt4,9
+MNS.SAR1.Zdv008_1_2_1.ZDV.ObjNum,101,String,"18"
+MNS.SAR1.Zdv008_1_2_1.ZDV.ObjNum,3,UInt4,192
+MNS.SAR1.Zdv008_1_2_1.ZDV.Pos,1,UInt4,9
+MNS.SAR1.Zdv008_1_2_1.ZDV.Pos,101,String,"Положение задвижки"
+MNS.SAR1.Zdv008_1_2_1.ZDV.Pos,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(7682) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.SAR1.Zdv008_1_2_1.ZDV.Pos,5100,Double,0
+MNS.SAR1.Zdv008_1_2_1.ZDV.Pos,5102,Double,1000
+MNS.SAR1.Zdv008_1_2_1.ZDV.Pos,5103,Double,0
+MNS.SAR1.Zdv008_1_2_1.ZDV.Pos,5105,Double,100
+MNS.SAR1.Zdv008_1_2_1.ZDV.Pos,100,String,%
+MNS.SAR1.Zdv008_1_2_1.ZDV.Channels,1,UInt4,9
+MNS.SAR1.Zdv008_1_2_1.ZDV.Channels,101,String,"DG.USO2_1.A2.M2:5:6:3:4:7:8, DG.USO2_1.A2.M4:7:8:9, DG.USO2_1.A3.M6:16"
+MNS.SAR1.Zdv008_1_2_1.ZDV.Channels,3,UInt4,192
+MNS.SAR1.Zdv008_1_2_1.ZDV.Ust.Set2,1,UInt4,9
+MNS.SAR1.Zdv008_1_2_1.ZDV.Ust.Set2,101,String,"Время хода вала задвижки"
+MNS.SAR1.Zdv008_1_2_1.ZDV.Ust.Set2,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(9989) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+WR_MNS.SAR1.Zdv008_1_2_1.ZDV.Ust.Set2,1,UInt4,9
+WR_MNS.SAR1.Zdv008_1_2_1.ZDV.Ust.Set2,101,String,"Время хода вала задвижки"
+WR_MNS.SAR1.Zdv008_1_2_1.ZDV.Ust.Set2,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(9989) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TR2) Signed=(True) Category=()}"
+MNS.SAR1.Zdv008_1_2_1.ZDV.RSDiag1,1,UInt4,9
+MNS.SAR1.Zdv008_1_2_1.ZDV.RSDiag1,101,String,"Диагностический регистр по интерфейсу (регистр 1)"
+MNS.SAR1.Zdv008_1_2_1.ZDV.RSDiag1,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(38634) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+WR_MNS.SAR1.Zdv008_1_2_1.ZDV.RSDiag1,1,UInt4,9
+WR_MNS.SAR1.Zdv008_1_2_1.ZDV.RSDiag1,101,String,"Диагностический регистр по интерфейсу (регистр 1)"
+WR_MNS.SAR1.Zdv008_1_2_1.ZDV.RSDiag1,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(38634) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TR2) Signed=(True) Category=()}"
+MNS.SAR1.Zdv008_1_2_1.ZDV.RSDiag2,1,UInt4,9
+MNS.SAR1.Zdv008_1_2_1.ZDV.RSDiag2,101,String,"Диагностический регистр по интерфейсу (регистр 2)"
+MNS.SAR1.Zdv008_1_2_1.ZDV.RSDiag2,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(38635) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+WR_MNS.SAR1.Zdv008_1_2_1.ZDV.RSDiag2,1,UInt4,9
+WR_MNS.SAR1.Zdv008_1_2_1.ZDV.RSDiag2,101,String,"Диагностический регистр по интерфейсу (регистр 2)"
+WR_MNS.SAR1.Zdv008_1_2_1.ZDV.RSDiag2,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(38635) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TR2) Signed=(True) Category=()}"
+MNS.SAR1.Zdv008_1_2_1.ZDV.Torque,1,UInt4,9
+MNS.SAR1.Zdv008_1_2_1.ZDV.Torque,101,String,"Текущий момент"
+MNS.SAR1.Zdv008_1_2_1.ZDV.Torque,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6427) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+WR_MNS.SAR1.Zdv008_1_2_1.ZDV.Torque,1,UInt4,9
+WR_MNS.SAR1.Zdv008_1_2_1.ZDV.Torque,101,String,"Текущий момент"
+WR_MNS.SAR1.Zdv008_1_2_1.ZDV.Torque,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6427) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TR2) Signed=(True) Category=()}"
+MNS.SAR1.Zdv008_1_2_1.ZDV.Voltage,1,UInt4,9
+MNS.SAR1.Zdv008_1_2_1.ZDV.Voltage,101,String,"Напряжение питания"
+MNS.SAR1.Zdv008_1_2_1.ZDV.Voltage,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6428) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+WR_MNS.SAR1.Zdv008_1_2_1.ZDV.Voltage,1,UInt4,9
+WR_MNS.SAR1.Zdv008_1_2_1.ZDV.Voltage,101,String,"Напряжение питания"
+WR_MNS.SAR1.Zdv008_1_2_1.ZDV.Voltage,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6428) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TR2) Signed=(True) Category=()}"
+MNS.SAR1.Zdv008_1_2_2.ZDV.ObjNum,1,UInt4,9
+MNS.SAR1.Zdv008_1_2_2.ZDV.ObjNum,101,String,"19"
+MNS.SAR1.Zdv008_1_2_2.ZDV.ObjNum,3,UInt4,192
+MNS.SAR1.Zdv008_1_2_2.ZDV.Pos,1,UInt4,9
+MNS.SAR1.Zdv008_1_2_2.ZDV.Pos,101,String,"Положение задвижки"
+MNS.SAR1.Zdv008_1_2_2.ZDV.Pos,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(7683) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.SAR1.Zdv008_1_2_2.ZDV.Pos,5100,Double,0
+MNS.SAR1.Zdv008_1_2_2.ZDV.Pos,5102,Double,1000
+MNS.SAR1.Zdv008_1_2_2.ZDV.Pos,5103,Double,0
+MNS.SAR1.Zdv008_1_2_2.ZDV.Pos,5105,Double,100
+MNS.SAR1.Zdv008_1_2_2.ZDV.Pos,100,String,%
+MNS.SAR1.Zdv008_1_2_2.ZDV.Channels,1,UInt4,9
+MNS.SAR1.Zdv008_1_2_2.ZDV.Channels,101,String,"DG.USO2_1.A2.M3:3:4:1:2:5:6:21:22, DG.USO2_1.A2.M4:22:23:24, DG.USO2_1.A3.M6:16"
+MNS.SAR1.Zdv008_1_2_2.ZDV.Channels,3,UInt4,192
+MNS.SAR1.Zdv008_1_2_2.ZDV.Ust.Set2,1,UInt4,9
+MNS.SAR1.Zdv008_1_2_2.ZDV.Ust.Set2,101,String,"Время хода вала задвижки"
+MNS.SAR1.Zdv008_1_2_2.ZDV.Ust.Set2,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(9992) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+WR_MNS.SAR1.Zdv008_1_2_2.ZDV.Ust.Set2,1,UInt4,9
+WR_MNS.SAR1.Zdv008_1_2_2.ZDV.Ust.Set2,101,String,"Время хода вала задвижки"
+WR_MNS.SAR1.Zdv008_1_2_2.ZDV.Ust.Set2,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(9992) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TR2) Signed=(True) Category=()}"
+MNS.SAR1.Zdv008_1_2_2.ZDV.RSDiag1,1,UInt4,9
+MNS.SAR1.Zdv008_1_2_2.ZDV.RSDiag1,101,String,"Диагностический регистр по интерфейсу (регистр 1)"
+MNS.SAR1.Zdv008_1_2_2.ZDV.RSDiag1,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(38636) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+WR_MNS.SAR1.Zdv008_1_2_2.ZDV.RSDiag1,1,UInt4,9
+WR_MNS.SAR1.Zdv008_1_2_2.ZDV.RSDiag1,101,String,"Диагностический регистр по интерфейсу (регистр 1)"
+WR_MNS.SAR1.Zdv008_1_2_2.ZDV.RSDiag1,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(38636) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TR2) Signed=(True) Category=()}"
+MNS.SAR1.Zdv008_1_2_2.ZDV.RSDiag2,1,UInt4,9
+MNS.SAR1.Zdv008_1_2_2.ZDV.RSDiag2,101,String,"Диагностический регистр по интерфейсу (регистр 2)"
+MNS.SAR1.Zdv008_1_2_2.ZDV.RSDiag2,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(38637) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+WR_MNS.SAR1.Zdv008_1_2_2.ZDV.RSDiag2,1,UInt4,9
+WR_MNS.SAR1.Zdv008_1_2_2.ZDV.RSDiag2,101,String,"Диагностический регистр по интерфейсу (регистр 2)"
+WR_MNS.SAR1.Zdv008_1_2_2.ZDV.RSDiag2,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(38637) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TR2) Signed=(True) Category=()}"
+MNS.SAR1.Zdv008_1_2_2.ZDV.Torque,1,UInt4,9
+MNS.SAR1.Zdv008_1_2_2.ZDV.Torque,101,String,"Текущий момент"
+MNS.SAR1.Zdv008_1_2_2.ZDV.Torque,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6429) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+WR_MNS.SAR1.Zdv008_1_2_2.ZDV.Torque,1,UInt4,9
+WR_MNS.SAR1.Zdv008_1_2_2.ZDV.Torque,101,String,"Текущий момент"
+WR_MNS.SAR1.Zdv008_1_2_2.ZDV.Torque,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6429) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TR2) Signed=(True) Category=()}"
+MNS.SAR1.Zdv008_1_2_2.ZDV.Voltage,1,UInt4,9
+MNS.SAR1.Zdv008_1_2_2.ZDV.Voltage,101,String,"Напряжение питания"
+MNS.SAR1.Zdv008_1_2_2.ZDV.Voltage,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6430) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+WR_MNS.SAR1.Zdv008_1_2_2.ZDV.Voltage,1,UInt4,9
+WR_MNS.SAR1.Zdv008_1_2_2.ZDV.Voltage,101,String,"Напряжение питания"
+WR_MNS.SAR1.Zdv008_1_2_2.ZDV.Voltage,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6430) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TR2) Signed=(True) Category=()}"
+MNS.SAR2.Zdv008_2_1_1.ZDV.ObjNum,1,UInt4,9
+MNS.SAR2.Zdv008_2_1_1.ZDV.ObjNum,101,String,"20"
+MNS.SAR2.Zdv008_2_1_1.ZDV.ObjNum,3,UInt4,192
+MNS.SAR2.Zdv008_2_1_1.ZDV.Pos,1,UInt4,9
+MNS.SAR2.Zdv008_2_1_1.ZDV.Pos,101,String,"Положение задвижки"
+MNS.SAR2.Zdv008_2_1_1.ZDV.Pos,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(7684) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.SAR2.Zdv008_2_1_1.ZDV.Pos,5100,Double,0
+MNS.SAR2.Zdv008_2_1_1.ZDV.Pos,5102,Double,1000
+MNS.SAR2.Zdv008_2_1_1.ZDV.Pos,5103,Double,0
+MNS.SAR2.Zdv008_2_1_1.ZDV.Pos,5105,Double,100
+MNS.SAR2.Zdv008_2_1_1.ZDV.Pos,100,String,%
+MNS.SAR2.Zdv008_2_1_1.ZDV.Channels,1,UInt4,9
+MNS.SAR2.Zdv008_2_1_1.ZDV.Channels,101,String,"DG.USO2_1.A1.M2:7:8:5:6:9:10, DG.USO2_1.A1.M4:10:11:12, DG.USO2_1.A4.M4:16"
+MNS.SAR2.Zdv008_2_1_1.ZDV.Channels,3,UInt4,192
+MNS.SAR2.Zdv008_2_1_1.ZDV.Ust.Set2,1,UInt4,9
+MNS.SAR2.Zdv008_2_1_1.ZDV.Ust.Set2,101,String,"Время хода вала задвижки"
+MNS.SAR2.Zdv008_2_1_1.ZDV.Ust.Set2,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(9995) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+WR_MNS.SAR2.Zdv008_2_1_1.ZDV.Ust.Set2,1,UInt4,9
+WR_MNS.SAR2.Zdv008_2_1_1.ZDV.Ust.Set2,101,String,"Время хода вала задвижки"
+WR_MNS.SAR2.Zdv008_2_1_1.ZDV.Ust.Set2,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(9995) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TR2) Signed=(True) Category=()}"
+MNS.SAR2.Zdv008_2_1_1.ZDV.RSDiag1,1,UInt4,9
+MNS.SAR2.Zdv008_2_1_1.ZDV.RSDiag1,101,String,"Диагностический регистр по интерфейсу (регистр 1)"
+MNS.SAR2.Zdv008_2_1_1.ZDV.RSDiag1,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(38638) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+WR_MNS.SAR2.Zdv008_2_1_1.ZDV.RSDiag1,1,UInt4,9
+WR_MNS.SAR2.Zdv008_2_1_1.ZDV.RSDiag1,101,String,"Диагностический регистр по интерфейсу (регистр 1)"
+WR_MNS.SAR2.Zdv008_2_1_1.ZDV.RSDiag1,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(38638) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TR2) Signed=(True) Category=()}"
+MNS.SAR2.Zdv008_2_1_1.ZDV.RSDiag2,1,UInt4,9
+MNS.SAR2.Zdv008_2_1_1.ZDV.RSDiag2,101,String,"Диагностический регистр по интерфейсу (регистр 2)"
+MNS.SAR2.Zdv008_2_1_1.ZDV.RSDiag2,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(38639) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+WR_MNS.SAR2.Zdv008_2_1_1.ZDV.RSDiag2,1,UInt4,9
+WR_MNS.SAR2.Zdv008_2_1_1.ZDV.RSDiag2,101,String,"Диагностический регистр по интерфейсу (регистр 2)"
+WR_MNS.SAR2.Zdv008_2_1_1.ZDV.RSDiag2,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(38639) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TR2) Signed=(True) Category=()}"
+MNS.SAR2.Zdv008_2_1_1.ZDV.Torque,1,UInt4,9
+MNS.SAR2.Zdv008_2_1_1.ZDV.Torque,101,String,"Текущий момент"
+MNS.SAR2.Zdv008_2_1_1.ZDV.Torque,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6431) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+WR_MNS.SAR2.Zdv008_2_1_1.ZDV.Torque,1,UInt4,9
+WR_MNS.SAR2.Zdv008_2_1_1.ZDV.Torque,101,String,"Текущий момент"
+WR_MNS.SAR2.Zdv008_2_1_1.ZDV.Torque,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6431) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TR2) Signed=(True) Category=()}"
+MNS.SAR2.Zdv008_2_1_1.ZDV.Voltage,1,UInt4,9
+MNS.SAR2.Zdv008_2_1_1.ZDV.Voltage,101,String,"Напряжение питания"
+MNS.SAR2.Zdv008_2_1_1.ZDV.Voltage,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6432) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+WR_MNS.SAR2.Zdv008_2_1_1.ZDV.Voltage,1,UInt4,9
+WR_MNS.SAR2.Zdv008_2_1_1.ZDV.Voltage,101,String,"Напряжение питания"
+WR_MNS.SAR2.Zdv008_2_1_1.ZDV.Voltage,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6432) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TR2) Signed=(True) Category=()}"
+MNS.SAR2.Zdv008_2_1_2.ZDV.ObjNum,1,UInt4,9
+MNS.SAR2.Zdv008_2_1_2.ZDV.ObjNum,101,String,"21"
+MNS.SAR2.Zdv008_2_1_2.ZDV.ObjNum,3,UInt4,192
+MNS.SAR2.Zdv008_2_1_2.ZDV.Pos,1,UInt4,9
+MNS.SAR2.Zdv008_2_1_2.ZDV.Pos,101,String,"Положение задвижки"
+MNS.SAR2.Zdv008_2_1_2.ZDV.Pos,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(7685) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.SAR2.Zdv008_2_1_2.ZDV.Pos,5100,Double,0
+MNS.SAR2.Zdv008_2_1_2.ZDV.Pos,5102,Double,1000
+MNS.SAR2.Zdv008_2_1_2.ZDV.Pos,5103,Double,0
+MNS.SAR2.Zdv008_2_1_2.ZDV.Pos,5105,Double,100
+MNS.SAR2.Zdv008_2_1_2.ZDV.Pos,100,String,%
+MNS.SAR2.Zdv008_2_1_2.ZDV.Channels,1,UInt4,9
+MNS.SAR2.Zdv008_2_1_2.ZDV.Channels,101,String,"DG.USO2_1.A1.M3:5:6:3:4:7:8:13:14, DG.USO2_1.A1.M4:25:26:27, DG.USO2_1.A4.M4:16"
+MNS.SAR2.Zdv008_2_1_2.ZDV.Channels,3,UInt4,192
+MNS.SAR2.Zdv008_2_1_2.ZDV.Ust.Set2,1,UInt4,9
+MNS.SAR2.Zdv008_2_1_2.ZDV.Ust.Set2,101,String,"Время хода вала задвижки"
+MNS.SAR2.Zdv008_2_1_2.ZDV.Ust.Set2,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(9998) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+WR_MNS.SAR2.Zdv008_2_1_2.ZDV.Ust.Set2,1,UInt4,9
+WR_MNS.SAR2.Zdv008_2_1_2.ZDV.Ust.Set2,101,String,"Время хода вала задвижки"
+WR_MNS.SAR2.Zdv008_2_1_2.ZDV.Ust.Set2,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(9998) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TR2) Signed=(True) Category=()}"
+MNS.SAR2.Zdv008_2_1_2.ZDV.RSDiag1,1,UInt4,9
+MNS.SAR2.Zdv008_2_1_2.ZDV.RSDiag1,101,String,"Диагностический регистр по интерфейсу (регистр 1)"
+MNS.SAR2.Zdv008_2_1_2.ZDV.RSDiag1,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(38640) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+WR_MNS.SAR2.Zdv008_2_1_2.ZDV.RSDiag1,1,UInt4,9
+WR_MNS.SAR2.Zdv008_2_1_2.ZDV.RSDiag1,101,String,"Диагностический регистр по интерфейсу (регистр 1)"
+WR_MNS.SAR2.Zdv008_2_1_2.ZDV.RSDiag1,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(38640) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TR2) Signed=(True) Category=()}"
+MNS.SAR2.Zdv008_2_1_2.ZDV.RSDiag2,1,UInt4,9
+MNS.SAR2.Zdv008_2_1_2.ZDV.RSDiag2,101,String,"Диагностический регистр по интерфейсу (регистр 2)"
+MNS.SAR2.Zdv008_2_1_2.ZDV.RSDiag2,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(38641) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+WR_MNS.SAR2.Zdv008_2_1_2.ZDV.RSDiag2,1,UInt4,9
+WR_MNS.SAR2.Zdv008_2_1_2.ZDV.RSDiag2,101,String,"Диагностический регистр по интерфейсу (регистр 2)"
+WR_MNS.SAR2.Zdv008_2_1_2.ZDV.RSDiag2,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(38641) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TR2) Signed=(True) Category=()}"
+MNS.SAR2.Zdv008_2_1_2.ZDV.Torque,1,UInt4,9
+MNS.SAR2.Zdv008_2_1_2.ZDV.Torque,101,String,"Текущий момент"
+MNS.SAR2.Zdv008_2_1_2.ZDV.Torque,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6433) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+WR_MNS.SAR2.Zdv008_2_1_2.ZDV.Torque,1,UInt4,9
+WR_MNS.SAR2.Zdv008_2_1_2.ZDV.Torque,101,String,"Текущий момент"
+WR_MNS.SAR2.Zdv008_2_1_2.ZDV.Torque,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6433) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TR2) Signed=(True) Category=()}"
+MNS.SAR2.Zdv008_2_1_2.ZDV.Voltage,1,UInt4,9
+MNS.SAR2.Zdv008_2_1_2.ZDV.Voltage,101,String,"Напряжение питания"
+MNS.SAR2.Zdv008_2_1_2.ZDV.Voltage,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6434) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+WR_MNS.SAR2.Zdv008_2_1_2.ZDV.Voltage,1,UInt4,9
+WR_MNS.SAR2.Zdv008_2_1_2.ZDV.Voltage,101,String,"Напряжение питания"
+WR_MNS.SAR2.Zdv008_2_1_2.ZDV.Voltage,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6434) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TR2) Signed=(True) Category=()}"
+MNS.SAR2.Zdv008_2_2_1.ZDV.ObjNum,1,UInt4,9
+MNS.SAR2.Zdv008_2_2_1.ZDV.ObjNum,101,String,"22"
+MNS.SAR2.Zdv008_2_2_1.ZDV.ObjNum,3,UInt4,192
+MNS.SAR2.Zdv008_2_2_1.ZDV.Pos,1,UInt4,9
+MNS.SAR2.Zdv008_2_2_1.ZDV.Pos,101,String,"Положение задвижки"
+MNS.SAR2.Zdv008_2_2_1.ZDV.Pos,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(7686) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.SAR2.Zdv008_2_2_1.ZDV.Pos,5100,Double,0
+MNS.SAR2.Zdv008_2_2_1.ZDV.Pos,5102,Double,1000
+MNS.SAR2.Zdv008_2_2_1.ZDV.Pos,5103,Double,0
+MNS.SAR2.Zdv008_2_2_1.ZDV.Pos,5105,Double,100
+MNS.SAR2.Zdv008_2_2_1.ZDV.Pos,100,String,%
+MNS.SAR2.Zdv008_2_2_1.ZDV.Channels,1,UInt4,9
+MNS.SAR2.Zdv008_2_2_1.ZDV.Channels,101,String,"DG.USO2_1.A2.M2:11:12:9:10:13:14, DG.USO2_1.A2.M4:10:11:12, DG.USO2_1.A4.M4:16"
+MNS.SAR2.Zdv008_2_2_1.ZDV.Channels,3,UInt4,192
+MNS.SAR2.Zdv008_2_2_1.ZDV.Ust.Set2,1,UInt4,9
+MNS.SAR2.Zdv008_2_2_1.ZDV.Ust.Set2,101,String,"Время хода вала задвижки"
+MNS.SAR2.Zdv008_2_2_1.ZDV.Ust.Set2,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(10001) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+WR_MNS.SAR2.Zdv008_2_2_1.ZDV.Ust.Set2,1,UInt4,9
+WR_MNS.SAR2.Zdv008_2_2_1.ZDV.Ust.Set2,101,String,"Время хода вала задвижки"
+WR_MNS.SAR2.Zdv008_2_2_1.ZDV.Ust.Set2,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(10001) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TR2) Signed=(True) Category=()}"
+MNS.SAR2.Zdv008_2_2_1.ZDV.RSDiag1,1,UInt4,9
+MNS.SAR2.Zdv008_2_2_1.ZDV.RSDiag1,101,String,"Диагностический регистр по интерфейсу (регистр 1)"
+MNS.SAR2.Zdv008_2_2_1.ZDV.RSDiag1,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(38642) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+WR_MNS.SAR2.Zdv008_2_2_1.ZDV.RSDiag1,1,UInt4,9
+WR_MNS.SAR2.Zdv008_2_2_1.ZDV.RSDiag1,101,String,"Диагностический регистр по интерфейсу (регистр 1)"
+WR_MNS.SAR2.Zdv008_2_2_1.ZDV.RSDiag1,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(38642) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TR2) Signed=(True) Category=()}"
+MNS.SAR2.Zdv008_2_2_1.ZDV.RSDiag2,1,UInt4,9
+MNS.SAR2.Zdv008_2_2_1.ZDV.RSDiag2,101,String,"Диагностический регистр по интерфейсу (регистр 2)"
+MNS.SAR2.Zdv008_2_2_1.ZDV.RSDiag2,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(38643) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+WR_MNS.SAR2.Zdv008_2_2_1.ZDV.RSDiag2,1,UInt4,9
+WR_MNS.SAR2.Zdv008_2_2_1.ZDV.RSDiag2,101,String,"Диагностический регистр по интерфейсу (регистр 2)"
+WR_MNS.SAR2.Zdv008_2_2_1.ZDV.RSDiag2,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(38643) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TR2) Signed=(True) Category=()}"
+MNS.SAR2.Zdv008_2_2_1.ZDV.Torque,1,UInt4,9
+MNS.SAR2.Zdv008_2_2_1.ZDV.Torque,101,String,"Текущий момент"
+MNS.SAR2.Zdv008_2_2_1.ZDV.Torque,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6435) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+WR_MNS.SAR2.Zdv008_2_2_1.ZDV.Torque,1,UInt4,9
+WR_MNS.SAR2.Zdv008_2_2_1.ZDV.Torque,101,String,"Текущий момент"
+WR_MNS.SAR2.Zdv008_2_2_1.ZDV.Torque,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6435) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TR2) Signed=(True) Category=()}"
+MNS.SAR2.Zdv008_2_2_1.ZDV.Voltage,1,UInt4,9
+MNS.SAR2.Zdv008_2_2_1.ZDV.Voltage,101,String,"Напряжение питания"
+MNS.SAR2.Zdv008_2_2_1.ZDV.Voltage,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6436) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+WR_MNS.SAR2.Zdv008_2_2_1.ZDV.Voltage,1,UInt4,9
+WR_MNS.SAR2.Zdv008_2_2_1.ZDV.Voltage,101,String,"Напряжение питания"
+WR_MNS.SAR2.Zdv008_2_2_1.ZDV.Voltage,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6436) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TR2) Signed=(True) Category=()}"
+MNS.SAR2.Zdv008_2_2_2.ZDV.ObjNum,1,UInt4,9
+MNS.SAR2.Zdv008_2_2_2.ZDV.ObjNum,101,String,"23"
+MNS.SAR2.Zdv008_2_2_2.ZDV.ObjNum,3,UInt4,192
+MNS.SAR2.Zdv008_2_2_2.ZDV.Pos,1,UInt4,9
+MNS.SAR2.Zdv008_2_2_2.ZDV.Pos,101,String,"Положение задвижки"
+MNS.SAR2.Zdv008_2_2_2.ZDV.Pos,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(7687) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.SAR2.Zdv008_2_2_2.ZDV.Pos,5100,Double,0
+MNS.SAR2.Zdv008_2_2_2.ZDV.Pos,5102,Double,1000
+MNS.SAR2.Zdv008_2_2_2.ZDV.Pos,5103,Double,0
+MNS.SAR2.Zdv008_2_2_2.ZDV.Pos,5105,Double,100
+MNS.SAR2.Zdv008_2_2_2.ZDV.Pos,100,String,%
+MNS.SAR2.Zdv008_2_2_2.ZDV.Channels,1,UInt4,9
+MNS.SAR2.Zdv008_2_2_2.ZDV.Channels,101,String,"DG.USO2_1.A2.M3:9:10:7:8:11:12:23:24, DG.USO2_1.A2.M4:25:26:27, DG.USO2_1.A4.M4:16"
+MNS.SAR2.Zdv008_2_2_2.ZDV.Channels,3,UInt4,192
+MNS.SAR2.Zdv008_2_2_2.ZDV.Ust.Set2,1,UInt4,9
+MNS.SAR2.Zdv008_2_2_2.ZDV.Ust.Set2,101,String,"Время хода вала задвижки"
+MNS.SAR2.Zdv008_2_2_2.ZDV.Ust.Set2,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(10004) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+WR_MNS.SAR2.Zdv008_2_2_2.ZDV.Ust.Set2,1,UInt4,9
+WR_MNS.SAR2.Zdv008_2_2_2.ZDV.Ust.Set2,101,String,"Время хода вала задвижки"
+WR_MNS.SAR2.Zdv008_2_2_2.ZDV.Ust.Set2,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(10004) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TR2) Signed=(True) Category=()}"
+MNS.SAR2.Zdv008_2_2_2.ZDV.RSDiag1,1,UInt4,9
+MNS.SAR2.Zdv008_2_2_2.ZDV.RSDiag1,101,String,"Диагностический регистр по интерфейсу (регистр 1)"
+MNS.SAR2.Zdv008_2_2_2.ZDV.RSDiag1,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(38644) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+WR_MNS.SAR2.Zdv008_2_2_2.ZDV.RSDiag1,1,UInt4,9
+WR_MNS.SAR2.Zdv008_2_2_2.ZDV.RSDiag1,101,String,"Диагностический регистр по интерфейсу (регистр 1)"
+WR_MNS.SAR2.Zdv008_2_2_2.ZDV.RSDiag1,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(38644) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TR2) Signed=(True) Category=()}"
+MNS.SAR2.Zdv008_2_2_2.ZDV.RSDiag2,1,UInt4,9
+MNS.SAR2.Zdv008_2_2_2.ZDV.RSDiag2,101,String,"Диагностический регистр по интерфейсу (регистр 2)"
+MNS.SAR2.Zdv008_2_2_2.ZDV.RSDiag2,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(38645) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+WR_MNS.SAR2.Zdv008_2_2_2.ZDV.RSDiag2,1,UInt4,9
+WR_MNS.SAR2.Zdv008_2_2_2.ZDV.RSDiag2,101,String,"Диагностический регистр по интерфейсу (регистр 2)"
+WR_MNS.SAR2.Zdv008_2_2_2.ZDV.RSDiag2,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(38645) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TR2) Signed=(True) Category=()}"
+MNS.SAR2.Zdv008_2_2_2.ZDV.Torque,1,UInt4,9
+MNS.SAR2.Zdv008_2_2_2.ZDV.Torque,101,String,"Текущий момент"
+MNS.SAR2.Zdv008_2_2_2.ZDV.Torque,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6437) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+WR_MNS.SAR2.Zdv008_2_2_2.ZDV.Torque,1,UInt4,9
+WR_MNS.SAR2.Zdv008_2_2_2.ZDV.Torque,101,String,"Текущий момент"
+WR_MNS.SAR2.Zdv008_2_2_2.ZDV.Torque,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6437) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TR2) Signed=(True) Category=()}"
+MNS.SAR2.Zdv008_2_2_2.ZDV.Voltage,1,UInt4,9
+MNS.SAR2.Zdv008_2_2_2.ZDV.Voltage,101,String,"Напряжение питания"
+MNS.SAR2.Zdv008_2_2_2.ZDV.Voltage,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6438) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+WR_MNS.SAR2.Zdv008_2_2_2.ZDV.Voltage,1,UInt4,9
+WR_MNS.SAR2.Zdv008_2_2_2.ZDV.Voltage,101,String,"Напряжение питания"
+WR_MNS.SAR2.Zdv008_2_2_2.ZDV.Voltage,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6438) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TR2) Signed=(True) Category=()}"
+MNS.SOU.Zdv024_1.ZDV.ObjNum,1,UInt4,9
+MNS.SOU.Zdv024_1.ZDV.ObjNum,101,String,"24"
+MNS.SOU.Zdv024_1.ZDV.ObjNum,3,UInt4,192
+MNS.SOU.Zdv024_1.ZDV.Pos,1,UInt4,9
+MNS.SOU.Zdv024_1.ZDV.Pos,101,String,"Положение задвижки"
+MNS.SOU.Zdv024_1.ZDV.Pos,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(7688) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.SOU.Zdv024_1.ZDV.Pos,5100,Double,0
+MNS.SOU.Zdv024_1.ZDV.Pos,5102,Double,1000
+MNS.SOU.Zdv024_1.ZDV.Pos,5103,Double,0
+MNS.SOU.Zdv024_1.ZDV.Pos,5105,Double,100
+MNS.SOU.Zdv024_1.ZDV.Pos,100,String,%
+MNS.SOU.Zdv024_1.ZDV.Channels,1,UInt4,9
+MNS.SOU.Zdv024_1.ZDV.Channels,101,String,"DG.USO2_1.A1.M1:20:21:18:19:24:22:23, DG.USO2_1.A1.M4:1:2:3, DG.USO2_1.A2.M7:0"
+MNS.SOU.Zdv024_1.ZDV.Channels,3,UInt4,192
+MNS.SOU.Zdv024_1.ZDV.Ust.Set2,1,UInt4,9
+MNS.SOU.Zdv024_1.ZDV.Ust.Set2,101,String,"Время хода вала задвижки"
+MNS.SOU.Zdv024_1.ZDV.Ust.Set2,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(10007) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+WR_MNS.SOU.Zdv024_1.ZDV.Ust.Set2,1,UInt4,9
+WR_MNS.SOU.Zdv024_1.ZDV.Ust.Set2,101,String,"Время хода вала задвижки"
+WR_MNS.SOU.Zdv024_1.ZDV.Ust.Set2,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(10007) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TR2) Signed=(True) Category=()}"
+MNS.SOU.Zdv024_1.ZDV.RSDiag1,1,UInt4,9
+MNS.SOU.Zdv024_1.ZDV.RSDiag1,101,String,"Диагностический регистр по интерфейсу (регистр 1)"
+MNS.SOU.Zdv024_1.ZDV.RSDiag1,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(38646) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+WR_MNS.SOU.Zdv024_1.ZDV.RSDiag1,1,UInt4,9
+WR_MNS.SOU.Zdv024_1.ZDV.RSDiag1,101,String,"Диагностический регистр по интерфейсу (регистр 1)"
+WR_MNS.SOU.Zdv024_1.ZDV.RSDiag1,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(38646) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TR2) Signed=(True) Category=()}"
+MNS.SOU.Zdv024_1.ZDV.RSDiag2,1,UInt4,9
+MNS.SOU.Zdv024_1.ZDV.RSDiag2,101,String,"Диагностический регистр по интерфейсу (регистр 2)"
+MNS.SOU.Zdv024_1.ZDV.RSDiag2,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(38647) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+WR_MNS.SOU.Zdv024_1.ZDV.RSDiag2,1,UInt4,9
+WR_MNS.SOU.Zdv024_1.ZDV.RSDiag2,101,String,"Диагностический регистр по интерфейсу (регистр 2)"
+WR_MNS.SOU.Zdv024_1.ZDV.RSDiag2,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(38647) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TR2) Signed=(True) Category=()}"
+MNS.SOU.Zdv024_1.ZDV.Torque,1,UInt4,9
+MNS.SOU.Zdv024_1.ZDV.Torque,101,String,"Текущий момент"
+MNS.SOU.Zdv024_1.ZDV.Torque,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6439) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+WR_MNS.SOU.Zdv024_1.ZDV.Torque,1,UInt4,9
+WR_MNS.SOU.Zdv024_1.ZDV.Torque,101,String,"Текущий момент"
+WR_MNS.SOU.Zdv024_1.ZDV.Torque,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6439) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TR2) Signed=(True) Category=()}"
+MNS.SOU.Zdv024_1.ZDV.Voltage,1,UInt4,9
+MNS.SOU.Zdv024_1.ZDV.Voltage,101,String,"Напряжение питания"
+MNS.SOU.Zdv024_1.ZDV.Voltage,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6440) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+WR_MNS.SOU.Zdv024_1.ZDV.Voltage,1,UInt4,9
+WR_MNS.SOU.Zdv024_1.ZDV.Voltage,101,String,"Напряжение питания"
+WR_MNS.SOU.Zdv024_1.ZDV.Voltage,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6440) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TR2) Signed=(True) Category=()}"
+MNS.SOU.Zdv024_2.ZDV.ObjNum,1,UInt4,9
+MNS.SOU.Zdv024_2.ZDV.ObjNum,101,String,"25"
+MNS.SOU.Zdv024_2.ZDV.ObjNum,3,UInt4,192
+MNS.SOU.Zdv024_2.ZDV.Pos,1,UInt4,9
+MNS.SOU.Zdv024_2.ZDV.Pos,101,String,"Положение задвижки"
+MNS.SOU.Zdv024_2.ZDV.Pos,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(7689) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.SOU.Zdv024_2.ZDV.Pos,5100,Double,0
+MNS.SOU.Zdv024_2.ZDV.Pos,5102,Double,1000
+MNS.SOU.Zdv024_2.ZDV.Pos,5103,Double,0
+MNS.SOU.Zdv024_2.ZDV.Pos,5105,Double,100
+MNS.SOU.Zdv024_2.ZDV.Pos,100,String,%
+MNS.SOU.Zdv024_2.ZDV.Channels,1,UInt4,9
+MNS.SOU.Zdv024_2.ZDV.Channels,101,String,"DG.USO2_1.A2.M1:24:25:22:23:28:26:27, DG.USO2_1.A2.M4:1:2:3, DG.USO2_1.A3.M6:0"
+MNS.SOU.Zdv024_2.ZDV.Channels,3,UInt4,192
+MNS.SOU.Zdv024_2.ZDV.Ust.Set2,1,UInt4,9
+MNS.SOU.Zdv024_2.ZDV.Ust.Set2,101,String,"Время хода вала задвижки"
+MNS.SOU.Zdv024_2.ZDV.Ust.Set2,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(10010) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+WR_MNS.SOU.Zdv024_2.ZDV.Ust.Set2,1,UInt4,9
+WR_MNS.SOU.Zdv024_2.ZDV.Ust.Set2,101,String,"Время хода вала задвижки"
+WR_MNS.SOU.Zdv024_2.ZDV.Ust.Set2,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(10010) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TR2) Signed=(True) Category=()}"
+MNS.SOU.Zdv024_2.ZDV.RSDiag1,1,UInt4,9
+MNS.SOU.Zdv024_2.ZDV.RSDiag1,101,String,"Диагностический регистр по интерфейсу (регистр 1)"
+MNS.SOU.Zdv024_2.ZDV.RSDiag1,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(38648) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+WR_MNS.SOU.Zdv024_2.ZDV.RSDiag1,1,UInt4,9
+WR_MNS.SOU.Zdv024_2.ZDV.RSDiag1,101,String,"Диагностический регистр по интерфейсу (регистр 1)"
+WR_MNS.SOU.Zdv024_2.ZDV.RSDiag1,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(38648) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TR2) Signed=(True) Category=()}"
+MNS.SOU.Zdv024_2.ZDV.RSDiag2,1,UInt4,9
+MNS.SOU.Zdv024_2.ZDV.RSDiag2,101,String,"Диагностический регистр по интерфейсу (регистр 2)"
+MNS.SOU.Zdv024_2.ZDV.RSDiag2,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(38649) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+WR_MNS.SOU.Zdv024_2.ZDV.RSDiag2,1,UInt4,9
+WR_MNS.SOU.Zdv024_2.ZDV.RSDiag2,101,String,"Диагностический регистр по интерфейсу (регистр 2)"
+WR_MNS.SOU.Zdv024_2.ZDV.RSDiag2,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(38649) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TR2) Signed=(True) Category=()}"
+MNS.SOU.Zdv024_2.ZDV.Torque,1,UInt4,9
+MNS.SOU.Zdv024_2.ZDV.Torque,101,String,"Текущий момент"
+MNS.SOU.Zdv024_2.ZDV.Torque,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6441) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+WR_MNS.SOU.Zdv024_2.ZDV.Torque,1,UInt4,9
+WR_MNS.SOU.Zdv024_2.ZDV.Torque,101,String,"Текущий момент"
+WR_MNS.SOU.Zdv024_2.ZDV.Torque,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6441) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TR2) Signed=(True) Category=()}"
+MNS.SOU.Zdv024_2.ZDV.Voltage,1,UInt4,9
+MNS.SOU.Zdv024_2.ZDV.Voltage,101,String,"Напряжение питания"
+MNS.SOU.Zdv024_2.ZDV.Voltage,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6442) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+WR_MNS.SOU.Zdv024_2.ZDV.Voltage,1,UInt4,9
+WR_MNS.SOU.Zdv024_2.ZDV.Voltage,101,String,"Напряжение питания"
+WR_MNS.SOU.Zdv024_2.ZDV.Voltage,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6442) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TR2) Signed=(True) Category=()}"

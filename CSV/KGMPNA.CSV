@@ -1,0 +1,960 @@
+MNS.MNA11.KGMPNA.ObjName,1, UInt4, 9
+MNS.MNA11.KGMPNA.ObjName,101,String,"Карта готовности МНА №11"
+MNS.MNA11.KGMPNA.ObjName,3,UInt4,192
+MNS.MNA11.KGMPNA.F,1, UInt4, 5
+MNS.MNA11.KGMPNA.F,6,Float,1000
+MNS.MNA11.KGMPNA.F,101,String,"Есть параметр готовности"
+MNS.MNA11.KGMPNA.F,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6794) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(0) Category=()}"
+MNS.MNA11.KGMPNA.M,1, UInt4, 5
+MNS.MNA11.KGMPNA.M,6,Float,1000
+MNS.MNA11.KGMPNA.M,101,String,"Есть маска"
+MNS.MNA11.KGMPNA.M,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6795) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(0) Category=()}"
+MNS.MNA11.KGMPNA.P,1, UInt4, 5
+MNS.MNA11.KGMPNA.P,6,Float,1000
+MNS.MNA11.KGMPNA.P,101,String,"Нет готовности"
+MNS.MNA11.KGMPNA.P,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6796) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(0) Category=()}"
+MNS.MNA11.KGMPNA.M.Mask1,1, UInt4, 5
+MNS.MNA11.KGMPNA.M.Mask1,6,Float,1000
+MNS.MNA11.KGMPNA.M.Mask1,101,String,"Отсутствие не деблокированных общестанционных защит, требующих отключения. Маска"
+MNS.MNA11.KGMPNA.M.Mask1,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(7441) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(0) Category=()}"
+MNS.MNA11.KGMPNA.P.P1,1, UInt4, 5
+MNS.MNA11.KGMPNA.P.P1,6,Float,1000
+MNS.MNA11.KGMPNA.P.P1,101,String,"Отсутствие не деблокированных общестанционных защит, требующих отключения"
+MNS.MNA11.KGMPNA.P.P1,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6651) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(0) Category=()}"
+MNS.MNA11.KGMPNA.F.F1,1, UInt4, 5
+MNS.MNA11.KGMPNA.F.F1,6,Float,1000
+MNS.MNA11.KGMPNA.F.F1,101,String,"Отсутствие не деблокированных общестанционных защит, требующих отключения. Есть параметр готовности"
+MNS.MNA11.KGMPNA.F.F1,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6654) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(0) Category=()}"
+MNS.MNA11.KGMPNA.M.Mask2,1, UInt4, 5
+MNS.MNA11.KGMPNA.M.Mask2,6,Float,1000
+MNS.MNA11.KGMPNA.M.Mask2,101,String,"Отсутствие не деблокированных агрегатных защит. Маска"
+MNS.MNA11.KGMPNA.M.Mask2,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(7441) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(1) Category=()}"
+MNS.MNA11.KGMPNA.P.P2,1, UInt4, 5
+MNS.MNA11.KGMPNA.P.P2,6,Float,1000
+MNS.MNA11.KGMPNA.P.P2,101,String,"Отсутствие не деблокированных агрегатных защит"
+MNS.MNA11.KGMPNA.P.P2,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6651) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(1) Category=()}"
+MNS.MNA11.KGMPNA.F.F2,1, UInt4, 5
+MNS.MNA11.KGMPNA.F.F2,6,Float,1000
+MNS.MNA11.KGMPNA.F.F2,101,String,"Отсутствие не деблокированных агрегатных защит. Есть параметр готовности"
+MNS.MNA11.KGMPNA.F.F2,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6654) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(1) Category=()}"
+MNS.MNA11.KGMPNA.M.Mask3,1, UInt4, 5
+MNS.MNA11.KGMPNA.M.Mask3,6,Float,1000
+MNS.MNA11.KGMPNA.M.Mask3,101,String,"Отсутствие режима «ремонтный». Маска"
+MNS.MNA11.KGMPNA.M.Mask3,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(7441) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(2) Category=()}"
+MNS.MNA11.KGMPNA.P.P3,1, UInt4, 5
+MNS.MNA11.KGMPNA.P.P3,6,Float,1000
+MNS.MNA11.KGMPNA.P.P3,101,String,"Отсутствие режима «ремонтный»"
+MNS.MNA11.KGMPNA.P.P3,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6651) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(2) Category=()}"
+MNS.MNA11.KGMPNA.F.F3,1, UInt4, 5
+MNS.MNA11.KGMPNA.F.F3,6,Float,1000
+MNS.MNA11.KGMPNA.F.F3,101,String,"Отсутствие режима «ремонтный». Есть параметр готовности"
+MNS.MNA11.KGMPNA.F.F3,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6654) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(2) Category=()}"
+MNS.MNA11.KGMPNA.M.Mask9,1, UInt4, 5
+MNS.MNA11.KGMPNA.M.Mask9,6,Float,1000
+MNS.MNA11.KGMPNA.M.Mask9,101,String,"Наличие напряжения 6 кВ в двигательной ячейке ЗРУ. Маска"
+MNS.MNA11.KGMPNA.M.Mask9,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(7441) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(8) Category=()}"
+MNS.MNA11.KGMPNA.P.P9,1, UInt4, 5
+MNS.MNA11.KGMPNA.P.P9,6,Float,1000
+MNS.MNA11.KGMPNA.P.P9,101,String,"Наличие напряжения 6 кВ в двигательной ячейке ЗРУ"
+MNS.MNA11.KGMPNA.P.P9,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6651) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(8) Category=()}"
+MNS.MNA11.KGMPNA.F.F9,1, UInt4, 5
+MNS.MNA11.KGMPNA.F.F9,6,Float,1000
+MNS.MNA11.KGMPNA.F.F9,101,String,"Наличие напряжения 6 кВ в двигательной ячейке ЗРУ. Есть параметр готовности"
+MNS.MNA11.KGMPNA.F.F9,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6654) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(8) Category=()}"
+MNS.MNA11.KGMPNA.M.Mask10,1, UInt4, 5
+MNS.MNA11.KGMPNA.M.Mask10,6,Float,1000
+MNS.MNA11.KGMPNA.M.Mask10,101,String,"Исправность цепей включения ВВ двигателя. Маска"
+MNS.MNA11.KGMPNA.M.Mask10,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(7441) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(9) Category=()}"
+MNS.MNA11.KGMPNA.P.P10,1, UInt4, 5
+MNS.MNA11.KGMPNA.P.P10,6,Float,1000
+MNS.MNA11.KGMPNA.P.P10,101,String,"Исправность цепей включения ВВ двигателя"
+MNS.MNA11.KGMPNA.P.P10,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6651) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(9) Category=()}"
+MNS.MNA11.KGMPNA.F.F10,1, UInt4, 5
+MNS.MNA11.KGMPNA.F.F10,6,Float,1000
+MNS.MNA11.KGMPNA.F.F10,101,String,"Исправность цепей включения ВВ двигателя. Есть параметр готовности"
+MNS.MNA11.KGMPNA.F.F10,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6654) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(9) Category=()}"
+MNS.MNA11.KGMPNA.M.Mask11,1, UInt4, 5
+MNS.MNA11.KGMPNA.M.Mask11,6,Float,1000
+MNS.MNA11.KGMPNA.M.Mask11,101,String,"Исправность цепей отключения ВВ двигателя. Маска"
+MNS.MNA11.KGMPNA.M.Mask11,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(7441) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(10) Category=()}"
+MNS.MNA11.KGMPNA.P.P11,1, UInt4, 5
+MNS.MNA11.KGMPNA.P.P11,6,Float,1000
+MNS.MNA11.KGMPNA.P.P11,101,String,"Исправность цепей отключения ВВ двигателя"
+MNS.MNA11.KGMPNA.P.P11,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6651) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(10) Category=()}"
+MNS.MNA11.KGMPNA.F.F11,1, UInt4, 5
+MNS.MNA11.KGMPNA.F.F11,6,Float,1000
+MNS.MNA11.KGMPNA.F.F11,101,String,"Исправность цепей отключения ВВ двигателя. Есть параметр готовности"
+MNS.MNA11.KGMPNA.F.F11,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6654) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(10) Category=()}"
+MNS.MNA11.KGMPNA.M.Mask14,1, UInt4, 5
+MNS.MNA11.KGMPNA.M.Mask14,6,Float,1000
+MNS.MNA11.KGMPNA.M.Mask14,101,String,"Исправность цепей контроля положения ВВ двигателя. Маска"
+MNS.MNA11.KGMPNA.M.Mask14,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(7441) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(13) Category=()}"
+MNS.MNA11.KGMPNA.P.P14,1, UInt4, 5
+MNS.MNA11.KGMPNA.P.P14,6,Float,1000
+MNS.MNA11.KGMPNA.P.P14,101,String,"Исправность цепей контроля положения ВВ двигателя"
+MNS.MNA11.KGMPNA.P.P14,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6651) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(13) Category=()}"
+MNS.MNA11.KGMPNA.F.F14,1, UInt4, 5
+MNS.MNA11.KGMPNA.F.F14,6,Float,1000
+MNS.MNA11.KGMPNA.F.F14,101,String,"Исправность цепей контроля положения ВВ двигателя. Есть параметр готовности"
+MNS.MNA11.KGMPNA.F.F14,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6654) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(13) Category=()}"
+MNS.MNA11.KGMPNA.M.Mask20,1, UInt4, 5
+MNS.MNA11.KGMPNA.M.Mask20,6,Float,1000
+MNS.MNA11.KGMPNA.M.Mask20,101,String,"Готовность входного коллектора. Маска"
+MNS.MNA11.KGMPNA.M.Mask20,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(7442) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(3) Category=()}"
+MNS.MNA11.KGMPNA.P.P20,1, UInt4, 5
+MNS.MNA11.KGMPNA.P.P20,6,Float,1000
+MNS.MNA11.KGMPNA.P.P20,101,String,"Готовность входного коллектора"
+MNS.MNA11.KGMPNA.P.P20,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6652) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(3) Category=()}"
+MNS.MNA11.KGMPNA.F.F20,1, UInt4, 5
+MNS.MNA11.KGMPNA.F.F20,6,Float,1000
+MNS.MNA11.KGMPNA.F.F20,101,String,"Готовность входного коллектора. Есть параметр готовности"
+MNS.MNA11.KGMPNA.F.F20,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6655) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(3) Category=()}"
+MNS.MNA11.KGMPNA.M.Mask21,1, UInt4, 5
+MNS.MNA11.KGMPNA.M.Mask21,6,Float,1000
+MNS.MNA11.KGMPNA.M.Mask21,101,String,"Готовность выходного коллектора. Маска"
+MNS.MNA11.KGMPNA.M.Mask21,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(7442) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(4) Category=()}"
+MNS.MNA11.KGMPNA.P.P21,1, UInt4, 5
+MNS.MNA11.KGMPNA.P.P21,6,Float,1000
+MNS.MNA11.KGMPNA.P.P21,101,String,"Готовность выходного коллектора"
+MNS.MNA11.KGMPNA.P.P21,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6652) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(4) Category=()}"
+MNS.MNA11.KGMPNA.F.F21,1, UInt4, 5
+MNS.MNA11.KGMPNA.F.F21,6,Float,1000
+MNS.MNA11.KGMPNA.F.F21,101,String,"Готовность выходного коллектора. Есть параметр готовности"
+MNS.MNA11.KGMPNA.F.F21,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6655) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(4) Category=()}"
+MNS.MNA11.KGMPNA.M.Mask22,1, UInt4, 5
+MNS.MNA11.KGMPNA.M.Mask22,6,Float,1000
+MNS.MNA11.KGMPNA.M.Mask22,101,String,"Отсутствие высокого давления на выходе МНС. Маска"
+MNS.MNA11.KGMPNA.M.Mask22,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(7442) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(5) Category=()}"
+MNS.MNA11.KGMPNA.P.P22,1, UInt4, 5
+MNS.MNA11.KGMPNA.P.P22,6,Float,1000
+MNS.MNA11.KGMPNA.P.P22,101,String,"Отсутствие высокого давления на выходе МНС"
+MNS.MNA11.KGMPNA.P.P22,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6652) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(5) Category=()}"
+MNS.MNA11.KGMPNA.F.F22,1, UInt4, 5
+MNS.MNA11.KGMPNA.F.F22,6,Float,1000
+MNS.MNA11.KGMPNA.F.F22,101,String,"Отсутствие высокого давления на выходе МНС. Есть параметр готовности"
+MNS.MNA11.KGMPNA.F.F22,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6655) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(5) Category=()}"
+MNS.MNA11.KGMPNA.M.Mask23,1, UInt4, 5
+MNS.MNA11.KGMPNA.M.Mask23,6,Float,1000
+MNS.MNA11.KGMPNA.M.Mask23,101,String,"Приёмная агрегатная задвижка открыта. Маска"
+MNS.MNA11.KGMPNA.M.Mask23,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(7442) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(6) Category=()}"
+MNS.MNA11.KGMPNA.P.P23,1, UInt4, 5
+MNS.MNA11.KGMPNA.P.P23,6,Float,1000
+MNS.MNA11.KGMPNA.P.P23,101,String,"Приёмная агрегатная задвижка открыта"
+MNS.MNA11.KGMPNA.P.P23,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6652) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(6) Category=()}"
+MNS.MNA11.KGMPNA.F.F23,1, UInt4, 5
+MNS.MNA11.KGMPNA.F.F23,6,Float,1000
+MNS.MNA11.KGMPNA.F.F23,101,String,"Приёмная агрегатная задвижка открыта. Есть параметр готовности"
+MNS.MNA11.KGMPNA.F.F23,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6655) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(6) Category=()}"
+MNS.MNA11.KGMPNA.M.Mask25,1, UInt4, 5
+MNS.MNA11.KGMPNA.M.Mask25,6,Float,1000
+MNS.MNA11.KGMPNA.M.Mask25,101,String,"Выкидная агрегатная задвижка открыта при выбранной программе пуска №1. Маска"
+MNS.MNA11.KGMPNA.M.Mask25,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(7442) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(8) Category=()}"
+MNS.MNA11.KGMPNA.P.P25,1, UInt4, 5
+MNS.MNA11.KGMPNA.P.P25,6,Float,1000
+MNS.MNA11.KGMPNA.P.P25,101,String,"Выкидная агрегатная задвижка открыта при выбранной программе пуска №1"
+MNS.MNA11.KGMPNA.P.P25,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6652) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(8) Category=()}"
+MNS.MNA11.KGMPNA.F.F25,1, UInt4, 5
+MNS.MNA11.KGMPNA.F.F25,6,Float,1000
+MNS.MNA11.KGMPNA.F.F25,101,String,"Выкидная агрегатная задвижка открыта при выбранной программе пуска №1. Есть параметр готовности"
+MNS.MNA11.KGMPNA.F.F25,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6655) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(8) Category=()}"
+MNS.MNA11.KGMPNA.M.Mask26,1, UInt4, 5
+MNS.MNA11.KGMPNA.M.Mask26,6,Float,1000
+MNS.MNA11.KGMPNA.M.Mask26,101,String,"Выкидная агрегатная задвижка закрыта при выбранной программе пуска №2. Маска"
+MNS.MNA11.KGMPNA.M.Mask26,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(7442) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(9) Category=()}"
+MNS.MNA11.KGMPNA.P.P26,1, UInt4, 5
+MNS.MNA11.KGMPNA.P.P26,6,Float,1000
+MNS.MNA11.KGMPNA.P.P26,101,String,"Выкидная агрегатная задвижка закрыта при выбранной программе пуска №2"
+MNS.MNA11.KGMPNA.P.P26,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6652) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(9) Category=()}"
+MNS.MNA11.KGMPNA.F.F26,1, UInt4, 5
+MNS.MNA11.KGMPNA.F.F26,6,Float,1000
+MNS.MNA11.KGMPNA.F.F26,101,String,"Выкидная агрегатная задвижка закрыта при выбранной программе пуска №2. Есть параметр готовности"
+MNS.MNA11.KGMPNA.F.F26,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6655) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(9) Category=()}"
+MNS.MNA11.KGMPNA.M.Mask27,1, UInt4, 5
+MNS.MNA11.KGMPNA.M.Mask27,6,Float,1000
+MNS.MNA11.KGMPNA.M.Mask27,101,String,"Отсутствие аварии приёмной и выкидной агрегатных задвижек. Маска"
+MNS.MNA11.KGMPNA.M.Mask27,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(7442) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(10) Category=()}"
+MNS.MNA11.KGMPNA.P.P27,1, UInt4, 5
+MNS.MNA11.KGMPNA.P.P27,6,Float,1000
+MNS.MNA11.KGMPNA.P.P27,101,String,"Отсутствие аварии приёмной и выкидной агрегатных задвижек"
+MNS.MNA11.KGMPNA.P.P27,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6652) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(10) Category=()}"
+MNS.MNA11.KGMPNA.F.F27,1, UInt4, 5
+MNS.MNA11.KGMPNA.F.F27,6,Float,1000
+MNS.MNA11.KGMPNA.F.F27,101,String,"Отсутствие аварии приёмной и выкидной агрегатных задвижек. Есть параметр готовности"
+MNS.MNA11.KGMPNA.F.F27,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6655) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(10) Category=()}"
+MNS.MNA11.KGMPNA.M.Mask28,1, UInt4, 5
+MNS.MNA11.KGMPNA.M.Mask28,6,Float,1000
+MNS.MNA11.KGMPNA.M.Mask28,101,String,"Наличие напряжения в цепях управления приёмной и выкидной агрегатных задвижек. Маска"
+MNS.MNA11.KGMPNA.M.Mask28,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(7442) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(11) Category=()}"
+MNS.MNA11.KGMPNA.P.P28,1, UInt4, 5
+MNS.MNA11.KGMPNA.P.P28,6,Float,1000
+MNS.MNA11.KGMPNA.P.P28,101,String,"Наличие напряжения в цепях управления приёмной и выкидной агрегатных задвижек"
+MNS.MNA11.KGMPNA.P.P28,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6652) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(11) Category=()}"
+MNS.MNA11.KGMPNA.F.F28,1, UInt4, 5
+MNS.MNA11.KGMPNA.F.F28,6,Float,1000
+MNS.MNA11.KGMPNA.F.F28,101,String,"Наличие напряжения в цепях управления приёмной и выкидной агрегатных задвижек. Есть параметр готовности"
+MNS.MNA11.KGMPNA.F.F28,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6655) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(11) Category=()}"
+MNS.MNA11.KGMPNA.M.Mask31,1, UInt4, 5
+MNS.MNA11.KGMPNA.M.Mask31,6,Float,1000
+MNS.MNA11.KGMPNA.M.Mask31,101,String,"Отсутствие показаний вибрации у неработающего МНА. Маска"
+MNS.MNA11.KGMPNA.M.Mask31,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(7442) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(14) Category=()}"
+MNS.MNA11.KGMPNA.P.P31,1, UInt4, 5
+MNS.MNA11.KGMPNA.P.P31,6,Float,1000
+MNS.MNA11.KGMPNA.P.P31,101,String,"Отсутствие показаний вибрации у неработающего МНА"
+MNS.MNA11.KGMPNA.P.P31,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6652) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(14) Category=()}"
+MNS.MNA11.KGMPNA.F.F31,1, UInt4, 5
+MNS.MNA11.KGMPNA.F.F31,6,Float,1000
+MNS.MNA11.KGMPNA.F.F31,101,String,"Отсутствие показаний вибрации у неработающего МНА. Есть параметр готовности"
+MNS.MNA11.KGMPNA.F.F31,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6655) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(14) Category=()}"
+MNS.MNA11.KGMPNA.M.Mask32,1, UInt4, 5
+MNS.MNA11.KGMPNA.M.Mask32,6,Float,1000
+MNS.MNA11.KGMPNA.M.Mask32,101,String,"Температура масла маслосистемы в норме (на выходе охладителя). Маска"
+MNS.MNA11.KGMPNA.M.Mask32,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(7442) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(15) Category=()}"
+MNS.MNA11.KGMPNA.P.P32,1, UInt4, 5
+MNS.MNA11.KGMPNA.P.P32,6,Float,1000
+MNS.MNA11.KGMPNA.P.P32,101,String,"Температура масла маслосистемы в норме (на выходе охладителя)"
+MNS.MNA11.KGMPNA.P.P32,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6652) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(15) Category=()}"
+MNS.MNA11.KGMPNA.F.F32,1, UInt4, 5
+MNS.MNA11.KGMPNA.F.F32,6,Float,1000
+MNS.MNA11.KGMPNA.F.F32,101,String,"Температура масла маслосистемы в норме (на выходе охладителя). Есть параметр готовности"
+MNS.MNA11.KGMPNA.F.F32,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6655) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(15) Category=()}"
+MNS.MNA11.KGMPNA.M.Mask33,1, UInt4, 5
+MNS.MNA11.KGMPNA.M.Mask33,6,Float,1000
+MNS.MNA11.KGMPNA.M.Mask33,101,String,"Уровень масла в маслобаке в норме. Маска"
+MNS.MNA11.KGMPNA.M.Mask33,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(7443) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(0) Category=()}"
+MNS.MNA11.KGMPNA.P.P33,1, UInt4, 5
+MNS.MNA11.KGMPNA.P.P33,6,Float,1000
+MNS.MNA11.KGMPNA.P.P33,101,String,"Уровень масла в маслобаке в норме"
+MNS.MNA11.KGMPNA.P.P33,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6653) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(0) Category=()}"
+MNS.MNA11.KGMPNA.F.F33,1, UInt4, 5
+MNS.MNA11.KGMPNA.F.F33,6,Float,1000
+MNS.MNA11.KGMPNA.F.F33,101,String,"Уровень масла в маслобаке в норме. Есть параметр готовности"
+MNS.MNA11.KGMPNA.F.F33,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6656) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(0) Category=()}"
+MNS.MNA12.KGMPNA.ObjName,1, UInt4, 9
+MNS.MNA12.KGMPNA.ObjName,101,String,"Карта готовности МНА №12"
+MNS.MNA12.KGMPNA.ObjName,3,UInt4,192
+MNS.MNA12.KGMPNA.F,1, UInt4, 5
+MNS.MNA12.KGMPNA.F,6,Float,1000
+MNS.MNA12.KGMPNA.F,101,String,"Есть параметр готовности"
+MNS.MNA12.KGMPNA.F,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6794) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(1) Category=()}"
+MNS.MNA12.KGMPNA.M,1, UInt4, 5
+MNS.MNA12.KGMPNA.M,6,Float,1000
+MNS.MNA12.KGMPNA.M,101,String,"Есть маска"
+MNS.MNA12.KGMPNA.M,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6795) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(1) Category=()}"
+MNS.MNA12.KGMPNA.P,1, UInt4, 5
+MNS.MNA12.KGMPNA.P,6,Float,1000
+MNS.MNA12.KGMPNA.P,101,String,"Нет готовности"
+MNS.MNA12.KGMPNA.P,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6796) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(1) Category=()}"
+MNS.MNA12.KGMPNA.M.Mask1,1, UInt4, 5
+MNS.MNA12.KGMPNA.M.Mask1,6,Float,1000
+MNS.MNA12.KGMPNA.M.Mask1,101,String,"Отсутствие не деблокированных общестанционных защит, требующих отключения. Маска"
+MNS.MNA12.KGMPNA.M.Mask1,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(7444) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(0) Category=()}"
+MNS.MNA12.KGMPNA.P.P1,1, UInt4, 5
+MNS.MNA12.KGMPNA.P.P1,6,Float,1000
+MNS.MNA12.KGMPNA.P.P1,101,String,"Отсутствие не деблокированных общестанционных защит, требующих отключения"
+MNS.MNA12.KGMPNA.P.P1,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6657) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(0) Category=()}"
+MNS.MNA12.KGMPNA.F.F1,1, UInt4, 5
+MNS.MNA12.KGMPNA.F.F1,6,Float,1000
+MNS.MNA12.KGMPNA.F.F1,101,String,"Отсутствие не деблокированных общестанционных защит, требующих отключения. Есть параметр готовности"
+MNS.MNA12.KGMPNA.F.F1,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6660) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(0) Category=()}"
+MNS.MNA12.KGMPNA.M.Mask2,1, UInt4, 5
+MNS.MNA12.KGMPNA.M.Mask2,6,Float,1000
+MNS.MNA12.KGMPNA.M.Mask2,101,String,"Отсутствие не деблокированных агрегатных защит. Маска"
+MNS.MNA12.KGMPNA.M.Mask2,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(7444) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(1) Category=()}"
+MNS.MNA12.KGMPNA.P.P2,1, UInt4, 5
+MNS.MNA12.KGMPNA.P.P2,6,Float,1000
+MNS.MNA12.KGMPNA.P.P2,101,String,"Отсутствие не деблокированных агрегатных защит"
+MNS.MNA12.KGMPNA.P.P2,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6657) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(1) Category=()}"
+MNS.MNA12.KGMPNA.F.F2,1, UInt4, 5
+MNS.MNA12.KGMPNA.F.F2,6,Float,1000
+MNS.MNA12.KGMPNA.F.F2,101,String,"Отсутствие не деблокированных агрегатных защит. Есть параметр готовности"
+MNS.MNA12.KGMPNA.F.F2,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6660) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(1) Category=()}"
+MNS.MNA12.KGMPNA.M.Mask3,1, UInt4, 5
+MNS.MNA12.KGMPNA.M.Mask3,6,Float,1000
+MNS.MNA12.KGMPNA.M.Mask3,101,String,"Отсутствие режима «ремонтный». Маска"
+MNS.MNA12.KGMPNA.M.Mask3,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(7444) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(2) Category=()}"
+MNS.MNA12.KGMPNA.P.P3,1, UInt4, 5
+MNS.MNA12.KGMPNA.P.P3,6,Float,1000
+MNS.MNA12.KGMPNA.P.P3,101,String,"Отсутствие режима «ремонтный»"
+MNS.MNA12.KGMPNA.P.P3,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6657) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(2) Category=()}"
+MNS.MNA12.KGMPNA.F.F3,1, UInt4, 5
+MNS.MNA12.KGMPNA.F.F3,6,Float,1000
+MNS.MNA12.KGMPNA.F.F3,101,String,"Отсутствие режима «ремонтный». Есть параметр готовности"
+MNS.MNA12.KGMPNA.F.F3,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6660) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(2) Category=()}"
+MNS.MNA12.KGMPNA.M.Mask9,1, UInt4, 5
+MNS.MNA12.KGMPNA.M.Mask9,6,Float,1000
+MNS.MNA12.KGMPNA.M.Mask9,101,String,"Наличие напряжения 6 кВ в двигательной ячейке ЗРУ. Маска"
+MNS.MNA12.KGMPNA.M.Mask9,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(7444) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(8) Category=()}"
+MNS.MNA12.KGMPNA.P.P9,1, UInt4, 5
+MNS.MNA12.KGMPNA.P.P9,6,Float,1000
+MNS.MNA12.KGMPNA.P.P9,101,String,"Наличие напряжения 6 кВ в двигательной ячейке ЗРУ"
+MNS.MNA12.KGMPNA.P.P9,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6657) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(8) Category=()}"
+MNS.MNA12.KGMPNA.F.F9,1, UInt4, 5
+MNS.MNA12.KGMPNA.F.F9,6,Float,1000
+MNS.MNA12.KGMPNA.F.F9,101,String,"Наличие напряжения 6 кВ в двигательной ячейке ЗРУ. Есть параметр готовности"
+MNS.MNA12.KGMPNA.F.F9,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6660) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(8) Category=()}"
+MNS.MNA12.KGMPNA.M.Mask10,1, UInt4, 5
+MNS.MNA12.KGMPNA.M.Mask10,6,Float,1000
+MNS.MNA12.KGMPNA.M.Mask10,101,String,"Исправность цепей включения ВВ двигателя. Маска"
+MNS.MNA12.KGMPNA.M.Mask10,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(7444) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(9) Category=()}"
+MNS.MNA12.KGMPNA.P.P10,1, UInt4, 5
+MNS.MNA12.KGMPNA.P.P10,6,Float,1000
+MNS.MNA12.KGMPNA.P.P10,101,String,"Исправность цепей включения ВВ двигателя"
+MNS.MNA12.KGMPNA.P.P10,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6657) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(9) Category=()}"
+MNS.MNA12.KGMPNA.F.F10,1, UInt4, 5
+MNS.MNA12.KGMPNA.F.F10,6,Float,1000
+MNS.MNA12.KGMPNA.F.F10,101,String,"Исправность цепей включения ВВ двигателя. Есть параметр готовности"
+MNS.MNA12.KGMPNA.F.F10,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6660) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(9) Category=()}"
+MNS.MNA12.KGMPNA.M.Mask11,1, UInt4, 5
+MNS.MNA12.KGMPNA.M.Mask11,6,Float,1000
+MNS.MNA12.KGMPNA.M.Mask11,101,String,"Исправность цепей отключения ВВ двигателя. Маска"
+MNS.MNA12.KGMPNA.M.Mask11,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(7444) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(10) Category=()}"
+MNS.MNA12.KGMPNA.P.P11,1, UInt4, 5
+MNS.MNA12.KGMPNA.P.P11,6,Float,1000
+MNS.MNA12.KGMPNA.P.P11,101,String,"Исправность цепей отключения ВВ двигателя"
+MNS.MNA12.KGMPNA.P.P11,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6657) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(10) Category=()}"
+MNS.MNA12.KGMPNA.F.F11,1, UInt4, 5
+MNS.MNA12.KGMPNA.F.F11,6,Float,1000
+MNS.MNA12.KGMPNA.F.F11,101,String,"Исправность цепей отключения ВВ двигателя. Есть параметр готовности"
+MNS.MNA12.KGMPNA.F.F11,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6660) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(10) Category=()}"
+MNS.MNA12.KGMPNA.M.Mask14,1, UInt4, 5
+MNS.MNA12.KGMPNA.M.Mask14,6,Float,1000
+MNS.MNA12.KGMPNA.M.Mask14,101,String,"Исправность цепей контроля положения ВВ двигателя. Маска"
+MNS.MNA12.KGMPNA.M.Mask14,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(7444) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(13) Category=()}"
+MNS.MNA12.KGMPNA.P.P14,1, UInt4, 5
+MNS.MNA12.KGMPNA.P.P14,6,Float,1000
+MNS.MNA12.KGMPNA.P.P14,101,String,"Исправность цепей контроля положения ВВ двигателя"
+MNS.MNA12.KGMPNA.P.P14,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6657) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(13) Category=()}"
+MNS.MNA12.KGMPNA.F.F14,1, UInt4, 5
+MNS.MNA12.KGMPNA.F.F14,6,Float,1000
+MNS.MNA12.KGMPNA.F.F14,101,String,"Исправность цепей контроля положения ВВ двигателя. Есть параметр готовности"
+MNS.MNA12.KGMPNA.F.F14,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6660) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(13) Category=()}"
+MNS.MNA12.KGMPNA.M.Mask15,1, UInt4, 5
+MNS.MNA12.KGMPNA.M.Mask15,6,Float,1000
+MNS.MNA12.KGMPNA.M.Mask15,101,String,"Контроллер РЗиА двигательной ячейки в режиме дистанционного управления. Маска"
+MNS.MNA12.KGMPNA.M.Mask15,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(7444) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(14) Category=()}"
+MNS.MNA12.KGMPNA.P.P15,1, UInt4, 5
+MNS.MNA12.KGMPNA.P.P15,6,Float,1000
+MNS.MNA12.KGMPNA.P.P15,101,String,"Контроллер РЗиА двигательной ячейки в режиме дистанционного управления"
+MNS.MNA12.KGMPNA.P.P15,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6657) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(14) Category=()}"
+MNS.MNA12.KGMPNA.F.F15,1, UInt4, 5
+MNS.MNA12.KGMPNA.F.F15,6,Float,1000
+MNS.MNA12.KGMPNA.F.F15,101,String,"Контроллер РЗиА двигательной ячейки в режиме дистанционного управления. Есть параметр готовности"
+MNS.MNA12.KGMPNA.F.F15,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6660) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(14) Category=()}"
+MNS.MNA12.KGMPNA.M.Mask20,1, UInt4, 5
+MNS.MNA12.KGMPNA.M.Mask20,6,Float,1000
+MNS.MNA12.KGMPNA.M.Mask20,101,String,"Готовность входного коллектора. Маска"
+MNS.MNA12.KGMPNA.M.Mask20,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(7445) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(3) Category=()}"
+MNS.MNA12.KGMPNA.P.P20,1, UInt4, 5
+MNS.MNA12.KGMPNA.P.P20,6,Float,1000
+MNS.MNA12.KGMPNA.P.P20,101,String,"Готовность входного коллектора"
+MNS.MNA12.KGMPNA.P.P20,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6658) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(3) Category=()}"
+MNS.MNA12.KGMPNA.F.F20,1, UInt4, 5
+MNS.MNA12.KGMPNA.F.F20,6,Float,1000
+MNS.MNA12.KGMPNA.F.F20,101,String,"Готовность входного коллектора. Есть параметр готовности"
+MNS.MNA12.KGMPNA.F.F20,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6661) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(3) Category=()}"
+MNS.MNA12.KGMPNA.M.Mask21,1, UInt4, 5
+MNS.MNA12.KGMPNA.M.Mask21,6,Float,1000
+MNS.MNA12.KGMPNA.M.Mask21,101,String,"Готовность выходного коллектора. Маска"
+MNS.MNA12.KGMPNA.M.Mask21,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(7445) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(4) Category=()}"
+MNS.MNA12.KGMPNA.P.P21,1, UInt4, 5
+MNS.MNA12.KGMPNA.P.P21,6,Float,1000
+MNS.MNA12.KGMPNA.P.P21,101,String,"Готовность выходного коллектора"
+MNS.MNA12.KGMPNA.P.P21,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6658) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(4) Category=()}"
+MNS.MNA12.KGMPNA.F.F21,1, UInt4, 5
+MNS.MNA12.KGMPNA.F.F21,6,Float,1000
+MNS.MNA12.KGMPNA.F.F21,101,String,"Готовность выходного коллектора. Есть параметр готовности"
+MNS.MNA12.KGMPNA.F.F21,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6661) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(4) Category=()}"
+MNS.MNA12.KGMPNA.M.Mask22,1, UInt4, 5
+MNS.MNA12.KGMPNA.M.Mask22,6,Float,1000
+MNS.MNA12.KGMPNA.M.Mask22,101,String,"Отсутствие высокого давления на выходе МНС. Маска"
+MNS.MNA12.KGMPNA.M.Mask22,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(7445) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(5) Category=()}"
+MNS.MNA12.KGMPNA.P.P22,1, UInt4, 5
+MNS.MNA12.KGMPNA.P.P22,6,Float,1000
+MNS.MNA12.KGMPNA.P.P22,101,String,"Отсутствие высокого давления на выходе МНС"
+MNS.MNA12.KGMPNA.P.P22,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6658) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(5) Category=()}"
+MNS.MNA12.KGMPNA.F.F22,1, UInt4, 5
+MNS.MNA12.KGMPNA.F.F22,6,Float,1000
+MNS.MNA12.KGMPNA.F.F22,101,String,"Отсутствие высокого давления на выходе МНС. Есть параметр готовности"
+MNS.MNA12.KGMPNA.F.F22,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6661) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(5) Category=()}"
+MNS.MNA12.KGMPNA.M.Mask23,1, UInt4, 5
+MNS.MNA12.KGMPNA.M.Mask23,6,Float,1000
+MNS.MNA12.KGMPNA.M.Mask23,101,String,"Приёмная агрегатная задвижка открыта. Маска"
+MNS.MNA12.KGMPNA.M.Mask23,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(7445) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(6) Category=()}"
+MNS.MNA12.KGMPNA.P.P23,1, UInt4, 5
+MNS.MNA12.KGMPNA.P.P23,6,Float,1000
+MNS.MNA12.KGMPNA.P.P23,101,String,"Приёмная агрегатная задвижка открыта"
+MNS.MNA12.KGMPNA.P.P23,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6658) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(6) Category=()}"
+MNS.MNA12.KGMPNA.F.F23,1, UInt4, 5
+MNS.MNA12.KGMPNA.F.F23,6,Float,1000
+MNS.MNA12.KGMPNA.F.F23,101,String,"Приёмная агрегатная задвижка открыта. Есть параметр готовности"
+MNS.MNA12.KGMPNA.F.F23,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6661) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(6) Category=()}"
+MNS.MNA12.KGMPNA.M.Mask25,1, UInt4, 5
+MNS.MNA12.KGMPNA.M.Mask25,6,Float,1000
+MNS.MNA12.KGMPNA.M.Mask25,101,String,"Выкидная агрегатная задвижка открыта при выбранной программе пуска №1. Маска"
+MNS.MNA12.KGMPNA.M.Mask25,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(7445) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(8) Category=()}"
+MNS.MNA12.KGMPNA.P.P25,1, UInt4, 5
+MNS.MNA12.KGMPNA.P.P25,6,Float,1000
+MNS.MNA12.KGMPNA.P.P25,101,String,"Выкидная агрегатная задвижка открыта при выбранной программе пуска №1"
+MNS.MNA12.KGMPNA.P.P25,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6658) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(8) Category=()}"
+MNS.MNA12.KGMPNA.F.F25,1, UInt4, 5
+MNS.MNA12.KGMPNA.F.F25,6,Float,1000
+MNS.MNA12.KGMPNA.F.F25,101,String,"Выкидная агрегатная задвижка открыта при выбранной программе пуска №1. Есть параметр готовности"
+MNS.MNA12.KGMPNA.F.F25,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6661) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(8) Category=()}"
+MNS.MNA12.KGMPNA.M.Mask26,1, UInt4, 5
+MNS.MNA12.KGMPNA.M.Mask26,6,Float,1000
+MNS.MNA12.KGMPNA.M.Mask26,101,String,"Выкидная агрегатная задвижка закрыта при выбранной программе пуска №2. Маска"
+MNS.MNA12.KGMPNA.M.Mask26,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(7445) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(9) Category=()}"
+MNS.MNA12.KGMPNA.P.P26,1, UInt4, 5
+MNS.MNA12.KGMPNA.P.P26,6,Float,1000
+MNS.MNA12.KGMPNA.P.P26,101,String,"Выкидная агрегатная задвижка закрыта при выбранной программе пуска №2"
+MNS.MNA12.KGMPNA.P.P26,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6658) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(9) Category=()}"
+MNS.MNA12.KGMPNA.F.F26,1, UInt4, 5
+MNS.MNA12.KGMPNA.F.F26,6,Float,1000
+MNS.MNA12.KGMPNA.F.F26,101,String,"Выкидная агрегатная задвижка закрыта при выбранной программе пуска №2. Есть параметр готовности"
+MNS.MNA12.KGMPNA.F.F26,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6661) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(9) Category=()}"
+MNS.MNA12.KGMPNA.M.Mask27,1, UInt4, 5
+MNS.MNA12.KGMPNA.M.Mask27,6,Float,1000
+MNS.MNA12.KGMPNA.M.Mask27,101,String,"Отсутствие аварии приёмной и выкидной агрегатных задвижек. Маска"
+MNS.MNA12.KGMPNA.M.Mask27,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(7445) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(10) Category=()}"
+MNS.MNA12.KGMPNA.P.P27,1, UInt4, 5
+MNS.MNA12.KGMPNA.P.P27,6,Float,1000
+MNS.MNA12.KGMPNA.P.P27,101,String,"Отсутствие аварии приёмной и выкидной агрегатных задвижек"
+MNS.MNA12.KGMPNA.P.P27,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6658) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(10) Category=()}"
+MNS.MNA12.KGMPNA.F.F27,1, UInt4, 5
+MNS.MNA12.KGMPNA.F.F27,6,Float,1000
+MNS.MNA12.KGMPNA.F.F27,101,String,"Отсутствие аварии приёмной и выкидной агрегатных задвижек. Есть параметр готовности"
+MNS.MNA12.KGMPNA.F.F27,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6661) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(10) Category=()}"
+MNS.MNA12.KGMPNA.M.Mask28,1, UInt4, 5
+MNS.MNA12.KGMPNA.M.Mask28,6,Float,1000
+MNS.MNA12.KGMPNA.M.Mask28,101,String,"Наличие напряжения в цепях управления приёмной и выкидной агрегатных задвижек. Маска"
+MNS.MNA12.KGMPNA.M.Mask28,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(7445) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(11) Category=()}"
+MNS.MNA12.KGMPNA.P.P28,1, UInt4, 5
+MNS.MNA12.KGMPNA.P.P28,6,Float,1000
+MNS.MNA12.KGMPNA.P.P28,101,String,"Наличие напряжения в цепях управления приёмной и выкидной агрегатных задвижек"
+MNS.MNA12.KGMPNA.P.P28,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6658) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(11) Category=()}"
+MNS.MNA12.KGMPNA.F.F28,1, UInt4, 5
+MNS.MNA12.KGMPNA.F.F28,6,Float,1000
+MNS.MNA12.KGMPNA.F.F28,101,String,"Наличие напряжения в цепях управления приёмной и выкидной агрегатных задвижек. Есть параметр готовности"
+MNS.MNA12.KGMPNA.F.F28,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6661) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(11) Category=()}"
+MNS.MNA12.KGMPNA.M.Mask31,1, UInt4, 5
+MNS.MNA12.KGMPNA.M.Mask31,6,Float,1000
+MNS.MNA12.KGMPNA.M.Mask31,101,String,"Отсутствие показаний вибрации у неработающего МНА. Маска"
+MNS.MNA12.KGMPNA.M.Mask31,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(7445) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(14) Category=()}"
+MNS.MNA12.KGMPNA.P.P31,1, UInt4, 5
+MNS.MNA12.KGMPNA.P.P31,6,Float,1000
+MNS.MNA12.KGMPNA.P.P31,101,String,"Отсутствие показаний вибрации у неработающего МНА"
+MNS.MNA12.KGMPNA.P.P31,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6658) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(14) Category=()}"
+MNS.MNA12.KGMPNA.F.F31,1, UInt4, 5
+MNS.MNA12.KGMPNA.F.F31,6,Float,1000
+MNS.MNA12.KGMPNA.F.F31,101,String,"Отсутствие показаний вибрации у неработающего МНА. Есть параметр готовности"
+MNS.MNA12.KGMPNA.F.F31,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6661) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(14) Category=()}"
+MNS.MNA12.KGMPNA.M.Mask32,1, UInt4, 5
+MNS.MNA12.KGMPNA.M.Mask32,6,Float,1000
+MNS.MNA12.KGMPNA.M.Mask32,101,String,"Температура масла маслосистемы в норме (на выходе охладителя). Маска"
+MNS.MNA12.KGMPNA.M.Mask32,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(7445) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(15) Category=()}"
+MNS.MNA12.KGMPNA.P.P32,1, UInt4, 5
+MNS.MNA12.KGMPNA.P.P32,6,Float,1000
+MNS.MNA12.KGMPNA.P.P32,101,String,"Температура масла маслосистемы в норме (на выходе охладителя)"
+MNS.MNA12.KGMPNA.P.P32,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6658) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(15) Category=()}"
+MNS.MNA12.KGMPNA.F.F32,1, UInt4, 5
+MNS.MNA12.KGMPNA.F.F32,6,Float,1000
+MNS.MNA12.KGMPNA.F.F32,101,String,"Температура масла маслосистемы в норме (на выходе охладителя). Есть параметр готовности"
+MNS.MNA12.KGMPNA.F.F32,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6661) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(15) Category=()}"
+MNS.MNA12.KGMPNA.M.Mask33,1, UInt4, 5
+MNS.MNA12.KGMPNA.M.Mask33,6,Float,1000
+MNS.MNA12.KGMPNA.M.Mask33,101,String,"Уровень масла в маслобаке в норме. Маска"
+MNS.MNA12.KGMPNA.M.Mask33,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(7446) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(0) Category=()}"
+MNS.MNA12.KGMPNA.P.P33,1, UInt4, 5
+MNS.MNA12.KGMPNA.P.P33,6,Float,1000
+MNS.MNA12.KGMPNA.P.P33,101,String,"Уровень масла в маслобаке в норме"
+MNS.MNA12.KGMPNA.P.P33,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6659) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(0) Category=()}"
+MNS.MNA12.KGMPNA.F.F33,1, UInt4, 5
+MNS.MNA12.KGMPNA.F.F33,6,Float,1000
+MNS.MNA12.KGMPNA.F.F33,101,String,"Уровень масла в маслобаке в норме. Есть параметр готовности"
+MNS.MNA12.KGMPNA.F.F33,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6662) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(0) Category=()}"
+MNS.MNA13.KGMPNA.ObjName,1, UInt4, 9
+MNS.MNA13.KGMPNA.ObjName,101,String,"Карта готовности МНА №13"
+MNS.MNA13.KGMPNA.ObjName,3,UInt4,192
+MNS.MNA13.KGMPNA.F,1, UInt4, 5
+MNS.MNA13.KGMPNA.F,6,Float,1000
+MNS.MNA13.KGMPNA.F,101,String,"Есть параметр готовности"
+MNS.MNA13.KGMPNA.F,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6794) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(2) Category=()}"
+MNS.MNA13.KGMPNA.M,1, UInt4, 5
+MNS.MNA13.KGMPNA.M,6,Float,1000
+MNS.MNA13.KGMPNA.M,101,String,"Есть маска"
+MNS.MNA13.KGMPNA.M,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6795) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(2) Category=()}"
+MNS.MNA13.KGMPNA.P,1, UInt4, 5
+MNS.MNA13.KGMPNA.P,6,Float,1000
+MNS.MNA13.KGMPNA.P,101,String,"Нет готовности"
+MNS.MNA13.KGMPNA.P,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6796) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(2) Category=()}"
+MNS.MNA13.KGMPNA.M.Mask1,1, UInt4, 5
+MNS.MNA13.KGMPNA.M.Mask1,6,Float,1000
+MNS.MNA13.KGMPNA.M.Mask1,101,String,"Отсутствие не деблокированных общестанционных защит, требующих отключения. Маска"
+MNS.MNA13.KGMPNA.M.Mask1,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(7447) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(0) Category=()}"
+MNS.MNA13.KGMPNA.P.P1,1, UInt4, 5
+MNS.MNA13.KGMPNA.P.P1,6,Float,1000
+MNS.MNA13.KGMPNA.P.P1,101,String,"Отсутствие не деблокированных общестанционных защит, требующих отключения"
+MNS.MNA13.KGMPNA.P.P1,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6663) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(0) Category=()}"
+MNS.MNA13.KGMPNA.F.F1,1, UInt4, 5
+MNS.MNA13.KGMPNA.F.F1,6,Float,1000
+MNS.MNA13.KGMPNA.F.F1,101,String,"Отсутствие не деблокированных общестанционных защит, требующих отключения. Есть параметр готовности"
+MNS.MNA13.KGMPNA.F.F1,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6666) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(0) Category=()}"
+MNS.MNA13.KGMPNA.M.Mask2,1, UInt4, 5
+MNS.MNA13.KGMPNA.M.Mask2,6,Float,1000
+MNS.MNA13.KGMPNA.M.Mask2,101,String,"Отсутствие не деблокированных агрегатных защит. Маска"
+MNS.MNA13.KGMPNA.M.Mask2,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(7447) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(1) Category=()}"
+MNS.MNA13.KGMPNA.P.P2,1, UInt4, 5
+MNS.MNA13.KGMPNA.P.P2,6,Float,1000
+MNS.MNA13.KGMPNA.P.P2,101,String,"Отсутствие не деблокированных агрегатных защит"
+MNS.MNA13.KGMPNA.P.P2,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6663) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(1) Category=()}"
+MNS.MNA13.KGMPNA.F.F2,1, UInt4, 5
+MNS.MNA13.KGMPNA.F.F2,6,Float,1000
+MNS.MNA13.KGMPNA.F.F2,101,String,"Отсутствие не деблокированных агрегатных защит. Есть параметр готовности"
+MNS.MNA13.KGMPNA.F.F2,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6666) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(1) Category=()}"
+MNS.MNA13.KGMPNA.M.Mask3,1, UInt4, 5
+MNS.MNA13.KGMPNA.M.Mask3,6,Float,1000
+MNS.MNA13.KGMPNA.M.Mask3,101,String,"Отсутствие режима «ремонтный». Маска"
+MNS.MNA13.KGMPNA.M.Mask3,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(7447) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(2) Category=()}"
+MNS.MNA13.KGMPNA.P.P3,1, UInt4, 5
+MNS.MNA13.KGMPNA.P.P3,6,Float,1000
+MNS.MNA13.KGMPNA.P.P3,101,String,"Отсутствие режима «ремонтный»"
+MNS.MNA13.KGMPNA.P.P3,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6663) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(2) Category=()}"
+MNS.MNA13.KGMPNA.F.F3,1, UInt4, 5
+MNS.MNA13.KGMPNA.F.F3,6,Float,1000
+MNS.MNA13.KGMPNA.F.F3,101,String,"Отсутствие режима «ремонтный». Есть параметр готовности"
+MNS.MNA13.KGMPNA.F.F3,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6666) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(2) Category=()}"
+MNS.MNA13.KGMPNA.M.Mask9,1, UInt4, 5
+MNS.MNA13.KGMPNA.M.Mask9,6,Float,1000
+MNS.MNA13.KGMPNA.M.Mask9,101,String,"Наличие напряжения 6 кВ в двигательной ячейке ЗРУ. Маска"
+MNS.MNA13.KGMPNA.M.Mask9,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(7447) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(8) Category=()}"
+MNS.MNA13.KGMPNA.P.P9,1, UInt4, 5
+MNS.MNA13.KGMPNA.P.P9,6,Float,1000
+MNS.MNA13.KGMPNA.P.P9,101,String,"Наличие напряжения 6 кВ в двигательной ячейке ЗРУ"
+MNS.MNA13.KGMPNA.P.P9,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6663) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(8) Category=()}"
+MNS.MNA13.KGMPNA.F.F9,1, UInt4, 5
+MNS.MNA13.KGMPNA.F.F9,6,Float,1000
+MNS.MNA13.KGMPNA.F.F9,101,String,"Наличие напряжения 6 кВ в двигательной ячейке ЗРУ. Есть параметр готовности"
+MNS.MNA13.KGMPNA.F.F9,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6666) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(8) Category=()}"
+MNS.MNA13.KGMPNA.M.Mask10,1, UInt4, 5
+MNS.MNA13.KGMPNA.M.Mask10,6,Float,1000
+MNS.MNA13.KGMPNA.M.Mask10,101,String,"Исправность цепей включения ВВ двигателя. Маска"
+MNS.MNA13.KGMPNA.M.Mask10,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(7447) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(9) Category=()}"
+MNS.MNA13.KGMPNA.P.P10,1, UInt4, 5
+MNS.MNA13.KGMPNA.P.P10,6,Float,1000
+MNS.MNA13.KGMPNA.P.P10,101,String,"Исправность цепей включения ВВ двигателя"
+MNS.MNA13.KGMPNA.P.P10,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6663) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(9) Category=()}"
+MNS.MNA13.KGMPNA.F.F10,1, UInt4, 5
+MNS.MNA13.KGMPNA.F.F10,6,Float,1000
+MNS.MNA13.KGMPNA.F.F10,101,String,"Исправность цепей включения ВВ двигателя. Есть параметр готовности"
+MNS.MNA13.KGMPNA.F.F10,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6666) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(9) Category=()}"
+MNS.MNA13.KGMPNA.M.Mask11,1, UInt4, 5
+MNS.MNA13.KGMPNA.M.Mask11,6,Float,1000
+MNS.MNA13.KGMPNA.M.Mask11,101,String,"Исправность цепей отключения ВВ двигателя. Маска"
+MNS.MNA13.KGMPNA.M.Mask11,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(7447) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(10) Category=()}"
+MNS.MNA13.KGMPNA.P.P11,1, UInt4, 5
+MNS.MNA13.KGMPNA.P.P11,6,Float,1000
+MNS.MNA13.KGMPNA.P.P11,101,String,"Исправность цепей отключения ВВ двигателя"
+MNS.MNA13.KGMPNA.P.P11,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6663) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(10) Category=()}"
+MNS.MNA13.KGMPNA.F.F11,1, UInt4, 5
+MNS.MNA13.KGMPNA.F.F11,6,Float,1000
+MNS.MNA13.KGMPNA.F.F11,101,String,"Исправность цепей отключения ВВ двигателя. Есть параметр готовности"
+MNS.MNA13.KGMPNA.F.F11,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6666) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(10) Category=()}"
+MNS.MNA13.KGMPNA.M.Mask14,1, UInt4, 5
+MNS.MNA13.KGMPNA.M.Mask14,6,Float,1000
+MNS.MNA13.KGMPNA.M.Mask14,101,String,"Исправность цепей контроля положения ВВ двигателя. Маска"
+MNS.MNA13.KGMPNA.M.Mask14,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(7447) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(13) Category=()}"
+MNS.MNA13.KGMPNA.P.P14,1, UInt4, 5
+MNS.MNA13.KGMPNA.P.P14,6,Float,1000
+MNS.MNA13.KGMPNA.P.P14,101,String,"Исправность цепей контроля положения ВВ двигателя"
+MNS.MNA13.KGMPNA.P.P14,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6663) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(13) Category=()}"
+MNS.MNA13.KGMPNA.F.F14,1, UInt4, 5
+MNS.MNA13.KGMPNA.F.F14,6,Float,1000
+MNS.MNA13.KGMPNA.F.F14,101,String,"Исправность цепей контроля положения ВВ двигателя. Есть параметр готовности"
+MNS.MNA13.KGMPNA.F.F14,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6666) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(13) Category=()}"
+MNS.MNA13.KGMPNA.M.Mask15,1, UInt4, 5
+MNS.MNA13.KGMPNA.M.Mask15,6,Float,1000
+MNS.MNA13.KGMPNA.M.Mask15,101,String,"Контроллер РЗиА двигательной ячейки в режиме дистанционного управления. Маска"
+MNS.MNA13.KGMPNA.M.Mask15,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(7447) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(14) Category=()}"
+MNS.MNA13.KGMPNA.P.P15,1, UInt4, 5
+MNS.MNA13.KGMPNA.P.P15,6,Float,1000
+MNS.MNA13.KGMPNA.P.P15,101,String,"Контроллер РЗиА двигательной ячейки в режиме дистанционного управления"
+MNS.MNA13.KGMPNA.P.P15,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6663) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(14) Category=()}"
+MNS.MNA13.KGMPNA.F.F15,1, UInt4, 5
+MNS.MNA13.KGMPNA.F.F15,6,Float,1000
+MNS.MNA13.KGMPNA.F.F15,101,String,"Контроллер РЗиА двигательной ячейки в режиме дистанционного управления. Есть параметр готовности"
+MNS.MNA13.KGMPNA.F.F15,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6666) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(14) Category=()}"
+MNS.MNA13.KGMPNA.M.Mask20,1, UInt4, 5
+MNS.MNA13.KGMPNA.M.Mask20,6,Float,1000
+MNS.MNA13.KGMPNA.M.Mask20,101,String,"Готовность входного коллектора. Маска"
+MNS.MNA13.KGMPNA.M.Mask20,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(7448) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(3) Category=()}"
+MNS.MNA13.KGMPNA.P.P20,1, UInt4, 5
+MNS.MNA13.KGMPNA.P.P20,6,Float,1000
+MNS.MNA13.KGMPNA.P.P20,101,String,"Готовность входного коллектора"
+MNS.MNA13.KGMPNA.P.P20,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6664) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(3) Category=()}"
+MNS.MNA13.KGMPNA.F.F20,1, UInt4, 5
+MNS.MNA13.KGMPNA.F.F20,6,Float,1000
+MNS.MNA13.KGMPNA.F.F20,101,String,"Готовность входного коллектора. Есть параметр готовности"
+MNS.MNA13.KGMPNA.F.F20,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6667) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(3) Category=()}"
+MNS.MNA13.KGMPNA.M.Mask21,1, UInt4, 5
+MNS.MNA13.KGMPNA.M.Mask21,6,Float,1000
+MNS.MNA13.KGMPNA.M.Mask21,101,String,"Готовность выходного коллектора. Маска"
+MNS.MNA13.KGMPNA.M.Mask21,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(7448) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(4) Category=()}"
+MNS.MNA13.KGMPNA.P.P21,1, UInt4, 5
+MNS.MNA13.KGMPNA.P.P21,6,Float,1000
+MNS.MNA13.KGMPNA.P.P21,101,String,"Готовность выходного коллектора"
+MNS.MNA13.KGMPNA.P.P21,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6664) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(4) Category=()}"
+MNS.MNA13.KGMPNA.F.F21,1, UInt4, 5
+MNS.MNA13.KGMPNA.F.F21,6,Float,1000
+MNS.MNA13.KGMPNA.F.F21,101,String,"Готовность выходного коллектора. Есть параметр готовности"
+MNS.MNA13.KGMPNA.F.F21,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6667) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(4) Category=()}"
+MNS.MNA13.KGMPNA.M.Mask22,1, UInt4, 5
+MNS.MNA13.KGMPNA.M.Mask22,6,Float,1000
+MNS.MNA13.KGMPNA.M.Mask22,101,String,"Отсутствие высокого давления на выходе МНС. Маска"
+MNS.MNA13.KGMPNA.M.Mask22,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(7448) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(5) Category=()}"
+MNS.MNA13.KGMPNA.P.P22,1, UInt4, 5
+MNS.MNA13.KGMPNA.P.P22,6,Float,1000
+MNS.MNA13.KGMPNA.P.P22,101,String,"Отсутствие высокого давления на выходе МНС"
+MNS.MNA13.KGMPNA.P.P22,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6664) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(5) Category=()}"
+MNS.MNA13.KGMPNA.F.F22,1, UInt4, 5
+MNS.MNA13.KGMPNA.F.F22,6,Float,1000
+MNS.MNA13.KGMPNA.F.F22,101,String,"Отсутствие высокого давления на выходе МНС. Есть параметр готовности"
+MNS.MNA13.KGMPNA.F.F22,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6667) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(5) Category=()}"
+MNS.MNA13.KGMPNA.M.Mask23,1, UInt4, 5
+MNS.MNA13.KGMPNA.M.Mask23,6,Float,1000
+MNS.MNA13.KGMPNA.M.Mask23,101,String,"Приёмная агрегатная задвижка открыта. Маска"
+MNS.MNA13.KGMPNA.M.Mask23,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(7448) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(6) Category=()}"
+MNS.MNA13.KGMPNA.P.P23,1, UInt4, 5
+MNS.MNA13.KGMPNA.P.P23,6,Float,1000
+MNS.MNA13.KGMPNA.P.P23,101,String,"Приёмная агрегатная задвижка открыта"
+MNS.MNA13.KGMPNA.P.P23,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6664) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(6) Category=()}"
+MNS.MNA13.KGMPNA.F.F23,1, UInt4, 5
+MNS.MNA13.KGMPNA.F.F23,6,Float,1000
+MNS.MNA13.KGMPNA.F.F23,101,String,"Приёмная агрегатная задвижка открыта. Есть параметр готовности"
+MNS.MNA13.KGMPNA.F.F23,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6667) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(6) Category=()}"
+MNS.MNA13.KGMPNA.M.Mask25,1, UInt4, 5
+MNS.MNA13.KGMPNA.M.Mask25,6,Float,1000
+MNS.MNA13.KGMPNA.M.Mask25,101,String,"Выкидная агрегатная задвижка открыта при выбранной программе пуска №1. Маска"
+MNS.MNA13.KGMPNA.M.Mask25,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(7448) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(8) Category=()}"
+MNS.MNA13.KGMPNA.P.P25,1, UInt4, 5
+MNS.MNA13.KGMPNA.P.P25,6,Float,1000
+MNS.MNA13.KGMPNA.P.P25,101,String,"Выкидная агрегатная задвижка открыта при выбранной программе пуска №1"
+MNS.MNA13.KGMPNA.P.P25,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6664) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(8) Category=()}"
+MNS.MNA13.KGMPNA.F.F25,1, UInt4, 5
+MNS.MNA13.KGMPNA.F.F25,6,Float,1000
+MNS.MNA13.KGMPNA.F.F25,101,String,"Выкидная агрегатная задвижка открыта при выбранной программе пуска №1. Есть параметр готовности"
+MNS.MNA13.KGMPNA.F.F25,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6667) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(8) Category=()}"
+MNS.MNA13.KGMPNA.M.Mask26,1, UInt4, 5
+MNS.MNA13.KGMPNA.M.Mask26,6,Float,1000
+MNS.MNA13.KGMPNA.M.Mask26,101,String,"Выкидная агрегатная задвижка закрыта при выбранной программе пуска №2. Маска"
+MNS.MNA13.KGMPNA.M.Mask26,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(7448) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(9) Category=()}"
+MNS.MNA13.KGMPNA.P.P26,1, UInt4, 5
+MNS.MNA13.KGMPNA.P.P26,6,Float,1000
+MNS.MNA13.KGMPNA.P.P26,101,String,"Выкидная агрегатная задвижка закрыта при выбранной программе пуска №2"
+MNS.MNA13.KGMPNA.P.P26,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6664) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(9) Category=()}"
+MNS.MNA13.KGMPNA.F.F26,1, UInt4, 5
+MNS.MNA13.KGMPNA.F.F26,6,Float,1000
+MNS.MNA13.KGMPNA.F.F26,101,String,"Выкидная агрегатная задвижка закрыта при выбранной программе пуска №2. Есть параметр готовности"
+MNS.MNA13.KGMPNA.F.F26,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6667) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(9) Category=()}"
+MNS.MNA13.KGMPNA.M.Mask27,1, UInt4, 5
+MNS.MNA13.KGMPNA.M.Mask27,6,Float,1000
+MNS.MNA13.KGMPNA.M.Mask27,101,String,"Отсутствие аварии приёмной и выкидной агрегатных задвижек. Маска"
+MNS.MNA13.KGMPNA.M.Mask27,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(7448) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(10) Category=()}"
+MNS.MNA13.KGMPNA.P.P27,1, UInt4, 5
+MNS.MNA13.KGMPNA.P.P27,6,Float,1000
+MNS.MNA13.KGMPNA.P.P27,101,String,"Отсутствие аварии приёмной и выкидной агрегатных задвижек"
+MNS.MNA13.KGMPNA.P.P27,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6664) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(10) Category=()}"
+MNS.MNA13.KGMPNA.F.F27,1, UInt4, 5
+MNS.MNA13.KGMPNA.F.F27,6,Float,1000
+MNS.MNA13.KGMPNA.F.F27,101,String,"Отсутствие аварии приёмной и выкидной агрегатных задвижек. Есть параметр готовности"
+MNS.MNA13.KGMPNA.F.F27,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6667) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(10) Category=()}"
+MNS.MNA13.KGMPNA.M.Mask28,1, UInt4, 5
+MNS.MNA13.KGMPNA.M.Mask28,6,Float,1000
+MNS.MNA13.KGMPNA.M.Mask28,101,String,"Наличие напряжения в цепях управления приёмной и выкидной агрегатных задвижек. Маска"
+MNS.MNA13.KGMPNA.M.Mask28,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(7448) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(11) Category=()}"
+MNS.MNA13.KGMPNA.P.P28,1, UInt4, 5
+MNS.MNA13.KGMPNA.P.P28,6,Float,1000
+MNS.MNA13.KGMPNA.P.P28,101,String,"Наличие напряжения в цепях управления приёмной и выкидной агрегатных задвижек"
+MNS.MNA13.KGMPNA.P.P28,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6664) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(11) Category=()}"
+MNS.MNA13.KGMPNA.F.F28,1, UInt4, 5
+MNS.MNA13.KGMPNA.F.F28,6,Float,1000
+MNS.MNA13.KGMPNA.F.F28,101,String,"Наличие напряжения в цепях управления приёмной и выкидной агрегатных задвижек. Есть параметр готовности"
+MNS.MNA13.KGMPNA.F.F28,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6667) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(11) Category=()}"
+MNS.MNA13.KGMPNA.M.Mask31,1, UInt4, 5
+MNS.MNA13.KGMPNA.M.Mask31,6,Float,1000
+MNS.MNA13.KGMPNA.M.Mask31,101,String,"Отсутствие показаний вибрации у неработающего МНА. Маска"
+MNS.MNA13.KGMPNA.M.Mask31,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(7448) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(14) Category=()}"
+MNS.MNA13.KGMPNA.P.P31,1, UInt4, 5
+MNS.MNA13.KGMPNA.P.P31,6,Float,1000
+MNS.MNA13.KGMPNA.P.P31,101,String,"Отсутствие показаний вибрации у неработающего МНА"
+MNS.MNA13.KGMPNA.P.P31,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6664) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(14) Category=()}"
+MNS.MNA13.KGMPNA.F.F31,1, UInt4, 5
+MNS.MNA13.KGMPNA.F.F31,6,Float,1000
+MNS.MNA13.KGMPNA.F.F31,101,String,"Отсутствие показаний вибрации у неработающего МНА. Есть параметр готовности"
+MNS.MNA13.KGMPNA.F.F31,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6667) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(14) Category=()}"
+MNS.MNA13.KGMPNA.M.Mask32,1, UInt4, 5
+MNS.MNA13.KGMPNA.M.Mask32,6,Float,1000
+MNS.MNA13.KGMPNA.M.Mask32,101,String,"Температура масла маслосистемы в норме (на выходе охладителя). Маска"
+MNS.MNA13.KGMPNA.M.Mask32,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(7448) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(15) Category=()}"
+MNS.MNA13.KGMPNA.P.P32,1, UInt4, 5
+MNS.MNA13.KGMPNA.P.P32,6,Float,1000
+MNS.MNA13.KGMPNA.P.P32,101,String,"Температура масла маслосистемы в норме (на выходе охладителя)"
+MNS.MNA13.KGMPNA.P.P32,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6664) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(15) Category=()}"
+MNS.MNA13.KGMPNA.F.F32,1, UInt4, 5
+MNS.MNA13.KGMPNA.F.F32,6,Float,1000
+MNS.MNA13.KGMPNA.F.F32,101,String,"Температура масла маслосистемы в норме (на выходе охладителя). Есть параметр готовности"
+MNS.MNA13.KGMPNA.F.F32,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6667) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(15) Category=()}"
+MNS.MNA13.KGMPNA.M.Mask33,1, UInt4, 5
+MNS.MNA13.KGMPNA.M.Mask33,6,Float,1000
+MNS.MNA13.KGMPNA.M.Mask33,101,String,"Уровень масла в маслобаке в норме. Маска"
+MNS.MNA13.KGMPNA.M.Mask33,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(7449) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(0) Category=()}"
+MNS.MNA13.KGMPNA.P.P33,1, UInt4, 5
+MNS.MNA13.KGMPNA.P.P33,6,Float,1000
+MNS.MNA13.KGMPNA.P.P33,101,String,"Уровень масла в маслобаке в норме"
+MNS.MNA13.KGMPNA.P.P33,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6665) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(0) Category=()}"
+MNS.MNA13.KGMPNA.F.F33,1, UInt4, 5
+MNS.MNA13.KGMPNA.F.F33,6,Float,1000
+MNS.MNA13.KGMPNA.F.F33,101,String,"Уровень масла в маслобаке в норме. Есть параметр готовности"
+MNS.MNA13.KGMPNA.F.F33,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6668) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(0) Category=()}"
+MNS.MNA14.KGMPNA.ObjName,1, UInt4, 9
+MNS.MNA14.KGMPNA.ObjName,101,String,"Карта готовности МНА №14"
+MNS.MNA14.KGMPNA.ObjName,3,UInt4,192
+MNS.MNA14.KGMPNA.F,1, UInt4, 5
+MNS.MNA14.KGMPNA.F,6,Float,1000
+MNS.MNA14.KGMPNA.F,101,String,"Есть параметр готовности"
+MNS.MNA14.KGMPNA.F,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6794) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(3) Category=()}"
+MNS.MNA14.KGMPNA.M,1, UInt4, 5
+MNS.MNA14.KGMPNA.M,6,Float,1000
+MNS.MNA14.KGMPNA.M,101,String,"Есть маска"
+MNS.MNA14.KGMPNA.M,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6795) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(3) Category=()}"
+MNS.MNA14.KGMPNA.P,1, UInt4, 5
+MNS.MNA14.KGMPNA.P,6,Float,1000
+MNS.MNA14.KGMPNA.P,101,String,"Нет готовности"
+MNS.MNA14.KGMPNA.P,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6796) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(3) Category=()}"
+MNS.MNA14.KGMPNA.M.Mask1,1, UInt4, 5
+MNS.MNA14.KGMPNA.M.Mask1,6,Float,1000
+MNS.MNA14.KGMPNA.M.Mask1,101,String,"Отсутствие не деблокированных общестанционных защит, требующих отключения. Маска"
+MNS.MNA14.KGMPNA.M.Mask1,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(7450) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(0) Category=()}"
+MNS.MNA14.KGMPNA.P.P1,1, UInt4, 5
+MNS.MNA14.KGMPNA.P.P1,6,Float,1000
+MNS.MNA14.KGMPNA.P.P1,101,String,"Отсутствие не деблокированных общестанционных защит, требующих отключения"
+MNS.MNA14.KGMPNA.P.P1,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6669) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(0) Category=()}"
+MNS.MNA14.KGMPNA.F.F1,1, UInt4, 5
+MNS.MNA14.KGMPNA.F.F1,6,Float,1000
+MNS.MNA14.KGMPNA.F.F1,101,String,"Отсутствие не деблокированных общестанционных защит, требующих отключения. Есть параметр готовности"
+MNS.MNA14.KGMPNA.F.F1,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6672) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(0) Category=()}"
+MNS.MNA14.KGMPNA.M.Mask2,1, UInt4, 5
+MNS.MNA14.KGMPNA.M.Mask2,6,Float,1000
+MNS.MNA14.KGMPNA.M.Mask2,101,String,"Отсутствие не деблокированных агрегатных защит. Маска"
+MNS.MNA14.KGMPNA.M.Mask2,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(7450) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(1) Category=()}"
+MNS.MNA14.KGMPNA.P.P2,1, UInt4, 5
+MNS.MNA14.KGMPNA.P.P2,6,Float,1000
+MNS.MNA14.KGMPNA.P.P2,101,String,"Отсутствие не деблокированных агрегатных защит"
+MNS.MNA14.KGMPNA.P.P2,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6669) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(1) Category=()}"
+MNS.MNA14.KGMPNA.F.F2,1, UInt4, 5
+MNS.MNA14.KGMPNA.F.F2,6,Float,1000
+MNS.MNA14.KGMPNA.F.F2,101,String,"Отсутствие не деблокированных агрегатных защит. Есть параметр готовности"
+MNS.MNA14.KGMPNA.F.F2,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6672) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(1) Category=()}"
+MNS.MNA14.KGMPNA.M.Mask3,1, UInt4, 5
+MNS.MNA14.KGMPNA.M.Mask3,6,Float,1000
+MNS.MNA14.KGMPNA.M.Mask3,101,String,"Отсутствие режима «ремонтный». Маска"
+MNS.MNA14.KGMPNA.M.Mask3,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(7450) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(2) Category=()}"
+MNS.MNA14.KGMPNA.P.P3,1, UInt4, 5
+MNS.MNA14.KGMPNA.P.P3,6,Float,1000
+MNS.MNA14.KGMPNA.P.P3,101,String,"Отсутствие режима «ремонтный»"
+MNS.MNA14.KGMPNA.P.P3,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6669) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(2) Category=()}"
+MNS.MNA14.KGMPNA.F.F3,1, UInt4, 5
+MNS.MNA14.KGMPNA.F.F3,6,Float,1000
+MNS.MNA14.KGMPNA.F.F3,101,String,"Отсутствие режима «ремонтный». Есть параметр готовности"
+MNS.MNA14.KGMPNA.F.F3,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6672) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(2) Category=()}"
+MNS.MNA14.KGMPNA.M.Mask9,1, UInt4, 5
+MNS.MNA14.KGMPNA.M.Mask9,6,Float,1000
+MNS.MNA14.KGMPNA.M.Mask9,101,String,"Наличие напряжения 6 кВ в двигательной ячейке ЗРУ. Маска"
+MNS.MNA14.KGMPNA.M.Mask9,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(7450) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(8) Category=()}"
+MNS.MNA14.KGMPNA.P.P9,1, UInt4, 5
+MNS.MNA14.KGMPNA.P.P9,6,Float,1000
+MNS.MNA14.KGMPNA.P.P9,101,String,"Наличие напряжения 6 кВ в двигательной ячейке ЗРУ"
+MNS.MNA14.KGMPNA.P.P9,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6669) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(8) Category=()}"
+MNS.MNA14.KGMPNA.F.F9,1, UInt4, 5
+MNS.MNA14.KGMPNA.F.F9,6,Float,1000
+MNS.MNA14.KGMPNA.F.F9,101,String,"Наличие напряжения 6 кВ в двигательной ячейке ЗРУ. Есть параметр готовности"
+MNS.MNA14.KGMPNA.F.F9,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6672) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(8) Category=()}"
+MNS.MNA14.KGMPNA.M.Mask10,1, UInt4, 5
+MNS.MNA14.KGMPNA.M.Mask10,6,Float,1000
+MNS.MNA14.KGMPNA.M.Mask10,101,String,"Исправность цепей включения ВВ двигателя. Маска"
+MNS.MNA14.KGMPNA.M.Mask10,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(7450) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(9) Category=()}"
+MNS.MNA14.KGMPNA.P.P10,1, UInt4, 5
+MNS.MNA14.KGMPNA.P.P10,6,Float,1000
+MNS.MNA14.KGMPNA.P.P10,101,String,"Исправность цепей включения ВВ двигателя"
+MNS.MNA14.KGMPNA.P.P10,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6669) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(9) Category=()}"
+MNS.MNA14.KGMPNA.F.F10,1, UInt4, 5
+MNS.MNA14.KGMPNA.F.F10,6,Float,1000
+MNS.MNA14.KGMPNA.F.F10,101,String,"Исправность цепей включения ВВ двигателя. Есть параметр готовности"
+MNS.MNA14.KGMPNA.F.F10,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6672) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(9) Category=()}"
+MNS.MNA14.KGMPNA.M.Mask11,1, UInt4, 5
+MNS.MNA14.KGMPNA.M.Mask11,6,Float,1000
+MNS.MNA14.KGMPNA.M.Mask11,101,String,"Исправность цепей отключения ВВ двигателя. Маска"
+MNS.MNA14.KGMPNA.M.Mask11,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(7450) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(10) Category=()}"
+MNS.MNA14.KGMPNA.P.P11,1, UInt4, 5
+MNS.MNA14.KGMPNA.P.P11,6,Float,1000
+MNS.MNA14.KGMPNA.P.P11,101,String,"Исправность цепей отключения ВВ двигателя"
+MNS.MNA14.KGMPNA.P.P11,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6669) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(10) Category=()}"
+MNS.MNA14.KGMPNA.F.F11,1, UInt4, 5
+MNS.MNA14.KGMPNA.F.F11,6,Float,1000
+MNS.MNA14.KGMPNA.F.F11,101,String,"Исправность цепей отключения ВВ двигателя. Есть параметр готовности"
+MNS.MNA14.KGMPNA.F.F11,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6672) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(10) Category=()}"
+MNS.MNA14.KGMPNA.M.Mask14,1, UInt4, 5
+MNS.MNA14.KGMPNA.M.Mask14,6,Float,1000
+MNS.MNA14.KGMPNA.M.Mask14,101,String,"Исправность цепей контроля положения ВВ двигателя. Маска"
+MNS.MNA14.KGMPNA.M.Mask14,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(7450) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(13) Category=()}"
+MNS.MNA14.KGMPNA.P.P14,1, UInt4, 5
+MNS.MNA14.KGMPNA.P.P14,6,Float,1000
+MNS.MNA14.KGMPNA.P.P14,101,String,"Исправность цепей контроля положения ВВ двигателя"
+MNS.MNA14.KGMPNA.P.P14,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6669) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(13) Category=()}"
+MNS.MNA14.KGMPNA.F.F14,1, UInt4, 5
+MNS.MNA14.KGMPNA.F.F14,6,Float,1000
+MNS.MNA14.KGMPNA.F.F14,101,String,"Исправность цепей контроля положения ВВ двигателя. Есть параметр готовности"
+MNS.MNA14.KGMPNA.F.F14,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6672) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(13) Category=()}"
+MNS.MNA14.KGMPNA.M.Mask15,1, UInt4, 5
+MNS.MNA14.KGMPNA.M.Mask15,6,Float,1000
+MNS.MNA14.KGMPNA.M.Mask15,101,String,"Контроллер РЗиА двигательной ячейки в режиме дистанционного управления. Маска"
+MNS.MNA14.KGMPNA.M.Mask15,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(7450) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(14) Category=()}"
+MNS.MNA14.KGMPNA.P.P15,1, UInt4, 5
+MNS.MNA14.KGMPNA.P.P15,6,Float,1000
+MNS.MNA14.KGMPNA.P.P15,101,String,"Контроллер РЗиА двигательной ячейки в режиме дистанционного управления"
+MNS.MNA14.KGMPNA.P.P15,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6669) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(14) Category=()}"
+MNS.MNA14.KGMPNA.F.F15,1, UInt4, 5
+MNS.MNA14.KGMPNA.F.F15,6,Float,1000
+MNS.MNA14.KGMPNA.F.F15,101,String,"Контроллер РЗиА двигательной ячейки в режиме дистанционного управления. Есть параметр готовности"
+MNS.MNA14.KGMPNA.F.F15,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6672) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(14) Category=()}"
+MNS.MNA14.KGMPNA.M.Mask20,1, UInt4, 5
+MNS.MNA14.KGMPNA.M.Mask20,6,Float,1000
+MNS.MNA14.KGMPNA.M.Mask20,101,String,"Готовность входного коллектора. Маска"
+MNS.MNA14.KGMPNA.M.Mask20,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(7451) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(3) Category=()}"
+MNS.MNA14.KGMPNA.P.P20,1, UInt4, 5
+MNS.MNA14.KGMPNA.P.P20,6,Float,1000
+MNS.MNA14.KGMPNA.P.P20,101,String,"Готовность входного коллектора"
+MNS.MNA14.KGMPNA.P.P20,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6670) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(3) Category=()}"
+MNS.MNA14.KGMPNA.F.F20,1, UInt4, 5
+MNS.MNA14.KGMPNA.F.F20,6,Float,1000
+MNS.MNA14.KGMPNA.F.F20,101,String,"Готовность входного коллектора. Есть параметр готовности"
+MNS.MNA14.KGMPNA.F.F20,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6673) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(3) Category=()}"
+MNS.MNA14.KGMPNA.M.Mask21,1, UInt4, 5
+MNS.MNA14.KGMPNA.M.Mask21,6,Float,1000
+MNS.MNA14.KGMPNA.M.Mask21,101,String,"Готовность выходного коллектора. Маска"
+MNS.MNA14.KGMPNA.M.Mask21,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(7451) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(4) Category=()}"
+MNS.MNA14.KGMPNA.P.P21,1, UInt4, 5
+MNS.MNA14.KGMPNA.P.P21,6,Float,1000
+MNS.MNA14.KGMPNA.P.P21,101,String,"Готовность выходного коллектора"
+MNS.MNA14.KGMPNA.P.P21,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6670) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(4) Category=()}"
+MNS.MNA14.KGMPNA.F.F21,1, UInt4, 5
+MNS.MNA14.KGMPNA.F.F21,6,Float,1000
+MNS.MNA14.KGMPNA.F.F21,101,String,"Готовность выходного коллектора. Есть параметр готовности"
+MNS.MNA14.KGMPNA.F.F21,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6673) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(4) Category=()}"
+MNS.MNA14.KGMPNA.M.Mask22,1, UInt4, 5
+MNS.MNA14.KGMPNA.M.Mask22,6,Float,1000
+MNS.MNA14.KGMPNA.M.Mask22,101,String,"Отсутствие высокого давления на выходе МНС. Маска"
+MNS.MNA14.KGMPNA.M.Mask22,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(7451) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(5) Category=()}"
+MNS.MNA14.KGMPNA.P.P22,1, UInt4, 5
+MNS.MNA14.KGMPNA.P.P22,6,Float,1000
+MNS.MNA14.KGMPNA.P.P22,101,String,"Отсутствие высокого давления на выходе МНС"
+MNS.MNA14.KGMPNA.P.P22,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6670) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(5) Category=()}"
+MNS.MNA14.KGMPNA.F.F22,1, UInt4, 5
+MNS.MNA14.KGMPNA.F.F22,6,Float,1000
+MNS.MNA14.KGMPNA.F.F22,101,String,"Отсутствие высокого давления на выходе МНС. Есть параметр готовности"
+MNS.MNA14.KGMPNA.F.F22,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6673) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(5) Category=()}"
+MNS.MNA14.KGMPNA.M.Mask23,1, UInt4, 5
+MNS.MNA14.KGMPNA.M.Mask23,6,Float,1000
+MNS.MNA14.KGMPNA.M.Mask23,101,String,"Приёмная агрегатная задвижка открыта. Маска"
+MNS.MNA14.KGMPNA.M.Mask23,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(7451) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(6) Category=()}"
+MNS.MNA14.KGMPNA.P.P23,1, UInt4, 5
+MNS.MNA14.KGMPNA.P.P23,6,Float,1000
+MNS.MNA14.KGMPNA.P.P23,101,String,"Приёмная агрегатная задвижка открыта"
+MNS.MNA14.KGMPNA.P.P23,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6670) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(6) Category=()}"
+MNS.MNA14.KGMPNA.F.F23,1, UInt4, 5
+MNS.MNA14.KGMPNA.F.F23,6,Float,1000
+MNS.MNA14.KGMPNA.F.F23,101,String,"Приёмная агрегатная задвижка открыта. Есть параметр готовности"
+MNS.MNA14.KGMPNA.F.F23,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6673) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(6) Category=()}"
+MNS.MNA14.KGMPNA.M.Mask25,1, UInt4, 5
+MNS.MNA14.KGMPNA.M.Mask25,6,Float,1000
+MNS.MNA14.KGMPNA.M.Mask25,101,String,"Выкидная агрегатная задвижка открыта при выбранной программе пуска №1. Маска"
+MNS.MNA14.KGMPNA.M.Mask25,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(7451) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(8) Category=()}"
+MNS.MNA14.KGMPNA.P.P25,1, UInt4, 5
+MNS.MNA14.KGMPNA.P.P25,6,Float,1000
+MNS.MNA14.KGMPNA.P.P25,101,String,"Выкидная агрегатная задвижка открыта при выбранной программе пуска №1"
+MNS.MNA14.KGMPNA.P.P25,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6670) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(8) Category=()}"
+MNS.MNA14.KGMPNA.F.F25,1, UInt4, 5
+MNS.MNA14.KGMPNA.F.F25,6,Float,1000
+MNS.MNA14.KGMPNA.F.F25,101,String,"Выкидная агрегатная задвижка открыта при выбранной программе пуска №1. Есть параметр готовности"
+MNS.MNA14.KGMPNA.F.F25,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6673) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(8) Category=()}"
+MNS.MNA14.KGMPNA.M.Mask26,1, UInt4, 5
+MNS.MNA14.KGMPNA.M.Mask26,6,Float,1000
+MNS.MNA14.KGMPNA.M.Mask26,101,String,"Выкидная агрегатная задвижка закрыта при выбранной программе пуска №2. Маска"
+MNS.MNA14.KGMPNA.M.Mask26,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(7451) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(9) Category=()}"
+MNS.MNA14.KGMPNA.P.P26,1, UInt4, 5
+MNS.MNA14.KGMPNA.P.P26,6,Float,1000
+MNS.MNA14.KGMPNA.P.P26,101,String,"Выкидная агрегатная задвижка закрыта при выбранной программе пуска №2"
+MNS.MNA14.KGMPNA.P.P26,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6670) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(9) Category=()}"
+MNS.MNA14.KGMPNA.F.F26,1, UInt4, 5
+MNS.MNA14.KGMPNA.F.F26,6,Float,1000
+MNS.MNA14.KGMPNA.F.F26,101,String,"Выкидная агрегатная задвижка закрыта при выбранной программе пуска №2. Есть параметр готовности"
+MNS.MNA14.KGMPNA.F.F26,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6673) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(9) Category=()}"
+MNS.MNA14.KGMPNA.M.Mask27,1, UInt4, 5
+MNS.MNA14.KGMPNA.M.Mask27,6,Float,1000
+MNS.MNA14.KGMPNA.M.Mask27,101,String,"Отсутствие аварии приёмной и выкидной агрегатных задвижек. Маска"
+MNS.MNA14.KGMPNA.M.Mask27,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(7451) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(10) Category=()}"
+MNS.MNA14.KGMPNA.P.P27,1, UInt4, 5
+MNS.MNA14.KGMPNA.P.P27,6,Float,1000
+MNS.MNA14.KGMPNA.P.P27,101,String,"Отсутствие аварии приёмной и выкидной агрегатных задвижек"
+MNS.MNA14.KGMPNA.P.P27,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6670) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(10) Category=()}"
+MNS.MNA14.KGMPNA.F.F27,1, UInt4, 5
+MNS.MNA14.KGMPNA.F.F27,6,Float,1000
+MNS.MNA14.KGMPNA.F.F27,101,String,"Отсутствие аварии приёмной и выкидной агрегатных задвижек. Есть параметр готовности"
+MNS.MNA14.KGMPNA.F.F27,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6673) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(10) Category=()}"
+MNS.MNA14.KGMPNA.M.Mask28,1, UInt4, 5
+MNS.MNA14.KGMPNA.M.Mask28,6,Float,1000
+MNS.MNA14.KGMPNA.M.Mask28,101,String,"Наличие напряжения в цепях управления приёмной и выкидной агрегатных задвижек. Маска"
+MNS.MNA14.KGMPNA.M.Mask28,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(7451) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(11) Category=()}"
+MNS.MNA14.KGMPNA.P.P28,1, UInt4, 5
+MNS.MNA14.KGMPNA.P.P28,6,Float,1000
+MNS.MNA14.KGMPNA.P.P28,101,String,"Наличие напряжения в цепях управления приёмной и выкидной агрегатных задвижек"
+MNS.MNA14.KGMPNA.P.P28,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6670) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(11) Category=()}"
+MNS.MNA14.KGMPNA.F.F28,1, UInt4, 5
+MNS.MNA14.KGMPNA.F.F28,6,Float,1000
+MNS.MNA14.KGMPNA.F.F28,101,String,"Наличие напряжения в цепях управления приёмной и выкидной агрегатных задвижек. Есть параметр готовности"
+MNS.MNA14.KGMPNA.F.F28,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6673) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(11) Category=()}"
+MNS.MNA14.KGMPNA.M.Mask31,1, UInt4, 5
+MNS.MNA14.KGMPNA.M.Mask31,6,Float,1000
+MNS.MNA14.KGMPNA.M.Mask31,101,String,"Отсутствие показаний вибрации у неработающего МНА. Маска"
+MNS.MNA14.KGMPNA.M.Mask31,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(7451) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(14) Category=()}"
+MNS.MNA14.KGMPNA.P.P31,1, UInt4, 5
+MNS.MNA14.KGMPNA.P.P31,6,Float,1000
+MNS.MNA14.KGMPNA.P.P31,101,String,"Отсутствие показаний вибрации у неработающего МНА"
+MNS.MNA14.KGMPNA.P.P31,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6670) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(14) Category=()}"
+MNS.MNA14.KGMPNA.F.F31,1, UInt4, 5
+MNS.MNA14.KGMPNA.F.F31,6,Float,1000
+MNS.MNA14.KGMPNA.F.F31,101,String,"Отсутствие показаний вибрации у неработающего МНА. Есть параметр готовности"
+MNS.MNA14.KGMPNA.F.F31,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6673) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(14) Category=()}"
+MNS.MNA14.KGMPNA.M.Mask32,1, UInt4, 5
+MNS.MNA14.KGMPNA.M.Mask32,6,Float,1000
+MNS.MNA14.KGMPNA.M.Mask32,101,String,"Температура масла маслосистемы в норме (на выходе охладителя). Маска"
+MNS.MNA14.KGMPNA.M.Mask32,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(7451) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(15) Category=()}"
+MNS.MNA14.KGMPNA.P.P32,1, UInt4, 5
+MNS.MNA14.KGMPNA.P.P32,6,Float,1000
+MNS.MNA14.KGMPNA.P.P32,101,String,"Температура масла маслосистемы в норме (на выходе охладителя)"
+MNS.MNA14.KGMPNA.P.P32,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6670) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(15) Category=()}"
+MNS.MNA14.KGMPNA.F.F32,1, UInt4, 5
+MNS.MNA14.KGMPNA.F.F32,6,Float,1000
+MNS.MNA14.KGMPNA.F.F32,101,String,"Температура масла маслосистемы в норме (на выходе охладителя). Есть параметр готовности"
+MNS.MNA14.KGMPNA.F.F32,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6673) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(15) Category=()}"
+MNS.MNA14.KGMPNA.M.Mask33,1, UInt4, 5
+MNS.MNA14.KGMPNA.M.Mask33,6,Float,1000
+MNS.MNA14.KGMPNA.M.Mask33,101,String,"Уровень масла в маслобаке в норме. Маска"
+MNS.MNA14.KGMPNA.M.Mask33,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(7452) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(0) Category=()}"
+MNS.MNA14.KGMPNA.P.P33,1, UInt4, 5
+MNS.MNA14.KGMPNA.P.P33,6,Float,1000
+MNS.MNA14.KGMPNA.P.P33,101,String,"Уровень масла в маслобаке в норме"
+MNS.MNA14.KGMPNA.P.P33,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6671) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(0) Category=()}"
+MNS.MNA14.KGMPNA.F.F33,1, UInt4, 5
+MNS.MNA14.KGMPNA.F.F33,6,Float,1000
+MNS.MNA14.KGMPNA.F.F33,101,String,"Уровень масла в маслобаке в норме. Есть параметр готовности"
+MNS.MNA14.KGMPNA.F.F33,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(6674) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(0) Category=()}"

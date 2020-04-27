@@ -1,0 +1,48 @@
+MNS.Perehod.PerehodError_From.BolTokoleso,1,UInt4,5
+MNS.Perehod.PerehodError_From.BolTokoleso,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(7022) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(14) Category=()}"
+MNS.Perehod.PerehodError_From.BolTokoleso,101,String,""
+MNS.Perehod.PerehodError_From.ImitMode,1,UInt4,5
+MNS.Perehod.PerehodError_From.ImitMode,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(7022) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(2) Category=()}"
+MNS.Perehod.PerehodError_From.ImitMode,101,String,""
+MNS.Perehod.PerehodError_From.MalTokoleso,1,UInt4,5
+MNS.Perehod.PerehodError_From.MalTokoleso,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(7022) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(13) Category=()}"
+MNS.Perehod.PerehodError_From.MalTokoleso,101,String,""
+MNS.Perehod.PerehodError_From.NotOsn,1,UInt4,5
+MNS.Perehod.PerehodError_From.NotOsn,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(7022) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(1) Category=()}"
+MNS.Perehod.PerehodError_From.NotOsn,101,String,""
+MNS.Perehod.PerehodError_From.NotVkl,1,UInt4,5
+MNS.Perehod.PerehodError_From.NotVkl,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(7022) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(0) Category=()}"
+MNS.Perehod.PerehodError_From.NotVkl,101,String,""
+MNS.Perehod.PerehodError_From.RavnoeTokoleso,1,UInt4,5
+MNS.Perehod.PerehodError_From.RavnoeTokoleso,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(7022) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(15) Category=()}"
+MNS.Perehod.PerehodError_From.RavnoeTokoleso,101,String,""
+MNS.Perehod.PerehodError_To.HighP,1,UInt4,5
+MNS.Perehod.PerehodError_To.HighP,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(7023) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(8) Category=()}"
+MNS.Perehod.PerehodError_To.HighP,101,String,""
+MNS.Perehod.PerehodError_To.ImitMode,1,UInt4,5
+MNS.Perehod.PerehodError_To.ImitMode,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(7023) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(2) Category=()}"
+MNS.Perehod.PerehodError_To.ImitMode,101,String,""
+MNS.Perehod.PerehodError_To.ImitZDV,1,UInt4,5
+MNS.Perehod.PerehodError_To.ImitZDV,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(7023) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(6) Category=()}"
+MNS.Perehod.PerehodError_To.ImitZDV,101,String,""
+MNS.Perehod.PerehodError_To.NotGP,1,UInt4,5
+MNS.Perehod.PerehodError_To.NotGP,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(7023) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(4) Category=()}"
+MNS.Perehod.PerehodError_To.NotGP,101,String,""
+MNS.Perehod.PerehodError_To.NotinP1,1,UInt4,5
+MNS.Perehod.PerehodError_To.NotinP1,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(7023) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(3) Category=()}"
+MNS.Perehod.PerehodError_To.NotinP1,101,String,""
+MNS.Perehod.PerehodError_To.NotOsn,1,UInt4,5
+MNS.Perehod.PerehodError_To.NotOsn,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(7023) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(1) Category=()}"
+MNS.Perehod.PerehodError_To.NotOsn,101,String,""
+MNS.Perehod.PerehodError_To.NotVkl,1,UInt4,5
+MNS.Perehod.PerehodError_To.NotVkl,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(7023) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(0) Category=()}"
+MNS.Perehod.PerehodError_To.NotVkl,101,String,""
+MNS.Perehod.PerehodError_To.ZDVNotOpn,1,UInt4,5
+MNS.Perehod.PerehodError_To.ZDVNotOpn,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(7023) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(5) Category=()}"
+MNS.Perehod.PerehodError_To.ZDVNotOpn,101,String,""
+MNS.Perehod.MNAFrom,1,UInt4,9
+MNS.Perehod.MNAFrom,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(111) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.Perehod.MNAFrom,101,String,""
+MNS.Perehod.MNATo,1,UInt4,9
+MNS.Perehod.MNATo,5000,String,"{ ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(112) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.Perehod.MNATo,101,String,""

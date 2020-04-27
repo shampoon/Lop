@@ -1,0 +1,40 @@
+
+
+--------------------------------------------------------
+PROFICY iFIX, EVENT LOG  15.05.2019 10:13:24
+--------------------------------------------------------
+
+15.05.2019 10:13:27 [fix.exe] iFIX Demo System Running!
+
+
+
+--------------------------------------------------------
+PROFICY iFIX, EVENT LOG  15.05.2019 12:45:32
+--------------------------------------------------------
+
+15.05.2019 12:45:36 [fix.exe] iFIX Demo System Running!
+
+
+
+--------------------------------------------------------
+PROFICY iFIX, EVENT LOG  15.05.2019 13:26:59
+--------------------------------------------------------
+
+15.05.2019 13:27:04 [fix.exe] iFIX Demo System Running!
+
+15.05.2019 13:36:54 [fix.exe] iFIX Software shutdown
+
+15.05.2019 13:36:54 [fix.exe] enviro.c: Set_ExplorerShell(): Cannot find window class SecShellHelperWnd. Make sure SecShellHelper.exe is started with normal user privileges.
+
+
+
+--------------------------------------------------------
+PROFICY iFIX, EVENT LOG  15.05.2019 13:38:53
+--------------------------------------------------------
+
+15.05.2019 13:38:58 [fix.exe] iFIX Demo System Running!
+
+15.05.2019 14:07:21 [fix.exe] iFIX Software shutdown
+
+15.05.2019 14:07:21 [fix.exe] enviro.c: Set_ExplorerShell(): Cannot find window class SecShellHelperWnd. Make sure SecShellHelper.exe is started with normal user privileges.
+

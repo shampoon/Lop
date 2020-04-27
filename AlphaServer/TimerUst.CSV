@@ -1,0 +1,1320 @@
+MNS.UST.Protect.NA1.T001,1, UInt4, 9
+MNS.UST.Protect.NA1.T001,6,Float,1000
+MNS.UST.Protect.NA1.T001,101,String,"ПНА №036.1. Аварийная максимальная температура нефти на выходе из насоса"
+MNS.UST.Protect.NA1.T001,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(8097) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.UST.Protect.NA1.T002,1, UInt4, 9
+MNS.UST.Protect.NA1.T002,6,Float,1000
+MNS.UST.Protect.NA1.T002,101,String,"ПНА №036.1. Недостоверность измерений температуры корпуса насоса"
+MNS.UST.Protect.NA1.T002,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(8098) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.UST.Protect.NA1.T003,1, UInt4, 9
+MNS.UST.Protect.NA1.T003,6,Float,1000
+MNS.UST.Protect.NA1.T003,101,String,"ПНА №036.1. Аварийная максимальная температура опорно-упорного подшипника насоса (точка 1)"
+MNS.UST.Protect.NA1.T003,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(8099) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.UST.Protect.NA1.T004,1, UInt4, 9
+MNS.UST.Protect.NA1.T004,6,Float,1000
+MNS.UST.Protect.NA1.T004,101,String,"ПНА №036.1. Аварийная максимальная температура опорно-упорного подшипника насоса (точка 2)"
+MNS.UST.Protect.NA1.T004,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(8100) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.UST.Protect.NA1.T005,1, UInt4, 9
+MNS.UST.Protect.NA1.T005,6,Float,1000
+MNS.UST.Protect.NA1.T005,101,String,"ПНА №036.1. Аварийная максимальная температура нижнего подшипника ЭД"
+MNS.UST.Protect.NA1.T005,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(8101) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.UST.Protect.NA1.T006,1, UInt4, 9
+MNS.UST.Protect.NA1.T006,6,Float,1000
+MNS.UST.Protect.NA1.T006,101,String,"ПНА №036.1. Аварийная максимальная температура верхнего подшипника ЭД (точка 1)"
+MNS.UST.Protect.NA1.T006,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(8102) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.UST.Protect.NA1.T007,1, UInt4, 9
+MNS.UST.Protect.NA1.T007,6,Float,1000
+MNS.UST.Protect.NA1.T007,101,String,"ПНА №036.1. Аварийная максимальная температура верхнего подшипника ЭД (точка 2)"
+MNS.UST.Protect.NA1.T007,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(8103) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.UST.Protect.NA1.T008,1, UInt4, 9
+MNS.UST.Protect.NA1.T008,6,Float,1000
+MNS.UST.Protect.NA1.T008,101,String,"ПНА №036.1. Недостоверность измерений температуры опорно-упорного подшипника насоса (точка 1)"
+MNS.UST.Protect.NA1.T008,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(8104) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.UST.Protect.NA1.T009,1, UInt4, 9
+MNS.UST.Protect.NA1.T009,6,Float,1000
+MNS.UST.Protect.NA1.T009,101,String,"ПНА №036.1. Недостоверность измерений температуры опорно-упорного подшипника насоса (точка 2)"
+MNS.UST.Protect.NA1.T009,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(8105) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.UST.Protect.NA1.T010,1, UInt4, 9
+MNS.UST.Protect.NA1.T010,6,Float,1000
+MNS.UST.Protect.NA1.T010,101,String,"ПНА №036.1. Недостоверность измерений температуры нижнего подшипника ЭД"
+MNS.UST.Protect.NA1.T010,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(8106) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.UST.Protect.NA1.T011,1, UInt4, 9
+MNS.UST.Protect.NA1.T011,6,Float,1000
+MNS.UST.Protect.NA1.T011,101,String,"ПНА №036.1. Недостоверность измерений температуры верхнего подшипника ЭД (точка 1)"
+MNS.UST.Protect.NA1.T011,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(8107) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.UST.Protect.NA1.T012,1, UInt4, 9
+MNS.UST.Protect.NA1.T012,6,Float,1000
+MNS.UST.Protect.NA1.T012,101,String,"ПНА №036.1. Недостоверность измерений температуры верхнего подшипника ЭД (точка 2)"
+MNS.UST.Protect.NA1.T012,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(8108) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.UST.Protect.NA1.T013,1, UInt4, 9
+MNS.UST.Protect.NA1.T013,6,Float,1000
+MNS.UST.Protect.NA1.T013,101,String,"ПНА №036.1. Aварийные утечки через торцевое уплотнение насоса"
+MNS.UST.Protect.NA1.T013,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(8109) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.UST.Protect.NA1.T014,1, UInt4, 9
+MNS.UST.Protect.NA1.T014,6,Float,1000
+MNS.UST.Protect.NA1.T014,101,String,"ПНА №036.1. Аварийная максимальная вибрация опорно-упорного подшипника насоса в нестац. режиме (горизонтальная) "
+MNS.UST.Protect.NA1.T014,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(8110) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.UST.Protect.NA1.T015,1, UInt4, 9
+MNS.UST.Protect.NA1.T015,6,Float,1000
+MNS.UST.Protect.NA1.T015,101,String,"ПНА №036.1. Аварийная максимальная вибрация опорно-упорного подшипника насоса в нестац. режиме (поперечная) "
+MNS.UST.Protect.NA1.T015,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(8111) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.UST.Protect.NA1.T016,1, UInt4, 9
+MNS.UST.Protect.NA1.T016,6,Float,1000
+MNS.UST.Protect.NA1.T016,101,String,"ПНА №036.1. Аварийная максимальная вибрация опорно-упорного подшипника насоса в стац. режиме (горизонтальная) . Порог 1"
+MNS.UST.Protect.NA1.T016,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(8112) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.UST.Protect.NA1.T017,1, UInt4, 9
+MNS.UST.Protect.NA1.T017,6,Float,1000
+MNS.UST.Protect.NA1.T017,101,String,"ПНА №036.1. Аварийная максимальная вибрация опорно-упорного подшипника насоса в стац. режиме (поперечная) . Порог 1"
+MNS.UST.Protect.NA1.T017,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(8113) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.UST.Protect.NA1.T018,1, UInt4, 9
+MNS.UST.Protect.NA1.T018,6,Float,1000
+MNS.UST.Protect.NA1.T018,101,String,"ПНА №036.1. Аварийная максимальная вибрация опорно-упорного подшипника насоса (горизонтальная) . Порог 2"
+MNS.UST.Protect.NA1.T018,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(8114) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.UST.Protect.NA1.T019,1, UInt4, 9
+MNS.UST.Protect.NA1.T019,6,Float,1000
+MNS.UST.Protect.NA1.T019,101,String,"ПНА №036.1. Аварийная максимальная вибрация опорно-упорного подшипника насоса (поперечная) . Порог 2"
+MNS.UST.Protect.NA1.T019,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(8115) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.UST.Protect.NA1.T020,1, UInt4, 9
+MNS.UST.Protect.NA1.T020,6,Float,1000
+MNS.UST.Protect.NA1.T020,101,String,"ПНА №036.1. Недостоверность измерений вибрации в группе преобразователей (насос)"
+MNS.UST.Protect.NA1.T020,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(8116) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.UST.Protect.NA1.T021,1, UInt4, 9
+MNS.UST.Protect.NA1.T021,6,Float,1000
+MNS.UST.Protect.NA1.T021,101,String,"ПНА №036.1. Аварийное минимальное давление на выходе работающего ПНА "
+MNS.UST.Protect.NA1.T021,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(8117) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.UST.Protect.NA1.T022,1, UInt4, 9
+MNS.UST.Protect.NA1.T022,6,Float,1000
+MNS.UST.Protect.NA1.T022,101,String,"ПНА №036.1. Закрытие агрегатных задвижек работающего агрегата"
+MNS.UST.Protect.NA1.T022,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(8118) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.UST.Protect.NA1.T023,1, UInt4, 9
+MNS.UST.Protect.NA1.T023,6,Float,1000
+MNS.UST.Protect.NA1.T023,101,String,"ПНА №036.1. Невыполнение программы пуска агрегата ПНА"
+MNS.UST.Protect.NA1.T023,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(8119) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.UST.Protect.NA1.T024,1, UInt4, 9
+MNS.UST.Protect.NA1.T024,6,Float,1000
+MNS.UST.Protect.NA1.T024,101,String,"ПНА №036.1. Невыполнение команды остановки ПНА"
+MNS.UST.Protect.NA1.T024,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(8120) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.UST.Protect.NA1.T025,1, UInt4, 9
+MNS.UST.Protect.NA1.T025,6,Float,1000
+MNS.UST.Protect.NA1.T025,101,String,"ПНА №036.1. Невыполнение команды отключения НВ ПНА"
+MNS.UST.Protect.NA1.T025,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(8121) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.UST.Protect.NA1.T026,1, UInt4, 9
+MNS.UST.Protect.NA1.T026,6,Float,1000
+MNS.UST.Protect.NA1.T026,101,String,"ПНА №036.1. Неисправность цепей отключения НВ ПНА (в т.ч. отсутствие питания цепей управления)"
+MNS.UST.Protect.NA1.T026,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(8122) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.UST.Protect.NA1.T027,1, UInt4, 9
+MNS.UST.Protect.NA1.T027,6,Float,1000
+MNS.UST.Protect.NA1.T027,101,String,"ПНА №036.1. Несанкционированное отключение ПНА"
+MNS.UST.Protect.NA1.T027,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(8123) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.UST.Protect.NA1.T028,1, UInt4, 9
+MNS.UST.Protect.NA1.T028,6,Float,1000
+MNS.UST.Protect.NA1.T028,101,String,"ПНА №036.1. Несанкционированное включение ПНА"
+MNS.UST.Protect.NA1.T028,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(8124) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.UST.Protect.NA1.T029,1, UInt4, 9
+MNS.UST.Protect.NA1.T029,6,Float,1000
+MNS.UST.Protect.NA1.T029,101,String,"ПНА №036.1. Неисправность цепей контроля ПНА"
+MNS.UST.Protect.NA1.T029,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(8125) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.UST.Protect.NA1.T030,1, UInt4, 9
+MNS.UST.Protect.NA1.T030,6,Float,1000
+MNS.UST.Protect.NA1.T030,101,String,"ПНА №036.1. Аварийное отключение агрегата ПНА кнопкой Стоп по месту"
+MNS.UST.Protect.NA1.T030,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(8126) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.UST.Protect.NA1.T031,1, UInt4, 9
+MNS.UST.Protect.NA1.T031,6,Float,1000
+MNS.UST.Protect.NA1.T031,101,String,"ПНА №036.1. Аварийное отключение агрегата ПНА кнопкой Стоп с БРУ"
+MNS.UST.Protect.NA1.T031,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(8127) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.UST.Protect.NA1.T032,1, UInt4, 9
+MNS.UST.Protect.NA1.T032,6,Float,1000
+MNS.UST.Protect.NA1.T032,101,String,"ПНА №036.1. Авария ЧРП"
+MNS.UST.Protect.NA1.T032,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(8128) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.UST.Protect.NA1.T033,1, UInt4, 9
+MNS.UST.Protect.NA1.T033,6,Float,1000
+MNS.UST.Protect.NA1.T033,101,String,"ПНА №036.1. Невыполнение ЧРП включенного ПНА команд регулирования"
+MNS.UST.Protect.NA1.T033,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(8129) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.UST.Protect.NA2.T001,1, UInt4, 9
+MNS.UST.Protect.NA2.T001,6,Float,1000
+MNS.UST.Protect.NA2.T001,101,String,"ПНА №036.2. Аварийная максимальная температура нефти на выходе из насоса"
+MNS.UST.Protect.NA2.T001,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(8225) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.UST.Protect.NA2.T002,1, UInt4, 9
+MNS.UST.Protect.NA2.T002,6,Float,1000
+MNS.UST.Protect.NA2.T002,101,String,"ПНА №036.2. Недостоверность измерений температуры корпуса насоса"
+MNS.UST.Protect.NA2.T002,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(8226) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.UST.Protect.NA2.T003,1, UInt4, 9
+MNS.UST.Protect.NA2.T003,6,Float,1000
+MNS.UST.Protect.NA2.T003,101,String,"ПНА №036.2. Аварийная максимальная температура опорно-упорного подшипника насоса (точка 1)"
+MNS.UST.Protect.NA2.T003,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(8227) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.UST.Protect.NA2.T004,1, UInt4, 9
+MNS.UST.Protect.NA2.T004,6,Float,1000
+MNS.UST.Protect.NA2.T004,101,String,"ПНА №036.2. Аварийная максимальная температура опорно-упорного подшипника насоса (точка 2)"
+MNS.UST.Protect.NA2.T004,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(8228) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.UST.Protect.NA2.T005,1, UInt4, 9
+MNS.UST.Protect.NA2.T005,6,Float,1000
+MNS.UST.Protect.NA2.T005,101,String,"ПНА №036.2. Аварийная максимальная температура нижнего подшипника ЭД"
+MNS.UST.Protect.NA2.T005,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(8229) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.UST.Protect.NA2.T006,1, UInt4, 9
+MNS.UST.Protect.NA2.T006,6,Float,1000
+MNS.UST.Protect.NA2.T006,101,String,"ПНА №036.2. Аварийная максимальная температура верхнего подшипника ЭД (точка 1)"
+MNS.UST.Protect.NA2.T006,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(8230) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.UST.Protect.NA2.T007,1, UInt4, 9
+MNS.UST.Protect.NA2.T007,6,Float,1000
+MNS.UST.Protect.NA2.T007,101,String,"ПНА №036.2. Аварийная максимальная температура верхнего подшипника ЭД (точка 2)"
+MNS.UST.Protect.NA2.T007,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(8231) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.UST.Protect.NA2.T008,1, UInt4, 9
+MNS.UST.Protect.NA2.T008,6,Float,1000
+MNS.UST.Protect.NA2.T008,101,String,"ПНА №036.2. Недостоверность измерений температуры опорно-упорного подшипника насоса (точка 1)"
+MNS.UST.Protect.NA2.T008,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(8232) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.UST.Protect.NA2.T009,1, UInt4, 9
+MNS.UST.Protect.NA2.T009,6,Float,1000
+MNS.UST.Protect.NA2.T009,101,String,"ПНА №036.2. Недостоверность измерений температуры опорно-упорного подшипника насоса (точка 2)"
+MNS.UST.Protect.NA2.T009,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(8233) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.UST.Protect.NA2.T010,1, UInt4, 9
+MNS.UST.Protect.NA2.T010,6,Float,1000
+MNS.UST.Protect.NA2.T010,101,String,"ПНА №036.2. Недостоверность измерений температуры нижнего подшипника ЭД"
+MNS.UST.Protect.NA2.T010,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(8234) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.UST.Protect.NA2.T011,1, UInt4, 9
+MNS.UST.Protect.NA2.T011,6,Float,1000
+MNS.UST.Protect.NA2.T011,101,String,"ПНА №036.2. Недостоверность измерений температуры верхнего подшипника ЭД (точка 1)"
+MNS.UST.Protect.NA2.T011,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(8235) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.UST.Protect.NA2.T012,1, UInt4, 9
+MNS.UST.Protect.NA2.T012,6,Float,1000
+MNS.UST.Protect.NA2.T012,101,String,"ПНА №036.2. Недостоверность измерений температуры верхнего подшипника ЭД (точка 2)"
+MNS.UST.Protect.NA2.T012,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(8236) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.UST.Protect.NA2.T013,1, UInt4, 9
+MNS.UST.Protect.NA2.T013,6,Float,1000
+MNS.UST.Protect.NA2.T013,101,String,"ПНА №036.2. Aварийные утечки через торцевое уплотнение насоса"
+MNS.UST.Protect.NA2.T013,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(8237) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.UST.Protect.NA2.T014,1, UInt4, 9
+MNS.UST.Protect.NA2.T014,6,Float,1000
+MNS.UST.Protect.NA2.T014,101,String,"ПНА №036.2. Аварийная максимальная вибрация опорно-упорного подшипника насоса в нестац. режиме (горизонтальная) "
+MNS.UST.Protect.NA2.T014,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(8238) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.UST.Protect.NA2.T015,1, UInt4, 9
+MNS.UST.Protect.NA2.T015,6,Float,1000
+MNS.UST.Protect.NA2.T015,101,String,"ПНА №036.2. Аварийная максимальная вибрация опорно-упорного подшипника насоса в нестац. режиме (поперечная) "
+MNS.UST.Protect.NA2.T015,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(8239) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.UST.Protect.NA2.T016,1, UInt4, 9
+MNS.UST.Protect.NA2.T016,6,Float,1000
+MNS.UST.Protect.NA2.T016,101,String,"ПНА №036.2. Аварийная максимальная вибрация опорно-упорного подшипника насоса в стац. режиме (горизонтальная) . Порог 1"
+MNS.UST.Protect.NA2.T016,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(8240) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.UST.Protect.NA2.T017,1, UInt4, 9
+MNS.UST.Protect.NA2.T017,6,Float,1000
+MNS.UST.Protect.NA2.T017,101,String,"ПНА №036.2. Аварийная максимальная вибрация опорно-упорного подшипника насоса в стац. режиме (поперечная) . Порог 1"
+MNS.UST.Protect.NA2.T017,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(8241) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.UST.Protect.NA2.T018,1, UInt4, 9
+MNS.UST.Protect.NA2.T018,6,Float,1000
+MNS.UST.Protect.NA2.T018,101,String,"ПНА №036.2. Аварийная максимальная вибрация опорно-упорного подшипника насоса (горизонтальная) . Порог 2"
+MNS.UST.Protect.NA2.T018,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(8242) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.UST.Protect.NA2.T019,1, UInt4, 9
+MNS.UST.Protect.NA2.T019,6,Float,1000
+MNS.UST.Protect.NA2.T019,101,String,"ПНА №036.2. Аварийная максимальная вибрация опорно-упорного подшипника насоса (поперечная) . Порог 2"
+MNS.UST.Protect.NA2.T019,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(8243) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.UST.Protect.NA2.T020,1, UInt4, 9
+MNS.UST.Protect.NA2.T020,6,Float,1000
+MNS.UST.Protect.NA2.T020,101,String,"ПНА №036.2. Недостоверность измерений вибрации в группе преобразователей (насос)"
+MNS.UST.Protect.NA2.T020,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(8244) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.UST.Protect.NA2.T021,1, UInt4, 9
+MNS.UST.Protect.NA2.T021,6,Float,1000
+MNS.UST.Protect.NA2.T021,101,String,"ПНА №036.2. Аварийное минимальное давление на выходе работающего ПНА "
+MNS.UST.Protect.NA2.T021,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(8245) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.UST.Protect.NA2.T022,1, UInt4, 9
+MNS.UST.Protect.NA2.T022,6,Float,1000
+MNS.UST.Protect.NA2.T022,101,String,"ПНА №036.2. Закрытие агрегатных задвижек работающего агрегата"
+MNS.UST.Protect.NA2.T022,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(8246) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.UST.Protect.NA2.T023,1, UInt4, 9
+MNS.UST.Protect.NA2.T023,6,Float,1000
+MNS.UST.Protect.NA2.T023,101,String,"ПНА №036.2. Невыполнение программы пуска агрегата ПНА"
+MNS.UST.Protect.NA2.T023,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(8247) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.UST.Protect.NA2.T024,1, UInt4, 9
+MNS.UST.Protect.NA2.T024,6,Float,1000
+MNS.UST.Protect.NA2.T024,101,String,"ПНА №036.2. Невыполнение команды остановки ПНА"
+MNS.UST.Protect.NA2.T024,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(8248) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.UST.Protect.NA2.T025,1, UInt4, 9
+MNS.UST.Protect.NA2.T025,6,Float,1000
+MNS.UST.Protect.NA2.T025,101,String,"ПНА №036.2. Невыполнение команды отключения НВ ПНА"
+MNS.UST.Protect.NA2.T025,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(8249) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.UST.Protect.NA2.T026,1, UInt4, 9
+MNS.UST.Protect.NA2.T026,6,Float,1000
+MNS.UST.Protect.NA2.T026,101,String,"ПНА №036.2. Неисправность цепей отключения НВ ПНА (в т.ч. отсутствие питания цепей управления)"
+MNS.UST.Protect.NA2.T026,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(8250) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.UST.Protect.NA2.T027,1, UInt4, 9
+MNS.UST.Protect.NA2.T027,6,Float,1000
+MNS.UST.Protect.NA2.T027,101,String,"ПНА №036.2. Несанкционированное отключение ПНА"
+MNS.UST.Protect.NA2.T027,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(8251) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.UST.Protect.NA2.T028,1, UInt4, 9
+MNS.UST.Protect.NA2.T028,6,Float,1000
+MNS.UST.Protect.NA2.T028,101,String,"ПНА №036.2. Несанкционированное включение ПНА"
+MNS.UST.Protect.NA2.T028,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(8252) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.UST.Protect.NA2.T029,1, UInt4, 9
+MNS.UST.Protect.NA2.T029,6,Float,1000
+MNS.UST.Protect.NA2.T029,101,String,"ПНА №036.2. Неисправность цепей контроля ПНА"
+MNS.UST.Protect.NA2.T029,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(8253) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.UST.Protect.NA2.T030,1, UInt4, 9
+MNS.UST.Protect.NA2.T030,6,Float,1000
+MNS.UST.Protect.NA2.T030,101,String,"ПНА №036.2. Аварийное отключение агрегата ПНА кнопкой Стоп по месту"
+MNS.UST.Protect.NA2.T030,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(8254) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.UST.Protect.NA2.T031,1, UInt4, 9
+MNS.UST.Protect.NA2.T031,6,Float,1000
+MNS.UST.Protect.NA2.T031,101,String,"ПНА №036.2. Аварийное отключение агрегата ПНА кнопкой Стоп с БРУ"
+MNS.UST.Protect.NA2.T031,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(8255) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.UST.Protect.NA2.T032,1, UInt4, 9
+MNS.UST.Protect.NA2.T032,6,Float,1000
+MNS.UST.Protect.NA2.T032,101,String,"ПНА №036.2. Авария ЧРП"
+MNS.UST.Protect.NA2.T032,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(8256) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.UST.Protect.NA2.T033,1, UInt4, 9
+MNS.UST.Protect.NA2.T033,6,Float,1000
+MNS.UST.Protect.NA2.T033,101,String,"ПНА №036.2. Невыполнение ЧРП включенного ПНА команд регулирования"
+MNS.UST.Protect.NA2.T033,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(8257) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.UST.Protect.NA3.T001,1, UInt4, 9
+MNS.UST.Protect.NA3.T001,6,Float,1000
+MNS.UST.Protect.NA3.T001,101,String,"ПНА №036.3. Аварийная максимальная температура нефти на выходе из насоса"
+MNS.UST.Protect.NA3.T001,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(8353) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.UST.Protect.NA3.T002,1, UInt4, 9
+MNS.UST.Protect.NA3.T002,6,Float,1000
+MNS.UST.Protect.NA3.T002,101,String,"ПНА №036.3. Недостоверность измерений температуры корпуса насоса"
+MNS.UST.Protect.NA3.T002,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(8354) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.UST.Protect.NA3.T003,1, UInt4, 9
+MNS.UST.Protect.NA3.T003,6,Float,1000
+MNS.UST.Protect.NA3.T003,101,String,"ПНА №036.3. Аварийная максимальная температура опорно-упорного подшипника насоса (точка 1)"
+MNS.UST.Protect.NA3.T003,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(8355) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.UST.Protect.NA3.T004,1, UInt4, 9
+MNS.UST.Protect.NA3.T004,6,Float,1000
+MNS.UST.Protect.NA3.T004,101,String,"ПНА №036.3. Аварийная максимальная температура опорно-упорного подшипника насоса (точка 2)"
+MNS.UST.Protect.NA3.T004,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(8356) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.UST.Protect.NA3.T005,1, UInt4, 9
+MNS.UST.Protect.NA3.T005,6,Float,1000
+MNS.UST.Protect.NA3.T005,101,String,"ПНА №036.3. Аварийная максимальная температура нижнего подшипника ЭД"
+MNS.UST.Protect.NA3.T005,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(8357) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.UST.Protect.NA3.T006,1, UInt4, 9
+MNS.UST.Protect.NA3.T006,6,Float,1000
+MNS.UST.Protect.NA3.T006,101,String,"ПНА №036.3. Аварийная максимальная температура верхнего подшипника ЭД (точка 1)"
+MNS.UST.Protect.NA3.T006,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(8358) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.UST.Protect.NA3.T007,1, UInt4, 9
+MNS.UST.Protect.NA3.T007,6,Float,1000
+MNS.UST.Protect.NA3.T007,101,String,"ПНА №036.3. Аварийная максимальная температура верхнего подшипника ЭД (точка 2)"
+MNS.UST.Protect.NA3.T007,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(8359) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.UST.Protect.NA3.T008,1, UInt4, 9
+MNS.UST.Protect.NA3.T008,6,Float,1000
+MNS.UST.Protect.NA3.T008,101,String,"ПНА №036.3. Недостоверность измерений температуры опорно-упорного подшипника насоса (точка 1)"
+MNS.UST.Protect.NA3.T008,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(8360) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.UST.Protect.NA3.T009,1, UInt4, 9
+MNS.UST.Protect.NA3.T009,6,Float,1000
+MNS.UST.Protect.NA3.T009,101,String,"ПНА №036.3. Недостоверность измерений температуры опорно-упорного подшипника насоса (точка 2)"
+MNS.UST.Protect.NA3.T009,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(8361) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.UST.Protect.NA3.T010,1, UInt4, 9
+MNS.UST.Protect.NA3.T010,6,Float,1000
+MNS.UST.Protect.NA3.T010,101,String,"ПНА №036.3. Недостоверность измерений температуры нижнего подшипника ЭД"
+MNS.UST.Protect.NA3.T010,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(8362) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.UST.Protect.NA3.T011,1, UInt4, 9
+MNS.UST.Protect.NA3.T011,6,Float,1000
+MNS.UST.Protect.NA3.T011,101,String,"ПНА №036.3. Недостоверность измерений температуры верхнего подшипника ЭД (точка 1)"
+MNS.UST.Protect.NA3.T011,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(8363) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.UST.Protect.NA3.T012,1, UInt4, 9
+MNS.UST.Protect.NA3.T012,6,Float,1000
+MNS.UST.Protect.NA3.T012,101,String,"ПНА №036.3. Недостоверность измерений температуры верхнего подшипника ЭД (точка 2)"
+MNS.UST.Protect.NA3.T012,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(8364) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.UST.Protect.NA3.T013,1, UInt4, 9
+MNS.UST.Protect.NA3.T013,6,Float,1000
+MNS.UST.Protect.NA3.T013,101,String,"ПНА №036.3. Aварийные утечки через торцевое уплотнение насоса"
+MNS.UST.Protect.NA3.T013,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(8365) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.UST.Protect.NA3.T014,1, UInt4, 9
+MNS.UST.Protect.NA3.T014,6,Float,1000
+MNS.UST.Protect.NA3.T014,101,String,"ПНА №036.3. Аварийная максимальная вибрация опорно-упорного подшипника насоса в нестац. режиме (горизонтальная) "
+MNS.UST.Protect.NA3.T014,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(8366) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.UST.Protect.NA3.T015,1, UInt4, 9
+MNS.UST.Protect.NA3.T015,6,Float,1000
+MNS.UST.Protect.NA3.T015,101,String,"ПНА №036.3. Аварийная максимальная вибрация опорно-упорного подшипника насоса в нестац. режиме (поперечная) "
+MNS.UST.Protect.NA3.T015,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(8367) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.UST.Protect.NA3.T016,1, UInt4, 9
+MNS.UST.Protect.NA3.T016,6,Float,1000
+MNS.UST.Protect.NA3.T016,101,String,"ПНА №036.3. Аварийная максимальная вибрация опорно-упорного подшипника насоса в стац. режиме (горизонтальная) . Порог 1"
+MNS.UST.Protect.NA3.T016,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(8368) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.UST.Protect.NA3.T017,1, UInt4, 9
+MNS.UST.Protect.NA3.T017,6,Float,1000
+MNS.UST.Protect.NA3.T017,101,String,"ПНА №036.3. Аварийная максимальная вибрация опорно-упорного подшипника насоса в стац. режиме (поперечная) . Порог 1"
+MNS.UST.Protect.NA3.T017,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(8369) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.UST.Protect.NA3.T018,1, UInt4, 9
+MNS.UST.Protect.NA3.T018,6,Float,1000
+MNS.UST.Protect.NA3.T018,101,String,"ПНА №036.3. Аварийная максимальная вибрация опорно-упорного подшипника насоса (горизонтальная) . Порог 2"
+MNS.UST.Protect.NA3.T018,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(8370) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.UST.Protect.NA3.T019,1, UInt4, 9
+MNS.UST.Protect.NA3.T019,6,Float,1000
+MNS.UST.Protect.NA3.T019,101,String,"ПНА №036.3. Аварийная максимальная вибрация опорно-упорного подшипника насоса (поперечная) . Порог 2"
+MNS.UST.Protect.NA3.T019,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(8371) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.UST.Protect.NA3.T020,1, UInt4, 9
+MNS.UST.Protect.NA3.T020,6,Float,1000
+MNS.UST.Protect.NA3.T020,101,String,"ПНА №036.3. Недостоверность измерений вибрации в группе преобразователей (насос)"
+MNS.UST.Protect.NA3.T020,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(8372) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.UST.Protect.NA3.T021,1, UInt4, 9
+MNS.UST.Protect.NA3.T021,6,Float,1000
+MNS.UST.Protect.NA3.T021,101,String,"ПНА №036.3. Аварийное минимальное давление на выходе работающего ПНА "
+MNS.UST.Protect.NA3.T021,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(8373) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.UST.Protect.NA3.T022,1, UInt4, 9
+MNS.UST.Protect.NA3.T022,6,Float,1000
+MNS.UST.Protect.NA3.T022,101,String,"ПНА №036.3. Закрытие агрегатных задвижек работающего агрегата"
+MNS.UST.Protect.NA3.T022,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(8374) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.UST.Protect.NA3.T023,1, UInt4, 9
+MNS.UST.Protect.NA3.T023,6,Float,1000
+MNS.UST.Protect.NA3.T023,101,String,"ПНА №036.3. Невыполнение программы пуска агрегата ПНА"
+MNS.UST.Protect.NA3.T023,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(8375) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.UST.Protect.NA3.T024,1, UInt4, 9
+MNS.UST.Protect.NA3.T024,6,Float,1000
+MNS.UST.Protect.NA3.T024,101,String,"ПНА №036.3. Невыполнение команды остановки ПНА"
+MNS.UST.Protect.NA3.T024,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(8376) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.UST.Protect.NA3.T025,1, UInt4, 9
+MNS.UST.Protect.NA3.T025,6,Float,1000
+MNS.UST.Protect.NA3.T025,101,String,"ПНА №036.3. Невыполнение команды отключения НВ ПНА"
+MNS.UST.Protect.NA3.T025,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(8377) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.UST.Protect.NA3.T026,1, UInt4, 9
+MNS.UST.Protect.NA3.T026,6,Float,1000
+MNS.UST.Protect.NA3.T026,101,String,"ПНА №036.3. Неисправность цепей отключения НВ ПНА (в т.ч. отсутствие питания цепей управления)"
+MNS.UST.Protect.NA3.T026,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(8378) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.UST.Protect.NA3.T027,1, UInt4, 9
+MNS.UST.Protect.NA3.T027,6,Float,1000
+MNS.UST.Protect.NA3.T027,101,String,"ПНА №036.3. Несанкционированное отключение ПНА"
+MNS.UST.Protect.NA3.T027,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(8379) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.UST.Protect.NA3.T028,1, UInt4, 9
+MNS.UST.Protect.NA3.T028,6,Float,1000
+MNS.UST.Protect.NA3.T028,101,String,"ПНА №036.3. Несанкционированное включение ПНА"
+MNS.UST.Protect.NA3.T028,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(8380) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.UST.Protect.NA3.T029,1, UInt4, 9
+MNS.UST.Protect.NA3.T029,6,Float,1000
+MNS.UST.Protect.NA3.T029,101,String,"ПНА №036.3. Неисправность цепей контроля ПНА"
+MNS.UST.Protect.NA3.T029,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(8381) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.UST.Protect.NA3.T030,1, UInt4, 9
+MNS.UST.Protect.NA3.T030,6,Float,1000
+MNS.UST.Protect.NA3.T030,101,String,"ПНА №036.3. Аварийное отключение агрегата ПНА кнопкой Стоп по месту"
+MNS.UST.Protect.NA3.T030,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(8382) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.UST.Protect.NA3.T031,1, UInt4, 9
+MNS.UST.Protect.NA3.T031,6,Float,1000
+MNS.UST.Protect.NA3.T031,101,String,"ПНА №036.3. Аварийное отключение агрегата ПНА кнопкой Стоп с БРУ"
+MNS.UST.Protect.NA3.T031,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(8383) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.UST.Protect.NA3.T032,1, UInt4, 9
+MNS.UST.Protect.NA3.T032,6,Float,1000
+MNS.UST.Protect.NA3.T032,101,String,"ПНА №036.3. Авария ЧРП"
+MNS.UST.Protect.NA3.T032,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(8384) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.UST.Protect.NA3.T033,1, UInt4, 9
+MNS.UST.Protect.NA3.T033,6,Float,1000
+MNS.UST.Protect.NA3.T033,101,String,"ПНА №036.3. Невыполнение ЧРП включенного ПНА команд регулирования"
+MNS.UST.Protect.NA3.T033,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(8385) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.UST.Protect.NA4.T001,1, UInt4, 9
+MNS.UST.Protect.NA4.T001,6,Float,1000
+MNS.UST.Protect.NA4.T001,101,String,"ПНА №036.4. Аварийная максимальная температура нефти на выходе из насоса"
+MNS.UST.Protect.NA4.T001,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(8481) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.UST.Protect.NA4.T002,1, UInt4, 9
+MNS.UST.Protect.NA4.T002,6,Float,1000
+MNS.UST.Protect.NA4.T002,101,String,"ПНА №036.4. Недостоверность измерений температуры корпуса насоса"
+MNS.UST.Protect.NA4.T002,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(8482) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.UST.Protect.NA4.T003,1, UInt4, 9
+MNS.UST.Protect.NA4.T003,6,Float,1000
+MNS.UST.Protect.NA4.T003,101,String,"ПНА №036.4. Аварийная максимальная температура опорно-упорного подшипника насоса (точка 1)"
+MNS.UST.Protect.NA4.T003,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(8483) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.UST.Protect.NA4.T004,1, UInt4, 9
+MNS.UST.Protect.NA4.T004,6,Float,1000
+MNS.UST.Protect.NA4.T004,101,String,"ПНА №036.4. Аварийная максимальная температура опорно-упорного подшипника насоса (точка 2)"
+MNS.UST.Protect.NA4.T004,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(8484) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.UST.Protect.NA4.T005,1, UInt4, 9
+MNS.UST.Protect.NA4.T005,6,Float,1000
+MNS.UST.Protect.NA4.T005,101,String,"ПНА №036.4. Аварийная максимальная температура нижнего подшипника ЭД"
+MNS.UST.Protect.NA4.T005,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(8485) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.UST.Protect.NA4.T006,1, UInt4, 9
+MNS.UST.Protect.NA4.T006,6,Float,1000
+MNS.UST.Protect.NA4.T006,101,String,"ПНА №036.4. Аварийная максимальная температура верхнего подшипника ЭД (точка 1)"
+MNS.UST.Protect.NA4.T006,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(8486) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.UST.Protect.NA4.T007,1, UInt4, 9
+MNS.UST.Protect.NA4.T007,6,Float,1000
+MNS.UST.Protect.NA4.T007,101,String,"ПНА №036.4. Аварийная максимальная температура верхнего подшипника ЭД (точка 2)"
+MNS.UST.Protect.NA4.T007,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(8487) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.UST.Protect.NA4.T008,1, UInt4, 9
+MNS.UST.Protect.NA4.T008,6,Float,1000
+MNS.UST.Protect.NA4.T008,101,String,"ПНА №036.4. Недостоверность измерений температуры опорно-упорного подшипника насоса (точка 1)"
+MNS.UST.Protect.NA4.T008,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(8488) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.UST.Protect.NA4.T009,1, UInt4, 9
+MNS.UST.Protect.NA4.T009,6,Float,1000
+MNS.UST.Protect.NA4.T009,101,String,"ПНА №036.4. Недостоверность измерений температуры опорно-упорного подшипника насоса (точка 2)"
+MNS.UST.Protect.NA4.T009,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(8489) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.UST.Protect.NA4.T010,1, UInt4, 9
+MNS.UST.Protect.NA4.T010,6,Float,1000
+MNS.UST.Protect.NA4.T010,101,String,"ПНА №036.4. Недостоверность измерений температуры нижнего подшипника ЭД"
+MNS.UST.Protect.NA4.T010,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(8490) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.UST.Protect.NA4.T011,1, UInt4, 9
+MNS.UST.Protect.NA4.T011,6,Float,1000
+MNS.UST.Protect.NA4.T011,101,String,"ПНА №036.4. Недостоверность измерений температуры верхнего подшипника ЭД (точка 1)"
+MNS.UST.Protect.NA4.T011,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(8491) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.UST.Protect.NA4.T012,1, UInt4, 9
+MNS.UST.Protect.NA4.T012,6,Float,1000
+MNS.UST.Protect.NA4.T012,101,String,"ПНА №036.4. Недостоверность измерений температуры верхнего подшипника ЭД (точка 2)"
+MNS.UST.Protect.NA4.T012,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(8492) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.UST.Protect.NA4.T013,1, UInt4, 9
+MNS.UST.Protect.NA4.T013,6,Float,1000
+MNS.UST.Protect.NA4.T013,101,String,"ПНА №036.4. Aварийные утечки через торцевое уплотнение насоса"
+MNS.UST.Protect.NA4.T013,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(8493) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.UST.Protect.NA4.T014,1, UInt4, 9
+MNS.UST.Protect.NA4.T014,6,Float,1000
+MNS.UST.Protect.NA4.T014,101,String,"ПНА №036.4. Аварийная максимальная вибрация опорно-упорного подшипника насоса в нестац. режиме (горизонтальная) "
+MNS.UST.Protect.NA4.T014,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(8494) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.UST.Protect.NA4.T015,1, UInt4, 9
+MNS.UST.Protect.NA4.T015,6,Float,1000
+MNS.UST.Protect.NA4.T015,101,String,"ПНА №036.4. Аварийная максимальная вибрация опорно-упорного подшипника насоса в нестац. режиме (поперечная) "
+MNS.UST.Protect.NA4.T015,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(8495) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.UST.Protect.NA4.T016,1, UInt4, 9
+MNS.UST.Protect.NA4.T016,6,Float,1000
+MNS.UST.Protect.NA4.T016,101,String,"ПНА №036.4. Аварийная максимальная вибрация опорно-упорного подшипника насоса в стац. режиме (горизонтальная) . Порог 1"
+MNS.UST.Protect.NA4.T016,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(8496) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.UST.Protect.NA4.T017,1, UInt4, 9
+MNS.UST.Protect.NA4.T017,6,Float,1000
+MNS.UST.Protect.NA4.T017,101,String,"ПНА №036.4. Аварийная максимальная вибрация опорно-упорного подшипника насоса в стац. режиме (поперечная) . Порог 1"
+MNS.UST.Protect.NA4.T017,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(8497) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.UST.Protect.NA4.T018,1, UInt4, 9
+MNS.UST.Protect.NA4.T018,6,Float,1000
+MNS.UST.Protect.NA4.T018,101,String,"ПНА №036.4. Аварийная максимальная вибрация опорно-упорного подшипника насоса (горизонтальная) . Порог 2"
+MNS.UST.Protect.NA4.T018,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(8498) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.UST.Protect.NA4.T019,1, UInt4, 9
+MNS.UST.Protect.NA4.T019,6,Float,1000
+MNS.UST.Protect.NA4.T019,101,String,"ПНА №036.4. Аварийная максимальная вибрация опорно-упорного подшипника насоса (поперечная) . Порог 2"
+MNS.UST.Protect.NA4.T019,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(8499) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.UST.Protect.NA4.T020,1, UInt4, 9
+MNS.UST.Protect.NA4.T020,6,Float,1000
+MNS.UST.Protect.NA4.T020,101,String,"ПНА №036.4. Недостоверность измерений вибрации в группе преобразователей (насос)"
+MNS.UST.Protect.NA4.T020,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(8500) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.UST.Protect.NA4.T021,1, UInt4, 9
+MNS.UST.Protect.NA4.T021,6,Float,1000
+MNS.UST.Protect.NA4.T021,101,String,"ПНА №036.4. Аварийное минимальное давление на выходе работающего ПНА "
+MNS.UST.Protect.NA4.T021,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(8501) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.UST.Protect.NA4.T022,1, UInt4, 9
+MNS.UST.Protect.NA4.T022,6,Float,1000
+MNS.UST.Protect.NA4.T022,101,String,"ПНА №036.4. Закрытие агрегатных задвижек работающего агрегата"
+MNS.UST.Protect.NA4.T022,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(8502) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.UST.Protect.NA4.T023,1, UInt4, 9
+MNS.UST.Protect.NA4.T023,6,Float,1000
+MNS.UST.Protect.NA4.T023,101,String,"ПНА №036.4. Невыполнение программы пуска агрегата ПНА"
+MNS.UST.Protect.NA4.T023,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(8503) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.UST.Protect.NA4.T024,1, UInt4, 9
+MNS.UST.Protect.NA4.T024,6,Float,1000
+MNS.UST.Protect.NA4.T024,101,String,"ПНА №036.4. Невыполнение команды остановки ПНА"
+MNS.UST.Protect.NA4.T024,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(8504) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.UST.Protect.NA4.T025,1, UInt4, 9
+MNS.UST.Protect.NA4.T025,6,Float,1000
+MNS.UST.Protect.NA4.T025,101,String,"ПНА №036.4. Невыполнение команды отключения НВ ПНА"
+MNS.UST.Protect.NA4.T025,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(8505) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.UST.Protect.NA4.T026,1, UInt4, 9
+MNS.UST.Protect.NA4.T026,6,Float,1000
+MNS.UST.Protect.NA4.T026,101,String,"ПНА №036.4. Неисправность цепей отключения НВ ПНА (в т.ч. отсутствие питания цепей управления)"
+MNS.UST.Protect.NA4.T026,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(8506) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.UST.Protect.NA4.T027,1, UInt4, 9
+MNS.UST.Protect.NA4.T027,6,Float,1000
+MNS.UST.Protect.NA4.T027,101,String,"ПНА №036.4. Несанкционированное отключение ПНА"
+MNS.UST.Protect.NA4.T027,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(8507) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.UST.Protect.NA4.T028,1, UInt4, 9
+MNS.UST.Protect.NA4.T028,6,Float,1000
+MNS.UST.Protect.NA4.T028,101,String,"ПНА №036.4. Несанкционированное включение ПНА"
+MNS.UST.Protect.NA4.T028,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(8508) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.UST.Protect.NA4.T029,1, UInt4, 9
+MNS.UST.Protect.NA4.T029,6,Float,1000
+MNS.UST.Protect.NA4.T029,101,String,"ПНА №036.4. Неисправность цепей контроля ПНА"
+MNS.UST.Protect.NA4.T029,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(8509) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.UST.Protect.NA4.T030,1, UInt4, 9
+MNS.UST.Protect.NA4.T030,6,Float,1000
+MNS.UST.Protect.NA4.T030,101,String,"ПНА №036.4. Аварийное отключение агрегата ПНА кнопкой Стоп по месту"
+MNS.UST.Protect.NA4.T030,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(8510) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.UST.Protect.NA4.T031,1, UInt4, 9
+MNS.UST.Protect.NA4.T031,6,Float,1000
+MNS.UST.Protect.NA4.T031,101,String,"ПНА №036.4. Аварийное отключение агрегата ПНА кнопкой Стоп с БРУ"
+MNS.UST.Protect.NA4.T031,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(8511) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.UST.Protect.NA4.T032,1, UInt4, 9
+MNS.UST.Protect.NA4.T032,6,Float,1000
+MNS.UST.Protect.NA4.T032,101,String,"ПНА №036.4. Авария ЧРП"
+MNS.UST.Protect.NA4.T032,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(8512) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.UST.Protect.NA4.T033,1, UInt4, 9
+MNS.UST.Protect.NA4.T033,6,Float,1000
+MNS.UST.Protect.NA4.T033,101,String,"ПНА №036.4. Невыполнение ЧРП включенного ПНА команд регулирования"
+MNS.UST.Protect.NA4.T033,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(8513) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.UST.Protect.T001,1, UInt4, 9
+MNS.UST.Protect.T001,6,Float,1000
+MNS.UST.Protect.T001,101,String,"Аварийное отключение ССН кнопкой 'СТОП' т.1"
+MNS.UST.Protect.T001,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(8001) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.UST.Protect.T002,1, UInt4, 9
+MNS.UST.Protect.T002,6,Float,1000
+MNS.UST.Protect.T002,101,String,"Аварийное отключение ССН кнопкой 'СТОП' т.2"
+MNS.UST.Protect.T002,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(8002) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.UST.Protect.T003,1, UInt4, 9
+MNS.UST.Protect.T003,6,Float,1000
+MNS.UST.Protect.T003,101,String,"Аварийное отключение ССН кнопкой 'СТОП' т.3"
+MNS.UST.Protect.T003,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(8003) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.UST.Protect.T004,1, UInt4, 9
+MNS.UST.Protect.T004,6,Float,1000
+MNS.UST.Protect.T004,101,String,"Аварийное отключение ССН кнопкой 'СТОП' т.4"
+MNS.UST.Protect.T004,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(8004) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.UST.Protect.T005,1, UInt4, 9
+MNS.UST.Protect.T005,6,Float,1000
+MNS.UST.Protect.T005,101,String,"Аварийное отключение ССН кнопкой 'СТОП' с БРУ"
+MNS.UST.Protect.T005,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(8005) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.UST.Protect.T006,1, UInt4, 9
+MNS.UST.Protect.T006,6,Float,1000
+MNS.UST.Protect.T006,101,String,"Аварийное отключение ССН кнопкой 'СТОП' с АРМ оператора"
+MNS.UST.Protect.T006,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(8006) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.UST.Protect.T007,1, UInt4, 9
+MNS.UST.Protect.T007,6,Float,1000
+MNS.UST.Protect.T007,101,String,"Аварийный максимальный уровень в емкости для сбора утечек нефти и дренажа (024.1)"
+MNS.UST.Protect.T007,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(8007) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.UST.Protect.T008,1, UInt4, 9
+MNS.UST.Protect.T008,6,Float,1000
+MNS.UST.Protect.T008,101,String,"Аварийный максимальный уровень в емкости для сбора утечек нефти и дренажа (024.2)"
+MNS.UST.Protect.T008,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(8008) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.UST.Protect.T009,1, UInt4, 9
+MNS.UST.Protect.T009,6,Float,1000
+MNS.UST.Protect.T009,101,String,"Предельный максимальный перепад давления на узле регулирования расхода №1 (008.1)"
+MNS.UST.Protect.T009,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(8009) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.UST.Protect.T010,1, UInt4, 9
+MNS.UST.Protect.T010,6,Float,1000
+MNS.UST.Protect.T010,101,String,"Предельный максимальный перепад давления на узле регулирования расхода №2 (008.2)"
+MNS.UST.Protect.T010,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(8010) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.UST.Protect.T011,1, UInt4, 9
+MNS.UST.Protect.T011,6,Float,1000
+MNS.UST.Protect.T011,101,String,"Предельный максимальный перепад давления на регуляторе расхода №036.5"
+MNS.UST.Protect.T011,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(8011) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.UST.Protect.T012,1, UInt4, 9
+MNS.UST.Protect.T012,6,Float,1000
+MNS.UST.Protect.T012,101,String,"Отсутствие связи КЦ МПСА ССН с любым УСО, обеспечивающим безопасную эксплуатацию оборудования ССН"
+MNS.UST.Protect.T012,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(8012) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.UST.Protect.T013,1, UInt4, 9
+MNS.UST.Protect.T013,6,Float,1000
+MNS.UST.Protect.T013,101,String,"Остановка основного и резервного КЦ МПСА ССН"
+MNS.UST.Protect.T013,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(8013) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.UST.Protect.T014,1, UInt4, 9
+MNS.UST.Protect.T014,6,Float,1000
+MNS.UST.Protect.T014,101,String,"Пожар в насосном зале основной насосной МН «Куйбышев – Унеча – Молзырь-1» (прием из МПСА ПТ)"
+MNS.UST.Protect.T014,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(8014) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.UST.Protect.T015,1, UInt4, 9
+MNS.UST.Protect.T015,6,Float,1000
+MNS.UST.Protect.T015,101,String,"Пожар на площадке ПНС МН «Куйбышев – Унеча – Молзырь-1» (прием из МПСА ПТ)"
+MNS.UST.Protect.T015,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(8015) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.UST.Protect.T016,1, UInt4, 9
+MNS.UST.Protect.T016,6,Float,1000
+MNS.UST.Protect.T016,101,String,"Пожар в РП (прием из МПСА ПТ)"
+MNS.UST.Protect.T016,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(8016) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.UST.Protect.T017,1, UInt4, 9
+MNS.UST.Protect.T017,6,Float,1000
+MNS.UST.Protect.T017,101,String,"Пожар в помещении ЧРП ССН (прием из МПСА ПТ)"
+MNS.UST.Protect.T017,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(8017) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.UST.Protect.T018,1, UInt4, 9
+MNS.UST.Protect.T018,6,Float,1000
+MNS.UST.Protect.T018,101,String,"Пожар на площадке ССН (прием из МПСА ПТ)"
+MNS.UST.Protect.T018,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(8018) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.UST.Protect.T019,1, UInt4, 9
+MNS.UST.Protect.T019,6,Float,1000
+MNS.UST.Protect.T019,101,String,"Пожар в насосном зале насосной «Лопатино-КНПЗ» (прием из МПСА ПТ)"
+MNS.UST.Protect.T019,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(8019) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.UST.Protect.T020,1, UInt4, 9
+MNS.UST.Protect.T020,6,Float,1000
+MNS.UST.Protect.T020,101,String,"Пожар в щитовой КИП (ССН) (прием из МПСА ПТ)"
+MNS.UST.Protect.T020,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(8020) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.UST.Protect.T021,1, UInt4, 9
+MNS.UST.Protect.T021,6,Float,1000
+MNS.UST.Protect.T021,101,String,"Аварийная загазованность в насосном зале основной насосной МН «Куйбышев - Унеча - Мозырь-1»"
+MNS.UST.Protect.T021,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(8021) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.UST.Protect.T022,1, UInt4, 9
+MNS.UST.Protect.T022,6,Float,1000
+MNS.UST.Protect.T022,101,String,"Аварийный максимальный уровень в емкости откачек утечек и дренажа при основной насосной МН «Куйбышев - Унеча - Мозырь-1»"
+MNS.UST.Protect.T022,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(8022) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.UST.Protect.T023,1, UInt4, 9
+MNS.UST.Protect.T023,6,Float,1000
+MNS.UST.Protect.T023,101,String,"Аварийная загазованность в маслосистеме основной насосной МН «Куйбышев - Унеча - Мозырь-1»"
+MNS.UST.Protect.T023,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(8023) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.UST.Protect.T024,1, UInt4, 9
+MNS.UST.Protect.T024,6,Float,1000
+MNS.UST.Protect.T024,101,String,"Аварийный максимальный уровень в емкости откачек утечек и дренажа при ПНС МН «Куйбышев - Унеча - Мозырь-1»"
+MNS.UST.Protect.T024,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(8024) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.UST.Protect.T025,1, UInt4, 9
+MNS.UST.Protect.T025,6,Float,1000
+MNS.UST.Protect.T025,101,String,"Аварийная загазованность в насосном зале насосной МН «Лопатино-КНПЗ»"
+MNS.UST.Protect.T025,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(8025) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.UST.Protect.T026,1, UInt4, 9
+MNS.UST.Protect.T026,6,Float,1000
+MNS.UST.Protect.T026,101,String,"Аварийный максимальный уровень в емкости откачек утечек и дренажа при насосной МН «Лопатино-КНПЗ»"
+MNS.UST.Protect.T026,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(8026) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.UST.Protect.T027,1, UInt4, 9
+MNS.UST.Protect.T027,6,Float,1000
+MNS.UST.Protect.T027,101,String,"Аварийная загазованность в маслосистеме насосной МН «Лопатино-КНПЗ»"
+MNS.UST.Protect.T027,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(8027) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.UST.Protect.T028,1, UInt4, 9
+MNS.UST.Protect.T028,6,Float,1000
+MNS.UST.Protect.T028,101,String,"Нижний допустимый уровень в резервуарах РП"
+MNS.UST.Protect.T028,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(8028) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.UST.ZD.PNA036_1.Zdv036_1_1.SwitchTimes,1, UInt4, 9
+MNS.UST.ZD.PNA036_1.Zdv036_1_1.SwitchTimes,6,Float,1000
+MNS.UST.ZD.PNA036_1.Zdv036_1_1.SwitchTimes,101,String,"Приёмная задвижка №036.1.1. Время схода с концевых выключателей"
+MNS.UST.ZD.PNA036_1.Zdv036_1_1.SwitchTimes,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(9937) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.UST.ZD.PNA036_1.Zdv036_1_1.MotionTimes,1, UInt4, 9
+MNS.UST.ZD.PNA036_1.Zdv036_1_1.MotionTimes,6,Float,1000
+MNS.UST.ZD.PNA036_1.Zdv036_1_1.MotionTimes,101,String,"Приёмная задвижка №036.1.1. Время хода"
+MNS.UST.ZD.PNA036_1.Zdv036_1_1.MotionTimes,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(9938) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.UST.ZD.PNA036_1.Zdv036_1_1.MPChange,1, UInt4, 9
+MNS.UST.ZD.PNA036_1.Zdv036_1_1.MPChange,6,Float,1000
+MNS.UST.ZD.PNA036_1.Zdv036_1_1.MPChange,101,String,"Приёмная задвижка №036.1.1. Время ожидания сигнала МП"
+MNS.UST.ZD.PNA036_1.Zdv036_1_1.MPChange,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(9939) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.UST.ZD.PNA036_1.Zdv036_1_2.SwitchTimes,1, UInt4, 9
+MNS.UST.ZD.PNA036_1.Zdv036_1_2.SwitchTimes,6,Float,1000
+MNS.UST.ZD.PNA036_1.Zdv036_1_2.SwitchTimes,101,String,"Выкидная задвижка №036.1.2. Время схода с концевых выключателей"
+MNS.UST.ZD.PNA036_1.Zdv036_1_2.SwitchTimes,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(9940) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.UST.ZD.PNA036_1.Zdv036_1_2.MotionTimes,1, UInt4, 9
+MNS.UST.ZD.PNA036_1.Zdv036_1_2.MotionTimes,6,Float,1000
+MNS.UST.ZD.PNA036_1.Zdv036_1_2.MotionTimes,101,String,"Выкидная задвижка №036.1.2. Время хода"
+MNS.UST.ZD.PNA036_1.Zdv036_1_2.MotionTimes,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(9941) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.UST.ZD.PNA036_1.Zdv036_1_2.MPChange,1, UInt4, 9
+MNS.UST.ZD.PNA036_1.Zdv036_1_2.MPChange,6,Float,1000
+MNS.UST.ZD.PNA036_1.Zdv036_1_2.MPChange,101,String,"Выкидная задвижка №036.1.2. Время ожидания сигнала МП"
+MNS.UST.ZD.PNA036_1.Zdv036_1_2.MPChange,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(9942) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.UST.ZD.PNA036_2.Zdv036_2_1.SwitchTimes,1, UInt4, 9
+MNS.UST.ZD.PNA036_2.Zdv036_2_1.SwitchTimes,6,Float,1000
+MNS.UST.ZD.PNA036_2.Zdv036_2_1.SwitchTimes,101,String,"Приёмная задвижка №036.2.1. Время схода с концевых выключателей"
+MNS.UST.ZD.PNA036_2.Zdv036_2_1.SwitchTimes,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(9943) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.UST.ZD.PNA036_2.Zdv036_2_1.MotionTimes,1, UInt4, 9
+MNS.UST.ZD.PNA036_2.Zdv036_2_1.MotionTimes,6,Float,1000
+MNS.UST.ZD.PNA036_2.Zdv036_2_1.MotionTimes,101,String,"Приёмная задвижка №036.2.1. Время хода"
+MNS.UST.ZD.PNA036_2.Zdv036_2_1.MotionTimes,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(9944) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.UST.ZD.PNA036_2.Zdv036_2_1.MPChange,1, UInt4, 9
+MNS.UST.ZD.PNA036_2.Zdv036_2_1.MPChange,6,Float,1000
+MNS.UST.ZD.PNA036_2.Zdv036_2_1.MPChange,101,String,"Приёмная задвижка №036.2.1. Время ожидания сигнала МП"
+MNS.UST.ZD.PNA036_2.Zdv036_2_1.MPChange,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(9945) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.UST.ZD.PNA036_2.Zdv036_2_2.SwitchTimes,1, UInt4, 9
+MNS.UST.ZD.PNA036_2.Zdv036_2_2.SwitchTimes,6,Float,1000
+MNS.UST.ZD.PNA036_2.Zdv036_2_2.SwitchTimes,101,String,"Выкидная задвижка №036.2.2. Время схода с концевых выключателей"
+MNS.UST.ZD.PNA036_2.Zdv036_2_2.SwitchTimes,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(9946) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.UST.ZD.PNA036_2.Zdv036_2_2.MotionTimes,1, UInt4, 9
+MNS.UST.ZD.PNA036_2.Zdv036_2_2.MotionTimes,6,Float,1000
+MNS.UST.ZD.PNA036_2.Zdv036_2_2.MotionTimes,101,String,"Выкидная задвижка №036.2.2. Время хода"
+MNS.UST.ZD.PNA036_2.Zdv036_2_2.MotionTimes,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(9947) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.UST.ZD.PNA036_2.Zdv036_2_2.MPChange,1, UInt4, 9
+MNS.UST.ZD.PNA036_2.Zdv036_2_2.MPChange,6,Float,1000
+MNS.UST.ZD.PNA036_2.Zdv036_2_2.MPChange,101,String,"Выкидная задвижка №036.2.2. Время ожидания сигнала МП"
+MNS.UST.ZD.PNA036_2.Zdv036_2_2.MPChange,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(9948) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.UST.ZD.PNA036_3.Zdv036_3_1.SwitchTimes,1, UInt4, 9
+MNS.UST.ZD.PNA036_3.Zdv036_3_1.SwitchTimes,6,Float,1000
+MNS.UST.ZD.PNA036_3.Zdv036_3_1.SwitchTimes,101,String,"Приёмная задвижка №036.3.1. Время схода с концевых выключателей"
+MNS.UST.ZD.PNA036_3.Zdv036_3_1.SwitchTimes,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(9949) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.UST.ZD.PNA036_3.Zdv036_3_1.MotionTimes,1, UInt4, 9
+MNS.UST.ZD.PNA036_3.Zdv036_3_1.MotionTimes,6,Float,1000
+MNS.UST.ZD.PNA036_3.Zdv036_3_1.MotionTimes,101,String,"Приёмная задвижка №036.3.1. Время хода"
+MNS.UST.ZD.PNA036_3.Zdv036_3_1.MotionTimes,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(9950) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.UST.ZD.PNA036_3.Zdv036_3_1.MPChange,1, UInt4, 9
+MNS.UST.ZD.PNA036_3.Zdv036_3_1.MPChange,6,Float,1000
+MNS.UST.ZD.PNA036_3.Zdv036_3_1.MPChange,101,String,"Приёмная задвижка №036.3.1. Время ожидания сигнала МП"
+MNS.UST.ZD.PNA036_3.Zdv036_3_1.MPChange,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(9951) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.UST.ZD.PNA036_3.Zdv036_3_2.SwitchTimes,1, UInt4, 9
+MNS.UST.ZD.PNA036_3.Zdv036_3_2.SwitchTimes,6,Float,1000
+MNS.UST.ZD.PNA036_3.Zdv036_3_2.SwitchTimes,101,String,"Выкидная задвижка №036.3.2. Время схода с концевых выключателей"
+MNS.UST.ZD.PNA036_3.Zdv036_3_2.SwitchTimes,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(9952) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.UST.ZD.PNA036_3.Zdv036_3_2.MotionTimes,1, UInt4, 9
+MNS.UST.ZD.PNA036_3.Zdv036_3_2.MotionTimes,6,Float,1000
+MNS.UST.ZD.PNA036_3.Zdv036_3_2.MotionTimes,101,String,"Выкидная задвижка №036.3.2. Время хода"
+MNS.UST.ZD.PNA036_3.Zdv036_3_2.MotionTimes,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(9953) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.UST.ZD.PNA036_3.Zdv036_3_2.MPChange,1, UInt4, 9
+MNS.UST.ZD.PNA036_3.Zdv036_3_2.MPChange,6,Float,1000
+MNS.UST.ZD.PNA036_3.Zdv036_3_2.MPChange,101,String,"Выкидная задвижка №036.3.2. Время ожидания сигнала МП"
+MNS.UST.ZD.PNA036_3.Zdv036_3_2.MPChange,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(9954) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.UST.ZD.PNA036_4.Zdv036_4_1.SwitchTimes,1, UInt4, 9
+MNS.UST.ZD.PNA036_4.Zdv036_4_1.SwitchTimes,6,Float,1000
+MNS.UST.ZD.PNA036_4.Zdv036_4_1.SwitchTimes,101,String,"Приёмная задвижка №036.4.1. Время схода с концевых выключателей"
+MNS.UST.ZD.PNA036_4.Zdv036_4_1.SwitchTimes,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(9955) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.UST.ZD.PNA036_4.Zdv036_4_1.MotionTimes,1, UInt4, 9
+MNS.UST.ZD.PNA036_4.Zdv036_4_1.MotionTimes,6,Float,1000
+MNS.UST.ZD.PNA036_4.Zdv036_4_1.MotionTimes,101,String,"Приёмная задвижка №036.4.1. Время хода"
+MNS.UST.ZD.PNA036_4.Zdv036_4_1.MotionTimes,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(9956) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.UST.ZD.PNA036_4.Zdv036_4_1.MPChange,1, UInt4, 9
+MNS.UST.ZD.PNA036_4.Zdv036_4_1.MPChange,6,Float,1000
+MNS.UST.ZD.PNA036_4.Zdv036_4_1.MPChange,101,String,"Приёмная задвижка №036.4.1. Время ожидания сигнала МП"
+MNS.UST.ZD.PNA036_4.Zdv036_4_1.MPChange,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(9957) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.UST.ZD.PNA036_4.Zdv036_4_2.SwitchTimes,1, UInt4, 9
+MNS.UST.ZD.PNA036_4.Zdv036_4_2.SwitchTimes,6,Float,1000
+MNS.UST.ZD.PNA036_4.Zdv036_4_2.SwitchTimes,101,String,"Выкидная задвижка №036.4.2. Время схода с концевых выключателей"
+MNS.UST.ZD.PNA036_4.Zdv036_4_2.SwitchTimes,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(9958) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.UST.ZD.PNA036_4.Zdv036_4_2.MotionTimes,1, UInt4, 9
+MNS.UST.ZD.PNA036_4.Zdv036_4_2.MotionTimes,6,Float,1000
+MNS.UST.ZD.PNA036_4.Zdv036_4_2.MotionTimes,101,String,"Выкидная задвижка №036.4.2. Время хода"
+MNS.UST.ZD.PNA036_4.Zdv036_4_2.MotionTimes,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(9959) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.UST.ZD.PNA036_4.Zdv036_4_2.MPChange,1, UInt4, 9
+MNS.UST.ZD.PNA036_4.Zdv036_4_2.MPChange,6,Float,1000
+MNS.UST.ZD.PNA036_4.Zdv036_4_2.MPChange,101,String,"Выкидная задвижка №036.4.2. Время ожидания сигнала МП"
+MNS.UST.ZD.PNA036_4.Zdv036_4_2.MPChange,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(9960) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.UST.ZD.SSN.Zdv007_1_1.SwitchTimes,1, UInt4, 9
+MNS.UST.ZD.SSN.Zdv007_1_1.SwitchTimes,6,Float,1000
+MNS.UST.ZD.SSN.Zdv007_1_1.SwitchTimes,101,String,"Задвижка №007.1.1. Время схода с концевых выключателей"
+MNS.UST.ZD.SSN.Zdv007_1_1.SwitchTimes,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(9961) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.UST.ZD.SSN.Zdv007_1_1.MotionTimes,1, UInt4, 9
+MNS.UST.ZD.SSN.Zdv007_1_1.MotionTimes,6,Float,1000
+MNS.UST.ZD.SSN.Zdv007_1_1.MotionTimes,101,String,"Задвижка №007.1.1. Время хода"
+MNS.UST.ZD.SSN.Zdv007_1_1.MotionTimes,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(9962) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.UST.ZD.SSN.Zdv007_1_1.MPChange,1, UInt4, 9
+MNS.UST.ZD.SSN.Zdv007_1_1.MPChange,6,Float,1000
+MNS.UST.ZD.SSN.Zdv007_1_1.MPChange,101,String,"Задвижка №007.1.1. Время ожидания сигнала МП"
+MNS.UST.ZD.SSN.Zdv007_1_1.MPChange,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(9963) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.UST.ZD.SSN.Zdv007_1_2.SwitchTimes,1, UInt4, 9
+MNS.UST.ZD.SSN.Zdv007_1_2.SwitchTimes,6,Float,1000
+MNS.UST.ZD.SSN.Zdv007_1_2.SwitchTimes,101,String,"Задвижка №007.1.2. Время схода с концевых выключателей"
+MNS.UST.ZD.SSN.Zdv007_1_2.SwitchTimes,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(9964) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.UST.ZD.SSN.Zdv007_1_2.MotionTimes,1, UInt4, 9
+MNS.UST.ZD.SSN.Zdv007_1_2.MotionTimes,6,Float,1000
+MNS.UST.ZD.SSN.Zdv007_1_2.MotionTimes,101,String,"Задвижка №007.1.2. Время хода"
+MNS.UST.ZD.SSN.Zdv007_1_2.MotionTimes,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(9965) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.UST.ZD.SSN.Zdv007_1_2.MPChange,1, UInt4, 9
+MNS.UST.ZD.SSN.Zdv007_1_2.MPChange,6,Float,1000
+MNS.UST.ZD.SSN.Zdv007_1_2.MPChange,101,String,"Задвижка №007.1.2. Время ожидания сигнала МП"
+MNS.UST.ZD.SSN.Zdv007_1_2.MPChange,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(9966) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.UST.ZD.SSN.Zdv007_2_1.SwitchTimes,1, UInt4, 9
+MNS.UST.ZD.SSN.Zdv007_2_1.SwitchTimes,6,Float,1000
+MNS.UST.ZD.SSN.Zdv007_2_1.SwitchTimes,101,String,"Задвижка №007.2.1. Время схода с концевых выключателей"
+MNS.UST.ZD.SSN.Zdv007_2_1.SwitchTimes,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(9967) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.UST.ZD.SSN.Zdv007_2_1.MotionTimes,1, UInt4, 9
+MNS.UST.ZD.SSN.Zdv007_2_1.MotionTimes,6,Float,1000
+MNS.UST.ZD.SSN.Zdv007_2_1.MotionTimes,101,String,"Задвижка №007.2.1. Время хода"
+MNS.UST.ZD.SSN.Zdv007_2_1.MotionTimes,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(9968) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.UST.ZD.SSN.Zdv007_2_1.MPChange,1, UInt4, 9
+MNS.UST.ZD.SSN.Zdv007_2_1.MPChange,6,Float,1000
+MNS.UST.ZD.SSN.Zdv007_2_1.MPChange,101,String,"Задвижка №007.2.1. Время ожидания сигнала МП"
+MNS.UST.ZD.SSN.Zdv007_2_1.MPChange,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(9969) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.UST.ZD.SSN.Zdv007_2_2.SwitchTimes,1, UInt4, 9
+MNS.UST.ZD.SSN.Zdv007_2_2.SwitchTimes,6,Float,1000
+MNS.UST.ZD.SSN.Zdv007_2_2.SwitchTimes,101,String,"Задвижка №007.2.2. Время схода с концевых выключателей"
+MNS.UST.ZD.SSN.Zdv007_2_2.SwitchTimes,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(9970) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.UST.ZD.SSN.Zdv007_2_2.MotionTimes,1, UInt4, 9
+MNS.UST.ZD.SSN.Zdv007_2_2.MotionTimes,6,Float,1000
+MNS.UST.ZD.SSN.Zdv007_2_2.MotionTimes,101,String,"Задвижка №007.2.2. Время хода"
+MNS.UST.ZD.SSN.Zdv007_2_2.MotionTimes,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(9971) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.UST.ZD.SSN.Zdv007_2_2.MPChange,1, UInt4, 9
+MNS.UST.ZD.SSN.Zdv007_2_2.MPChange,6,Float,1000
+MNS.UST.ZD.SSN.Zdv007_2_2.MPChange,101,String,"Задвижка №007.2.2. Время ожидания сигнала МП"
+MNS.UST.ZD.SSN.Zdv007_2_2.MPChange,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(9972) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.UST.ZD.SSN.Zdv007_3_1.SwitchTimes,1, UInt4, 9
+MNS.UST.ZD.SSN.Zdv007_3_1.SwitchTimes,6,Float,1000
+MNS.UST.ZD.SSN.Zdv007_3_1.SwitchTimes,101,String,"Задвижка №007.3.1. Время схода с концевых выключателей"
+MNS.UST.ZD.SSN.Zdv007_3_1.SwitchTimes,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(9973) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.UST.ZD.SSN.Zdv007_3_1.MotionTimes,1, UInt4, 9
+MNS.UST.ZD.SSN.Zdv007_3_1.MotionTimes,6,Float,1000
+MNS.UST.ZD.SSN.Zdv007_3_1.MotionTimes,101,String,"Задвижка №007.3.1. Время хода"
+MNS.UST.ZD.SSN.Zdv007_3_1.MotionTimes,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(9974) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.UST.ZD.SSN.Zdv007_3_1.MPChange,1, UInt4, 9
+MNS.UST.ZD.SSN.Zdv007_3_1.MPChange,6,Float,1000
+MNS.UST.ZD.SSN.Zdv007_3_1.MPChange,101,String,"Задвижка №007.3.1. Время ожидания сигнала МП"
+MNS.UST.ZD.SSN.Zdv007_3_1.MPChange,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(9975) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.UST.ZD.SSN.Zdv036_5_1.SwitchTimes,1, UInt4, 9
+MNS.UST.ZD.SSN.Zdv036_5_1.SwitchTimes,6,Float,1000
+MNS.UST.ZD.SSN.Zdv036_5_1.SwitchTimes,101,String,"Задвижка №036.5.1. Время схода с концевых выключателей"
+MNS.UST.ZD.SSN.Zdv036_5_1.SwitchTimes,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(9976) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.UST.ZD.SSN.Zdv036_5_1.MotionTimes,1, UInt4, 9
+MNS.UST.ZD.SSN.Zdv036_5_1.MotionTimes,6,Float,1000
+MNS.UST.ZD.SSN.Zdv036_5_1.MotionTimes,101,String,"Задвижка №036.5.1. Время хода"
+MNS.UST.ZD.SSN.Zdv036_5_1.MotionTimes,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(9977) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.UST.ZD.SSN.Zdv036_5_1.MPChange,1, UInt4, 9
+MNS.UST.ZD.SSN.Zdv036_5_1.MPChange,6,Float,1000
+MNS.UST.ZD.SSN.Zdv036_5_1.MPChange,101,String,"Задвижка №036.5.1. Время ожидания сигнала МП"
+MNS.UST.ZD.SSN.Zdv036_5_1.MPChange,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(9978) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.UST.ZD.SSN.Zdv036_5_2.SwitchTimes,1, UInt4, 9
+MNS.UST.ZD.SSN.Zdv036_5_2.SwitchTimes,6,Float,1000
+MNS.UST.ZD.SSN.Zdv036_5_2.SwitchTimes,101,String,"Задвижка №036.5.2. Время схода с концевых выключателей"
+MNS.UST.ZD.SSN.Zdv036_5_2.SwitchTimes,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(9979) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.UST.ZD.SSN.Zdv036_5_2.MotionTimes,1, UInt4, 9
+MNS.UST.ZD.SSN.Zdv036_5_2.MotionTimes,6,Float,1000
+MNS.UST.ZD.SSN.Zdv036_5_2.MotionTimes,101,String,"Задвижка №036.5.2. Время хода"
+MNS.UST.ZD.SSN.Zdv036_5_2.MotionTimes,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(9980) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.UST.ZD.SSN.Zdv036_5_2.MPChange,1, UInt4, 9
+MNS.UST.ZD.SSN.Zdv036_5_2.MPChange,6,Float,1000
+MNS.UST.ZD.SSN.Zdv036_5_2.MPChange,101,String,"Задвижка №036.5.2. Время ожидания сигнала МП"
+MNS.UST.ZD.SSN.Zdv036_5_2.MPChange,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(9981) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.UST.ZD.SAR1.Zdv008_1_1_1.SwitchTimes,1, UInt4, 9
+MNS.UST.ZD.SAR1.Zdv008_1_1_1.SwitchTimes,6,Float,1000
+MNS.UST.ZD.SAR1.Zdv008_1_1_1.SwitchTimes,101,String,"Задвижка №008.1.1.1. Время схода с концевых выключателей"
+MNS.UST.ZD.SAR1.Zdv008_1_1_1.SwitchTimes,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(9982) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.UST.ZD.SAR1.Zdv008_1_1_1.MotionTimes,1, UInt4, 9
+MNS.UST.ZD.SAR1.Zdv008_1_1_1.MotionTimes,6,Float,1000
+MNS.UST.ZD.SAR1.Zdv008_1_1_1.MotionTimes,101,String,"Задвижка №008.1.1.1. Время хода"
+MNS.UST.ZD.SAR1.Zdv008_1_1_1.MotionTimes,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(9983) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.UST.ZD.SAR1.Zdv008_1_1_1.MPChange,1, UInt4, 9
+MNS.UST.ZD.SAR1.Zdv008_1_1_1.MPChange,6,Float,1000
+MNS.UST.ZD.SAR1.Zdv008_1_1_1.MPChange,101,String,"Задвижка №008.1.1.1. Время ожидания сигнала МП"
+MNS.UST.ZD.SAR1.Zdv008_1_1_1.MPChange,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(9984) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.UST.ZD.SAR1.Zdv008_1_1_2.SwitchTimes,1, UInt4, 9
+MNS.UST.ZD.SAR1.Zdv008_1_1_2.SwitchTimes,6,Float,1000
+MNS.UST.ZD.SAR1.Zdv008_1_1_2.SwitchTimes,101,String,"Задвижка №008.1.1.2. Время схода с концевых выключателей"
+MNS.UST.ZD.SAR1.Zdv008_1_1_2.SwitchTimes,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(9985) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.UST.ZD.SAR1.Zdv008_1_1_2.MotionTimes,1, UInt4, 9
+MNS.UST.ZD.SAR1.Zdv008_1_1_2.MotionTimes,6,Float,1000
+MNS.UST.ZD.SAR1.Zdv008_1_1_2.MotionTimes,101,String,"Задвижка №008.1.1.2. Время хода"
+MNS.UST.ZD.SAR1.Zdv008_1_1_2.MotionTimes,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(9986) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.UST.ZD.SAR1.Zdv008_1_1_2.MPChange,1, UInt4, 9
+MNS.UST.ZD.SAR1.Zdv008_1_1_2.MPChange,6,Float,1000
+MNS.UST.ZD.SAR1.Zdv008_1_1_2.MPChange,101,String,"Задвижка №008.1.1.2. Время ожидания сигнала МП"
+MNS.UST.ZD.SAR1.Zdv008_1_1_2.MPChange,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(9987) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.UST.ZD.SAR1.Zdv008_1_2_1.SwitchTimes,1, UInt4, 9
+MNS.UST.ZD.SAR1.Zdv008_1_2_1.SwitchTimes,6,Float,1000
+MNS.UST.ZD.SAR1.Zdv008_1_2_1.SwitchTimes,101,String,"Задвижка №008.1.2.1. Время схода с концевых выключателей"
+MNS.UST.ZD.SAR1.Zdv008_1_2_1.SwitchTimes,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(9988) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.UST.ZD.SAR1.Zdv008_1_2_1.MotionTimes,1, UInt4, 9
+MNS.UST.ZD.SAR1.Zdv008_1_2_1.MotionTimes,6,Float,1000
+MNS.UST.ZD.SAR1.Zdv008_1_2_1.MotionTimes,101,String,"Задвижка №008.1.2.1. Время хода"
+MNS.UST.ZD.SAR1.Zdv008_1_2_1.MotionTimes,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(9989) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.UST.ZD.SAR1.Zdv008_1_2_1.MPChange,1, UInt4, 9
+MNS.UST.ZD.SAR1.Zdv008_1_2_1.MPChange,6,Float,1000
+MNS.UST.ZD.SAR1.Zdv008_1_2_1.MPChange,101,String,"Задвижка №008.1.2.1. Время ожидания сигнала МП"
+MNS.UST.ZD.SAR1.Zdv008_1_2_1.MPChange,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(9990) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.UST.ZD.SAR1.Zdv008_1_2_2.SwitchTimes,1, UInt4, 9
+MNS.UST.ZD.SAR1.Zdv008_1_2_2.SwitchTimes,6,Float,1000
+MNS.UST.ZD.SAR1.Zdv008_1_2_2.SwitchTimes,101,String,"Задвижка №008.1.2.2. Время схода с концевых выключателей"
+MNS.UST.ZD.SAR1.Zdv008_1_2_2.SwitchTimes,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(9991) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.UST.ZD.SAR1.Zdv008_1_2_2.MotionTimes,1, UInt4, 9
+MNS.UST.ZD.SAR1.Zdv008_1_2_2.MotionTimes,6,Float,1000
+MNS.UST.ZD.SAR1.Zdv008_1_2_2.MotionTimes,101,String,"Задвижка №008.1.2.2. Время хода"
+MNS.UST.ZD.SAR1.Zdv008_1_2_2.MotionTimes,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(9992) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.UST.ZD.SAR1.Zdv008_1_2_2.MPChange,1, UInt4, 9
+MNS.UST.ZD.SAR1.Zdv008_1_2_2.MPChange,6,Float,1000
+MNS.UST.ZD.SAR1.Zdv008_1_2_2.MPChange,101,String,"Задвижка №008.1.2.2. Время ожидания сигнала МП"
+MNS.UST.ZD.SAR1.Zdv008_1_2_2.MPChange,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(9993) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.UST.ZD.SAR2.Zdv008_2_1_1.SwitchTimes,1, UInt4, 9
+MNS.UST.ZD.SAR2.Zdv008_2_1_1.SwitchTimes,6,Float,1000
+MNS.UST.ZD.SAR2.Zdv008_2_1_1.SwitchTimes,101,String,"Задвижка №008.2.1.1. Время схода с концевых выключателей"
+MNS.UST.ZD.SAR2.Zdv008_2_1_1.SwitchTimes,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(9994) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.UST.ZD.SAR2.Zdv008_2_1_1.MotionTimes,1, UInt4, 9
+MNS.UST.ZD.SAR2.Zdv008_2_1_1.MotionTimes,6,Float,1000
+MNS.UST.ZD.SAR2.Zdv008_2_1_1.MotionTimes,101,String,"Задвижка №008.2.1.1. Время хода"
+MNS.UST.ZD.SAR2.Zdv008_2_1_1.MotionTimes,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(9995) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.UST.ZD.SAR2.Zdv008_2_1_1.MPChange,1, UInt4, 9
+MNS.UST.ZD.SAR2.Zdv008_2_1_1.MPChange,6,Float,1000
+MNS.UST.ZD.SAR2.Zdv008_2_1_1.MPChange,101,String,"Задвижка №008.2.1.1. Время ожидания сигнала МП"
+MNS.UST.ZD.SAR2.Zdv008_2_1_1.MPChange,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(9996) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.UST.ZD.SAR2.Zdv008_2_1_2.SwitchTimes,1, UInt4, 9
+MNS.UST.ZD.SAR2.Zdv008_2_1_2.SwitchTimes,6,Float,1000
+MNS.UST.ZD.SAR2.Zdv008_2_1_2.SwitchTimes,101,String,"Задвижка №008.2.1.2. Время схода с концевых выключателей"
+MNS.UST.ZD.SAR2.Zdv008_2_1_2.SwitchTimes,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(9997) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.UST.ZD.SAR2.Zdv008_2_1_2.MotionTimes,1, UInt4, 9
+MNS.UST.ZD.SAR2.Zdv008_2_1_2.MotionTimes,6,Float,1000
+MNS.UST.ZD.SAR2.Zdv008_2_1_2.MotionTimes,101,String,"Задвижка №008.2.1.2. Время хода"
+MNS.UST.ZD.SAR2.Zdv008_2_1_2.MotionTimes,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(9998) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.UST.ZD.SAR2.Zdv008_2_1_2.MPChange,1, UInt4, 9
+MNS.UST.ZD.SAR2.Zdv008_2_1_2.MPChange,6,Float,1000
+MNS.UST.ZD.SAR2.Zdv008_2_1_2.MPChange,101,String,"Задвижка №008.2.1.2. Время ожидания сигнала МП"
+MNS.UST.ZD.SAR2.Zdv008_2_1_2.MPChange,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(9999) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.UST.ZD.SAR2.Zdv008_2_2_1.SwitchTimes,1, UInt4, 9
+MNS.UST.ZD.SAR2.Zdv008_2_2_1.SwitchTimes,6,Float,1000
+MNS.UST.ZD.SAR2.Zdv008_2_2_1.SwitchTimes,101,String,"Задвижка №008.2.2.1. Время схода с концевых выключателей"
+MNS.UST.ZD.SAR2.Zdv008_2_2_1.SwitchTimes,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(10000) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.UST.ZD.SAR2.Zdv008_2_2_1.MotionTimes,1, UInt4, 9
+MNS.UST.ZD.SAR2.Zdv008_2_2_1.MotionTimes,6,Float,1000
+MNS.UST.ZD.SAR2.Zdv008_2_2_1.MotionTimes,101,String,"Задвижка №008.2.2.1. Время хода"
+MNS.UST.ZD.SAR2.Zdv008_2_2_1.MotionTimes,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(10001) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.UST.ZD.SAR2.Zdv008_2_2_1.MPChange,1, UInt4, 9
+MNS.UST.ZD.SAR2.Zdv008_2_2_1.MPChange,6,Float,1000
+MNS.UST.ZD.SAR2.Zdv008_2_2_1.MPChange,101,String,"Задвижка №008.2.2.1. Время ожидания сигнала МП"
+MNS.UST.ZD.SAR2.Zdv008_2_2_1.MPChange,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(10002) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.UST.ZD.SAR2.Zdv008_2_2_2.SwitchTimes,1, UInt4, 9
+MNS.UST.ZD.SAR2.Zdv008_2_2_2.SwitchTimes,6,Float,1000
+MNS.UST.ZD.SAR2.Zdv008_2_2_2.SwitchTimes,101,String,"Задвижка №008.2.2.2. Время схода с концевых выключателей"
+MNS.UST.ZD.SAR2.Zdv008_2_2_2.SwitchTimes,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(10003) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.UST.ZD.SAR2.Zdv008_2_2_2.MotionTimes,1, UInt4, 9
+MNS.UST.ZD.SAR2.Zdv008_2_2_2.MotionTimes,6,Float,1000
+MNS.UST.ZD.SAR2.Zdv008_2_2_2.MotionTimes,101,String,"Задвижка №008.2.2.2. Время хода"
+MNS.UST.ZD.SAR2.Zdv008_2_2_2.MotionTimes,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(10004) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.UST.ZD.SAR2.Zdv008_2_2_2.MPChange,1, UInt4, 9
+MNS.UST.ZD.SAR2.Zdv008_2_2_2.MPChange,6,Float,1000
+MNS.UST.ZD.SAR2.Zdv008_2_2_2.MPChange,101,String,"Задвижка №008.2.2.2. Время ожидания сигнала МП"
+MNS.UST.ZD.SAR2.Zdv008_2_2_2.MPChange,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(10005) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.UST.ZD.SOU.Zdv024_1.SwitchTimes,1, UInt4, 9
+MNS.UST.ZD.SOU.Zdv024_1.SwitchTimes,6,Float,1000
+MNS.UST.ZD.SOU.Zdv024_1.SwitchTimes,101,String,"Задвижка №024.1. Время схода с концевых выключателей"
+MNS.UST.ZD.SOU.Zdv024_1.SwitchTimes,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(10006) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.UST.ZD.SOU.Zdv024_1.MotionTimes,1, UInt4, 9
+MNS.UST.ZD.SOU.Zdv024_1.MotionTimes,6,Float,1000
+MNS.UST.ZD.SOU.Zdv024_1.MotionTimes,101,String,"Задвижка №024.1. Время хода"
+MNS.UST.ZD.SOU.Zdv024_1.MotionTimes,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(10007) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.UST.ZD.SOU.Zdv024_1.MPChange,1, UInt4, 9
+MNS.UST.ZD.SOU.Zdv024_1.MPChange,6,Float,1000
+MNS.UST.ZD.SOU.Zdv024_1.MPChange,101,String,"Задвижка №024.1. Время ожидания сигнала МП"
+MNS.UST.ZD.SOU.Zdv024_1.MPChange,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(10008) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.UST.ZD.SOU.Zdv024_2.SwitchTimes,1, UInt4, 9
+MNS.UST.ZD.SOU.Zdv024_2.SwitchTimes,6,Float,1000
+MNS.UST.ZD.SOU.Zdv024_2.SwitchTimes,101,String,"Задвижка №024.2. Время схода с концевых выключателей"
+MNS.UST.ZD.SOU.Zdv024_2.SwitchTimes,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(10009) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.UST.ZD.SOU.Zdv024_2.MotionTimes,1, UInt4, 9
+MNS.UST.ZD.SOU.Zdv024_2.MotionTimes,6,Float,1000
+MNS.UST.ZD.SOU.Zdv024_2.MotionTimes,101,String,"Задвижка №024.2. Время хода"
+MNS.UST.ZD.SOU.Zdv024_2.MotionTimes,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(10010) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.UST.ZD.SOU.Zdv024_2.MPChange,1, UInt4, 9
+MNS.UST.ZD.SOU.Zdv024_2.MPChange,6,Float,1000
+MNS.UST.ZD.SOU.Zdv024_2.MPChange,101,String,"Задвижка №024.2. Время ожидания сигнала МП"
+MNS.UST.ZD.SOU.Zdv024_2.MPChange,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(10011) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.UST.VS.SOU.Pump1.HVS_01,1, UInt4, 9
+MNS.UST.VS.SOU.Pump1.HVS_01,6,Float,1000
+MNS.UST.VS.SOU.Pump1.HVS_01,101,String,"Насос откачки утечек №024.1. Выдержка времени на ожидание набора давления после появления сигнала МП в процессе пуска агрегата вспомсистемы"
+MNS.UST.VS.SOU.Pump1.HVS_01,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(10321) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.UST.VS.SOU.Pump1.HVS_02,1, UInt4, 9
+MNS.UST.VS.SOU.Pump1.HVS_02,6,Float,1000
+MNS.UST.VS.SOU.Pump1.HVS_02,101,String,"Насос откачки утечек №024.1. Выдержка времени на ожидание спада давления после снятия сигнала МП в процессе остановки агрегата вспомсистемы"
+MNS.UST.VS.SOU.Pump1.HVS_02,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(10322) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.UST.VS.SOU.Pump1.HVS_03,1, UInt4, 9
+MNS.UST.VS.SOU.Pump1.HVS_03,6,Float,1000
+MNS.UST.VS.SOU.Pump1.HVS_03,101,String,"Насос откачки утечек №024.1. Выдержка времени на контроль давления во время работы"
+MNS.UST.VS.SOU.Pump1.HVS_03,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(10323) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.UST.VS.SOU.Pump1.HVS_04,1, UInt4, 9
+MNS.UST.VS.SOU.Pump1.HVS_04,6,Float,1000
+MNS.UST.VS.SOU.Pump1.HVS_04,101,String,"Насос откачки утечек №024.1. Ожидание срабатывания/исчезновения МП после включения/отключения"
+MNS.UST.VS.SOU.Pump1.HVS_04,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(10324) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.UST.VS.SOU.Pump2.HVS_01,1, UInt4, 9
+MNS.UST.VS.SOU.Pump2.HVS_01,6,Float,1000
+MNS.UST.VS.SOU.Pump2.HVS_01,101,String,"Насос откачки утечек №024.2. Выдержка времени на ожидание набора давления после появления сигнала МП в процессе пуска агрегата вспомсистемы"
+MNS.UST.VS.SOU.Pump2.HVS_01,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(10325) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.UST.VS.SOU.Pump2.HVS_02,1, UInt4, 9
+MNS.UST.VS.SOU.Pump2.HVS_02,6,Float,1000
+MNS.UST.VS.SOU.Pump2.HVS_02,101,String,"Насос откачки утечек №024.2. Выдержка времени на ожидание спада давления после снятия сигнала МП в процессе остановки агрегата вспомсистемы"
+MNS.UST.VS.SOU.Pump2.HVS_02,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(10326) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.UST.VS.SOU.Pump2.HVS_03,1, UInt4, 9
+MNS.UST.VS.SOU.Pump2.HVS_03,6,Float,1000
+MNS.UST.VS.SOU.Pump2.HVS_03,101,String,"Насос откачки утечек №024.2. Выдержка времени на контроль давления во время работы"
+MNS.UST.VS.SOU.Pump2.HVS_03,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(10327) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.UST.VS.SOU.Pump2.HVS_04,1, UInt4, 9
+MNS.UST.VS.SOU.Pump2.HVS_04,6,Float,1000
+MNS.UST.VS.SOU.Pump2.HVS_04,101,String,"Насос откачки утечек №024.2. Ожидание срабатывания/исчезновения МП после включения/отключения"
+MNS.UST.VS.SOU.Pump2.HVS_04,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(10328) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.UST.twCommTimes.TL4_2,1, UInt4, 9
+MNS.UST.twCommTimes.TL4_2,6,Float,1000
+MNS.UST.twCommTimes.TL4_2,101,String,"Задвижки - время на подачу команды СТОП"
+MNS.UST.twCommTimes.TL4_2,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(9794) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.UST.twCommTimes.TL4_3,1, UInt4, 9
+MNS.UST.twCommTimes.TL4_3,6,Float,1000
+MNS.UST.twCommTimes.TL4_3,101,String,"Задвижки - время выполнения команды на открытие при имитации"
+MNS.UST.twCommTimes.TL4_3,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(9795) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.UST.twCommTimes.TL4_4,1, UInt4, 9
+MNS.UST.twCommTimes.TL4_4,6,Float,1000
+MNS.UST.twCommTimes.TL4_4,101,String,"Задвижки - время на выполнение «реверса»"
+MNS.UST.twCommTimes.TL4_4,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(9796) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.UST.twCommTimes.TL4_5,1, UInt4, 9
+MNS.UST.twCommTimes.TL4_5,6,Float,1000
+MNS.UST.twCommTimes.TL4_5,101,String,"Задвижки - ожидание появления напряжения на СШ для выполнения АПВ"
+MNS.UST.twCommTimes.TL4_5,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(9797) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.UST.twCommTimes.TL4_6,1, UInt4, 9
+MNS.UST.twCommTimes.TL4_6,6,Float,1000
+MNS.UST.twCommTimes.TL4_6,101,String,"Вспомсистемы - выдержка времени на ожидание срабатывания/исчезновения МП после включения/отключения"
+MNS.UST.twCommTimes.TL4_6,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(9798) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.UST.twCommTimes.TL4_7,1, UInt4, 9
+MNS.UST.twCommTimes.TL4_7,6,Float,1000
+MNS.UST.twCommTimes.TL4_7,101,String,"Вспомсистемы - выдержка времени на возврат напряжения при стопе по месту"
+MNS.UST.twCommTimes.TL4_7,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(9799) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.UST.twCommTimes.TL4_8,1, UInt4, 9
+MNS.UST.twCommTimes.TL4_8,6,Float,1000
+MNS.UST.twCommTimes.TL4_8,101,String,"Вспомсистемы - выдержка времени для перевода неработающего агрегата в режим ремонтный при исчезновении напряжения в схеме управления"
+MNS.UST.twCommTimes.TL4_8,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(9800) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.UST.twCommTimes.TL4_9,1, UInt4, 9
+MNS.UST.twCommTimes.TL4_9,6,Float,1000
+MNS.UST.twCommTimes.TL4_9,101,String,"Вспомсистемы - выдержка времени на запаздывание сигналов исчезновения МП"
+MNS.UST.twCommTimes.TL4_9,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(9801) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.UST.twCommTimes.TL4_12,1, UInt4, 9
+MNS.UST.twCommTimes.TL4_12,6,Float,1000
+MNS.UST.twCommTimes.TL4_12,101,String,"Станционные защиты - таймер проверки отключение всех агрегатов"
+MNS.UST.twCommTimes.TL4_12,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(9804) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.UST.twCommTimes.TL4_13,1, UInt4, 9
+MNS.UST.twCommTimes.TL4_13,6,Float,1000
+MNS.UST.twCommTimes.TL4_13,101,String,"Станционные защиты - поочередное отключение агрегатов"
+MNS.UST.twCommTimes.TL4_13,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(9805) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.UST.twCommTimes.TL4_14,1, UInt4, 9
+MNS.UST.twCommTimes.TL4_14,6,Float,1000
+MNS.UST.twCommTimes.TL4_14,101,String,"Станционные защиты - отключение первого по ходу агрегата"
+MNS.UST.twCommTimes.TL4_14,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(9806) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.UST.twCommTimes.TL4_15,1, UInt4, 9
+MNS.UST.twCommTimes.TL4_15,6,Float,1000
+MNS.UST.twCommTimes.TL4_15,101,String,"Станционные защиты - выдержка времени на отключение ПНС после отключения всех МНА"
+MNS.UST.twCommTimes.TL4_15,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(9807) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.UST.twCommTimes.TL4_16,1, UInt4, 9
+MNS.UST.twCommTimes.TL4_16,6,Float,1000
+MNS.UST.twCommTimes.TL4_16,101,String,"Станционные защиты - время после появления предельной загазованности, через которое срабатывает защита «Сохранение предельной загазованности»"
+MNS.UST.twCommTimes.TL4_16,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(9808) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.UST.twCommTimes.TL4_17,1, UInt4, 9
+MNS.UST.twCommTimes.TL4_17,6,Float,1000
+MNS.UST.twCommTimes.TL4_17,101,String,"Станционные защиты - время после снижения уровня загазованности, через которое отключается вентиляция помещения"
+MNS.UST.twCommTimes.TL4_17,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(9809) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.UST.twCommTimes.TL4_18,1, UInt4, 9
+MNS.UST.twCommTimes.TL4_18,6,Float,1000
+MNS.UST.twCommTimes.TL4_18,101,String,"АВО - выдержка времени на включение или отключение при достижении предельных значений"
+MNS.UST.twCommTimes.TL4_18,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(9810) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.UST.twCommTimes.TL4_19,1, UInt4, 9
+MNS.UST.twCommTimes.TL4_19,6,Float,1000
+MNS.UST.twCommTimes.TL4_19,101,String,"Приборы контроля СОД - длительность импульса сигналов «контроль» и «деблокировка»"
+MNS.UST.twCommTimes.TL4_19,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(9811) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.UST.twCommTimes.TL4_20,1, UInt4, 9
+MNS.UST.twCommTimes.TL4_20,6,Float,1000
+MNS.UST.twCommTimes.TL4_20,101,String,"САРД - длительность импульса, передаваемого в САРД для прикрытия заслонок при выполнении рамповой функции"
+MNS.UST.twCommTimes.TL4_20,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(9812) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.UST.twCommTimes.TL4_21,1, UInt4, 9
+MNS.UST.twCommTimes.TL4_21,6,Float,1000
+MNS.UST.twCommTimes.TL4_21,101,String,"Ёмкости сбора утечек и дренажа - выдержка времени на включение основного насоса откачки утечек"
+MNS.UST.twCommTimes.TL4_21,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(9813) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.UST.twCommTimes.TL4_23,1, UInt4, 9
+MNS.UST.twCommTimes.TL4_23,6,Float,1000
+MNS.UST.twCommTimes.TL4_23,101,String,"Ёмкости сбора утечек и дренажа - выдержка времени на отключение насосов откачки утечек"
+MNS.UST.twCommTimes.TL4_23,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(9815) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.UST.twCommTimes.TL4_28,1, UInt4, 9
+MNS.UST.twCommTimes.TL4_28,6,Float,1000
+MNS.UST.twCommTimes.TL4_28,101,String,"Выдержка контроля отключения ВВ привода МНА техническими средствами системы энергоснабжения"
+MNS.UST.twCommTimes.TL4_28,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(9820) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.UST.twCommTimes.TL4_29,1, UInt4, 9
+MNS.UST.twCommTimes.TL4_29,6,Float,1000
+MNS.UST.twCommTimes.TL4_29,101,String,"Вспомсистемы - период выдачи повторного сообщения об отсутствии в группе резервного агрегата"
+MNS.UST.twCommTimes.TL4_29,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(9821) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.UST.twCommTimes.TL4_32,1, UInt4, 9
+MNS.UST.twCommTimes.TL4_32,6,Float,1000
+MNS.UST.twCommTimes.TL4_32,101,String,"Задвижки - длительность анализа несовпадения дискретных и интерфейсных сигналов"
+MNS.UST.twCommTimes.TL4_32,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(9824) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.UST.twCommTimes.TL4_33,1, UInt4, 9
+MNS.UST.twCommTimes.TL4_33,6,Float,1000
+MNS.UST.twCommTimes.TL4_33,101,String,"Уставка на задержку сработки счетчика ЦСПА"
+MNS.UST.twCommTimes.TL4_33,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(9825) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.UST.twUMPNA1.T01,1, UInt4, 9
+MNS.UST.twUMPNA1.T01,6,Float,1000
+MNS.UST.twUMPNA1.T01,101,String,"МНА №1. Время на проверку корректности состояния цепей контроля ВВ НА"
+MNS.UST.twUMPNA1.T01,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(34751) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.UST.twUMPNA1.T02,1, UInt4, 9
+MNS.UST.twUMPNA1.T02,6,Float,1000
+MNS.UST.twUMPNA1.T02,101,String,"МНА №1. Время удержания команды «Включить ВВ», при получении включенного состояния ВВ"
+MNS.UST.twUMPNA1.T02,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(34752) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.UST.twUMPNA1.T03,1, UInt4, 9
+MNS.UST.twUMPNA1.T03,6,Float,1000
+MNS.UST.twUMPNA1.T03,101,String,"МНА №1. Максимальное время удержания команды «Отключить ВВ»"
+MNS.UST.twUMPNA1.T03,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(34753) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.UST.twUMPNA1.T04,1, UInt4, 9
+MNS.UST.twUMPNA1.T04,6,Float,1000
+MNS.UST.twUMPNA1.T04,101,String,"МНА №1. Время, до выдачи команды «Включить ВВ», необходимое для отработки исполнительного механизма САР во время работы рамповой функции"
+MNS.UST.twUMPNA1.T04,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(34754) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.UST.twUMPNA1.T05,1, UInt4, 9
+MNS.UST.twUMPNA1.T05,6,Float,1000
+MNS.UST.twUMPNA1.T05,101,String,"МНА №1. Время на открытие выкидной задвижки перед выдачей команды на включение НА по программе пуска №2"
+MNS.UST.twUMPNA1.T05,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(34755) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.UST.twUMPNA1.T06,1, UInt4, 9
+MNS.UST.twUMPNA1.T06,6,Float,1000
+MNS.UST.twUMPNA1.T06,101,String,"МНА №1. Контрольное время на выполнение процесса включение ВВ НА"
+MNS.UST.twUMPNA1.T06,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(34756) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.UST.twUMPNA1.T07,1, UInt4, 9
+MNS.UST.twUMPNA1.T07,6,Float,1000
+MNS.UST.twUMPNA1.T07,101,String,"МНА №1. Время подъема силы тока ЭД после включения ВВ НА"
+MNS.UST.twUMPNA1.T07,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(34757) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.UST.twUMPNA1.T08,1, UInt4, 9
+MNS.UST.twUMPNA1.T08,6,Float,1000
+MNS.UST.twUMPNA1.T08,101,String,"МНА №1. Время полного хода выкидной задвижки НА (используется в алгоритме включения и отключения НА по программе пуска №2)"
+MNS.UST.twUMPNA1.T08,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(34758) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.UST.twUMPNA1.T09,1, UInt4, 9
+MNS.UST.twUMPNA1.T09,6,Float,1000
+MNS.UST.twUMPNA1.T09,101,String,"МНА №1. Время нестационарного режима работы ЭД при пуске"
+MNS.UST.twUMPNA1.T09,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(34759) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.UST.twUMPNA1.T10,1, UInt4, 9
+MNS.UST.twUMPNA1.T10,6,Float,1000
+MNS.UST.twUMPNA1.T10,101,String,"МНА №1. Время, перед выдачей команды повторного отключения ВВ при невыполнении программы остановки"
+MNS.UST.twUMPNA1.T10,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(34760) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.UST.twUMPNA1.T11,1, UInt4, 9
+MNS.UST.twUMPNA1.T11,6,Float,1000
+MNS.UST.twUMPNA1.T11,101,String,"МНА №1. Контрольное время на выполнение процесса отключения ВВ НА"
+MNS.UST.twUMPNA1.T11,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(34761) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.UST.twUMPNA1.T12,1, UInt4, 9
+MNS.UST.twUMPNA1.T12,6,Float,1000
+MNS.UST.twUMPNA1.T12,101,String,"МНА №1. Время снижения силы тока ЭД после отключения ВВ НА"
+MNS.UST.twUMPNA1.T12,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(34762) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.UST.twUMPNA1.T13,1, UInt4, 9
+MNS.UST.twUMPNA1.T13,6,Float,1000
+MNS.UST.twUMPNA1.T13,101,String,"МНА №1. Время фильтрации сигналов цепей включения и отключения"
+MNS.UST.twUMPNA1.T13,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(34763) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.UST.twUMPNA1.T14,1, UInt4, 9
+MNS.UST.twUMPNA1.T14,6,Float,1000
+MNS.UST.twUMPNA1.T14,101,String,"МНА №1. Длительность нестационарного режима работы насоса"
+MNS.UST.twUMPNA1.T14,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(34764) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.UST.twUMPNA1.T98,1, UInt4, 9
+MNS.UST.twUMPNA1.T98,6,Float,1000
+MNS.UST.twUMPNA1.T98,101,String,"МНА №1. Задержка на снятие готовности по отсутствию напряжения 10кВ в двигательной ячейке"
+MNS.UST.twUMPNA1.T98,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(34767) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.UST.twUMPNA1.T99,1, UInt4, 9
+MNS.UST.twUMPNA1.T99,6,Float,1000
+MNS.UST.twUMPNA1.T99,101,String,"МНА №1. Задержка на снятие готовности по отсутствию напряжения в цепях управления агрегатных задвижек"
+MNS.UST.twUMPNA1.T99,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(34768) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.UST.twUMPNA2.T01,1, UInt4, 9
+MNS.UST.twUMPNA2.T01,6,Float,1000
+MNS.UST.twUMPNA2.T01,101,String,"МНА №2. Время на проверку корректности состояния цепей контроля ВВ НА"
+MNS.UST.twUMPNA2.T01,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(34770) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.UST.twUMPNA2.T02,1, UInt4, 9
+MNS.UST.twUMPNA2.T02,6,Float,1000
+MNS.UST.twUMPNA2.T02,101,String,"МНА №2. Время удержания команды «Включить ВВ», при получении включенного состояния ВВ"
+MNS.UST.twUMPNA2.T02,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(34771) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.UST.twUMPNA2.T03,1, UInt4, 9
+MNS.UST.twUMPNA2.T03,6,Float,1000
+MNS.UST.twUMPNA2.T03,101,String,"МНА №2. Максимальное время удержания команды «Отключить ВВ»"
+MNS.UST.twUMPNA2.T03,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(34772) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.UST.twUMPNA2.T04,1, UInt4, 9
+MNS.UST.twUMPNA2.T04,6,Float,1000
+MNS.UST.twUMPNA2.T04,101,String,"МНА №2. Время, до выдачи команды «Включить ВВ», необходимое для отработки исполнительного механизма САР во время работы рамповой функции"
+MNS.UST.twUMPNA2.T04,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(34773) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.UST.twUMPNA2.T05,1, UInt4, 9
+MNS.UST.twUMPNA2.T05,6,Float,1000
+MNS.UST.twUMPNA2.T05,101,String,"МНА №2. Время на открытие выкидной задвижки перед выдачей команды на включение НА по программе пуска №2"
+MNS.UST.twUMPNA2.T05,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(34774) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.UST.twUMPNA2.T06,1, UInt4, 9
+MNS.UST.twUMPNA2.T06,6,Float,1000
+MNS.UST.twUMPNA2.T06,101,String,"МНА №2. Контрольное время на выполнение процесса включение ВВ НА"
+MNS.UST.twUMPNA2.T06,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(34775) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.UST.twUMPNA2.T07,1, UInt4, 9
+MNS.UST.twUMPNA2.T07,6,Float,1000
+MNS.UST.twUMPNA2.T07,101,String,"МНА №2. Время подъема силы тока ЭД после включения ВВ НА"
+MNS.UST.twUMPNA2.T07,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(34776) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.UST.twUMPNA2.T08,1, UInt4, 9
+MNS.UST.twUMPNA2.T08,6,Float,1000
+MNS.UST.twUMPNA2.T08,101,String,"МНА №2. Время полного хода выкидной задвижки НА (используется в алгоритме включения и отключения НА по программе пуска №2)"
+MNS.UST.twUMPNA2.T08,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(34777) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.UST.twUMPNA2.T09,1, UInt4, 9
+MNS.UST.twUMPNA2.T09,6,Float,1000
+MNS.UST.twUMPNA2.T09,101,String,"МНА №2. Время нестационарного режима работы ЭД при пуске"
+MNS.UST.twUMPNA2.T09,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(34778) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.UST.twUMPNA2.T10,1, UInt4, 9
+MNS.UST.twUMPNA2.T10,6,Float,1000
+MNS.UST.twUMPNA2.T10,101,String,"МНА №2. Время, перед выдачей команды повторного отключения ВВ при невыполнении программы остановки"
+MNS.UST.twUMPNA2.T10,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(34779) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.UST.twUMPNA2.T11,1, UInt4, 9
+MNS.UST.twUMPNA2.T11,6,Float,1000
+MNS.UST.twUMPNA2.T11,101,String,"МНА №2. Контрольное время на выполнение процесса отключения ВВ НА"
+MNS.UST.twUMPNA2.T11,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(34780) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.UST.twUMPNA2.T12,1, UInt4, 9
+MNS.UST.twUMPNA2.T12,6,Float,1000
+MNS.UST.twUMPNA2.T12,101,String,"МНА №2. Время снижения силы тока ЭД после отключения ВВ НА"
+MNS.UST.twUMPNA2.T12,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(34781) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.UST.twUMPNA2.T13,1, UInt4, 9
+MNS.UST.twUMPNA2.T13,6,Float,1000
+MNS.UST.twUMPNA2.T13,101,String,"МНА №2. Время фильтрации сигналов цепей включения и отключения"
+MNS.UST.twUMPNA2.T13,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(34782) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.UST.twUMPNA2.T14,1, UInt4, 9
+MNS.UST.twUMPNA2.T14,6,Float,1000
+MNS.UST.twUMPNA2.T14,101,String,"МНА №2. Длительность нестационарного режима работы насоса"
+MNS.UST.twUMPNA2.T14,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(34783) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.UST.twUMPNA2.T98,1, UInt4, 9
+MNS.UST.twUMPNA2.T98,6,Float,1000
+MNS.UST.twUMPNA2.T98,101,String,"МНА №2. Задержка на снятие готовности по отсутствию напряжения 10кВ в двигательной ячейке"
+MNS.UST.twUMPNA2.T98,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(34786) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.UST.twUMPNA2.T99,1, UInt4, 9
+MNS.UST.twUMPNA2.T99,6,Float,1000
+MNS.UST.twUMPNA2.T99,101,String,"МНА №2. Задержка на снятие готовности по отсутствию напряжения в цепях управления агрегатных задвижек"
+MNS.UST.twUMPNA2.T99,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(34787) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.UST.twUMPNA3.T01,1, UInt4, 9
+MNS.UST.twUMPNA3.T01,6,Float,1000
+MNS.UST.twUMPNA3.T01,101,String,"МНА №3. Время на проверку корректности состояния цепей контроля ВВ НА"
+MNS.UST.twUMPNA3.T01,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(34789) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.UST.twUMPNA3.T02,1, UInt4, 9
+MNS.UST.twUMPNA3.T02,6,Float,1000
+MNS.UST.twUMPNA3.T02,101,String,"МНА №3. Время удержания команды «Включить ВВ», при получении включенного состояния ВВ"
+MNS.UST.twUMPNA3.T02,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(34790) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.UST.twUMPNA3.T03,1, UInt4, 9
+MNS.UST.twUMPNA3.T03,6,Float,1000
+MNS.UST.twUMPNA3.T03,101,String,"МНА №3. Максимальное время удержания команды «Отключить ВВ»"
+MNS.UST.twUMPNA3.T03,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(34791) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.UST.twUMPNA3.T04,1, UInt4, 9
+MNS.UST.twUMPNA3.T04,6,Float,1000
+MNS.UST.twUMPNA3.T04,101,String,"МНА №3. Время, до выдачи команды «Включить ВВ», необходимое для отработки исполнительного механизма САР во время работы рамповой функции"
+MNS.UST.twUMPNA3.T04,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(34792) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.UST.twUMPNA3.T05,1, UInt4, 9
+MNS.UST.twUMPNA3.T05,6,Float,1000
+MNS.UST.twUMPNA3.T05,101,String,"МНА №3. Время на открытие выкидной задвижки перед выдачей команды на включение НА по программе пуска №2"
+MNS.UST.twUMPNA3.T05,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(34793) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.UST.twUMPNA3.T06,1, UInt4, 9
+MNS.UST.twUMPNA3.T06,6,Float,1000
+MNS.UST.twUMPNA3.T06,101,String,"МНА №3. Контрольное время на выполнение процесса включение ВВ НА"
+MNS.UST.twUMPNA3.T06,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(34794) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.UST.twUMPNA3.T07,1, UInt4, 9
+MNS.UST.twUMPNA3.T07,6,Float,1000
+MNS.UST.twUMPNA3.T07,101,String,"МНА №3. Время подъема силы тока ЭД после включения ВВ НА"
+MNS.UST.twUMPNA3.T07,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(34795) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.UST.twUMPNA3.T08,1, UInt4, 9
+MNS.UST.twUMPNA3.T08,6,Float,1000
+MNS.UST.twUMPNA3.T08,101,String,"МНА №3. Время полного хода выкидной задвижки НА (используется в алгоритме включения и отключения НА по программе пуска №2)"
+MNS.UST.twUMPNA3.T08,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(34796) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.UST.twUMPNA3.T09,1, UInt4, 9
+MNS.UST.twUMPNA3.T09,6,Float,1000
+MNS.UST.twUMPNA3.T09,101,String,"МНА №3. Время нестационарного режима работы ЭД при пуске"
+MNS.UST.twUMPNA3.T09,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(34797) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.UST.twUMPNA3.T10,1, UInt4, 9
+MNS.UST.twUMPNA3.T10,6,Float,1000
+MNS.UST.twUMPNA3.T10,101,String,"МНА №3. Время, перед выдачей команды повторного отключения ВВ при невыполнении программы остановки"
+MNS.UST.twUMPNA3.T10,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(34798) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.UST.twUMPNA3.T11,1, UInt4, 9
+MNS.UST.twUMPNA3.T11,6,Float,1000
+MNS.UST.twUMPNA3.T11,101,String,"МНА №3. Контрольное время на выполнение процесса отключения ВВ НА"
+MNS.UST.twUMPNA3.T11,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(34799) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.UST.twUMPNA3.T12,1, UInt4, 9
+MNS.UST.twUMPNA3.T12,6,Float,1000
+MNS.UST.twUMPNA3.T12,101,String,"МНА №3. Время снижения силы тока ЭД после отключения ВВ НА"
+MNS.UST.twUMPNA3.T12,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(34800) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.UST.twUMPNA3.T13,1, UInt4, 9
+MNS.UST.twUMPNA3.T13,6,Float,1000
+MNS.UST.twUMPNA3.T13,101,String,"МНА №3. Время фильтрации сигналов цепей включения и отключения"
+MNS.UST.twUMPNA3.T13,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(34801) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.UST.twUMPNA3.T14,1, UInt4, 9
+MNS.UST.twUMPNA3.T14,6,Float,1000
+MNS.UST.twUMPNA3.T14,101,String,"МНА №3. Длительность нестационарного режима работы насоса"
+MNS.UST.twUMPNA3.T14,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(34802) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.UST.twUMPNA3.T98,1, UInt4, 9
+MNS.UST.twUMPNA3.T98,6,Float,1000
+MNS.UST.twUMPNA3.T98,101,String,"МНА №3. Задержка на снятие готовности по отсутствию напряжения 10кВ в двигательной ячейке"
+MNS.UST.twUMPNA3.T98,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(34805) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.UST.twUMPNA3.T99,1, UInt4, 9
+MNS.UST.twUMPNA3.T99,6,Float,1000
+MNS.UST.twUMPNA3.T99,101,String,"МНА №3. Задержка на снятие готовности по отсутствию напряжения в цепях управления агрегатных задвижек"
+MNS.UST.twUMPNA3.T99,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(34806) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.UST.twUMPNA4.T01,1, UInt4, 9
+MNS.UST.twUMPNA4.T01,6,Float,1000
+MNS.UST.twUMPNA4.T01,101,String,"МНА №4. Время на проверку корректности состояния цепей контроля ВВ НА"
+MNS.UST.twUMPNA4.T01,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(34808) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.UST.twUMPNA4.T02,1, UInt4, 9
+MNS.UST.twUMPNA4.T02,6,Float,1000
+MNS.UST.twUMPNA4.T02,101,String,"МНА №4. Время удержания команды «Включить ВВ», при получении включенного состояния ВВ"
+MNS.UST.twUMPNA4.T02,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(34809) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.UST.twUMPNA4.T03,1, UInt4, 9
+MNS.UST.twUMPNA4.T03,6,Float,1000
+MNS.UST.twUMPNA4.T03,101,String,"МНА №4. Максимальное время удержания команды «Отключить ВВ»"
+MNS.UST.twUMPNA4.T03,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(34810) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.UST.twUMPNA4.T04,1, UInt4, 9
+MNS.UST.twUMPNA4.T04,6,Float,1000
+MNS.UST.twUMPNA4.T04,101,String,"МНА №4. Время, до выдачи команды «Включить ВВ», необходимое для отработки исполнительного механизма САР во время работы рамповой функции"
+MNS.UST.twUMPNA4.T04,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(34811) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.UST.twUMPNA4.T05,1, UInt4, 9
+MNS.UST.twUMPNA4.T05,6,Float,1000
+MNS.UST.twUMPNA4.T05,101,String,"МНА №4. Время на открытие выкидной задвижки перед выдачей команды на включение НА по программе пуска №2"
+MNS.UST.twUMPNA4.T05,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(34812) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.UST.twUMPNA4.T06,1, UInt4, 9
+MNS.UST.twUMPNA4.T06,6,Float,1000
+MNS.UST.twUMPNA4.T06,101,String,"МНА №4. Контрольное время на выполнение процесса включение ВВ НА"
+MNS.UST.twUMPNA4.T06,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(34813) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.UST.twUMPNA4.T07,1, UInt4, 9
+MNS.UST.twUMPNA4.T07,6,Float,1000
+MNS.UST.twUMPNA4.T07,101,String,"МНА №4. Время подъема силы тока ЭД после включения ВВ НА"
+MNS.UST.twUMPNA4.T07,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(34814) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.UST.twUMPNA4.T08,1, UInt4, 9
+MNS.UST.twUMPNA4.T08,6,Float,1000
+MNS.UST.twUMPNA4.T08,101,String,"МНА №4. Время полного хода выкидной задвижки НА (используется в алгоритме включения и отключения НА по программе пуска №2)"
+MNS.UST.twUMPNA4.T08,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(34815) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.UST.twUMPNA4.T09,1, UInt4, 9
+MNS.UST.twUMPNA4.T09,6,Float,1000
+MNS.UST.twUMPNA4.T09,101,String,"МНА №4. Время нестационарного режима работы ЭД при пуске"
+MNS.UST.twUMPNA4.T09,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(34816) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.UST.twUMPNA4.T10,1, UInt4, 9
+MNS.UST.twUMPNA4.T10,6,Float,1000
+MNS.UST.twUMPNA4.T10,101,String,"МНА №4. Время, перед выдачей команды повторного отключения ВВ при невыполнении программы остановки"
+MNS.UST.twUMPNA4.T10,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(34817) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.UST.twUMPNA4.T11,1, UInt4, 9
+MNS.UST.twUMPNA4.T11,6,Float,1000
+MNS.UST.twUMPNA4.T11,101,String,"МНА №4. Контрольное время на выполнение процесса отключения ВВ НА"
+MNS.UST.twUMPNA4.T11,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(34818) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.UST.twUMPNA4.T12,1, UInt4, 9
+MNS.UST.twUMPNA4.T12,6,Float,1000
+MNS.UST.twUMPNA4.T12,101,String,"МНА №4. Время снижения силы тока ЭД после отключения ВВ НА"
+MNS.UST.twUMPNA4.T12,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(34819) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.UST.twUMPNA4.T13,1, UInt4, 9
+MNS.UST.twUMPNA4.T13,6,Float,1000
+MNS.UST.twUMPNA4.T13,101,String,"МНА №4. Время фильтрации сигналов цепей включения и отключения"
+MNS.UST.twUMPNA4.T13,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(34820) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.UST.twUMPNA4.T14,1, UInt4, 9
+MNS.UST.twUMPNA4.T14,6,Float,1000
+MNS.UST.twUMPNA4.T14,101,String,"МНА №4. Длительность нестационарного режима работы насоса"
+MNS.UST.twUMPNA4.T14,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(34821) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.UST.twUMPNA4.T98,1, UInt4, 9
+MNS.UST.twUMPNA4.T98,6,Float,1000
+MNS.UST.twUMPNA4.T98,101,String,"МНА №4. Задержка на снятие готовности по отсутствию напряжения 10кВ в двигательной ячейке"
+MNS.UST.twUMPNA4.T98,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(34824) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"
+MNS.UST.twUMPNA4.T99,1, UInt4, 9
+MNS.UST.twUMPNA4.T99,6,Float,1000
+MNS.UST.twUMPNA4.T99,101,String,"МНА №4. Задержка на снятие готовности по отсутствию напряжения в цепях управления агрегатных задвижек"
+MNS.UST.twUMPNA4.T99,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(34825) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TM2) Signed=(True) Category=()}"

@@ -1,0 +1,7 @@
+! Sort items count
+2
+! Sort columns. One per line
+Type, Ascending
+Tag Name, Ascending
+!
+! ===== End of List ====

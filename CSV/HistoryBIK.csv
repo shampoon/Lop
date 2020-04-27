@@ -1,0 +1,24 @@
+;
+; HistoricalTag
+;
+Item Reference,Scan Rate,Deadband,Enabled
+"Channel.MNS.BIK.Density",1000,0.000000,1,
+"Channel.MNS.BIK.dP",1000,0.000000,1,
+"Channel.MNS.BIK.Flow",1000,0.000000,1,
+"Channel.MNS.BIK.P",1000,0.000000,1,
+"Channel.MNS.BIK.Pipe.Density",1000,0.000000,1,
+"Channel.MNS.BIK.Pipe.Density.T15",1000,0.000000,1,
+"Channel.MNS.BIK.Pipe.Density.T20",1000,0.000000,1,
+"Channel.MNS.BIK.Pipe.P",1000,0.000000,1,
+"Channel.MNS.BIK.Pipe.T",1000,0.000000,1,
+"Channel.MNS.BIK.Pipe.ViscosityK",1000,0.000000,1,
+"Channel.MNS.BIK.Pipe.ViscosityK.T15",1000,0.000000,1,
+"Channel.MNS.BIK.Pipe.ViscosityK.T20",1000,0.000000,1,
+"Channel.MNS.BIK.Pump.P",1000,0.000000,1,
+"Channel.MNS.BIK.T",1000,0.000000,1,
+"Channel.MNS.BIK.Tair",1000,0.000000,1,
+"Channel.MNS.BIK.Tuso",1000,0.000000,1,
+"Channel.MNS.BIK.ViscosityD",1000,0.000000,1,
+"Channel.MNS.BIK.ViscosityK",1000,0.000000,1,
+"Channel.MNS.BIK.Water.M",1000,0.000000,1,
+"Channel.MNS.BIK.Water.V",1000,0.000000,1,

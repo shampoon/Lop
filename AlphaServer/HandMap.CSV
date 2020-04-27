@@ -1,0 +1,36 @@
+MNS.ManCard.AVR.1,1, UInt4, 5
+MNS.ManCard.AVR.1,6,Float,1000
+MNS.ManCard.AVR.1,101,String,"Резерв при аварии.ПНА №036.1"
+MNS.ManCard.AVR.1,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(7429) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(0) Category=()}"
+MNS.ManCard.AVR.2,1, UInt4, 5
+MNS.ManCard.AVR.2,6,Float,1000
+MNS.ManCard.AVR.2,101,String,"Резерв при аварии.ПНА №036.2"
+MNS.ManCard.AVR.2,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(7429) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(1) Category=()}"
+MNS.ManCard.AVR.3,1, UInt4, 5
+MNS.ManCard.AVR.3,6,Float,1000
+MNS.ManCard.AVR.3,101,String,"Резерв при аварии.ПНА №036.3"
+MNS.ManCard.AVR.3,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(7429) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(2) Category=()}"
+MNS.ManCard.AVR.4,1, UInt4, 5
+MNS.ManCard.AVR.4,6,Float,1000
+MNS.ManCard.AVR.4,101,String,"Резерв при аварии.ПНА №036.4"
+MNS.ManCard.AVR.4,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(7429) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(3) Category=()}"
+MNS.ManCard.Curr.1,1, UInt4, 5
+MNS.ManCard.Curr.1,6,Float,1000
+MNS.ManCard.Curr.1,101,String,"Контроль по току.ПНА №036.1"
+MNS.ManCard.Curr.1,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(7430) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(0) Category=()}"
+MNS.ManCard.Curr.2,1, UInt4, 5
+MNS.ManCard.Curr.2,6,Float,1000
+MNS.ManCard.Curr.2,101,String,"Контроль по току.ПНА №036.2"
+MNS.ManCard.Curr.2,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(7430) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(1) Category=()}"
+MNS.ManCard.Curr.3,1, UInt4, 5
+MNS.ManCard.Curr.3,6,Float,1000
+MNS.ManCard.Curr.3,101,String,"Контроль по току.ПНА №036.3"
+MNS.ManCard.Curr.3,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(7430) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(2) Category=()}"
+MNS.ManCard.Curr.4,1, UInt4, 5
+MNS.ManCard.Curr.4,6,Float,1000
+MNS.ManCard.Curr.4,101,String,"Контроль по току.ПНА №036.4"
+MNS.ManCard.Curr.4,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(7430) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(3) Category=()}"
+MNS.ManCard.UTS.1,1, UInt4, 5
+MNS.ManCard.UTS.1,6,Float,1000
+MNS.ManCard.UTS.1,101,String,"Включение звонка 'Авария' ССН в шкафу ССН.БРУ"
+MNS.ManCard.UTS.1,5000,String,"{ModuleId=(MBTCP) Protocol=(ModbusTCP) Station=(1) Address=(7431) Table=(Holding Registers) Type=(Protocol) ProtocolType=(TS) BitPosition=(0) Category=()}"

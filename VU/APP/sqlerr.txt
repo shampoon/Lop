@@ -1,0 +1,36 @@
+!  Network errors for ODBC drivers
+!  Any error received from an ODBC driver that indicates a lost connection 
+!  should go here.  
+!
+!  If it's a single code, there should be a single number on the line.
+!  If using a range, should be 2 numbers seperated by a comma, low number 1st.
+!
+!  There can be a maximum combination of 100 single errors and ranges
+!  (combined)
+!
+!  This file should be placed in the Application ( eg c:\dynamics\app ) directory
+!  of the Dynamics system.  If the driver does not have a problem with 
+!  determining network errors, this file is not needed.
+!
+!	  General SQL*net errors (Version 1.x) for Oracle
+6000,6499
+!
+!	  Two-task interface errors (SQL*net version 1.x) for Oracle
+3100,3199
+!
+!         TNS-unable to connect error    	
+!
+12203
+!
+!	SQL Server network cable break error
+53
+472
+1012
+1089
+1559
+6550
+10005,10025
+10054
+!  ConnectionWrite()
+59
+
